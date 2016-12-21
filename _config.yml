@@ -9,7 +9,7 @@ name: Lineage OS
 description: Lineage OS Android Distribution
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/identicons/lineageos.png
+avatar: /images/android.png
 
 #
 # Flags below are optional
