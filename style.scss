@@ -283,6 +283,26 @@ footer {
   text-align: center;
 }
 
+.community_wrapper {
+  background-color: $lightGray;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.community_wrapper h1 {
+  padding: 0px 0px 0px 0px;
+}
+.community_section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: none;
+  width: 100%;
+}
+.community_header {
+}
+.community_item {
+  padding: 0px 20px 40px 20px;
+  flex-grow: 2;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
