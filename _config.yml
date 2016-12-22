@@ -17,17 +17,17 @@ description: Lineage OS Android Distribution
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: lineageandroid
   flickr:
-  github: lineageos/android
+  github: lineageos
   instagram:
   linkedin:
   pinterest:
   rss: true # just type anything here for a working RSS icon
-  twitter: 
+  twitter: lineageandroid
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 109462427896521371620 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
