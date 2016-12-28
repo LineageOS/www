@@ -26,7 +26,6 @@ Certain information (e.g. a device unique anonymized ID, device model, etc.) is 
  - The version of our software installed
  - The country the device registered from
  - The carrier the device is actively registered to
- - Opt-out status
 
 2. Information we store from the contributions to our code review platform (Gerrit)
  - Email addresses for registration and to facilitate review
