@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a23299d_39d10bce",
+        "filename": "legal.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-28T23:42:08Z",
+      "side": 1,
+      "message": "I think we don\u0027t need the \u0027an\u0027 here.",
+      "revId": "1a1f0adb24521a67d8bb80aaa33969f6efe26a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
