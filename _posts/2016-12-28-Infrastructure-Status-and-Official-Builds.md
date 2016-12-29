@@ -8,7 +8,7 @@ author: zifnab
 
 We're working on getting everything operational and would like to thank everyone who's reached out offering assistance. 
 
-If you haven't heard back from us, you should be in the next week or so. 
+If you haven't heard back from us, you should in the next week or so. 
 
 Current needs: 
 
