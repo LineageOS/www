@@ -16,6 +16,24 @@
       "revId": "1a1f0adb24521a67d8bb80aaa33969f6efe26a3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_9c47ed4b",
+        "filename": "legal.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-12-29T02:22:28Z",
+      "side": 1,
+      "message": "\"an after-market operating system\" is grammatically correct",
+      "parentUuid": "7a23299d_39d10bce",
+      "revId": "1a1f0adb24521a67d8bb80aaa33969f6efe26a3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
