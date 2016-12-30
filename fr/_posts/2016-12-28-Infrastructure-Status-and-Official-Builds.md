@@ -1,14 +1,14 @@
 * * *
 
-layout: post title: Infrastructure Status & Official Builds category: blog excerpt: Build slaves, mirrors, and builds author: zifnab
+layout: post title: Statut de l'infrastructure & Versions Officielles category: blog excerpt: Build slaves, miroirs, et builds author: zifnab
 
 * * *
 
-We're working on getting everything operational and would like to thank everyone who's reached out offering assistance.
+Nous travaillons à rendre tout opérationnel et nous souhaitons remercier toutes les personnes offrant leur aide.
 
-If you haven't heard back from us, you should in the next week or so.
+Si vous n’avez pas entendu parler de nous, vous devriez dans les prochaines semaines.
 
-Current needs:
+Besoins actuels :
 
 * Build Slaves 
   * Must be able to finish (and upload) `make clean && make dist` within an hour, and be capable of running docker. 
@@ -19,8 +19,8 @@ Current needs:
 
 Please contact <infra@lineageos.org> if you are willing to provide either build slaves or build mirrors.
 
-As a reminder: we have not started doing official builds yet. One of the benefits of this being an open source project is that anyone can build it, but please be careful flashing builds you've downloaded from other sources. We will have some more information on when weeklies (or possibly nightlies) will be starting soon.
+Rappel : nous n'avons pas commencé à faire des versions officielles. Un des avantages de ce qui est un projet open source est que n’importe qui peut le construire, mais s’il vous plaît soyez prudent aux versions que vous avez téléchargé à partir d’autres sources. Nous aurons plus d'informations sur la disponibilité des versions hebdomadaires (ou éventuellement quotidiennes) prochainement.
 
 Merci !
 
-Équipe LineageOS
+L'Équipe de LineageOS
