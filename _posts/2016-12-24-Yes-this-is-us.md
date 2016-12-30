@@ -1,8 +1,10 @@
-* * *
 
-layout: post title: Oui, c'est nous. category: blog excerpt: Nous n'allons nulle part.
-
-* * *
+---
+layout: post
+title: Oui, c'est nous.
+category: blog
+excerpt: Nous n'allons nulle part.
+---
 
 Vous avez probablement lu les articles de presse aujourd'hui. Si ce n'est pas le cas, veuillez lire ce qui suit:
 

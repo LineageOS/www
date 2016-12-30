@@ -1,8 +1,8 @@
-* * *
-
-layout: page title: A propos permalink: /about/
-
-* * *
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 ## Lin·e·age
 
