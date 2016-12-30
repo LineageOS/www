@@ -13,11 +13,11 @@ Besoins actuels :
 * Build Slaves 
   * Vous devez être capable de finir (et d'upload) `make clean && make dist` en moins d'une heure , et d’être capable de faire tourner docker. 
 * Mirroir 
-  * Minimum 100mbit network connectivity, 1gbit preferred. 
-  * Minimum 500GB storage space. 
-  * As a note, we'd prefer non-capped connections with static IPs, and they must be in some sort of professional hosting company (ie, datacenter, colocation facility, ISP, university, etc). While we appreciate the offers from people with gigabit at home, it's slightly too hard to manage. 
+  * Avoir au minimum une connexion 100mo. 1go préféré. 
+  * Avoir minimum 500GB de stockage. 
+  * NB: nous préférerions les connexions sans restriction avec des adresses IP statiques, et ils doivent être dans une sorte de société d'hébergement professionnelle (datacenter, colocation, ISP, université, etc). Tandis que nous apprécions les offres des gens avec le gigabit à la maison, c'est un peu difficile de se débrouiller. 
 
-Please contact <infra@lineageos.org> if you are willing to provide either build slaves or build mirrors.
+S'il vous plaît contactez <infra@lineageos.org> si vous êtes prêt à fournir soit des build slaves ou des mirroirs.
 
 Rappel : nous n'avons pas commencé à faire des versions officielles. Un des avantages de ce qui est un projet open source est que n’importe qui peut le construire, mais s’il vous plaît soyez prudent aux versions que vous avez téléchargé à partir d’autres sources. Nous aurons plus d'informations sur la disponibilité des versions hebdomadaires (ou éventuellement quotidiennes) prochainement.
 
