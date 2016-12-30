@@ -1,28 +1,26 @@
----
-layout: post
-title: Infrastructure Status & Official Builds
-category: blog
-excerpt: Build slaves, mirrors, and builds
-author: zifnab
----
+* * *
 
-We're working on getting everything operational and would like to thank everyone who's reached out offering assistance. 
+layout: post title: Statut de l'infrastructure & Versions Officielles category: blog excerpt: Build slaves, miroirs, et builds author: zifnab
 
-If you haven't heard back from us, you should in the next week or so. 
+* * *
 
-Current needs: 
+Nous travaillons à rendre tout opérationnel et nous souhaitons remercier toutes les personnes offrant leur aide.
 
-* Build Slaves
-  * Must be able to finish (and upload) `make clean && make dist` within an hour, and be capable of running docker. 
-* Build Mirrors
-  * Minimum 100mbit network connectivity, 1gbit preferred. 
-  * Minimum 500GB storage space. 
-  * As a note, we'd prefer non-capped connections with static IPs, and they must be in some sort of professional hosting company (ie, datacenter, colocation facility, ISP, university, etc). While we appreciate the offers from people with gigabit at home, it's slightly too hard to manage.  
+Si vous n’avez pas entendu parler de nous, vous devriez dans les prochaines semaines.
 
-Please contact [infra@lineageos.org](mailto:infra@lineageos.org) if you are willing to provide either build slaves or build mirrors. 
+Besoins actuels :
 
-As a reminder: we have not started doing official builds yet. One of the benefits of this being an open source project is that anyone can build it, but please be careful flashing builds you've downloaded from other sources. We will have some more information on when weeklies (or possibly nightlies) will be starting soon. 
+* Build Slaves 
+  * Vous devez être capable de finir (et d'upload) `make clean && make dist` en moins d'une heure , et d’être capable de faire tourner docker. 
+* Mirroir 
+  * Avoir au minimum une connexion 100mo. 1go préféré. 
+  * Avoir minimum 500GB de stockage. 
+  * NB: nous préférerions les connexions sans restriction avec des adresses IP statiques, et ils doivent être dans une sorte de société d'hébergement professionnelle (datacenter, colocation, ISP, université, etc). Tandis que nous apprécions les offres des gens avec le gigabit à la maison, c'est un peu difficile de se débrouiller. 
 
-Thanks!
+S'il vous plaît contactez <infra@lineageos.org> si vous êtes prêt à fournir soit des build slaves ou des mirroirs.
 
-LineageOS Team
+Rappel : nous n'avons pas commencé à faire des versions officielles. Un des avantages de ce qui est un projet open source est que n’importe qui peut le construire, mais s’il vous plaît soyez prudent aux versions que vous avez téléchargé à partir d’autres sources. Nous aurons plus d'informations sur la disponibilité des versions hebdomadaires (ou éventuellement quotidiennes) prochainement.
+
+Merci !
+
+L'Équipe de LineageOS

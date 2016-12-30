@@ -1,30 +1,23 @@
 ---
-- name: Contribute
+- 
+  name: Contribute
   data:
-  - name: Gerrit
-    text: Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system.
-    url: http://review.lineageos.org
-  - name: Wiki (Coming Soon)
-    text:  Our wiki is always looking for editors. If you enjoy writing clear and concise guides, tutorials, or documentation we need you!
-    url: \#
-- name: Support
-  data:
-  - name: IRC
-    text: If you are comfortable with IRC and would like instant help and assistance from both developers and others users alike.
-    url: https://webchat.freenode.net/?channels=lineageos
-  - name: reddit
-    text: For discussions regarding devices, features, or just general android talk, check out out our subreddit. 
-    url: https://reddit.com/r/lineageos
-    #  - name: Wiki (Coming Soon)
-    #    text: Our Wiki is a comprehensive tool for users to find information. This also needs contributions to keep it fresh and relevant.
-    #    url: \#
-#- name: Contact
-#  data:
-#  - name: Bug Tracker (Coming Soon)
-#    text: Found an issue? Report it here!
-#    url: \#
-#  - name: Developer Relations
-#    text: If you wish to contact us regarding development contributions, please do so here.
-#    url: mailto:devrel@lineageos.org
-#  - name: Social Media
-#    text: Find us on social media in the footer of this page!
+    - 
+      name: Gerrit
+      text: Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system.
+      url: 'http://review.lineageos.org'
+    - 
+      name: Wiki (Prochainement)
+      text: Our wiki is always looking for editors. If you enjoy writing clear and concise guides, tutorials, or documentation we need you!
+      url: '\#'
+  0:
+    name: Support
+    data:
+      - 
+        name: IRC
+        text: If you are comfortable with IRC and would like instant help and assistance from both developers and others users alike.
+        url: 'https://webchat.freenode.net/?channels=lineageos'
+      - 
+        name: reddit
+        text: For discussions regarding devices, features, or just general android talk, check out out our subreddit.
+        url: 'https://reddit.com/r/lineageos'
