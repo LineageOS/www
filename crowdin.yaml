@@ -1,5 +1,5 @@
 files:
-  - source: /*.md
+  - source: /*
     translation: '%original_file_name%'
-  - source: '*/*.md'
+  - source: '*/*'
     translation: '%original_path%/%original_file_name%'
