@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Statut de l'infrastructure & Versions Officielles 

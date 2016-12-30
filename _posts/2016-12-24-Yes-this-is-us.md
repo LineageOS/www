@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Oui, c'est nous.
