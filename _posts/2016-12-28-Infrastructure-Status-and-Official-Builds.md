@@ -1,8 +1,11 @@
-* * *
 
-layout: post title: Statut de l'infrastructure & Versions Officielles category: blog excerpt: Build slaves, miroirs, et builds author: zifnab
-
-* * *
+---
+layout: post
+title:  Statut de l'infrastructure & Versions Officielles 
+category: blog
+excerpt: Build slaves, miroirs, et builds
+author: zifnab
+---
 
 Nous travaillons à rendre tout opérationnel et nous souhaitons remercier toutes les personnes offrant leur aide.
 
