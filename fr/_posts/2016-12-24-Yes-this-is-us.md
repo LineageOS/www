@@ -4,7 +4,7 @@ layout: post title: Oui, c'est nous. category: blog excerpt: Nous n'allons nulle
 
 * * *
 
-You've probably read the news articles today. If you haven't, please see the following:
+Vous avez probablement lu les articles de presse aujourd'hui. Si ce n'est pas le cas, veuillez lire ce qui suit:
 
 <https://cyngn.com/blog/cyanogen-services-shutting-down>
 
