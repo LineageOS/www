@@ -21,6 +21,6 @@ Please contact <infra@lineageos.org> if you are willing to provide either build 
 
 As a reminder: we have not started doing official builds yet. One of the benefits of this being an open source project is that anyone can build it, but please be careful flashing builds you've downloaded from other sources. We will have some more information on when weeklies (or possibly nightlies) will be starting soon.
 
-Thanks!
+Merci !
 
-LineageOS Team
+Équipe LineageOS
