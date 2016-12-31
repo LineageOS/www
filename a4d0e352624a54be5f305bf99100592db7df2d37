@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1d315d_7a889122",
+        "filename": "_data/community.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-31T05:45:50Z",
+      "side": 1,
+      "message": "I think we might as well remove the whitespace at the end?",
+      "revId": "a4d0e352624a54be5f305bf99100592db7df2d37",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
