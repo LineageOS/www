@@ -1,4 +1,6 @@
-![Lineage OS Logo](https://raw.githubusercontent.com/LineageOS/www/master/images/logo.png =100)
+<a href="https://lineageos.org">
+  <img src="https://raw.githubusercontent.com/LineageOS/www/master/images/logo.png" alt="Lineage OS Logo" width="100"></img>
+</a>
 # [Lineage OS](https://lineageos.org)
 ##### Lineage OS Android Distribution
 
