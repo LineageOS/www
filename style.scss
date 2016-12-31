@@ -87,7 +87,6 @@ a {
 
 ul, ol {
   margin: 15px 0;
-  padding-left: 30px;
 }
 
 ul {
@@ -159,8 +158,7 @@ img {
 //
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  padding: 20px 0px 10px 0px;
 
   @include mobile {
     text-align: center;
@@ -296,7 +294,6 @@ footer {
 .community_wrapper {
   background-color: $lightGray;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
 }
 .community_wrapper h1 {
   padding: 0px 0px 0px 0px;
@@ -313,6 +310,56 @@ footer {
   padding: 0px 20px 40px 20px;
   flex-grow: 2;
 }
+
+.nav-parent {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-bottom: 1px solid $lightGray;
+    font-family: $helveticaNeue;
+    font-size: 16px;
+}
+.main-child {
+    display: block;
+    padding: 10px;
+    float: left;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.main-child:hover {
+    background: #ddd;
+}
+.dropdown-parent {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -10px;
+    background: #f5f5f5;
+    min-width: 130px;
+    list-style: none;
+    font-family: $helveticaNeue;
+    font-size: 16px;
+}
+.dropdown-child {
+    padding: 5px;
+    padding-left: 10px;
+    display: none;
+    min-width: 100px;
+}
+.main-child:hover .dropdown-child {
+    display: block;
+}
+
+.dropdown-child:hover {
+    background: #ddd;
+}
+
+.nav-link {
+  color: $darkGray;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
