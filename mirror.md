@@ -57,3 +57,4 @@ Please send an email to [infra@lineageos.org](mailto:infra@lineageos.org) with t
 * Admin contact information, including name and email (this remains private)
 * Sponsor information, including name, a link, and a logo (this information will be made public). 
 * Available bandwidth, for load balancing. 
+* rsync & https endpoints
