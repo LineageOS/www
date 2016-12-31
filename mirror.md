@@ -48,6 +48,9 @@ Example nginx configuration:
         root /data/mirror;
     }
 
+Example mirroring crontab: 
+
+    */15 * * * * * rsync -avh --delete rsync://mirror-sync.lineageos.org/mirror /path/to/your/mirror/folder
 
 ### Interested in helping?
 
