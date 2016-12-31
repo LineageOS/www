@@ -58,3 +58,5 @@ Please send an email to [infra@lineageos.org](mailto:infra@lineageos.org) with t
 * Sponsor information, including name, a link, and a logo (this information will be made public). 
 * Available bandwidth, for load balancing. 
 * rsync & https endpoints
+
+Alternatively, we are not opposed to managing this infrastructure ourselves. If that's the case, please email the above address. 
