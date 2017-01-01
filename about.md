@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
@@ -8,9 +8,7 @@ permalink: /about/
 
 ### /ˈlinēij/
 
-#### _noun_
+#### *nom*
 
-
-1. lineal descent from an ancestor; ancestry or pedigree. 
-2. a sequence of species each of which is considered to have evolved from its predecessor. 
-
+  1. ensemble des générations qui ont précédé une génération donnée. 
+  2. série d'individus comprenant un être et ses ascendants des générations précédentes aussi loin que l'on peut remonter.
