@@ -3,6 +3,13 @@ layout: page
 title: Legal
 permalink: /legal/
 ---
+<style>
+#legal {
+    pointer-events: none;
+    cursor: default;
+    font-weight: bold;
+}
+</style>
 
 ## Terms of Service
 

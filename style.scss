@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+    background: $white;
+  font: 18px/1.4 $roboto;
   color: $darkGray;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -39,12 +39,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 0 15px; /*top-rl-bottom*/
   padding: 0;
 
   @include mobile {
@@ -77,11 +76,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $teal !important;
   text-decoration: none;
-	cursor: pointer;
+    cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $lightTeal !important;
   }
 }
 
@@ -159,16 +158,26 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  background-color: $teal;
+  margin-bottom: 15px;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  display: flex;
+  align-items: center;
+  width: inherit;
+}
 
-  @include mobile {
-    text-align: center;
-  }
+#home-click {
+    display: inline-flex;
+    align-items:center;
+}
+
+.mobile-menu {
+    height: 40px;
+    display: inline-flex;
+    align-items:center;
 }
 
 .site-avatar {
@@ -200,9 +209,8 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
-  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -219,9 +227,7 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  margin-left: auto;
   font-size: 16px;
 
   @include mobile {
@@ -233,7 +239,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $white !important;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -243,6 +249,56 @@ nav {
       color: $blue;
     }
   }
+}
+
+.nav-mobile {
+    display: none;
+    @include mobile {
+        margin-left: auto;
+        position: relative;
+        display: inline-block;
+        text-align: right;
+
+        img {
+            height: 40px;
+        }
+    }
+}
+
+#menu-items {
+    display: none;
+    position: absolute;
+    background-color: $white;
+    right: 0;
+    color: #167C80;
+    border: 0.5px solid #167C80;
+    border-radius: 3px;
+    padding: 10px;
+
+    a {
+        color: black;
+        display: block;
+    }
+}
+
+.nav-mobile:hover #menu-items {
+    display: block;
+}
+
+.menu-items {
+    display: none;
+    position: absolute;
+}
+
+.nav-mobile:hover .menu-items {
+    display: block;
+}
+
+.nav-desktop {
+    display: block;
+    @include mobile {
+        display: none;
+    }
 }
 
 //
@@ -280,27 +336,54 @@ nav {
   }
 
   .read-more {
+    display: inline-block;
     text-transform: uppercase;
     font-size: 15px;
+    color: #167C80;
+    border: 0.5px solid #167C80;
+    border-radius: 3px;
+    padding: 10px;
+
+    &:hover, &:active {
+        color: $white !important;
+        background-color: $teal;
+    }
   }
 }
 
+.entry {
+    margin-bottom: 15px;
+}
+
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #212121;
+  margin-top: 15px;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+
+  span {
+    font: inherit;
+    font-size: 12px;
+    color: #757575;
+  }
+
+  .icons-wrapper {
+    display: inline-flex;
+    align-items:center;
+
+    img {
+    height: 20px;
+    margin-left: 20px;
+    }
+
+  }
 }
 
 .community_wrapper {
   background-color: $lightGray;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
 }
 .community_wrapper h1 {
   padding: 0px 0px 0px 0px;
