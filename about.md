@@ -3,6 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+#about { 
+	pointer-events: none; 
+	cursor: default; 
+	font-weight: bold;
+}
+</style>
 
 ## Lin·e·age
 
