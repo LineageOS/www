@@ -12,7 +12,6 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" href="/images/logo.png">
-
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -20,20 +19,34 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{site.baseurl}}/images/logo.png" /></a>
+		
+			<a href="{{ site.baseurl }}/" id="home-click">
+				<img class="site-avatar" src="{{site.baseurl}}/images/logo.png"/>
+				<h1 class="site-name">{{ site.name }}</h1>
+			</a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+			<!--desktop-->
+            <nav class="nav-desktop">
+				<a id="blog" href="{{ site.baseurl }}/">Blog</a>
+				<a id="about" href="{{ site.baseurl }}/about">About</a>
+				<a id="community" href="{{ site.baseurl }}/community">Community</a>
+				<a href="http://status.lineageos.org">Status</a>
+				<a id="legal" href="{{ site.baseurl }}/legal">Legal</a>
+            </nav>
+		  
+		    <!--mobile-->
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/community">Community</a>
-            <a href="http://status.lineageos.org">Status</a>
-            <a href="{{ site.baseurl }}/legal">Legal</a>
-          </nav>
+			<div class="nav-mobile">
+				<img src="/images/menu.png"/>
+				<div id="menu-items">
+					<a id="blog" href="{{ site.baseurl }}/">Blog</a>
+					<a id="about" href="{{ site.baseurl }}/about">About</a>
+					<a id="community" href="{{ site.baseurl }}/community">Community</a>
+					<a href="http://status.lineageos.org">Status</a>
+					<a id="legal" href="{{ site.baseurl }}/legal">Legal</a>
+				</div>
+			</div>
+		  
         </header>
       </div>
     </div>
@@ -45,9 +58,16 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
-	  <br /><br />
-          (c) 2016 LineageOS Project <br />We are currently not accepting monetary donations. This message will be removed when there is an official method to help fund the project.
+		  <div class="icons-wrapper">
+			<a href="https://www.facebook.com/lineageandroid"><img style="margin-left: 0;" src="/images/icons/facebook.png"/></a>
+			<a href="https://github.com/lineageos"><img src="/images/icons/github.png"/></a>
+			<a href="http://lineageos.org/feed.xml"><img src="/images/icons/feed.png"/></a>
+			<a href="https://www.twitter.com/lineageandroid"><img src="/images/icons/twitter.png"/></a>
+			<a href="https://plus.google.com/113897076738126120764"><img src="/images/icons/google.png"/></a>
+		  </div>
+		  <br />
+          <span>© 2016 LineageOS Project • We are currently not accepting monetary donations. This message will be removed when there is an official method to help fund the project.</span>
+		</footer>
       </div>
     </div>
 
