@@ -7,10 +7,7 @@ layout: default
 
   <div class="entry">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+	  <span class="date">Written on {{ page.date | date: "%B %e, %Y" }}</span>
   </div>
 
   {% include disqus.html %}
