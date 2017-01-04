@@ -15,7 +15,7 @@ Current needs:
 * Build Slaves
   * Must be able to finish (and upload) `make clean && make dist` within an hour, and be capable of running docker. 
 * Build Mirrors
-  * Minimum 100mbit network connectivity, 1gbit preferred. 
+  * Minimum 1gbit network connectivity.
   * Minimum 500GB storage space. 
   * As a note, we'd prefer non-capped connections with static IPs, and they must be in some sort of professional hosting company (ie, datacenter, colocation facility, ISP, university, etc). While we appreciate the offers from people with gigabit at home, it's slightly too hard to manage.  
 
