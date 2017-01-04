@@ -83,3 +83,4 @@ exclude:
   - README.md
   - CNAME
   - docker-compose.yml
+  - DOCKER.md
