@@ -2,16 +2,18 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<div class="container">
+  <article class="post">
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    <h1>{{ page.title }}</h1>
+    <h6>Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}</h6>
+    <br/>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}
-  </div>
+    <div class="entry">
+      {{ content }}
+    </div>
 
-  {% include disqus.html %}
-</article>
+    {% include disqus.html %}
+
+  </article>
+</div>
