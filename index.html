@@ -2,17 +2,29 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="jumbotron">
+  <div class="container">
+
+    <h1>{{ site.description }}</h1>
+    <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
+
+  </div>
+</div>
+
+<div class="container post">
   {% for post in site.categories.blog %}
-    <article class="post">
+  <div class="card">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <div class="card-content-1">
+      <h6>{{ post.excerpt }}</h6>
+      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="index"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="fa fa-user-o fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+    </div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <div class="card-button">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-simple">Read More</a>
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+  </div>
   {% endfor %}
 </div>
