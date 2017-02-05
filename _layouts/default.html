@@ -8,49 +8,82 @@
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/material-kit.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="shortcut icon" href="/images/logo.png">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/logo.png">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
-  <body>
-    <div class="wrapper-masthead">
+  <body id="page-top">
+    <nav class="navbar navbar-transparent navbar-fixed-top">
       <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{site.baseurl}}/images/logo.png" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/community">Community</a>
-            <a href="http://status.lineageos.org">Status</a>
-            <a href="{{ site.baseurl }}/legal">Legal</a>
-          </nav>
-        </header>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed navbarButton" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">
+            <div class="navbar-brand-img">
+              <img src="{{ site.baseurl }}/images/logo-2.png" alt="LineageOS Logo">
+            </div>
+          </a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="{{ site.baseurl }}/">Blog</a></li>
+            <li><a href="{{ site.baseurl }}/about">About</a></li>
+            <li><a href="{{ site.baseurl }}/community">Community</a></li>
+            <li><a href="{{ site.baseurl }}/legal">Legal</a></li>
+            <li><a href="http://status.lineageos.org"><i class="material-icons">&#xE89E;</i> Status</a></li>
+            <li><a href="http://wiki.lineageos.org"><i class="material-icons">&#xE89E;</i> Wiki</a></li>
+          </ul>
+        </div>
       </div>
-    </div>
+    </nav>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main">
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+    <footer class="footer">
       <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-	  <br /><br />
-          (c) 2016 - {{ site.time | date: '%Y' }} LineageOS Project <br />We are currently not accepting monetary donations. This message will be removed when there is an official method to help fund the project.
+        <div class="row">
+          <div class="col-sm-6">
+            <img class="footer-img" src="{{ site.baseurl }}/images/logo-3.png" alt="LineageOS Logo">
+            <p class="text-muted">
+              <b>&copy; 2016 - {{ site.time | date: '%Y' }} LineageOS Project </b><br />
+              We are currently not accepting monetary donations. This message will be removed when there is an official method to help fund the project.
+            </p>
+          </div>
+          <div class="col-sm-6">
+            <div class="footer-icons">
+              {% include footer-icons.html %}
+            </div>
+            <p class="text-center visible-xs">
+              <a href="#page-top" class="btn btn-default btn-simple btn-fab btn-fab-mini btn-round page-scroll">
+                <i class="material-icons">&#xE316;</i>
+              </a>
+            </p>
+          </div>
+        </div>
       </div>
-    </div>
+    </footer>
 
     {% include analytics.html %}
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="{{ site.baseurl }}/assets/js/material-kit.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/material.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scroll.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.easing.min.js"></script>
   </body>
 </html>
