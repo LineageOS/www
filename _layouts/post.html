@@ -2,16 +2,24 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+ <article class="post">
+   <div class="jumbotron">
+     <div class="container">
 
-  <div class="entry">
-    {{ content }}
-  </div>
+       <h1>{{ page.title }}</h1>
+       <h6>Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}</h6>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}
-  </div>
+     </div>
+   </div>
 
-  {% include disqus.html %}
+   <div class="container post">
+     <div class="card">
+       <div class="card-content-1">
+         {{ content }}
+       </div>
+     </div>
+   </div>
+
+   {% include disqus.html %}
+
 </article>
