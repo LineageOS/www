@@ -1,0 +1,78 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a288981_bcc72312",
+        "filename": "_layouts/post.html",
+        "patchSetId": 11
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 17072
+      },
+      "writtenOn": "2017-02-08T20:54:54Z",
+      "side": 1,
+      "message": "Unnecessary tabs.",
+      "revId": "52463142c87aea9537db8cfa34d56c203f11a792",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a288981_9ccc6737",
+        "filename": "_layouts/post.html",
+        "patchSetId": 11
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 17072
+      },
+      "writtenOn": "2017-02-08T20:54:54Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "52463142c87aea9537db8cfa34d56c203f11a792",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a288981_5cd6ffc6",
+        "filename": "_layouts/post.html",
+        "patchSetId": 11
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 17072
+      },
+      "writtenOn": "2017-02-08T20:54:54Z",
+      "side": 1,
+      "message": "Same as above.",
+      "revId": "52463142c87aea9537db8cfa34d56c203f11a792",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a288981_fc4dabc5",
+        "filename": "index.html",
+        "patchSetId": 11
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 17072
+      },
+      "writtenOn": "2017-02-08T20:54:54Z",
+      "side": 1,
+      "message": "This space should be removed.",
+      "range": {
+        "startLine": 8,
+        "startChar": 15,
+        "endLine": 8,
+        "endChar": 16
+      },
+      "revId": "52463142c87aea9537db8cfa34d56c203f11a792",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
