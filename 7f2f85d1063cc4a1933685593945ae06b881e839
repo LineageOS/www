@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5a2585a7_50bb92c4",
+        "filename": "_layouts/default.html",
+        "patchSetId": 14
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 17049
+      },
+      "writtenOn": "2017-02-11T21:41:03Z",
+      "side": 1,
+      "message": "\u003e Probably you can use\n \u003e \n \u003e {{ site.baseurl }}/\n\nit´s not needed because the site is in the root directory and baseurl is anyway not defined in config.yml",
+      "parentUuid": "5a2585a7_10818a4a",
+      "range": {
+        "startLine": 12,
+        "startChar": 33,
+        "endLine": 12,
+        "endChar": 34
+      },
+      "revId": "7f2f85d1063cc4a1933685593945ae06b881e839",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a2585a7_f095de88",
         "filename": "_layouts/default.html",
         "patchSetId": 14
