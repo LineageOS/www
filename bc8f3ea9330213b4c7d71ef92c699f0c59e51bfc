@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2585a7_0a6f0a94",
+        "filename": "_posts/2017-02-13-Last-Week-in-LineageOS.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 16721
+      },
+      "writtenOn": "2017-02-13T15:14:52Z",
+      "side": 1,
+      "message": "extra space",
+      "range": {
+        "startLine": 10,
+        "startChar": 191,
+        "endLine": 10,
+        "endChar": 193
+      },
+      "revId": "bc8f3ea9330213b4c7d71ef92c699f0c59e51bfc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
