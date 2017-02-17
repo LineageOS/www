@@ -63,3 +63,9 @@ We will share the information we have with entities outside of LineageOS if we h
  - protect against harm to the rights, property, or safety of LineageOS, our users, or the public as required or permitted by law.
 
 We will update this privacy policy as needed so that it is current, accurate, and as clear as possible.
+
+## Trademarks
+LineageOS, Lineage Android, and the LineageOS logo are trademarks of LineageOS LLC. We provide a revokable, non-transferable, non-exclusive license to use these trademarks, under the conditions: 
+
+1. Your *must* clearly state that you are not affiliated with LineageOS, LLC in both your product name and any attached description. 
+2. Your usage *must* be non-commercial. 
