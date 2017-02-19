@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_7882e301",
+        "filename": "_posts/2017-02-20-Last-Week-in-LineageOS-2.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-02-19T19:41:34Z",
+      "side": 1,
+      "message": "\"2\" Seems odd to call out here. Wouldn\u0027t a date be better?",
+      "range": {
+        "startLine": 3,
+        "startChar": 7,
+        "endLine": 3,
+        "endChar": 31
+      },
+      "revId": "3ec3395000a5dc58752fc641225c153015a6a559",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
