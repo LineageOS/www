@@ -30,6 +30,7 @@ Added 14.1 devices
 * Wileyfox Storm - kipper
 * Galaxy Tab S 8.4 (Wi-Fi) - klimtwifi
 * Galaxy Tab S 10.5 (Wi-Fi) - chagallwifi
+* Samsung Galaxy Note 10.1 (Wi-Fi) (2014) - n1awifi 
 
 Added 13.0 devices
 
