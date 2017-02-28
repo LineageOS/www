@@ -1,0 +1,245 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_7be4070d",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": ").",
+      "range": {
+        "startLine": 15,
+        "startChar": 250,
+        "endLine": 15,
+        "endChar": 251
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_db265368",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "substantial and under review. It was deemed a",
+      "range": {
+        "startLine": 15,
+        "startChar": 40,
+        "endLine": 15,
+        "endChar": 74
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_9b20db4a",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "too vague. what extras?",
+      "range": {
+        "startLine": 15,
+        "startChar": 162,
+        "endLine": 15,
+        "endChar": 168
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_bb2b9f2f",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "change file managers",
+      "range": {
+        "startLine": 15,
+        "startChar": 106,
+        "endLine": 15,
+        "endChar": 121
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_5bf143cc",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "aren\u0027t",
+      "range": {
+        "startLine": 16,
+        "startChar": 51,
+        "endLine": 16,
+        "endChar": 60
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_3bee8fed",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "Any",
+      "range": {
+        "startLine": 22,
+        "startChar": 23,
+        "endLine": 22,
+        "endChar": 31
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_1bbbcbe6",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "head",
+      "range": {
+        "startLine": 23,
+        "startChar": 71,
+        "endLine": 23,
+        "endChar": 75
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_fbbfd7ce",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "Perhaps you should link to the Android Security Bulletin? The commit on gerrit isn\u0027t useful for users.",
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_bbb95feb",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "This doesn\u0027t need to be said and makes it look like LineageOS is deleting history.",
+      "range": {
+        "startLine": 33,
+        "startChar": 76,
+        "endLine": 33,
+        "endChar": 157
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_dbb413f4",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "Why is this a new paragraph?",
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_3bc56f5b",
+        "filename": "_posts/2017-02-27-Last-Week-in-LineageOS-3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-02-28T15:19:19Z",
+      "side": 1,
+      "message": "Going forward, builds",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 36
+      },
+      "revId": "ddf72c822d3b99825b89dfbbcae59280f19ebf09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
