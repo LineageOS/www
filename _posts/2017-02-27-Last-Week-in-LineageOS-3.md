@@ -13,7 +13,7 @@ author: harryyoud
 * Support for more than 2 cameras in Snap ([#154734](http://review.lineageos.org/#/c/154734))
 * Settings > Accounts not showing accounts has been fixed ([#162969](http://review.lineageos.org/#/c/162969))
 * The work required to maintain CMFM is substantial, and on review, it was a better investment of time to change managers. The AOSP file manager (with some added extras) is its replacement ([nuke_cmfm](http://review.lineageos.org/#/q/topic:nuke_cmfm))
-* Automatic Do Not Disturb rules are fixed, so you don't pestered during the night or in meetings ([#162968](http://review.lineageos.org/#/c/162968))
+* Automatic Do Not Disturb rules are fixed, so you don't get pestered during the night or in meetings ([#162968](http://review.lineageos.org/#/c/162968))
 * Dual SIM UI improvements in Dialer for DSDA devices ([#161227](http://review.lineageos.org/#/c/161227))
 * Our download page built-in changelog now supports a frequently asked for feature: filtering out "Automatic translation imports" ([#162852](http://review.lineageos.org/#/c/162852))
 
