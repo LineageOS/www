@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_aeda2d76",
+        "filename": "_posts/2017-03-06-Last-Week-in-LineageOS-4.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 16
+      },
+      "writtenOn": "2017-03-05T20:29:18Z",
+      "side": 1,
+      "message": "Should probably say \"videos\" now.",
+      "range": {
+        "startLine": 15,
+        "startChar": 26,
+        "endLine": 15,
+        "endChar": 30
+      },
+      "revId": "3299c2e472118afb48e95f566058bf81ea4b2635",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
