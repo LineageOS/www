@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba57610f_ee4849ce",
+        "filename": "_posts/2017-03-20-Last-Week-in-LineageOS-5.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-03-20T02:46:56Z",
+      "side": 1,
+      "message": "\"It\u0027s over 1 million!\"",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 30
+      },
+      "revId": "623bbc1764e5d5890e7542ab997dcd3159a1a3ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba57610f_ce4585b4",
+        "filename": "_posts/2017-03-20-Last-Week-in-LineageOS-5.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-03-20T02:46:56Z",
+      "side": 1,
+      "message": "\"Our installation counter has ticked over the 1 million mark. \n\nNote that the installation counter is not a 100% accurate reflection of users, by design. Since we don\u0027t actually track devices or users, we use the randomized installation ID, which gets switched each time you wipe your device. So depending on some user\u0027s patterns, 1 physical device could count as multiple installations if they wiped that many times. \n\nRegardless, we\u0027re all very proud of the reception we\u0027ve received and thank you for all of your continued support.\"",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 62
+      },
+      "revId": "623bbc1764e5d5890e7542ab997dcd3159a1a3ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba57610f_ae1251b2",
+        "filename": "_posts/2017-03-20-Last-Week-in-LineageOS-5.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-03-20T02:46:56Z",
+      "side": 1,
+      "message": "\"no longer active\"\n\nThe former implies a bad exit versus life catching up with them.",
+      "range": {
+        "startLine": 34,
+        "startChar": 13,
+        "endLine": 34,
+        "endChar": 36
+      },
+      "revId": "623bbc1764e5d5890e7542ab997dcd3159a1a3ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
