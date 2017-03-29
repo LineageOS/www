@@ -4,6 +4,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  font-weight: normal;
 }
 
 #main {
@@ -188,4 +189,8 @@ a:hover {
   .card-content-1 {
     padding: 24px 16px;
   }
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-weight: lighter;
 }
