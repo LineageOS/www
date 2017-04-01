@@ -16,7 +16,7 @@ We've seen an inordinate amount of people asking two questions:
 
 Today, we're proud to announce answers to both of these!
 
-This is our new mascot, VoLTE:
+This is our new mascot:
 
 ![mascot]({{site.baseurl}}/images/2017-04-01/mascot.gif)
 
