@@ -6,9 +6,11 @@ excerpt: New mascot and a new way of development
 author: harryyoud
 ---
 
-#April Fools!
+# April Fools!
 
 Please take note of the date this was posted. This post was meant to be satire. VoLTE requires OEM support. Please stop asking us about it. 
+
+---
 
 # Announcing our new mascot!
 
