@@ -13,7 +13,7 @@ We're glad so many of you have enjoyed (and fallen for) our April Fool's antics.
 
 To be absolutely clear:
 * VoLTE is the name of our (temporary) mascot (who is retiring on Friday). If you haven't seen it yet, check out our [blog post](http://lineageos.org/Announcing-our-Mascot/).
-* br0zip is a harmless just-for-fun app shipping on LineageOS 14.1 builds from 3rd April to 7th April (_Disclaimer: It does not actually produce functional ROMs)
+* br0zip is a harmless just-for-fun app shipping on LineageOS 14.1 builds from 3rd April to 7th April (_Disclaimer: It does not actually produce functional ROMs_)
 * VoLTE, our mascot, is also in the bootanimation on LineageOS 14.1 builds from 3rd April to 7th April
 
 ### Major changes since 20th March
