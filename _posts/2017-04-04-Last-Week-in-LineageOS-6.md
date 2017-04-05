@@ -17,7 +17,7 @@ To be absolutely clear:
 * VoLTE, our mascot, is also in the bootanimation on LineageOS 14.1 builds from 3rd April to 7th April
 
 ### Major changes since 20th March
-* Wiki refresh! Our wiki now has a brand new material design, courtesy of Akyut Yilmaz. We've also made the URLs a bit prettier and reorganised a few pages. [Check it out](http://wiki.lineageos.org)
+* Wiki refresh! Our wiki now has a brand new material design, courtesy of Aykut Yilmaz. We've also made the URLs a bit prettier and reorganised a few pages. [Check it out](http://wiki.lineageos.org)
 * New gallery app
   * Easier navigation between timeline, albums and videos
   * Fullscreen video playback
