@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a51691d_345eb246",
+        "filename": "_posts/2017-04-18-Last-2-Weeks-in-LineageOS-7.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 6351
+      },
+      "writtenOn": "2017-04-14T11:12:47Z",
+      "side": 1,
+      "message": "Actually, ether was getting 14.1 builds when it was removed, not 13.0.",
+      "revId": "b31414e5e26fe9d6be94e047200f5701e5189146",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
