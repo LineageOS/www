@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a51691d_f405ba14",
+        "filename": "_posts/2017-04-18-Last-2-Weeks-in-LineageOS-7.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-04-14T11:38:31Z",
+      "side": 1,
+      "message": "usual?",
+      "revId": "8d7dc8c46043bcb9a064dde0346dd8dd36480684",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
