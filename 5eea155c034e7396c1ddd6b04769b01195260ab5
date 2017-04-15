@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a4e6583_45a62ac3",
+        "filename": "_posts/2017-04-18-Last-2-Weeks-in-LineageOS-7.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2017-04-15T09:25:21Z",
+      "side": 1,
+      "message": "\"[...] all AOSP security patches and features [...]\"?",
+      "revId": "5eea155c034e7396c1ddd6b04769b01195260ab5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a4e6583_25ab2e8b",
+        "filename": "_posts/2017-04-18-Last-2-Weeks-in-LineageOS-7.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2017-04-15T09:25:21Z",
+      "side": 1,
+      "message": "full stop as line 17/18?",
+      "revId": "5eea155c034e7396c1ddd6b04769b01195260ab5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a4e6583_05b032f3",
+        "filename": "_posts/2017-04-18-Last-2-Weeks-in-LineageOS-7.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2017-04-15T09:25:21Z",
+      "side": 1,
+      "message": "same here",
+      "revId": "5eea155c034e7396c1ddd6b04769b01195260ab5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
