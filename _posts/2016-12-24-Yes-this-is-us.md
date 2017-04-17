@@ -7,7 +7,7 @@ excerpt: We aren't going anywhere.
 
 You've probably read the news articles today. If you haven't, please see the following:
 
-[https://cyngn.com/blog/cyanogen-services-shutting-down](https://cyngn.com/blog/cyanogen-services-shutting-down)
+~~https://cyngn.com/blog/cyanogen-services-shutting-down~~ [archived version](https://web.archive.org/web/20170306045328/https://cyngn.com/blog/cyanogen-services-shutting-down)
 
 ~~https://www.cyanogenmod.org/blog/a-fork-in-the-road~~ [archived version](https://web.archive.org/web/20161225144318/https://www.cyanogenmod.org/blog/a-fork-in-the-road)
 
