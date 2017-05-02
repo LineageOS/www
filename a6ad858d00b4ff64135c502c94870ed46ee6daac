@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_b49a9712",
+        "filename": "_posts/2017-05-01-Last-2-Weeks-in-LineageOS-8.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2017-05-02T18:16:41Z",
+      "side": 1,
+      "message": "s/since/after/",
+      "revId": "a6ad858d00b4ff64135c502c94870ed46ee6daac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
