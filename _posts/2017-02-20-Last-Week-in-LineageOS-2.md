@@ -19,8 +19,10 @@ author: harryyoud
 When we started developing for Android 7.0 (not 7.1), we based our source code on CAF 7.0 (CAF we depend upon for almost all our Qualcomm based devices).  
 When Android 7.1 was released to AOSP, we merged this on top, but kept CAF 7.0 for HALs. Now CAF have updated their repositories to Android 7.1, we have rewritten history and rebased all merged commits on top of the CAF 7.1 base.
 This means:
+
 * much less time spent resolving merge conflicts
 * AOSP's February security patches (AKA r21) can be merged much more easily into LineageOS 14.1 (which is why we're later than usual for this month's security patches).  
+
 Before we did the huge rebase (happening over the past week), we created branches called `cm-14.1_prerebase` to make sure we had a known good copy to go back to, just in case the rebase did not go successfully.  
 We'll be working on incorporating the Feb security release into 13.0 builds in the near future.
 

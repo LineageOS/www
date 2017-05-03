@@ -16,6 +16,7 @@ Please take note of the date this was posted. This post was meant to be satire. 
 
 ## New Mascot
 We've seen an inordinate amount of people asking two questions: 
+
  > "_What is the LineageOS Mascot?_"
 
  > "_Where is VoLTE?_"

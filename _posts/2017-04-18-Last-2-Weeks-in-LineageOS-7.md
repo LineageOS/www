@@ -39,7 +39,7 @@ Added 14.1 devices
 Changes to 14.1 devices
 
 * Samsung Galaxy Note 2 LTE Korean variants (t0ltektt,t0lteskt) are now unified under t0ltekor - _maintainers: filiprrs, PoisonNinja_
-* klteusc has been merged into klte. To continue receiving updates, flash the latest klte build, as this is the last week of klteusc builds
+* Samsung Galaxy S5 US Celullar (klteusc) has been merged into Samsung Galaxy S5 (klte). To continue receiving updates, flash the latest klte build, as this is the last week of klteusc builds.
 
 Removed 14.1 devices
 
