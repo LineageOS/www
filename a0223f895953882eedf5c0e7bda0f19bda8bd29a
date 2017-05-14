@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_0e6ffdc6",
+        "filename": "_posts/2017-05-15-Changelog-9.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2017-05-14T23:38:09Z",
+      "side": 1,
+      "message": "Incorrect call durations in Dialer have been fixed",
+      "parentUuid": "",
+      "revId": "a0223f895953882eedf5c0e7bda0f19bda8bd29a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
