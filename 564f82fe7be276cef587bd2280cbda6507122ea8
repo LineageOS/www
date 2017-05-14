@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_f3492a8c",
+        "filename": "_posts/2017-05-15-Changelog-9.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-05-14T21:51:03Z",
+      "side": 1,
+      "message": "\"dropped\" is a more neutral language that achieves this same message. Avoid overly \u0027heavy\u0027 terms as they skew perspective on the decision.",
+      "range": {
+        "startLine": 13,
+        "startChar": 17,
+        "endLine": 13,
+        "endChar": 26
+      },
+      "revId": "564f82fe7be276cef587bd2280cbda6507122ea8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
