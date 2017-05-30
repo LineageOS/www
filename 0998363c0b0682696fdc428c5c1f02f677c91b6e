@@ -1,0 +1,58 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_90f8f6e6",
+        "filename": "_posts/2017-05-29-Safetynet.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2017-05-30T22:40:02Z",
+      "side": 1,
+      "message": "Remove comma after \"developed by Google\" and after \"lenient\"\n\n\"...device is in a known-good...\"",
+      "parentUuid": "",
+      "revId": "0998363c0b0682696fdc428c5c1f02f677c91b6e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_50da6e79",
+        "filename": "_posts/2017-05-29-Safetynet.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2017-05-30T22:40:02Z",
+      "side": 1,
+      "message": "Add something like \"i.e., \" to parenthetical note\n\nCorrect spelling of Netflix\n\nRemove comma following \"Android Pay\" , \"these apps\"\n\n\"...disable certain functionality or to...\"",
+      "parentUuid": "",
+      "revId": "0998363c0b0682696fdc428c5c1f02f677c91b6e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_f0e62244",
+        "filename": "_posts/2017-05-29-Safetynet.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2017-05-30T22:40:02Z",
+      "side": 1,
+      "message": "\"everyone on the losing side\"\n\nRemove comma following \"software\"",
+      "parentUuid": "",
+      "revId": "0998363c0b0682696fdc428c5c1f02f677c91b6e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
