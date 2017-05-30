@@ -98,6 +98,29 @@
       "revId": "c3559fad38078b22a28f51f3f225d8939a40b0bf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_4e99706d",
+        "filename": "_posts/2017-05-29-Changelog-10.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2017-05-30T09:48:57Z",
+      "side": 1,
+      "message": "Need to add hlte and hltetmo. Wiki changes are merged (https://review.lineageos.org/#/c/174955/), but I guess it needs a redeploy.\n\nBuids are in the jenkins queue as of right now.\n\nhaggertk and trader418 as maintainers.",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 18
+      },
+      "revId": "c3559fad38078b22a28f51f3f225d8939a40b0bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
