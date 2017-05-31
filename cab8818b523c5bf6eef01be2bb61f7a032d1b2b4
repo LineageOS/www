@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_50ceee5b",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T06:44:14Z",
+      "side": 1,
+      "message": "I would remove this part.",
+      "range": {
+        "startLine": 13,
+        "startChar": 2,
+        "endLine": 13,
+        "endChar": 9
+      },
+      "revId": "cab8818b523c5bf6eef01be2bb61f7a032d1b2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_30d1eafb",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T06:44:14Z",
+      "side": 1,
+      "message": "If you emphasise this in the post title, why doesn\u0027t it appear on top of the list?",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 64
+      },
+      "revId": "cab8818b523c5bf6eef01be2bb61f7a032d1b2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_f0daa216",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T06:44:14Z",
+      "side": 1,
+      "message": "organization",
+      "range": {
+        "startLine": 22,
+        "startChar": 129,
+        "endLine": 22,
+        "endChar": 141
+      },
+      "revId": "cab8818b523c5bf6eef01be2bb61f7a032d1b2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_10d8661c",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T06:44:14Z",
+      "side": 1,
+      "message": "\"the LineageOS team\" or simply \"our team\"",
+      "range": {
+        "startLine": 22,
+        "startChar": 201,
+        "endLine": 22,
+        "endChar": 217
+      },
+      "revId": "cab8818b523c5bf6eef01be2bb61f7a032d1b2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_d0099e96",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T06:44:14Z",
+      "side": 1,
+      "message": "no",
+      "range": {
+        "startLine": 25,
+        "startChar": 108,
+        "endLine": 25,
+        "endChar": 111
+      },
+      "revId": "cab8818b523c5bf6eef01be2bb61f7a032d1b2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
