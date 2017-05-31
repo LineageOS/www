@@ -130,6 +130,30 @@
     },
     {
       "key": {
+        "uuid": "fa82b9bf_503cae2f",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-05-31T07:11:46Z",
+      "side": 1,
+      "message": "We\u0027ve gone with organization now, as this is the spelling that GitHub use",
+      "parentUuid": "fa82b9bf_f0daa216",
+      "range": {
+        "startLine": 22,
+        "startChar": 129,
+        "endLine": 22,
+        "endChar": 141
+      },
+      "revId": "cab8818b523c5bf6eef01be2bb61f7a032d1b2b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa82b9bf_d0099e96",
         "filename": "_posts/2017-05-31-Changelog-10.md",
         "patchSetId": 8
