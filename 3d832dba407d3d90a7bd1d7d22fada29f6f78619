@@ -1,0 +1,84 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_d3876860",
+        "filename": "_posts/2017-05-31-Safetynet.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-05-31T15:28:55Z",
+      "side": 1,
+      "message": "Link to Google - https://developer.android.com/training/safetynet/index.html",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 9
+      },
+      "revId": "3d832dba407d3d90a7bd1d7d22fada29f6f78619",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_737c5c73",
+        "filename": "_posts/2017-05-31-Safetynet.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-05-31T15:28:55Z",
+      "side": 1,
+      "message": "Play Store as a result of these checks.",
+      "revId": "3d832dba407d3d90a7bd1d7d22fada29f6f78619",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_3396d495",
+        "filename": "_posts/2017-05-31-Safetynet.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-05-31T15:28:55Z",
+      "side": 1,
+      "message": "situation, potentially resulting in a broad-strokes reaction against all custom OS\u0027s being reprimanded or blocked from the Play Store.",
+      "range": {
+        "startLine": 18,
+        "startChar": 215,
+        "endLine": 18,
+        "endChar": 216
+      },
+      "revId": "3d832dba407d3d90a7bd1d7d22fada29f6f78619",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_9381e04c",
+        "filename": "_posts/2017-05-31-Safetynet.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-05-31T15:28:55Z",
+      "side": 1,
+      "message": "We have always taken the approach that though we are highly customized, the underlying Android architecture and expectations for developers in that ecosystem should behave as expected. We don\u0027t want to be known for breaking 3rd party applications or reducing app ratings due to fundamental changes we introduce to our flavor of Android.",
+      "revId": "3d832dba407d3d90a7bd1d7d22fada29f6f78619",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
