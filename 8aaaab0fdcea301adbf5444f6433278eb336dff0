@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_306d6a33",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T07:41:46Z",
+      "side": 1,
+      "message": "This can be removed. It\u0027s already linked three sentences above.",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 63
+      },
+      "revId": "8aaaab0fdcea301adbf5444f6433278eb336dff0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
