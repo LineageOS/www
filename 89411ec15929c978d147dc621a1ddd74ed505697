@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa82b9bf_b012dab2",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2017-05-31T07:26:40Z",
+      "side": 1,
+      "message": "\"WiFi\" or \"Wi-Fi\"?",
+      "revId": "89411ec15929c978d147dc621a1ddd74ed505697",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_d0175ea2",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2017-05-31T07:26:40Z",
+      "side": 1,
+      "message": "\"customisable\" or \"customizable\"?",
+      "revId": "89411ec15929c978d147dc621a1ddd74ed505697",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
