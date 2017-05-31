@@ -19,6 +19,52 @@
     },
     {
       "key": {
+        "uuid": "fa82b9bf_9011d6ae",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T07:34:21Z",
+      "side": 1,
+      "message": "As per our internal discussion, the mention was removed from that post. Must be rephrased.",
+      "range": {
+        "startLine": 21,
+        "startChar": 19,
+        "endLine": 21,
+        "endChar": 102
+      },
+      "revId": "89411ec15929c978d147dc621a1ddd74ed505697",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_50234e05",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T07:34:21Z",
+      "side": 1,
+      "message": "Still prefer \"our\" to avoid repeating LineageOS.",
+      "range": {
+        "startLine": 22,
+        "startChar": 201,
+        "endLine": 22,
+        "endChar": 214
+      },
+      "revId": "89411ec15929c978d147dc621a1ddd74ed505697",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa82b9bf_d0175ea2",
         "filename": "_posts/2017-05-31-Changelog-10.md",
         "patchSetId": 9
@@ -30,6 +76,29 @@
       "writtenOn": "2017-05-31T07:26:40Z",
       "side": 1,
       "message": "\"customisable\" or \"customizable\"?",
+      "revId": "89411ec15929c978d147dc621a1ddd74ed505697",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa82b9bf_3026ca17",
+        "filename": "_posts/2017-05-31-Changelog-10.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-05-31T07:34:21Z",
+      "side": 1,
+      "message": "I would move the CVE tracker stuff here into a new section (### CVE Tracker), to separate it from actual changes in main LineageOS code. The tracker is infra-related.",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 0
+      },
       "revId": "89411ec15929c978d147dc621a1ddd74ed505697",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
