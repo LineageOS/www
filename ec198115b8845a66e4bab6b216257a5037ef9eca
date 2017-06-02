@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_4aede78a",
+        "filename": "_posts/2017-06-05-Safetynet.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-06-02T10:37:11Z",
+      "side": 1,
+      "message": "Thinking about it, it might be better to put the longer title here too:\n`excerpt: What it is, and how it affects you`",
+      "parentUuid": "",
+      "revId": "ec198115b8845a66e4bab6b216257a5037ef9eca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
