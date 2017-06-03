@@ -17,6 +17,24 @@
       "revId": "ec198115b8845a66e4bab6b216257a5037ef9eca",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_5b2b7b30",
+        "filename": "_posts/2017-06-05-Safetynet.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-03T19:40:33Z",
+      "side": 1,
+      "message": "Changed title to \"SafetyNet\" and excerpt to \"What it is, and how it affects you\"\nDone",
+      "parentUuid": "da87b5cf_4aede78a",
+      "revId": "ec198115b8845a66e4bab6b216257a5037ef9eca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
