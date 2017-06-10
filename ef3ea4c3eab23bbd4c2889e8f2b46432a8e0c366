@@ -401,6 +401,30 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_980c9696",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2017-06-10T19:51:22Z",
+      "side": 1,
+      "message": "In this (https://review.lineageos.org/#/c/175753/) change it states that those devices were removed because they had incomplete wiki instructions",
+      "parentUuid": "da87b5cf_d8121eb4",
+      "range": {
+        "startLine": 30,
+        "startChar": 67,
+        "endLine": 30,
+        "endChar": 95
+      },
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_b8b5dace",
         "filename": "_posts/2017-06-12-Changelog-11.md",
         "patchSetId": 2
