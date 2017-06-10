@@ -88,6 +88,29 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_58d12efa",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-10T19:25:26Z",
+      "side": 1,
+      "message": "Don\u0027t emphasize this. There are other things you can add, such as WeatherProviders updates.",
+      "range": {
+        "startLine": 16,
+        "startChar": 0,
+        "endLine": 16,
+        "endChar": 116
+      },
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_98e7b6e4",
         "filename": "_posts/2017-06-12-Changelog-11.md",
         "patchSetId": 2
@@ -133,6 +156,98 @@
       "writtenOn": "2017-06-10T19:25:02Z",
       "side": 1,
       "message": "Some more 13.0 devices have been promoted to 14.1 now, so those can be added",
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_98b016df",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-10T19:25:26Z",
+      "side": 1,
+      "message": "No maintainer",
+      "range": {
+        "startLine": 30,
+        "startChar": 67,
+        "endLine": 30,
+        "endChar": 95
+      },
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_b8b5dace",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-10T19:25:26Z",
+      "side": 1,
+      "message": "No maintainer",
+      "range": {
+        "startLine": 31,
+        "startChar": 71,
+        "endLine": 31,
+        "endChar": 99
+      },
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_78c75246",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-10T19:25:26Z",
+      "side": 1,
+      "message": "No maintainer",
+      "range": {
+        "startLine": 32,
+        "startChar": 76,
+        "endLine": 32,
+        "endChar": 104
+      },
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_18c4063f",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-10T19:25:26Z",
+      "side": 1,
+      "message": "No maintainer",
+      "range": {
+        "startLine": 33,
+        "startChar": 71,
+        "endLine": 33,
+        "endChar": 99
+      },
       "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
