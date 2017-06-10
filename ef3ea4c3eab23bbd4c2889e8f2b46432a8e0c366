@@ -425,6 +425,30 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_58260e18",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-10T19:55:26Z",
+      "side": 1,
+      "message": "Yes, but again, don\u0027t emphasize this. In the end, it was dropped because it has no maintainers:  https://review.lineageos.org/#/c/176257/",
+      "parentUuid": "da87b5cf_980c9696",
+      "range": {
+        "startLine": 30,
+        "startChar": 67,
+        "endLine": 30,
+        "endChar": 95
+      },
+      "revId": "ef3ea4c3eab23bbd4c2889e8f2b46432a8e0c366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_b8b5dace",
         "filename": "_posts/2017-06-12-Changelog-11.md",
         "patchSetId": 2
