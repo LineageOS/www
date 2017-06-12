@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_514b492b",
+        "filename": "_posts/2017-06-12-Changelog-11.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-12T13:02:31Z",
+      "side": 1,
+      "message": "Squash with other V20 variants above.",
+      "range": {
+        "startLine": 48,
+        "startChar": 0,
+        "endLine": 49,
+        "endChar": 49
+      },
+      "revId": "c894ecf59cba302c8ba7a2303249faca957e76d5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
