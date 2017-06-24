@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_3fbbd5e6",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-06-24T17:08:18Z",
+      "side": 1,
+      "message": "Makes it sound like it\u0027s still an issue for other devices and we don\u0027t care to fix it",
+      "revId": "6aa03afc21e65fc962791224469e867734676cc5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
