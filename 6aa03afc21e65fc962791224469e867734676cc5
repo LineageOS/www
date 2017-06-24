@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_9fc5415d",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-24T17:18:34Z",
+      "side": 1,
+      "message": "These are already merged, aren\u0027t they? It\u0027s the incognito shortcut and the multiple MCC thing that haven\u0027t been merged I thought.",
+      "parentUuid": "da87b5cf_1fba91de",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 61
+      },
+      "revId": "6aa03afc21e65fc962791224469e867734676cc5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_3fbbd5e6",
         "filename": "_posts/2017-06-24-Changelog-12.md",
         "patchSetId": 2
