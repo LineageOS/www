@@ -22,6 +22,30 @@
       "revId": "a6aa9197aaf1ef7868700fab60bec338f0c8735c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_e53cfc31",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-25T21:29:59Z",
+      "side": 1,
+      "message": "Yes, it should. Thanks",
+      "parentUuid": "da87b5cf_65322ca9",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 107
+      },
+      "revId": "a6aa9197aaf1ef7868700fab60bec338f0c8735c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
