@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_65322ca9",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-06-25T20:17:15Z",
+      "side": 1,
+      "message": "Shouldn\u0027t it go along with CVE tracker to an Infra-related section?",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 107
+      },
+      "revId": "a6aa9197aaf1ef7868700fab60bec338f0c8735c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
