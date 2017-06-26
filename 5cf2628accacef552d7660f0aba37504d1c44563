@@ -1,0 +1,56 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_947443fe",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-06-26T14:39:30Z",
+      "side": 1,
+      "message": "a notification is now shown",
+      "revId": "5cf2628accacef552d7660f0aba37504d1c44563",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_3461b739",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-06-26T14:39:30Z",
+      "side": 1,
+      "message": "a scan for new files is now run\n\nDon\u0027t know whether its worth squashing these two bullets together?",
+      "revId": "5cf2628accacef552d7660f0aba37504d1c44563",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_74773f03",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-06-26T14:39:30Z",
+      "side": 1,
+      "message": "New line between title and text, otherwise Liquid will get annoyed and misrender stuff, and for consistency",
+      "parentUuid": "",
+      "revId": "5cf2628accacef552d7660f0aba37504d1c44563",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
