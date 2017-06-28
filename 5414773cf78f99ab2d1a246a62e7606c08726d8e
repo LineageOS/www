@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_59db4c1b",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2017-06-28T17:46:49Z",
+      "side": 1,
+      "message": "IMHO, this sounds a bit unclear. Do you mean it saves e.g. entered usernames/passwords by default?",
+      "range": {
+        "startLine": 18,
+        "startChar": 4,
+        "endLine": 18,
+        "endChar": 37
+      },
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
