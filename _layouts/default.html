@@ -1,91 +1,118 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="en">
+<head>
+  {% include meta.html %}
 
-    {% include meta.html %}
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/material-kit.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/base.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,900">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="shortcut icon" href="{{ site.baseurl }}/images/logo.png">
+  {% if page.md or layout.md %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/md.css">
+  {% endif %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+</head>
+<body class="mdc-typography"{% if page.background or layout.background %} style="background: #{{ page.background }}{{ layout.background }}"{% endif %}>
 
-  <body id="page-top">
-    <nav class="navbar navbar-transparent navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed navbarButton" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <div class="navbar-brand-img">
-              <img src="{{ site.baseurl }}/images/logo-2.png" alt="LineageOS Logo">
-            </div>
+  <header class="mdc-toolbar mdc-toolbar--fixed mdc-toolbar--waterfall">
+    <div class="mdc-toolbar__row">
+      <section class="mdc-toolbar__section mdc-toolbar__section--align-start">
+        <button class="demo-menu material-icons mdc-toolbar__menu-icon">&#xE5D2;</button>
+        <a href="{{ site.baseurl }}/" class="mdc-toolbar__title">
+          <svg class="nav-img" viewBox="36.73 31.34 423.27 51.41">
+            <g id="logo_-_strip" data-name="logo - strip">
+              <path class="cls-1" d="M162.83,77.42A2.75,2.75,0,0,1,160,74.59v-32h7v29h15.46v5.85Zm40.61,0V42.58h7V77.42Zm54.32-34.83h6.39V75.51a1.85,1.85,0,0,1-1,1.63,4.75,4.75,0,0,1-2.51.61,6,6,0,0,1-2.56-.44,4.66,4.66,0,0,1-1.68-1.51L241,54V77.42h-6.49V45.17a2.35,2.35,0,0,1,1-2.1,4.76,4.76,0,0,1,2.68-.68A5.38,5.38,0,0,1,241,43a8.87,8.87,0,0,1,2.12,2.34l14.59,20.39Zm53.59,5.9h-16v8.24h14.44v5.9H295.29v8.83H310.9v6H288.27v-32a2.61,2.61,0,0,1,.88-2,3.05,3.05,0,0,1,2.1-.78h20.1Zm44.22,28.93-2.93-8.63H339.9L337,77.42h-7.27l11.81-32.24q1-2.78,4.73-2.78T351,45.22l11.8,32.2ZM341.9,62.88h8.73L346.25,50ZM397.49,78q-8,0-12.54-4.78t-4.59-12.93q0-8.39,4.88-13.34t12.93-5a17.16,17.16,0,0,1,9,2.24,13.46,13.46,0,0,1,5.44,5.9l-5.61,3Q404.47,48,398.08,48a9.79,9.79,0,0,0-7.71,3.24q-2.88,3.24-2.88,8.85t2.68,8.71a9.17,9.17,0,0,0,7.37,3.15,10.1,10.1,0,0,0,6.9-2.37,7.89,7.89,0,0,0,2.8-6h-8.83V58h15.76V61.9a15.28,15.28,0,0,1-4.68,11.59A16.68,16.68,0,0,1,397.49,78ZM460,48.49H444v8.24h14.44v5.9H444v8.83h15.61v6H436.93v-32a2.61,2.61,0,0,1,.88-2,3.05,3.05,0,0,1,2.1-.78H460Z"/>
+              <path class="cls-1" d="M130,60a10,10,0,0,0-7.78,3.72l-.38-.15A73.82,73.82,0,0,0,110,60s0,0,0,0a20,20,0,0,0-40,0v0l-.43.09a73.21,73.21,0,0,0-11.42,3.44l-.38.15a10.1,10.1,0,1,0,1.84,3.57h0A69.25,69.25,0,0,1,70.41,64a20,20,0,0,0,39.18,0,69.33,69.33,0,0,1,10.78,3.24h0A10,10,0,1,0,130,60ZM50,76a6,6,0,1,1,6-6A6,6,0,0,1,50,76Zm40,0a16,16,0,1,1,16-16A16,16,0,0,1,90,76Zm40,0a6,6,0,1,1,6-6A6,6,0,0,1,130,76ZM98,60a8,8,0,1,1-8-8A8,8,0,0,1,98,60Z"/>
+            </g>
+          </svg>
+        </a>
+      </section>
+      <section class="mdc-toolbar__section mdc-toolbar__section--align-end navbar">
+        <ul>
+          <li><a class="mdc-button mdc-button--compact" href="{{ site.baseurl }}/">Blog</a></li>
+          <li><a class="mdc-button mdc-button--compact" href="{{ site.baseurl }}/about/">About</a></li>
+          <li><a class="mdc-button mdc-button--compact" href="{{ site.baseurl }}/community/">Community</a></li>
+          <li><a class="mdc-button mdc-button--compact" href="{{ site.baseurl }}/legal/">Legal</a></li>
+          <li><a class="mdc-button mdc-button--compact" href="http://status.lineageos.org/">Status</a></li>
+          <li><a class="mdc-button mdc-button--compact" href="http://wiki.lineageos.org/">Wiki</a></li>
+          <li><a class="mdc-button mdc-button--compact" href="http://download.lineageos.org/">Downloads</a></li>
+        </ul>
+      </section>
+    </div>
+  </header>
+
+  <aside class="mdc-temporary-drawer">
+    <nav class="mdc-temporary-drawer__drawer">
+      <header class="mdc-temporary-drawer__header">
+        <div class="mdc-temporary-drawer__header-content mdc-theme--primary-bg mdc-theme--text-primary-on-primary">
+          <svg class="mdc-drawer-logo" viewBox="0 0 512 256">
+            <path d="M416,128a39.92,39.92,0,0,0-31.11,14.87l-1.5-.6A294.78,294.78,0,0,0,336,128.14s0-.09,0-.14a80,80,0,0,0-160,0s0,.09,0,.13l-1.71.37a293.48,293.48,0,0,0-45.67,13.76l-1.5.6a40,40,0,1,0,7.39,14.28h0a277.34,277.34,0,0,1,43.1-13,80,80,0,0,0,156.73,0,277.3,277.3,0,0,1,43.11,13h0A40,40,0,1,0,416,128ZM96,192a24,24,0,1,1,24-24A24,24,0,0,1,96,192Zm160,0a64,64,0,1,1,64-64A64.07,64.07,0,0,1,256,192Zm160,0a24,24,0,1,1,24-24A24,24,0,0,1,416,192ZM288,128a32,32,0,1,1-32-32A32,32,0,0,1,288,128Z"/>
+          </svg>
+        </div>
+      </header>
+      <nav class="mdc-temporary-drawer__content mdc-list-group">
+        <div id="icon-with-text-demo" class="mdc-list">
+          <a class="mdc-list-item" href="{{ site.baseurl }}/">
+            <i class="fa fa-newspaper-o mdc-list-item__start-detail"></i>Blog
+          </a>
+          <a class="mdc-list-item" href="{{ site.baseurl }}/about/">
+            <i class="material-icons mdc-list-item__start-detail">&#xE88F;</i>About
+          </a>
+          <a class="mdc-list-item" href="{{ site.baseurl }}/community/">
+            <i class="material-icons mdc-list-item__start-detail">&#xE7FB;</i>Community
+          </a>
+          <a class="mdc-list-item" href="{{ site.baseurl }}/legal/">
+            <i class="material-icons mdc-list-item__start-detail">&#xE90C;</i>Legal
+          </a>
+          <a class="mdc-list-item" href="http://status.lineageos.org/">
+            <i class="material-icons mdc-list-item__start-detail">&#xE876;</i>Status
+          </a>
+          <a class="mdc-list-item" href="http://wiki.lineageos.org/">
+            <i class="material-icons mdc-list-item__start-detail">&#xE8AF;</i>Wiki
+          </a>
+          <a class="mdc-list-item" href="http://download.lineageos.org/">
+            <i class="material-icons mdc-list-item__start-detail">&#xE2C4;</i>Downloads
           </a>
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="{{ site.baseurl }}/">Blog</a></li>
-            <li><a href="{{ site.baseurl }}/about">About</a></li>
-            <li><a href="{{ site.baseurl }}/community">Community</a></li>
-            <li><a href="{{ site.baseurl }}/legal">Legal</a></li>
-            <li><a href="http://status.lineageos.org"><i class="material-icons">&#xE89E;</i> Status</a></li>
-            <li><a href="http://wiki.lineageos.org"><i class="material-icons">&#xE89E;</i> Wiki</a></li>
-          </ul>
-        </div>
-      </div>
+      </nav>
     </nav>
+  </aside>
 
-    <div id="main" role="main">
-      {{ content }}
-    </div>
+  <main class="mdc-toolbar-fixed-adjust content">
 
-    <footer class="footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-6">
-            <img class="footer-img" src="{{ site.baseurl }}/images/logo-3.png" alt="LineageOS Logo">
-            <p class="text-muted">
-              <b>&copy; 2016 - {{ site.time | date: '%Y' }} The LineageOS Project </b><br />
-              Bitcoin: <a href="bitcoin:12aDckQC6YHEn75zReQWxXFCivBBNXfRjM">12aDckQC6YHEn75zReQWxXFCivBBNXfRjM</a><br />
-              PayPal: <a target="_blank" href="https://paypal.me/LineageOS">paypal.me/LineageOS</a> <br />
-              Note: LineageOS LLC is not a 501(c)(3) non-profit, as such donations are not tax-exempt.
-            </p>
+  {{ content }}
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer__content">
+      <div class="mdc-layout-grid">
+        <div class="mdc-layout-grid__inner">
+          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-8 mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-6-phone">
+
+            <p class="mdc-typography--body2">&copy; 2016 - {{ site.time | date: '%Y' }} The LineageOS Project</p>
+            <p><b>Note:</b> LineageOS LLC is not a 501(c)(3) non-profit, as such donations are not tax-exempt.</p>
+            <a href="bitcoin:12aDckQC6YHEn75zReQWxXFCivBBNXfRjM" class="mdc-button mdc-button--raised">Bitcoin</a>
+            <a href="https://paypal.me/LineageOS" class="mdc-button mdc-button--raised">PayPal</a>
           </div>
-          <div class="col-sm-6">
+          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4 mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-6-phone">
+
             <div class="footer-icons">
               {% include footer-icons.html %}
             </div>
-            <p class="text-center visible-xs">
-              <a href="#page-top" class="btn btn-default btn-simple btn-fab btn-fab-mini btn-round page-scroll">
-                <i class="material-icons">&#xE316;</i>
-              </a>
-            </p>
+
           </div>
         </div>
       </div>
-    </footer>
+    </div>
+  </footer>
 
-    {% include analytics.html %}
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    <script src="{{ site.baseurl }}/assets/js/material-kit.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/material.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/scroll.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/jquery.easing.min.js"></script>
-  </body>
+  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/base.js"></script>
+
+</body>
 </html>
