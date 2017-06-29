@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_39cd275e",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "Squashed, Leave a -1 or something if they\u0027re merged, and I\u0027ll add them on.",
+      "parentUuid": "da87b5cf_59f26c9b",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 65
+      },
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_59db4c1b",
         "filename": "_posts/2017-06-24-Changelog-12.md",
         "patchSetId": 15
@@ -42,6 +66,132 @@
         "endLine": 18,
         "endChar": 37
       },
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_d9dbdb19",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "clarified",
+      "parentUuid": "da87b5cf_59db4c1b",
+      "range": {
+        "startLine": 18,
+        "startChar": 4,
+        "endLine": 18,
+        "endChar": 37
+      },
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_f9d6dff0",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "Added greece",
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_b9085792",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "Added ffmpeg update",
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_9905537c",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "Reworded",
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_7902cf70",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "add-ons, not addons",
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_59ffcb67",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "checksums, not signatures",
+      "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_19f94380",
+        "filename": "_posts/2017-06-24-Changelog-12.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-06-29T11:14:20Z",
+      "side": 1,
+      "message": "Added actual codenames for g5 and v20 variants",
       "revId": "5414773cf78f99ab2d1a246a62e7606c08726d8e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
