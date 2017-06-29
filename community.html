@@ -3,34 +3,30 @@ layout: default
 permalink: /community/
 ---
 
-<div class="jumbotron">
-  <div class="container">
+<div class="page__header">
+  <div class="header__content">
 
     <h1>Community</h1>
     <p>Whether you’re an experienced Android user or you’re just getting started with open-source software, there are lots of ways to get involved with the LineageOS community.</p>
 
   </div>
 </div>
-<div class="container">
-{% for section in site.data.community %}
-    <h2>{{ section.name }}</h2>
-  <div class="community_wrapper">
-    <div class="community_section">
-      <div class="community_header">
-      </div>
-      <div class="row">
-      {% for item in section.data %}
+<div class="page__content">
 
-        <div class="col-sm-6">
-          <div class="community_item">
-            <a href="{{item.url}}"><h3>{{ item.name }}</h3></a>
-            <p>{{ item.text }}</p>
-          </div>
-        </div>
-      {% endfor %}
+  {% for section in site.data.community %}
+  <h2>{{ section.name }}</h2>
+  <div class="mdc-layout-grid">
+    <div class="mdc-layout-grid__inner">
+      {% for item in section.data %}
+      <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-6 mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-6-phone">
+        <h3><a href="{{item.url}}" style="text-decoration: none;">{{ item.name }}</a></h3>
+        <p>{{ item.text }}</p>
+
       </div>
+      {% endfor %}
     </div>
-  </div><br />
-{% endfor %}
+  </div>
+  {% endfor %}
+
 </div>
 <!-- Some parts of the text on this page are taken from the CyanogenMod Project. Licensed under Creative Commons Share Alike 3.0 -->
