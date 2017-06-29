@@ -1,25 +1,26 @@
 ---
 layout: default
+md: true
+background: fffff
 ---
 
-<article class="post">
-  <div class="jumbotron">
-    <div class="container">
+<div class="page__header">
+  <div class="header__content">
 
-      <h1>{{ page.title }}</h1>
-      <h6>Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}</h6>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h5>Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}</h5>
 
-    </div>
   </div>
+</div>
 
-  <div class="container post">
-    <div class="card">
-      <div class="card-content-1">
-        {{ content }}
-      </div>
-    </div>
+<div class="page__content">
+
+  <div class="markdown-body">
+
+    {{ content }}
+
   </div>
 
   {% include disqus.html %}
 
-</article>
+</div>
