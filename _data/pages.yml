@@ -1,0 +1,30 @@
+- name: Blog
+  link: /
+  icon: E254
+
+- name: About
+  link: /about/
+  icon: E88F
+
+- name: Community
+  link: /community/
+  icon: E7FB
+
+- name: Leagl
+  link: /legal/
+  icon: E90C
+
+- name: Status
+  link: http://status.lineageos.org/
+  icon: E876
+  external: true
+
+- name: Wiki
+  link: http://wiki.lineageos.org/
+  icon: E8AF
+  external: true
+
+- name: Downloads
+  link: http://download.lineageos.org/
+  icon: E2C4
+  external: true

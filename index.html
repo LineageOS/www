@@ -1,30 +1,46 @@
 ---
 layout: default
+background: fafafa
 ---
 
-<div class="jumbotron">
-  <div class="container">
-
-    <h1>{{ site.description }}</h1>
-    <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
-
+<section class="welcome">
+  <div class="welcome__content">
+    <svg viewBox="0 0 512 256">
+      <path d="M416,128a39.92,39.92,0,0,0-31.11,14.87l-1.5-.6A294.78,294.78,0,0,0,336,128.14s0-.09,0-.14a80,80,0,0,0-160,0s0,.09,0,.13l-1.71.37a293.48,293.48,0,0,0-45.67,13.76l-1.5.6a40,40,0,1,0,7.39,14.28h0a277.34,277.34,0,0,1,43.1-13,80,80,0,0,0,156.73,0,277.3,277.3,0,0,1,43.11,13h0A40,40,0,1,0,416,128ZM96,192a24,24,0,1,1,24-24A24,24,0,0,1,96,192Zm160,0a64,64,0,1,1,64-64A64.07,64.07,0,0,1,256,192Zm160,0a24,24,0,1,1,24-24A24,24,0,0,1,416,192ZM288,128a32,32,0,1,1-32-32A32,32,0,0,1,288,128Z"/>
+    </svg>
+    <h1 class="title">LineageOS Android Distribution</h1>
+    <p class="description">
+      LineageOS is a free and open-source operating system for smartphones and
+      tablet computers, based on the Android mobile platform.
+    </p>
+    <a href="https://download.lineageos.org/" class="mdc-button mdc-button--raised mdc-button--white">Find your Device</a>
   </div>
-</div>
+</section>
 
-<div class="container post">
-  {% for post in site.categories.blog %}
-  <div class="card">
+<div class="page__content">
+  <div class="mdc-layout-grid">
+    <div class="mdc-layout-grid__inner">
 
-    <div class="card-content-1">
-      <h6>{{ post.excerpt }}</h6>
-      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="index"><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="fa fa-user-o fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+      {% for post in site.categories.blog %}
+      <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12 mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-6-phone">
+        <div class="mdc-card">
+          <section class="mdc-card__primary">
+            <h1 class="mdc-card__title mdc-card__title--large"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+            <h2 class="mdc-card__subtitle">{{ post.excerpt }}</h2>
+          </section>
+          <section class="mdc-card__supporting-text">
+            <i class="material-icons">&#xE192;</i> {{ post.date | date: '%B %d, %Y' }}
+            {% if post.author %}
+            <i class="material-icons">&#xE7FD;</i> {{ post.author }}
+            {% endif %}
+          </section>
+          <section class="mdc-card__actions">
+            <a href="{{ site.baseurl }}{{ post.url }}" class="mdc-button mdc-button--compact mdc-card__action">Read More</a>
+          </section>
+        </div>
+      </div>
+      {% endfor %}
+
     </div>
-
-    <div class="card-button">
-      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-simple">Read More</a>
-    </div>
-
   </div>
-  {% endfor %}
 </div>
