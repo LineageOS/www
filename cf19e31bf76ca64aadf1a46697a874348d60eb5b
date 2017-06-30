@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_fced6db8",
+        "filename": "_posts/2017-06-29-Changelog-12.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2017-06-30T02:38:22Z",
+      "side": 1,
+      "message": "A longstanding issue affecting tap-to-pay on several devices has now been fixed (or \"has been resolved\", maybe)",
+      "revId": "cf19e31bf76ca64aadf1a46697a874348d60eb5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
