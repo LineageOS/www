@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_c8d77f22",
+        "filename": "_posts/2017-07-03-Changelog-12.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-07-01T19:56:02Z",
+      "side": 1,
+      "message": "\u003e remove the comma before \"and\"\n\nNo",
+      "parentUuid": "da87b5cf_a82d5b48",
+      "revId": "e5e75c9045bf2b020d8dffd04ed47a02f7d83d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_c830dfa0",
         "filename": "_posts/2017-07-03-Changelog-12.md",
         "patchSetId": 22
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "da87b5cf_a8d47b20",
+        "filename": "_posts/2017-07-03-Changelog-12.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-07-01T19:56:02Z",
+      "side": 1,
+      "message": "\u003e remove the comma before \"and\" (I think)\n\nNo",
+      "parentUuid": "da87b5cf_c830dfa0",
+      "revId": "e5e75c9045bf2b020d8dffd04ed47a02f7d83d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da87b5cf_882ad72a",
         "filename": "_posts/2017-07-03-Changelog-12.md",
         "patchSetId": 22
@@ -47,6 +83,24 @@
       "writtenOn": "2017-07-01T19:53:24Z",
       "side": 1,
       "message": "Remove the comma before \"and\"",
+      "revId": "e5e75c9045bf2b020d8dffd04ed47a02f7d83d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_0816c7f1",
+        "filename": "_posts/2017-07-03-Changelog-12.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-07-01T19:56:02Z",
+      "side": 1,
+      "message": "\u003e Remove the comma before \"and\"\n\nNo",
+      "parentUuid": "da87b5cf_882ad72a",
       "revId": "e5e75c9045bf2b020d8dffd04ed47a02f7d83d00",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
