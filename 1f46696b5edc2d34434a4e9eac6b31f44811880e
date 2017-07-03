@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_85e87db5",
+        "filename": "_posts/2017-07-03-Changelog-12.md",
+        "patchSetId": 23
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-07-03T14:39:16Z",
+      "side": 1,
+      "message": "Remove full stop (aka period :P ), to keep consistency",
+      "revId": "1f46696b5edc2d34434a4e9eac6b31f44811880e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_e5e149d1",
+        "filename": "_posts/2017-07-03-Changelog-12.md",
+        "patchSetId": 23
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-07-03T14:39:16Z",
+      "side": 1,
+      "message": "In the next few weeks, keep an [...]",
+      "revId": "1f46696b5edc2d34434a4e9eac6b31f44811880e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da87b5cf_45d27501",
+        "filename": "_posts/2017-07-03-Changelog-12.md",
+        "patchSetId": 23
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-07-03T14:39:16Z",
+      "side": 1,
+      "message": "[...] have now been [...]",
+      "revId": "1f46696b5edc2d34434a4e9eac6b31f44811880e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
