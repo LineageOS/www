@@ -1,0 +1,56 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "80940f85_3ae44be4",
+        "filename": "_posts/2017-08-04-Changelog-13.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-08-05T02:52:11Z",
+      "side": 1,
+      "message": "Search in page ( a la ctrl+f ) has been added",
+      "revId": "532268c9830c506f1f2815c21504e00bfec63ae8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d0c06a25_6e081e73",
+        "filename": "_posts/2017-08-04-Changelog-13.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-08-05T02:52:11Z",
+      "side": 1,
+      "message": "Already in old changelog",
+      "parentUuid": "",
+      "revId": "532268c9830c506f1f2815c21504e00bfec63ae8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cbf04a02_9a8f1d92",
+        "filename": "_posts/2017-08-04-Changelog-13.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-08-05T02:52:11Z",
+      "side": 1,
+      "message": "only media content",
+      "revId": "532268c9830c506f1f2815c21504e00bfec63ae8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
