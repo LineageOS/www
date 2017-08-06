@@ -22,6 +22,24 @@
       "revId": "3326e08dcc70b132cb915ae2da9fe335013a132f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c4d2922e_2b6beb17",
+        "filename": "_posts/2017-08-04-Changelog-13.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-08-06T14:47:50Z",
+      "side": 1,
+      "message": "It seems they brand themselves as \u0027nubia\u0027 as opposed to \u0027Nubia\u0027 which is why I used it lowercase here. Maybe I should capitalise it just because it is the first word of the sentence?",
+      "parentUuid": "34a405f0_92be48ca",
+      "revId": "3326e08dcc70b132cb915ae2da9fe335013a132f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
