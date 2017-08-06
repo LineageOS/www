@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "34a405f0_92be48ca",
+        "filename": "_posts/2017-08-04-Changelog-13.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-08-06T14:08:59Z",
+      "side": 1,
+      "message": "Nubia",
+      "range": {
+        "startLine": 45,
+        "startChar": 3,
+        "endLine": 45,
+        "endChar": 8
+      },
+      "revId": "3326e08dcc70b132cb915ae2da9fe335013a132f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
