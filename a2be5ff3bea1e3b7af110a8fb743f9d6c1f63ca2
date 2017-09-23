@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ed747020_abdb8c3c",
+        "filename": "_posts/2017-09-14-Changelog-14.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-09-23T15:09:08Z",
+      "side": 1,
+      "message": "Make a note of new file location storage",
+      "range": {
+        "startLine": 13,
+        "startChar": 44,
+        "endLine": 13,
+        "endChar": 103
+      },
+      "revId": "a2be5ff3bea1e3b7af110a8fb743f9d6c1f63ca2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
