@@ -46,6 +46,30 @@
       "revId": "8021cd28d97e293f285c4c3196a2b9942268ba13",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b7d47e9_3eadd56b",
+        "filename": "_posts/2017-09-23-Changelog-14.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2017-09-24T17:19:12Z",
+      "side": 1,
+      "message": "Would you use it that way?",
+      "parentUuid": "8198874b_3db8c061",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 46
+      },
+      "revId": "8021cd28d97e293f285c4c3196a2b9942268ba13",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
