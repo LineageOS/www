@@ -1,0 +1,56 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "575b5af8_c5d349aa",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-10-13T13:12:20Z",
+      "side": 1,
+      "message": "We asked for feedback",
+      "parentUuid": "",
+      "revId": "1cef2cbafb6777ed9a3ce3d992068d415d9ff7ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "beb71d24_25e9ca37",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-10-13T13:12:20Z",
+      "side": 1,
+      "message": "You need either an empty line or a double space after each line if you actually want line breaks in the rendered text",
+      "revId": "1cef2cbafb6777ed9a3ce3d992068d415d9ff7ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "69ede1d3_93318c51",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-10-13T13:12:20Z",
+      "side": 1,
+      "message": "These will be squashed into a single line break. you can add in a horizontal rule tho (either \u003chr\u003e or with \u003d\u003d\u003d).",
+      "revId": "1cef2cbafb6777ed9a3ce3d992068d415d9ff7ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
