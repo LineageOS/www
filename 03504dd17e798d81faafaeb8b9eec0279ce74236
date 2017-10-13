@@ -2,6 +2,213 @@
   "comments": [
     {
       "key": {
+        "uuid": "5ec430a1_65c2f69b",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "This sounds unnatural, remove \": here\u0027s what\"",
+      "range": {
+        "startLine": 9,
+        "startChar": 38,
+        "endLine": 9,
+        "endChar": 51
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "abab358b_05e3849c",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "Also unnatural/forced. \"Let\u0027s talk about about the...\"",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 43
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7da6a417_c9d4ca0a",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "s/may not be/\"are not\"",
+      "range": {
+        "startLine": 12,
+        "startChar": 148,
+        "endLine": 12,
+        "endChar": 158
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "60244e88_c8bb2d01",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "Unnecessary words, remove it",
+      "range": {
+        "startLine": 12,
+        "startChar": 14,
+        "endLine": 12,
+        "endChar": 42
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "134ac841_f936cf67",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "I\u0027m not sure how I\u0027m supposed to read these percentages. \n\nAre you saying of the 86% using official OS, 97% were phone and 10% were tablet? Or are you saying 86% official 97% where phone, and the 10% came from a combination of tablet users across official and unofficial?\n\nNeeds clarification \u0026 probably should be split into two distinct sentences to removing confusion.",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 187
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a70cb101_59ef7cd8",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "Remove this, its unneeded - any reader who uses our OS would know what it is by name alone..",
+      "range": {
+        "startLine": 22,
+        "startChar": 79,
+        "endLine": 22,
+        "endChar": 94
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9dec7076_a17e2eb8",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "Needs a reason. \n\n\"...not entirely within our control, primarily due to the proprietary nature of newer stock features and algorithms\".",
+      "range": {
+        "startLine": 23,
+        "startChar": 107,
+        "endLine": 23,
+        "endChar": 114
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9027af03_490d09ff",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "\"However, this doesn\u0027t mean we won\u0027t continue to aim for the best with what we can control\"",
+      "range": {
+        "startLine": 23,
+        "startChar": 116,
+        "endLine": 23,
+        "endChar": 192
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b8957056_08365e5f",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "time \u0026 resources",
+      "range": {
+        "startLine": 24,
+        "startChar": 251,
+        "endLine": 24,
+        "endChar": 255
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9880ff9c_6357b843",
         "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
         "patchSetId": 2
@@ -18,6 +225,75 @@
         "startChar": 128,
         "endLine": 26,
         "endChar": 179
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9bcbd87c_6ccb917d",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "Agreed on removing quotes around ideological . \n\n\"mostly due to region-blocks, or privacy \u0026 ideological motivations\"",
+      "range": {
+        "startLine": 26,
+        "startChar": 128,
+        "endLine": 26,
+        "endChar": 179
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1179d1f4_7de1ba14",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "responders",
+      "range": {
+        "startLine": 47,
+        "startChar": 37,
+        "endLine": 47,
+        "endChar": 45
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9e6f89e8_6186325f",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-10-13T19:16:11Z",
+      "side": 1,
+      "message": "them all",
+      "range": {
+        "startLine": 55,
+        "startChar": 144,
+        "endLine": 55,
+        "endChar": 148
       },
       "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
