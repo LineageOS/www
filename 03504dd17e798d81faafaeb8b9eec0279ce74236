@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9880ff9c_6357b843",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-10-13T17:46:43Z",
+      "side": 1,
+      "message": "I think this needs to be reworded a bit, I\u0027m just not sure how. At the very least, maybe remove the quotes around ideological, otherwise it looks as if we\u0027re saying they don\u0027t have an ideological reason. Does anyone else have an idea of what to put here?",
+      "range": {
+        "startLine": 26,
+        "startChar": 128,
+        "endLine": 26,
+        "endChar": 179
+      },
+      "revId": "03504dd17e798d81faafaeb8b9eec0279ce74236",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
