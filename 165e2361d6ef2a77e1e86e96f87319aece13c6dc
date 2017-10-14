@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e1328599_69f18a45",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-10-14T21:33:56Z",
+      "side": 1,
+      "message": "needed?",
+      "range": {
+        "startLine": 46,
+        "startChar": 128,
+        "endLine": 46,
+        "endChar": 146
+      },
+      "revId": "165e2361d6ef2a77e1e86e96f87319aece13c6dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "72063659_97a21415",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-10-14T21:33:56Z",
+      "side": 1,
+      "message": "questions",
+      "range": {
+        "startLine": 50,
+        "startChar": 101,
+        "endLine": 50,
+        "endChar": 109
+      },
+      "revId": "165e2361d6ef2a77e1e86e96f87319aece13c6dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5483c5f0_1bb96270",
+        "filename": "_posts/2017-10-16-Summer-Survey-Results.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-10-14T21:33:56Z",
+      "side": 1,
+      "message": "suggestions",
+      "range": {
+        "startLine": 57,
+        "startChar": 33,
+        "endLine": 57,
+        "endChar": 43
+      },
+      "revId": "165e2361d6ef2a77e1e86e96f87319aece13c6dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
