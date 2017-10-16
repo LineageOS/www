@@ -6,7 +6,7 @@ excerpt: Here's what you told us
 author: jrizzoli
 ---
 
-## We for asked feedback. You answered
+## We asked for feedback. You answered
 
 Let's talk about the [Summer Survey](https://www.lineageos.org/Summer-Survey/) and its results.  
 To start off, only about 1.35% of our users (at the time of writing) took the survey (23000 / 1700000), so the results are not reflective of our entire userbase, but we'll analyze the feedback nonetheless.
