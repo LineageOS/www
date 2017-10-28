@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "54c777a9_d1c5fafe",
+        "filename": "Gemfile.lock",
+        "patchSetId": 3
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-10-28T06:01:06Z",
+      "side": 1,
+      "message": "Why tho? We don\u0027t use these",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 58,
+        "endChar": 41
+      },
+      "revId": "1be8f09ea6132876dc6a45712716e649b06e5185",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "87ade7b4_dc1114dc",
+        "filename": "Gemfile.lock",
+        "patchSetId": 3
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-10-28T06:01:06Z",
+      "side": 1,
+      "message": "same",
+      "range": {
+        "startLine": 124,
+        "startChar": 0,
+        "endLine": 163,
+        "endChar": 29
+      },
+      "revId": "1be8f09ea6132876dc6a45712716e649b06e5185",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
