@@ -189,3 +189,8 @@ a:hover {
     padding: 24px 16px;
   }
 }
+
+
+.blog_post_image {
+    max-width: 100%;
+}
