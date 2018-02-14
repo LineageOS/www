@@ -1,0 +1,533 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "73bb8396_c7a79044",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Android",
+      "range": {
+        "startLine": 14,
+        "startChar": 82,
+        "endLine": 14,
+        "endChar": 89
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e2892311_10aabc23",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Same again",
+      "range": {
+        "startLine": 19,
+        "startChar": 43,
+        "endLine": 19,
+        "endChar": 50
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "23d13e56_0ec38f47",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "remove this",
+      "range": {
+        "startLine": 21,
+        "startChar": 38,
+        "endLine": 21,
+        "endChar": 40
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8c8853be_992fb8fd",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "not sure about \u0027while\u0027 here. Maybe \u0027and\u0027?",
+      "range": {
+        "startLine": 28,
+        "startChar": 141,
+        "endLine": 28,
+        "endChar": 146
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "20ba4524_0b9ff467",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "some of the interface elements",
+      "range": {
+        "startLine": 28,
+        "startChar": 177,
+        "endLine": 28,
+        "endChar": 204
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "041257d2_85179d4b",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "this is a little awkwardly worded in my opinion. Perhaps \u0027so it\u0027s easier on the eyes\u0027?",
+      "range": {
+        "startLine": 28,
+        "startChar": 221,
+        "endLine": 28,
+        "endChar": 250
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f03ec6d_1ed181f0",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "based",
+      "range": {
+        "startLine": 29,
+        "startChar": 149,
+        "endLine": 29,
+        "endChar": 155
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "625d904c_a44ff6d6",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Full stop needed just to be consistent with the other paragraphs",
+      "range": {
+        "startLine": 30,
+        "startChar": 115,
+        "endLine": 30,
+        "endChar": 116
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7ce202_d77b1fad",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "same",
+      "range": {
+        "startLine": 34,
+        "startChar": 74,
+        "endLine": 34,
+        "endChar": 81
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "89917d05_4011e482",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "All of our apps have gotten",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 16
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "eb8d50e3_5c7b82c5",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "same here",
+      "range": {
+        "startLine": 40,
+        "startChar": 119,
+        "endLine": 40,
+        "endChar": 125
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e883c90f_3d80b182",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "lowercase",
+      "range": {
+        "startLine": 40,
+        "startChar": 103,
+        "endLine": 40,
+        "endChar": 111
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9d2e07ad_e6e23bce",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "here too",
+      "range": {
+        "startLine": 40,
+        "startChar": 86,
+        "endLine": 40,
+        "endChar": 91
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "54b6a892_04973b24",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Maybe \"Jelly\u0027s\"",
+      "range": {
+        "startLine": 46,
+        "startChar": 4,
+        "endLine": 46,
+        "endChar": 9
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7419507a_e1db965d",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Chromium",
+      "range": {
+        "startLine": 48,
+        "startChar": 32,
+        "endLine": 48,
+        "endChar": 40
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6681221c_cc36e7f3",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "branch",
+      "range": {
+        "startLine": 53,
+        "startChar": 218,
+        "endLine": 53,
+        "endChar": 224
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a7d98735_28166c56",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Maybe capitalise. See \"marshmallow\".",
+      "range": {
+        "startLine": 53,
+        "startChar": 436,
+        "endLine": 53,
+        "endChar": 440
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cc3ba245_20687358",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "and the",
+      "range": {
+        "startLine": 53,
+        "startChar": 51,
+        "endLine": 53,
+        "endChar": 52
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f47a5c76_2c7acad7",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Maybe should be capitalised",
+      "range": {
+        "startLine": 53,
+        "startChar": 4,
+        "endLine": 53,
+        "endChar": 15
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95d626a8_95d0e4b9",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "commit to either British or American English, but don\u0027t mix them. GitHub refers to them as \"organizations\" so maybe stick with American (as you have elsewhere)",
+      "range": {
+        "startLine": 56,
+        "startChar": 73,
+        "endLine": 56,
+        "endChar": 85
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "675b01d0_e1d8c95b",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "The wiki or our wiki",
+      "range": {
+        "startLine": 57,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 4
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2697e680_21606d87",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Not a fan, but can\u0027t think of a better way",
+      "range": {
+        "startLine": 84,
+        "startChar": 21,
+        "endLine": 84,
+        "endChar": 25
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "55d68bcc_b012b309",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T13:30:34Z",
+      "side": 1,
+      "message": "Capitalised",
+      "range": {
+        "startLine": 84,
+        "startChar": 92,
+        "endLine": 84,
+        "endChar": 96
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
