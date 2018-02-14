@@ -194,3 +194,7 @@ a:hover {
 .blog_post_image {
     max-width: 100%;
 }
+
+.blog_post_image_full {
+    width: 100%;
+}
