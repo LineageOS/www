@@ -485,6 +485,29 @@
     },
     {
       "key": {
+        "uuid": "49d01d41_81f62347",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2018-02-14T14:31:58Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 71,
+        "startChar": 81,
+        "endLine": 71,
+        "endChar": 92
+      },
+      "revId": "81c31ddfc40c615d9c7c4890fdfedde689d47950",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "2697e680_21606d87",
         "filename": "_posts/2018-02-23-Changelog-16.md",
         "patchSetId": 2
