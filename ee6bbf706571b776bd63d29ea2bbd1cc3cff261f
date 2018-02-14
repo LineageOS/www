@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "85fd31e5_c47c60cc",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T15:05:14Z",
+      "side": 1,
+      "message": "probably best to make this include baseurl",
+      "range": {
+        "startLine": 23,
+        "startChar": 42,
+        "endLine": 23,
+        "endChar": 84
+      },
+      "revId": "ee6bbf706571b776bd63d29ea2bbd1cc3cff261f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6d51123b_d56bd8a2",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T15:05:14Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 28,
+        "startChar": 175,
+        "endLine": 28,
+        "endChar": 178
+      },
+      "revId": "ee6bbf706571b776bd63d29ea2bbd1cc3cff261f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4f361ed6_840a3a4e",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-14T15:05:14Z",
+      "side": 1,
+      "message": "needs a period",
+      "range": {
+        "startLine": 30,
+        "startChar": 115,
+        "endLine": 30,
+        "endChar": 116
+      },
+      "revId": "ee6bbf706571b776bd63d29ea2bbd1cc3cff261f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
