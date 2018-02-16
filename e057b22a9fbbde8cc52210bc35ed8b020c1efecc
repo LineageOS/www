@@ -1,0 +1,297 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da82568f_ba20188b",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "OEM-abandoned",
+      "range": {
+        "startLine": 15,
+        "startChar": 13,
+        "endLine": 15,
+        "endChar": 22
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0203978f_86ed835e",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "Android",
+      "range": {
+        "startLine": 18,
+        "startChar": 32,
+        "endLine": 18,
+        "endChar": 39
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ef6750d_a0db9da5",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "( crosses fingers)",
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "29e74184_c2fc7b7f",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "drop this",
+      "range": {
+        "startLine": 21,
+        "startChar": 69,
+        "endLine": 22,
+        "endChar": 7
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f463ecf1_cf70cf28",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "s/proper/full",
+      "range": {
+        "startLine": 30,
+        "startChar": 20,
+        "endLine": 30,
+        "endChar": 26
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b5e1e034_5d9d99dc",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "Android",
+      "range": {
+        "startLine": 34,
+        "startChar": 74,
+        "endLine": 34,
+        "endChar": 81
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d451849a_cd97af40",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "s/gotten/received",
+      "range": {
+        "startLine": 35,
+        "startChar": 18,
+        "endLine": 35,
+        "endChar": 24
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ebe9c54c_e63aae71",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "As a precaution for addon.d, do we want them to format system partition (emphasizing not data partition)?",
+      "range": {
+        "startLine": 54,
+        "startChar": 1,
+        "endLine": 54,
+        "endChar": 3
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "eeec4fae_71b37f9a",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "all caps this?",
+      "range": {
+        "startLine": 54,
+        "startChar": 95,
+        "endLine": 54,
+        "endChar": 102
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "13214c54_5964c402",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "Android",
+      "range": {
+        "startLine": 71,
+        "startChar": 115,
+        "endLine": 71,
+        "endChar": 122
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c8c73da8_42788aa8",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "extra e",
+      "range": {
+        "startLine": 71,
+        "startChar": 102,
+        "endLine": 71,
+        "endChar": 103
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a53b0589_cf2b74d9",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "\"were\"",
+      "range": {
+        "startLine": 82,
+        "startChar": 72,
+        "endLine": 82,
+        "endChar": 82
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6e06655f_5168a9c5",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-02-16T20:57:48Z",
+      "side": 1,
+      "message": "You intending to align this with my other patch or is this just a subset?",
+      "range": {
+        "startLine": 93,
+        "startChar": 0,
+        "endLine": 93,
+        "endChar": 20
+      },
+      "revId": "e057b22a9fbbde8cc52210bc35ed8b020c1efecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
