@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f5340dc3_a46a6b7a",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-16T20:57:09Z",
+      "side": 1,
+      "message": "Swap out colon for semi colon",
+      "revId": "296e5bc0de174bd365af0c487be327ba44b8456f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ae0f2634_f498716e",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-02-16T20:57:09Z",
+      "side": 1,
+      "message": "Android",
+      "revId": "296e5bc0de174bd365af0c487be327ba44b8456f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
