@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ba83a0f_42099207",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-02-18T10:28:54Z",
+      "side": 1,
+      "message": "64.0.3282.137\n\nMaybe add a sidenote that this mirrors 15.1 status?",
+      "range": {
+        "startLine": 78,
+        "startChar": 41,
+        "endLine": 78,
+        "endChar": 54
+      },
+      "revId": "8d49a9070ccc5b06a132962bae9625d9ef7a3ae0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
