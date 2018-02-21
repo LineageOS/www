@@ -68,6 +68,23 @@
       "revId": "aa46d33673d09bd0f9e4cb46413a33aebe53c25d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4f7f9b82_a06f7d85",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 20
+      },
+      "writtenOn": "2018-02-21T16:22:27Z",
+      "side": 1,
+      "message": "Removed for lack of maintainer account on JIRA",
+      "revId": "aa46d33673d09bd0f9e4cb46413a33aebe53c25d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
