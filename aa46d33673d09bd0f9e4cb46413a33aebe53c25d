@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "85446561_3c3f94f6",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-02-21T14:34:11Z",
+      "side": 1,
+      "message": "maybe \"that several\", so we don\u0027t imply that\u0027s the only issue holding them back.",
+      "range": {
+        "startLine": 47,
+        "startChar": 117,
+        "endLine": 47,
+        "endChar": 121
+      },
+      "revId": "aa46d33673d09bd0f9e4cb46413a33aebe53c25d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fe3e76d3_ca76d732",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-02-21T14:34:11Z",
+      "side": 1,
+      "message": "remove the parentheses, and change \"no matter if they had a 14.1 build or not\" to \"regardless of having a 14.1 build\"",
+      "range": {
+        "startLine": 94,
+        "startChar": 519,
+        "endLine": 94,
+        "endChar": 563
+      },
+      "revId": "aa46d33673d09bd0f9e4cb46413a33aebe53c25d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "61da51d3_37f600ad",
+        "filename": "_posts/2018-02-23-Changelog-16.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-02-21T14:34:11Z",
+      "side": 1,
+      "message": "not needed",
+      "range": {
+        "startLine": 94,
+        "startChar": 408,
+        "endLine": 94,
+        "endChar": 435
+      },
+      "revId": "aa46d33673d09bd0f9e4cb46413a33aebe53c25d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
