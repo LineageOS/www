@@ -1,109 +1,133 @@
-var transparent = true;
+$(window).on("scroll load resize", function(){
 
-var transparentDemo = false;
-var fixedTop = true;
-
-var navbar_initialized = false;
-
-$(document).ready(function(){
-
-    // Init Material scripts for buttons ripples, inputs animations etc, more info on the next link https://github.com/FezVrasta/bootstrap-material-design#materialjs
-    $.material.init();
-
-
-    //  Activate the Tooltips
-    $('[data-toggle="tooltip"], [rel="tooltip"]').tooltip();
-
-    // Activate Datepicker
-    if($('.datepicker').length != 0){
-        $('.datepicker').datepicker({
-             weekStart:1
-        });
-    }
-
-    // Activate Popovers
-    $('[data-toggle="popover"]').popover();
-
-    // Active Carousel
-	$('.carousel').carousel({
-      interval: 400000
-    });
+  if($(window).scrollTop() > 0) {
+    $('.navbar').addClass("navbar-shadow");
+  }
+  else {
+    $('.navbar').removeClass("navbar-shadow");
+  }
 
 });
 
-materialKit = {
-    misc:{
-        navbar_menu_visible: 0
-    },
+$(document).ready(function () {
 
-    checkScrollForTransparentNavbar: debounce(function() {
-            if($(document).scrollTop() > 260 ) {
-                if(transparent) {
-                    transparent = false;
-                    $('.navbar-color-on-scroll').removeClass('navbar-transparent');
-                }
-            } else {
-                if( !transparent ) {
-                    transparent = true;
-                    $('.navbar-color-on-scroll').addClass('navbar-transparent');
-                }
-            }
-    }, 17),
-
-    initSliders: function(){
-        // Sliders for demo purpose
-        $('#sliderRegular').noUiSlider({
-            start: 40,
-            connect: "lower",
-            range: {
-                min: 0,
-                max: 100
-            }
-        });
-
-        $('#sliderDouble').noUiSlider({
-            start: [20, 60] ,
-            connect: true,
-            range: {
-                min: 0,
-                max: 100
-            }
-        });
+  var links = $('.nav-link');
+  $.each(links, function (key, va) {
+    if (va.href == document.URL) {
+      $(this).parent().addClass('active');
     }
-}
+  });
+
+  var c, currentScrollTop = 0,
+  navbar = $('.navbar');
+
+  $(window).scroll(function () {
+    var a = $(window).scrollTop();
+    var b = navbar.height();
+
+    currentScrollTop = a;
+
+    if (c < currentScrollTop && a > b + b) {
+      navbar.addClass("scrollUp");
+    } else if (c > currentScrollTop && !(a <= b)) {
+      navbar.removeClass("scrollUp");
+    }
+    c = currentScrollTop;
+  });
+
+});
+
+$(document.links).filter(function() {
+  return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
+
+/*! =========================================================
+ *
+ * Material Kit Free - v2.0.2 (Bootstrap 4.0.0 Final Edition)
+ *
+ * =========================================================
+ *
+ * Product Page: https://www.creative-tim.com/product/material-kit-pro
+ * Available with purchase of license from http://www.creative-tim.com/product/material-kit-pro
+ * Copyright 2017 Creative Tim (https://www.creative-tim.com)
+ * License Creative Tim (https://www.creative-tim.com/license)
+ *
+ * ========================================================= */
 
 
-var big_image;
+$(document).ready(function() {
 
-materialKitDemo = {
-    checkScrollForParallax: debounce(function(){
-        var current_scroll = $(this).scrollTop();
+    // Init Material scripts for buttons ripples, inputs animations etc, more info on the next link https://github.com/FezVrasta/bootstrap-material-design#materialjs
+    $('body').bootstrapMaterialDesign();
+    window_width = $(window).width();
+    $navbar_collapse = $('.navbar').find('.navbar-collapse');
 
-        oVal = ($(window).scrollTop() / 3);
-        big_image.css({
-            'transform':'translate3d(0,' + oVal +'px,0)',
-            '-webkit-transform':'translate3d(0,' + oVal +'px,0)',
-            '-ms-transform':'translate3d(0,' + oVal +'px,0)',
-            '-o-transform':'translate3d(0,' + oVal +'px,0)'
+});
+
+$(document).on('click', '.navbar-toggler', function() {
+    $toggle = $(this);
+
+    if (materialKit.misc.navbar_menu_visible == 1) {
+        $('html').removeClass('nav-open');
+        materialKit.misc.navbar_menu_visible = 0;
+        $('#bodyClick').remove();
+        setTimeout(function() {
+            $toggle.removeClass('toggled');
+        }, 550);
+
+        $('html').removeClass('nav-open-absolute');
+    } else {
+        setTimeout(function() {
+            $toggle.addClass('toggled');
+        }, 580);
+
+
+        div = '<div id="bodyClick"></div>';
+        $(div).appendTo("body").click(function() {
+            $('html').removeClass('nav-open');
+
+            if ($('nav').hasClass('navbar-absolute')) {
+                $('html').removeClass('nav-open-absolute');
+            }
+            materialKit.misc.navbar_menu_visible = 0;
+            $('#bodyClick').remove();
+            setTimeout(function() {
+                $toggle.removeClass('toggled');
+            }, 550);
         });
 
-    }, 6)
+        if ($('nav').hasClass('navbar-absolute')) {
+            $('html').addClass('nav-open-absolute');
+        }
 
-}
-// Returns a function, that, as long as it continues to be invoked, will not
-// be triggered. The function will be called after it stops being called for
-// N milliseconds. If `immediate` is passed, trigger the function on the
-// leading edge, instead of the trailing.
+        $('html').addClass('nav-open');
+        materialKit.misc.navbar_menu_visible = 1;
+    }
+});
+
+materialKit = {
+  misc: {
+    navbar_menu_visible: 0,
+    window_width: 0,
+    transparent: true,
+    colored_shadows: true,
+    fixedTop: false,
+    navbar_initialized: false,
+    isWindow: document.documentMode || /Edge/.test(navigator.userAgent)
+  },
+
+};
 
 function debounce(func, wait, immediate) {
-	var timeout;
-	return function() {
-		var context = this, args = arguments;
-		clearTimeout(timeout);
-		timeout = setTimeout(function() {
-			timeout = null;
-			if (!immediate) func.apply(context, args);
-		}, wait);
-		if (immediate && !timeout) func.apply(context, args);
-	};
-};
+    var timeout;
+    return function() {
+        var context = this,
+            args = arguments;
+        clearTimeout(timeout);
+        timeout = setTimeout(function() {
+            timeout = null;
+            if (!immediate) func.apply(context, args);
+        }, wait);
+        if (immediate && !timeout) func.apply(context, args);
+    };
+}
