@@ -13,23 +13,14 @@ permalink: /community/
 </div>
 <div class="container">
 {% for section in site.data.community %}
-    <h2>{{ section.name }}</h2>
-  <div class="community_wrapper">
-    <div class="community_section">
-      <div class="community_header">
-      </div>
-      <div class="row">
-      {% for item in section.data %}
-
-        <div class="col-sm-6">
-          <div class="community_item">
-            <a href="{{item.url}}"><h3>{{ item.name }}</h3></a>
-            <p>{{ item.text }}</p>
-          </div>
-        </div>
-      {% endfor %}
-      </div>
+  <h2>{{ section.name }}</h2>
+  <div class="row">
+  {% for item in section.data %}
+    <div class="col-sm-6">
+      <h3><a href="{{item.url}}">{{ item.name }}</a></h3>
+      <p>{{ item.text }}</p>
     </div>
+  {% endfor %}
   </div><br />
 {% endfor %}
 </div>

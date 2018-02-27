@@ -1,0 +1,204 @@
+body {
+  padding-top: 70px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#main {
+  flex: 1;
+}
+
+p,
+li {
+  font-size: 1rem;
+}
+
+h3 a:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.jumbotron {
+  background-color: #167c80;
+  color: white;
+  padding: 34px 0 !important;
+  border-radius: 0 !important;
+}
+
+.welcome {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding: 48px 16px 56px !important;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron p {
+  font-size: 18px !important;
+  line-height: 1.75rem;
+}
+
+.welcome p {
+  margin-bottom: 16px;
+}
+
+.heading {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
+}
+
+.navbar {
+  box-shadow: none;
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+.navbar.scrollUp {
+  -webkit-transform: translateY(-70px);
+          transform: translateY(-70px);
+  box-shadow: none !important;
+}
+
+.navbar-shadow {
+  box-shadow: 0 1px 8px rgba(0,0,0,.3)
+}
+
+.navbar-brand {
+  padding: 14px 15px 6px !important;
+}
+
+.navbar-brand svg {
+  height: 20px;
+  fill: #167c80;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:not(.btn) .material-icons {
+  top: 5px !important;
+}
+
+.navbar-toggler-icon {
+  background-color: #167c80 !important;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent !important;
+}
+
+.nav-open .navbar-collapse {
+  box-shadow: 0 1px 8px rgba(0,0,0,.3);
+}
+
+.btn-white {
+  color: #167c80 !important;
+}
+
+.card {
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
+  margin-bottom: 24px;
+}
+
+.card-body {
+  padding: 16px 24px 0 !important;
+}
+
+.card-title {
+  font-size: 2.125rem;
+  font-weight: 400;
+  margin-top: 0 !important;
+  margin-bottom: 4px !important;
+}
+
+.card-title a {
+  transition: all 0.3s ease-out;
+}
+
+.card-title a:hover {
+  color: #167c80 !important;
+}
+
+.card-text {
+  margin: 0;
+}
+
+.card h6 {
+  margin-bottom: 0;
+}
+
+.footer-icons {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 32px;
+  float: right;
+  height: 100%;
+}
+
+.footer-icons a {
+  transition: .2s;
+  padding-right: 4px;
+}
+
+.footer-icons a:hover {
+  opacity: 0.5;
+  color: #167c80 !important;
+}
+
+.footer {
+  background-color: #eee;
+  padding: 16px 0;
+  margin-top: 40px;
+}
+
+.footer-logo {
+  fill: #6c757d;
+  margin: 8px 0 4px;
+  height: 32px;
+}
+
+.footer-text {
+  color: #6c757d;
+  margin-bottom: 14px;
+  font-size: 0.875rem;
+}
+
+.post .jumbotron h1 {
+  font-size: 2.5rem;
+}
+
+.no-script {
+  background: #424242;
+  color: white;
+  font-weight: 400;
+  padding: 8px 0;
+}
+
+.no-script a {
+  color: white;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+
+  .footer-icons,
+  .footer {
+    text-align: center;
+    float: none
+  }
+
+  .post .jumbotron {
+    padding: 24px 0 !important;
+  }
+}
+
+.blog_post_image {
+  max-width: 100%;
+}
+
+.blog_post_image_full {
+  width: 100%;
+}

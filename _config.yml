@@ -8,7 +8,7 @@ name: LineageOS
 # Short bio or description (displayed in the header)
 description: LineageOS Android Distribution
 
-
+repository: LineageOS/www
 #
 # Flags below are optional
 #
