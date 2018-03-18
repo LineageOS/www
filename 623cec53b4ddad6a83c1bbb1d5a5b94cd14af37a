@@ -1,0 +1,1039 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a6c4479c_c58c0704",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "operating",
+      "range": {
+        "startLine": 13,
+        "startChar": 16,
+        "endLine": 13,
+        "endChar": 25
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "83ca8e99_208e0aba",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "superfluous",
+      "range": {
+        "startLine": 14,
+        "startChar": 56,
+        "endLine": 14,
+        "endChar": 59
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a3676902_af01c65a",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "help ensure?",
+      "range": {
+        "startLine": 15,
+        "startChar": 160,
+        "endLine": 15,
+        "endChar": 166
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b98f2136_387a53e8",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "that their",
+      "range": {
+        "startLine": 15,
+        "startChar": 178,
+        "endLine": 15,
+        "endChar": 183
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1bc2449d_5847ae06",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "don\u0027t they already?",
+      "range": {
+        "startLine": 15,
+        "startChar": 155,
+        "endLine": 15,
+        "endChar": 159
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6054b7bc_57ad9287",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "comma",
+      "range": {
+        "startLine": 16,
+        "startChar": 91,
+        "endLine": 16,
+        "endChar": 92
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d983c557_13dee4ad",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "because",
+      "range": {
+        "startLine": 16,
+        "startChar": 66,
+        "endLine": 16,
+        "endChar": 70
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fc0411e6_9c430977",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "expose",
+      "range": {
+        "startLine": 20,
+        "startChar": 89,
+        "endLine": 20,
+        "endChar": 96
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f4ea4b21_1b7a34a7",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "superfluous",
+      "range": {
+        "startLine": 20,
+        "startChar": 86,
+        "endLine": 20,
+        "endChar": 88
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9bd19715_1b9fd1db",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "to app developers?",
+      "range": {
+        "startLine": 21,
+        "startChar": 9,
+        "endLine": 21,
+        "endChar": 24
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "be558010_83eb1898",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "extra functionality",
+      "range": {
+        "startLine": 20,
+        "startChar": 102,
+        "endLine": 21,
+        "endChar": 8
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dadb048b_b1a90954",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "codenames shouldn\u0027t be obvious",
+      "range": {
+        "startLine": 23,
+        "startChar": 36,
+        "endLine": 23,
+        "endChar": 73
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e5b2fd01_f1f61ba1",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "available to?",
+      "range": {
+        "startLine": 23,
+        "startChar": 112,
+        "endLine": 24,
+        "endChar": 3
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d80df75d_9320a3c0",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "unneeded",
+      "range": {
+        "startLine": 30,
+        "startChar": 26,
+        "endLine": 30,
+        "endChar": 29
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "70408032_f4f4679a",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "users",
+      "range": {
+        "startLine": 30,
+        "startChar": 71,
+        "endLine": 30,
+        "endChar": 79
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "472f0332_894efe17",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "maybe put this caluse after \"optional dark theme\"",
+      "range": {
+        "startLine": 33,
+        "startChar": 20,
+        "endLine": 33,
+        "endChar": 63
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2cea8ddc_e17bfa77",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "Period",
+      "range": {
+        "startLine": 34,
+        "startChar": 121,
+        "endLine": 34,
+        "endChar": 122
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "35a96c09_685fcd0d",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "You",
+      "range": {
+        "startLine": 34,
+        "startChar": 123,
+        "endLine": 34,
+        "endChar": 129
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "87294189_da715b7d",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "unneeded",
+      "range": {
+        "startLine": 34,
+        "startChar": 136,
+        "endLine": 34,
+        "endChar": 140
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c2881fa2_859e96f6",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "add comma",
+      "range": {
+        "startLine": 35,
+        "startChar": 76,
+        "endLine": 35,
+        "endChar": 85
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bfda5e8e_27773c02",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "a",
+      "range": {
+        "startLine": 35,
+        "startChar": 6,
+        "endLine": 35,
+        "endChar": 8
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d39281af_a2adcfa8",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "a painless",
+      "range": {
+        "startLine": 36,
+        "startChar": 44,
+        "endLine": 36,
+        "endChar": 52
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f90971e0_455fd9dc",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "W",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 5
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e274a834_421c6c6b",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "your imagination",
+      "range": {
+        "startLine": 39,
+        "startChar": 132,
+        "endLine": 39,
+        "endChar": 139
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "eaa1c3af_426b843d",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": ";",
+      "range": {
+        "startLine": 39,
+        "startChar": 130,
+        "endLine": 39,
+        "endChar": 131
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cca6d86f_61230464",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "and",
+      "range": {
+        "startLine": 39,
+        "startChar": 91,
+        "endLine": 39,
+        "endChar": 93
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6c98bd11_b3f71873",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "based",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 6
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "50fdb340_b483e7a9",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "You can head",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 4
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9caa4d77_ec2a1dd7",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "system settings",
+      "range": {
+        "startLine": 45,
+        "startChar": 94,
+        "endLine": 45,
+        "endChar": 114
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ea0790d2_db9bb6a4",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "allow users",
+      "range": {
+        "startLine": 45,
+        "startChar": 70,
+        "endLine": 45,
+        "endChar": 75
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "82286783_0b971ef1",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "features in LineageOS",
+      "range": {
+        "startLine": 45,
+        "startChar": 45,
+        "endLine": 45,
+        "endChar": 63
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1865ce00_63157af5",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "as they",
+      "range": {
+        "startLine": 45,
+        "startChar": 65,
+        "endLine": 45,
+        "endChar": 69
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "682469a9_455ccad5",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "Oxford comma ftw",
+      "range": {
+        "startLine": 46,
+        "startChar": 89,
+        "endLine": 46,
+        "endChar": 98
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5577aa3d_bf25fd83",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "add parens maybe?",
+      "range": {
+        "startLine": 47,
+        "startChar": 98,
+        "endLine": 47,
+        "endChar": 116
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b85615d3_c0c9a555",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "This entire block sounds awkward to me. Not really sure how to reword it atm.",
+      "range": {
+        "startLine": 49,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 206
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "59b05218_37247a6c",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "The profiles API",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 8
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fe675e6a_f1b089ff",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "I thought they were controlling their own settings/preferences based on a profile update?",
+      "range": {
+        "startLine": 52,
+        "startChar": 37,
+        "endLine": 52,
+        "endChar": 44
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e3dc39e9_5b8bbbb3",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "unneeded",
+      "range": {
+        "startLine": 52,
+        "startChar": 33,
+        "endLine": 52,
+        "endChar": 36
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c4def798_5f4cb1ab",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "empowers",
+      "range": {
+        "startLine": 52,
+        "startChar": 9,
+        "endLine": 52,
+        "endChar": 16
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ca170683_d1310d72",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "You can head",
+      "range": {
+        "startLine": 55,
+        "startChar": 0,
+        "endLine": 55,
+        "endChar": 4
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "896867e2_46c145b5",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "and you can check",
+      "range": {
+        "startLine": 59,
+        "startChar": 81,
+        "endLine": 59,
+        "endChar": 86
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "189e0a0a_0f07a98f",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "apostraphe goes on week, and I think it\u0027s \"this week\u0027s\", but I could be wrong.",
+      "range": {
+        "startLine": 63,
+        "startChar": 45,
+        "endLine": 63,
+        "endChar": 49
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ec7ea038_fa5139ea",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "Also feels awkwardly worded, and not sure how to fix",
+      "range": {
+        "startLine": 65,
+        "startChar": 158,
+        "endLine": 66,
+        "endChar": 64
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5aa18345_700cbb67",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "comma",
+      "range": {
+        "startLine": 68,
+        "startChar": 7,
+        "endLine": 68,
+        "endChar": 14
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b37b5500_a107a585",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-03-18T19:35:28Z",
+      "side": 1,
+      "message": "questions, you can",
+      "range": {
+        "startLine": 70,
+        "startChar": 16,
+        "endLine": 70,
+        "endChar": 24
+      },
+      "revId": "623cec53b4ddad6a83c1bbb1d5a5b94cd14af37a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
