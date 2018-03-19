@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f3423006_004959e1",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": ":-\u003e ;",
+      "range": {
+        "startLine": 16,
+        "startChar": 91,
+        "endLine": 16,
+        "endChar": 92
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bdd76637_6c6b82fc",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": "frameworks",
+      "range": {
+        "startLine": 20,
+        "startChar": 20,
+        "endLine": 20,
+        "endChar": 30
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "dcf20433_40bf13b3",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": "redundant, remove this",
+      "range": {
+        "startLine": 24,
+        "startChar": 249,
+        "endLine": 24,
+        "endChar": 266
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b98abb1b_20f49883",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": "a (yeah it\u0027s weird)",
+      "range": {
+        "startLine": 35,
+        "startChar": 6,
+        "endLine": 35,
+        "endChar": 8
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "68f8e5b4_b191b187",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": ",-\u003e .",
+      "range": {
+        "startLine": 49,
+        "startChar": 132,
+        "endLine": 49,
+        "endChar": 133
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1948bdef_06b7158e",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": "W",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 1
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e1a897c2_b927bd67",
+        "filename": "_posts/2018-03-19-Introducing-the-LineageSDK.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-03-19T19:56:40Z",
+      "side": 1,
+      "message": "using",
+      "range": {
+        "startLine": 52,
+        "startChar": 106,
+        "endLine": 52,
+        "endChar": 114
+      },
+      "revId": "6985b5a384e7376606cb53145c335af0adf57579",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
