@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "00127301_512c39ad",
+        "filename": "_posts/2018-04-01-Changelog-17.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-03-31T19:17:12Z",
+      "side": 1,
+      "message": "Just drop this. Either commit to the \u0027fool\u0027 or don\u0027t do it at all.",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 32
+      },
+      "revId": "50312e09ea9b4b7f93c24c6e0d8286fde600648d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
