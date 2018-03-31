@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ad74838a_07a764ca",
+        "filename": "_posts/2018-04-01-Changelog-17.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-03-31T19:20:23Z",
+      "side": 1,
+      "message": "unnecessary",
+      "range": {
+        "startLine": 15,
+        "startChar": 33,
+        "endLine": 15,
+        "endChar": 37
+      },
+      "revId": "40f2cc397f72bc68461dc4cf3f7f66158025f4a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "38b9379c_65e93c20",
+        "filename": "_posts/2018-04-01-Changelog-17.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-03-31T19:20:23Z",
+      "side": 1,
+      "message": "information (drop the s)",
+      "range": {
+        "startLine": 16,
+        "startChar": 120,
+        "endLine": 16,
+        "endChar": 132
+      },
+      "revId": "40f2cc397f72bc68461dc4cf3f7f66158025f4a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "23fce197_4318dc55",
+        "filename": "_posts/2018-04-01-Changelog-17.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-03-31T19:20:23Z",
+      "side": 1,
+      "message": "phone number",
+      "range": {
+        "startLine": 17,
+        "startChar": 8,
+        "endLine": 17,
+        "endChar": 14
+      },
+      "revId": "40f2cc397f72bc68461dc4cf3f7f66158025f4a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0c2e9311_8caf56aa",
+        "filename": "_posts/2018-04-01-Changelog-17.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2018-03-31T19:20:23Z",
+      "side": 1,
+      "message": "number",
+      "range": {
+        "startLine": 19,
+        "startChar": 62,
+        "endLine": 19,
+        "endChar": 69
+      },
+      "revId": "40f2cc397f72bc68461dc4cf3f7f66158025f4a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
