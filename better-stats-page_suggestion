@@ -1,0 +1,114 @@
+
+<html><body>
+
+You have disabled the "issues" in https://github.com/LineageOS/www
+so I did not know how else to communicate with you guys.
+
+<p/>
+The only email address that I could find on the site is legal@lineageos.org - and legal people for sure cannot help with this.
+
+
+<p/>
+
+Why am I suggesting this?
+
+
+<p/>
+
+I am on the search for new phone hardware, and I want to look at the 50 most LineageOS-popular phones.
+
+<p/>
+The stats page is the best starting point. But your current stats page only contains useless links. To e.g. https://stats.lineageos.org/model/bacon --> "Individual stats are not currently available"
+
+
+<br/>
+= useless.
+
+
+<p/>
+<h1>Solution:</h1>
+
+Why not link to the wikipages about each of the phones.
+
+
+<h2>Example:</h2>
+Improve with DL and INFO icons instead of textlinks, etc. - but it shows what I mean.
+<p/>
+
+<!--
+
+import csv
+
+FILENAME="LineageOS_better-stats-page.csv"
+
+with open(FILENAME+".html", "w") as outputfile:
+
+    outputfile.write('<html><body><table>\n');
+    counter=0
+    with open(FILENAME, 'rb') as csvfile:
+        myreader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        for row in myreader:
+            outputfile.write( '<tr> <td>%s</td> <td>%s</td> <td><a href="%s">%s</a></td> <td><a href="%s">%s</a></td> <td><a href="%s">%s</a></td> </tr> \n' % (row[0], row[1],row[2],row[2],row[3],row[3],row[4],row[4],))
+            counter+=1
+            if counter>50:
+                break
+
+    outputfile.write( '</table></body></html> \n' )        
+                             
+
+-->
+
+
+<table>
+<tr> <td>rank</td> <td>codename</td> <td>device info</td> <td>download</td> <td>useless link</td> </tr> 
+<tr> <td>1</td> <td>bacon</td> <td><a href="https://wiki.lineageos.org/devices/bacon">https://wiki.lineageos.org/devices/bacon</a></td> <td><a href="https://download.lineageos.org/bacon">https://download.lineageos.org/bacon</a></td> <td><a href="https://stats.lineageos.org/model/bacon">https://stats.lineageos.org/model/bacon</a></td> </tr> 
+<tr> <td>2</td> <td>i9300</td> <td><a href="https://wiki.lineageos.org/devices/i9300">https://wiki.lineageos.org/devices/i9300</a></td> <td><a href="https://download.lineageos.org/i9300">https://download.lineageos.org/i9300</a></td> <td><a href="https://stats.lineageos.org/model/i9300">https://stats.lineageos.org/model/i9300</a></td> </tr> 
+<tr> <td>3</td> <td>mido</td> <td><a href="https://wiki.lineageos.org/devices/mido">https://wiki.lineageos.org/devices/mido</a></td> <td><a href="https://download.lineageos.org/mido">https://download.lineageos.org/mido</a></td> <td><a href="https://stats.lineageos.org/model/mido">https://stats.lineageos.org/model/mido</a></td> </tr> 
+<tr> <td>4</td> <td>wt88047</td> <td><a href="https://wiki.lineageos.org/devices/wt88047">https://wiki.lineageos.org/devices/wt88047</a></td> <td><a href="https://download.lineageos.org/wt88047">https://download.lineageos.org/wt88047</a></td> <td><a href="https://stats.lineageos.org/model/wt88047">https://stats.lineageos.org/model/wt88047</a></td> </tr> 
+<tr> <td>5</td> <td>klte</td> <td><a href="https://wiki.lineageos.org/devices/klte">https://wiki.lineageos.org/devices/klte</a></td> <td><a href="https://download.lineageos.org/klte">https://download.lineageos.org/klte</a></td> <td><a href="https://stats.lineageos.org/model/klte">https://stats.lineageos.org/model/klte</a></td> </tr> 
+<tr> <td>6</td> <td>osprey</td> <td><a href="https://wiki.lineageos.org/devices/osprey">https://wiki.lineageos.org/devices/osprey</a></td> <td><a href="https://download.lineageos.org/osprey">https://download.lineageos.org/osprey</a></td> <td><a href="https://stats.lineageos.org/model/osprey">https://stats.lineageos.org/model/osprey</a></td> </tr> 
+<tr> <td>7</td> <td>gemini</td> <td><a href="https://wiki.lineageos.org/devices/gemini">https://wiki.lineageos.org/devices/gemini</a></td> <td><a href="https://download.lineageos.org/gemini">https://download.lineageos.org/gemini</a></td> <td><a href="https://stats.lineageos.org/model/gemini">https://stats.lineageos.org/model/gemini</a></td> </tr> 
+<tr> <td>8</td> <td>titan</td> <td><a href="https://wiki.lineageos.org/devices/titan">https://wiki.lineageos.org/devices/titan</a></td> <td><a href="https://download.lineageos.org/titan">https://download.lineageos.org/titan</a></td> <td><a href="https://stats.lineageos.org/model/titan">https://stats.lineageos.org/model/titan</a></td> </tr> 
+<tr> <td>9</td> <td>hammerhead</td> <td><a href="https://wiki.lineageos.org/devices/hammerhead">https://wiki.lineageos.org/devices/hammerhead</a></td> <td><a href="https://download.lineageos.org/hammerhead">https://download.lineageos.org/hammerhead</a></td> <td><a href="https://stats.lineageos.org/model/hammerhead">https://stats.lineageos.org/model/hammerhead</a></td> </tr> 
+<tr> <td>10</td> <td>kenzo</td> <td><a href="https://wiki.lineageos.org/devices/kenzo">https://wiki.lineageos.org/devices/kenzo</a></td> <td><a href="https://download.lineageos.org/kenzo">https://download.lineageos.org/kenzo</a></td> <td><a href="https://stats.lineageos.org/model/kenzo">https://stats.lineageos.org/model/kenzo</a></td> </tr> 
+<tr> <td>11</td> <td>oneplus3</td> <td><a href="https://wiki.lineageos.org/devices/oneplus3">https://wiki.lineageos.org/devices/oneplus3</a></td> <td><a href="https://download.lineageos.org/oneplus3">https://download.lineageos.org/oneplus3</a></td> <td><a href="https://stats.lineageos.org/model/oneplus3">https://stats.lineageos.org/model/oneplus3</a></td> </tr> 
+<tr> <td>12</td> <td>x620</td> <td><a href="https://wiki.lineageos.org/devices/x620">https://wiki.lineageos.org/devices/x620</a></td> <td><a href="https://download.lineageos.org/x620">https://download.lineageos.org/x620</a></td> <td><a href="https://stats.lineageos.org/model/x620">https://stats.lineageos.org/model/x620</a></td> </tr> 
+<tr> <td>13</td> <td>falcon</td> <td><a href="https://wiki.lineageos.org/devices/falcon">https://wiki.lineageos.org/devices/falcon</a></td> <td><a href="https://download.lineageos.org/falcon">https://download.lineageos.org/falcon</a></td> <td><a href="https://stats.lineageos.org/model/falcon">https://stats.lineageos.org/model/falcon</a></td> </tr> 
+<tr> <td>14</td> <td>athene</td> <td><a href="https://wiki.lineageos.org/devices/athene">https://wiki.lineageos.org/devices/athene</a></td> <td><a href="https://download.lineageos.org/athene">https://download.lineageos.org/athene</a></td> <td><a href="https://stats.lineageos.org/model/athene">https://stats.lineageos.org/model/athene</a></td> </tr> 
+<tr> <td>15</td> <td>jfltexx</td> <td><a href="https://wiki.lineageos.org/devices/jfltexx">https://wiki.lineageos.org/devices/jfltexx</a></td> <td><a href="https://download.lineageos.org/jfltexx">https://download.lineageos.org/jfltexx</a></td> <td><a href="https://stats.lineageos.org/model/jfltexx">https://stats.lineageos.org/model/jfltexx</a></td> </tr> 
+<tr> <td>16</td> <td>x2</td> <td><a href="https://wiki.lineageos.org/devices/x2">https://wiki.lineageos.org/devices/x2</a></td> <td><a href="https://download.lineageos.org/x2">https://download.lineageos.org/x2</a></td> <td><a href="https://stats.lineageos.org/model/x2">https://stats.lineageos.org/model/x2</a></td> </tr> 
+<tr> <td>17</td> <td>capricorn</td> <td><a href="https://wiki.lineageos.org/devices/capricorn">https://wiki.lineageos.org/devices/capricorn</a></td> <td><a href="https://download.lineageos.org/capricorn">https://download.lineageos.org/capricorn</a></td> <td><a href="https://stats.lineageos.org/model/capricorn">https://stats.lineageos.org/model/capricorn</a></td> </tr> 
+<tr> <td>18</td> <td>oneplus2</td> <td><a href="https://wiki.lineageos.org/devices/oneplus2">https://wiki.lineageos.org/devices/oneplus2</a></td> <td><a href="https://download.lineageos.org/oneplus2">https://download.lineageos.org/oneplus2</a></td> <td><a href="https://stats.lineageos.org/model/oneplus2">https://stats.lineageos.org/model/oneplus2</a></td> </tr> 
+<tr> <td>19</td> <td>hlte</td> <td><a href="https://wiki.lineageos.org/devices/hlte">https://wiki.lineageos.org/devices/hlte</a></td> <td><a href="https://download.lineageos.org/hlte">https://download.lineageos.org/hlte</a></td> <td><a href="https://stats.lineageos.org/model/hlte">https://stats.lineageos.org/model/hlte</a></td> </tr> 
+<tr> <td>20</td> <td>espressowifi</td> <td><a href="https://wiki.lineageos.org/devices/espressowifi">https://wiki.lineageos.org/devices/espressowifi</a></td> <td><a href="https://download.lineageos.org/espressowifi">https://download.lineageos.org/espressowifi</a></td> <td><a href="https://stats.lineageos.org/model/espressowifi">https://stats.lineageos.org/model/espressowifi</a></td> </tr> 
+<tr> <td>21</td> <td>zl1</td> <td><a href="https://wiki.lineageos.org/devices/zl1">https://wiki.lineageos.org/devices/zl1</a></td> <td><a href="https://download.lineageos.org/zl1">https://download.lineageos.org/zl1</a></td> <td><a href="https://stats.lineageos.org/model/zl1">https://stats.lineageos.org/model/zl1</a></td> </tr> 
+<tr> <td>22</td> <td>m8</td> <td><a href="https://wiki.lineageos.org/devices/m8">https://wiki.lineageos.org/devices/m8</a></td> <td><a href="https://download.lineageos.org/m8">https://download.lineageos.org/m8</a></td> <td><a href="https://stats.lineageos.org/model/m8">https://stats.lineageos.org/model/m8</a></td> </tr> 
+<tr> <td>23</td> <td>i9100</td> <td><a href="https://wiki.lineageos.org/devices/i9100">https://wiki.lineageos.org/devices/i9100</a></td> <td><a href="https://download.lineageos.org/i9100">https://download.lineageos.org/i9100</a></td> <td><a href="https://stats.lineageos.org/model/i9100">https://stats.lineageos.org/model/i9100</a></td> </tr> 
+<tr> <td>24</td> <td>serranoltexx</td> <td><a href="https://wiki.lineageos.org/devices/serranoltexx">https://wiki.lineageos.org/devices/serranoltexx</a></td> <td><a href="https://download.lineageos.org/serranoltexx">https://download.lineageos.org/serranoltexx</a></td> <td><a href="https://stats.lineageos.org/model/serranoltexx">https://stats.lineageos.org/model/serranoltexx</a></td> </tr> 
+<tr> <td>25</td> <td>flo</td> <td><a href="https://wiki.lineageos.org/devices/flo">https://wiki.lineageos.org/devices/flo</a></td> <td><a href="https://download.lineageos.org/flo">https://download.lineageos.org/flo</a></td> <td><a href="https://stats.lineageos.org/model/flo">https://stats.lineageos.org/model/flo</a></td> </tr> 
+<tr> <td>26</td> <td>i9082</td> <td><a href="https://wiki.lineageos.org/devices/i9082">https://wiki.lineageos.org/devices/i9082</a></td> <td><a href="https://download.lineageos.org/i9082">https://download.lineageos.org/i9082</a></td> <td><a href="https://stats.lineageos.org/model/i9082">https://stats.lineageos.org/model/i9082</a></td> </tr> 
+<tr> <td>27</td> <td>espresso3g</td> <td><a href="https://wiki.lineageos.org/devices/espresso3g">https://wiki.lineageos.org/devices/espresso3g</a></td> <td><a href="https://download.lineageos.org/espresso3g">https://download.lineageos.org/espresso3g</a></td> <td><a href="https://stats.lineageos.org/model/espresso3g">https://stats.lineageos.org/model/espresso3g</a></td> </tr> 
+<tr> <td>28</td> <td>shamu</td> <td><a href="https://wiki.lineageos.org/devices/shamu">https://wiki.lineageos.org/devices/shamu</a></td> <td><a href="https://download.lineageos.org/shamu">https://download.lineageos.org/shamu</a></td> <td><a href="https://stats.lineageos.org/model/shamu">https://stats.lineageos.org/model/shamu</a></td> </tr> 
+<tr> <td>29</td> <td>rpi3</td> <td><a href="https://wiki.lineageos.org/devices/rpi3">https://wiki.lineageos.org/devices/rpi3</a></td> <td><a href="https://download.lineageos.org/rpi3">https://download.lineageos.org/rpi3</a></td> <td><a href="https://stats.lineageos.org/model/rpi3">https://stats.lineageos.org/model/rpi3</a></td> </tr> 
+<tr> <td>30</td> <td>libra</td> <td><a href="https://wiki.lineageos.org/devices/libra">https://wiki.lineageos.org/devices/libra</a></td> <td><a href="https://download.lineageos.org/libra">https://download.lineageos.org/libra</a></td> <td><a href="https://stats.lineageos.org/model/libra">https://stats.lineageos.org/model/libra</a></td> </tr> 
+<tr> <td>31</td> <td>ido</td> <td><a href="https://wiki.lineageos.org/devices/ido">https://wiki.lineageos.org/devices/ido</a></td> <td><a href="https://download.lineageos.org/ido">https://download.lineageos.org/ido</a></td> <td><a href="https://stats.lineageos.org/model/ido">https://stats.lineageos.org/model/ido</a></td> </tr> 
+<tr> <td>32</td> <td>condor</td> <td><a href="https://wiki.lineageos.org/devices/condor">https://wiki.lineageos.org/devices/condor</a></td> <td><a href="https://download.lineageos.org/condor">https://download.lineageos.org/condor</a></td> <td><a href="https://stats.lineageos.org/model/condor">https://stats.lineageos.org/model/condor</a></td> </tr> 
+<tr> <td>33</td> <td>Z00A</td> <td><a href="https://wiki.lineageos.org/devices/Z00A">https://wiki.lineageos.org/devices/Z00A</a></td> <td><a href="https://download.lineageos.org/Z00A">https://download.lineageos.org/Z00A</a></td> <td><a href="https://stats.lineageos.org/model/Z00A">https://stats.lineageos.org/model/Z00A</a></td> </tr> 
+<tr> <td>34</td> <td>land</td> <td><a href="https://wiki.lineageos.org/devices/land">https://wiki.lineageos.org/devices/land</a></td> <td><a href="https://download.lineageos.org/land">https://download.lineageos.org/land</a></td> <td><a href="https://stats.lineageos.org/model/land">https://stats.lineageos.org/model/land</a></td> </tr> 
+<tr> <td>35</td> <td>mako</td> <td><a href="https://wiki.lineageos.org/devices/mako">https://wiki.lineageos.org/devices/mako</a></td> <td><a href="https://download.lineageos.org/mako">https://download.lineageos.org/mako</a></td> <td><a href="https://stats.lineageos.org/model/mako">https://stats.lineageos.org/model/mako</a></td> </tr> 
+<tr> <td>36</td> <td>android_x86_64</td> <td><a href="https://wiki.lineageos.org/devices/android_x86_64">https://wiki.lineageos.org/devices/android_x86_64</a></td> <td><a href="https://download.lineageos.org/android_x86_64">https://download.lineageos.org/android_x86_64</a></td> <td><a href="https://stats.lineageos.org/model/android_x86_64">https://stats.lineageos.org/model/android_x86_64</a></td> </tr> 
+<tr> <td>37</td> <td>ham</td> <td><a href="https://wiki.lineageos.org/devices/ham">https://wiki.lineageos.org/devices/ham</a></td> <td><a href="https://download.lineageos.org/ham">https://download.lineageos.org/ham</a></td> <td><a href="https://stats.lineageos.org/model/ham">https://stats.lineageos.org/model/ham</a></td> </tr> 
+<tr> <td>38</td> <td>santoni</td> <td><a href="https://wiki.lineageos.org/devices/santoni">https://wiki.lineageos.org/devices/santoni</a></td> <td><a href="https://download.lineageos.org/santoni">https://download.lineageos.org/santoni</a></td> <td><a href="https://stats.lineageos.org/model/santoni">https://stats.lineageos.org/model/santoni</a></td> </tr> 
+<tr> <td>39</td> <td>zerofltexx</td> <td><a href="https://wiki.lineageos.org/devices/zerofltexx">https://wiki.lineageos.org/devices/zerofltexx</a></td> <td><a href="https://download.lineageos.org/zerofltexx">https://download.lineageos.org/zerofltexx</a></td> <td><a href="https://stats.lineageos.org/model/zerofltexx">https://stats.lineageos.org/model/zerofltexx</a></td> </tr> 
+<tr> <td>40</td> <td>cancro</td> <td><a href="https://wiki.lineageos.org/devices/cancro">https://wiki.lineageos.org/devices/cancro</a></td> <td><a href="https://download.lineageos.org/cancro">https://download.lineageos.org/cancro</a></td> <td><a href="https://stats.lineageos.org/model/cancro">https://stats.lineageos.org/model/cancro</a></td> </tr> 
+<tr> <td>41</td> <td>golden</td> <td><a href="https://wiki.lineageos.org/devices/golden">https://wiki.lineageos.org/devices/golden</a></td> <td><a href="https://download.lineageos.org/golden">https://download.lineageos.org/golden</a></td> <td><a href="https://stats.lineageos.org/model/golden">https://stats.lineageos.org/model/golden</a></td> </tr> 
+<tr> <td>42</td> <td>tissot</td> <td><a href="https://wiki.lineageos.org/devices/tissot">https://wiki.lineageos.org/devices/tissot</a></td> <td><a href="https://download.lineageos.org/tissot">https://download.lineageos.org/tissot</a></td> <td><a href="https://stats.lineageos.org/model/tissot">https://stats.lineageos.org/model/tissot</a></td> </tr> 
+<tr> <td>43</td> <td>onyx</td> <td><a href="https://wiki.lineageos.org/devices/onyx">https://wiki.lineageos.org/devices/onyx</a></td> <td><a href="https://download.lineageos.org/onyx">https://download.lineageos.org/onyx</a></td> <td><a href="https://stats.lineageos.org/model/onyx">https://stats.lineageos.org/model/onyx</a></td> </tr> 
+<tr> <td>44</td> <td>d855</td> <td><a href="https://wiki.lineageos.org/devices/d855">https://wiki.lineageos.org/devices/d855</a></td> <td><a href="https://download.lineageos.org/d855">https://download.lineageos.org/d855</a></td> <td><a href="https://stats.lineageos.org/model/d855">https://stats.lineageos.org/model/d855</a></td> </tr> 
+<tr> <td>45</td> <td>A6020</td> <td><a href="https://wiki.lineageos.org/devices/A6020">https://wiki.lineageos.org/devices/A6020</a></td> <td><a href="https://download.lineageos.org/A6020">https://download.lineageos.org/A6020</a></td> <td><a href="https://stats.lineageos.org/model/A6020">https://stats.lineageos.org/model/A6020</a></td> </tr> 
+<tr> <td>46</td> <td>harpia</td> <td><a href="https://wiki.lineageos.org/devices/harpia">https://wiki.lineageos.org/devices/harpia</a></td> <td><a href="https://download.lineageos.org/harpia">https://download.lineageos.org/harpia</a></td> <td><a href="https://stats.lineageos.org/model/harpia">https://stats.lineageos.org/model/harpia</a></td> </tr> 
+<tr> <td>47</td> <td>victara</td> <td><a href="https://wiki.lineageos.org/devices/victara">https://wiki.lineageos.org/devices/victara</a></td> <td><a href="https://download.lineageos.org/victara">https://download.lineageos.org/victara</a></td> <td><a href="https://stats.lineageos.org/model/victara">https://stats.lineageos.org/model/victara</a></td> </tr> 
+<tr> <td>48</td> <td>n7000</td> <td><a href="https://wiki.lineageos.org/devices/n7000">https://wiki.lineageos.org/devices/n7000</a></td> <td><a href="https://download.lineageos.org/n7000">https://download.lineageos.org/n7000</a></td> <td><a href="https://stats.lineageos.org/model/n7000">https://stats.lineageos.org/model/n7000</a></td> </tr> 
+<tr> <td>49</td> <td>bullhead</td> <td><a href="https://wiki.lineageos.org/devices/bullhead">https://wiki.lineageos.org/devices/bullhead</a></td> <td><a href="https://download.lineageos.org/bullhead">https://download.lineageos.org/bullhead</a></td> <td><a href="https://stats.lineageos.org/model/bullhead">https://stats.lineageos.org/model/bullhead</a></td> </tr> 
+<tr> <td>50</td> <td>herolte</td> <td><a href="https://wiki.lineageos.org/devices/herolte">https://wiki.lineageos.org/devices/herolte</a></td> <td><a href="https://download.lineageos.org/herolte">https://download.lineageos.org/herolte</a></td> <td><a href="https://stats.lineageos.org/model/herolte">https://stats.lineageos.org/model/herolte</a></td> </tr> 
+</table></body></html> 
