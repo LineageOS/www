@@ -63,3 +63,15 @@ We will share the information we have with entities outside of LineageOS if we h
  - protect against harm to the rights, property, or safety of LineageOS, our users, or the public as required or permitted by law.
 
 We will update this privacy policy as needed so that it is current, accurate, and as clear as possible.
+
+## Trademark Policy
+
+The name "LineageOS" (and any similar marks, such as "Lineage", in relation to mobile operating systems) are property of LineageOS LLC. 
+
+To reduce the process overhead and uphold our open-source spirit, we've chosen to adopt the Linux Foundation's [policy on trademark usage](https://www.linuxfoundation.org/trademark-usage/), with some additional provisions (located at the bottom of this page).
+
+You need to apply for a sublicense if you are using the term "LineageOS" as part of your own trademark or brand identifier for Lineage-based goods or service. It doesn't matter if your trademark is unregistered, or if you do not plan to make any money using the mark. Please contact legal@lineageos.org for more information. 
+
+Exceptions: 
+
+* We grant you a revokable, non-sublicenseable, non-exclusive license to use the terms Lineage and LineageOS for any AOSP-based derivative works **as long as you have clearly marked your work as unofficial and provided attribution back to our project, either via a link to our website (https://lineageos.org), or to our github (https://github.com/LineageOS)**. This license is not valid for paid products, please contact legal@lineageos.org for more information.
