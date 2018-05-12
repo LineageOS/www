@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "aa23127c_33a9bd72",
+        "filename": "legal.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-05-12T14:10:00Z",
+      "side": 1,
+      "message": "do we really need AOSP-based here?",
+      "range": {
+        "startLine": 77,
+        "startChar": 117,
+        "endLine": 77,
+        "endChar": 138
+      },
+      "revId": "63dd327c751be351d31cd150fd70076cd514a32a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
