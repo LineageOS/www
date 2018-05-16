@@ -1,0 +1,56 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "26ee31f9_0c7e1154",
+        "filename": "_posts/2018-05-20-Changelog-18.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-05-16T06:20:25Z",
+      "side": 1,
+      "message": "2 spaces between rewritten and as",
+      "parentUuid": "",
+      "revId": "c2e1de5fd5324950b9dcbcf12501fd33e55808d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c4d62976_4bfb0b22",
+        "filename": "_posts/2018-05-20-Changelog-18.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-05-16T06:20:25Z",
+      "side": 1,
+      "message": "HAL",
+      "revId": "c2e1de5fd5324950b9dcbcf12501fd33e55808d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e4d944ff_24bb2d0a",
+        "filename": "_posts/2018-05-20-Changelog-18.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-05-16T06:20:25Z",
+      "side": 1,
+      "message": "SSH?",
+      "revId": "c2e1de5fd5324950b9dcbcf12501fd33e55808d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
