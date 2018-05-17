@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9e835a4a_6e8203dd",
+        "filename": "_posts/2018-05-20-Changelog-18.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-05-17T19:36:34Z",
+      "side": 1,
+      "message": "get rid of \u0027on\u0027",
+      "revId": "d3fd2a8911e071cdada79d6ebab6e99f8dea5705",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e46e75fd_5a0d5130",
+        "filename": "_posts/2018-05-20-Changelog-18.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-05-17T19:36:34Z",
+      "side": 1,
+      "message": "maybe \"while you\u0027re in a call\"?",
+      "revId": "d3fd2a8911e071cdada79d6ebab6e99f8dea5705",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
