@@ -55,6 +55,11 @@ We do not share your information with companies, organizations, or individuals o
 - With your consent (Submission of bug reports to our bug tracking platform is considered consent.)
 - When legally required.
 
+When using our code review platform (Gerrit), you agree that:
+
+- During account creation, we collect your name, username, and email from a third party. This data is immediately made public.
+- Your name and email address will become embedded and part of the code, which will be publicly available. You understand that the removal of this information would be impermissibly destructive to the project and the interests of all who contribute, utilize, and benefit from it. You waive any right to request erasure, removal, or rectification of this information under any applicable privacy or other law and understand that providing this information is required to contribute to the project.
+
 We will share the information we have with entities outside of LineageOS if we have a good faith belief that access, use, preservation, or disclosure of the information is necessary to:
 
  - meet any applicable law, regulation, legal process or enforceable governmental request.
