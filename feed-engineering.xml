@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LineageOS Engineering Blog</title>
+    <description>Technical blog posts on android internals</description>
+    <link>{{ site.url }}</link>
+    {% for post in site.categories.engineering %}
+        <item>
+            <title>{{ post.title | xml_escape }}</title>
+            <description> {{ post.excerpt  | xml_escape }}</description>
+            <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+            <link>{{ post.url | prepend: site.url }}</link>
+            <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+        </item>
+    {% endfor %}
+  </channel>
+</rss>
