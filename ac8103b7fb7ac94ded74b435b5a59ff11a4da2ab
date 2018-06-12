@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a466c75d_90f64a34",
+        "filename": "feed-engineering.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:36:28Z",
+      "side": 1,
+      "message": "Android",
+      "range": {
+        "startLine": 8,
+        "startChar": 41,
+        "endLine": 8,
+        "endChar": 48
+      },
+      "revId": "ac8103b7fb7ac94ded74b435b5a59ff11a4da2ab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
