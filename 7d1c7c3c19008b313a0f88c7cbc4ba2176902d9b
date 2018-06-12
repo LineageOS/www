@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cdaffe04_0705c2d3",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "this is fine",
+      "range": {
+        "startLine": 24,
+        "startChar": 69,
+        "endLine": 24,
+        "endChar": 89
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3132c73e_67b201db",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "Be consistent with quotes, either use open close ones, or just generic ones. Would prefer generic just because they render more consistently in browsers/character sets",
+      "range": {
+        "startLine": 41,
+        "startChar": 78,
+        "endLine": 41,
+        "endChar": 115
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7b75ba89_e82aa191",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "and here",
+      "range": {
+        "startLine": 41,
+        "startChar": 124,
+        "endLine": 41,
+        "endChar": 151
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6dc251cf_151e421f",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "and here",
+      "range": {
+        "startLine": 43,
+        "startChar": 34,
+        "endLine": 43,
+        "endChar": 55
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f753527_193c81af",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "nitpick, use standard apostrophe",
+      "range": {
+        "startLine": 43,
+        "startChar": 4,
+        "endLine": 43,
+        "endChar": 5
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "412d8838_87cd7232",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "this one too",
+      "range": {
+        "startLine": 45,
+        "startChar": 2,
+        "endLine": 45,
+        "endChar": 3
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "41aa28d2_96582292",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-06-12T09:40:40Z",
+      "side": 1,
+      "message": "here",
+      "range": {
+        "startLine": 48,
+        "startChar": 135,
+        "endLine": 48,
+        "endChar": 136
+      },
+      "revId": "7d1c7c3c19008b313a0f88c7cbc4ba2176902d9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
