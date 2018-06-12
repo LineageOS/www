@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "76bba5c0_8689a39d",
+        "filename": "_posts/blog/2018-06-12-Trust-me.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T10:41:19Z",
+      "side": 1,
+      "message": "features to LineageOS",
+      "range": {
+        "startLine": 29,
+        "startChar": 81,
+        "endLine": 29,
+        "endChar": 101
+      },
+      "revId": "993054e6911024ff25631c2bddd2498591a18f59",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
