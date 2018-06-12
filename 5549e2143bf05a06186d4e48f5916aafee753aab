@@ -1,0 +1,303 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "189e7145_af3a806a",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "this word seems weird to me... \"aiming\", or \"designed\", or \"meant\"?",
+      "range": {
+        "startLine": 19,
+        "startChar": 61,
+        "endLine": 19,
+        "endChar": 69
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "40a3f5d0_bdbe7de3",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "is the escape needed or not?",
+      "range": {
+        "startLine": 22,
+        "startChar": 27,
+        "endLine": 22,
+        "endChar": 60
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a2174ab3_f4b2f6bc",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "the status of core security features,",
+      "range": {
+        "startLine": 25,
+        "startChar": 27,
+        "endLine": 25,
+        "endChar": 62
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "db6fa766_d3ea9800",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "not 100% sure about this phrase, remove \"LineageOS we\u0027ll\"?\n\nMaybe \"exciting new features for Trust.\"",
+      "range": {
+        "startLine": 29,
+        "startChar": 103,
+        "endLine": 30,
+        "endChar": 66
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "58c0b25f_1e1493d8",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "scattered across the internet? this sentence feels like it ends too soon",
+      "range": {
+        "startLine": 36,
+        "startChar": 165,
+        "endLine": 36,
+        "endChar": 174
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f107fd6_55461449",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "\"even when\" instead of \"where\"",
+      "range": {
+        "startLine": 36,
+        "startChar": 140,
+        "endLine": 36,
+        "endChar": 145
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "80578acd_45268938",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "\"by themselves\"? \"without guidance\"?",
+      "range": {
+        "startLine": 37,
+        "startChar": 113,
+        "endLine": 37,
+        "endChar": 125
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8ecf2421_6a26c12a",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "to the development process",
+      "range": {
+        "startLine": 37,
+        "startChar": 70,
+        "endLine": 37,
+        "endChar": 83
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b4c1d3eb_9c33b720",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "https://en.wikipedia.org/wiki/Rule_of_three_(writing)\n\nIMO \"common challenges faced in device bring-ups\" can be removed, it\u0027s pretty similar to \"the bring-up process\".\n\nAlso: bring up or bring-up - pick one and stick with it",
+      "range": {
+        "startLine": 43,
+        "startChar": 36,
+        "endLine": 43,
+        "endChar": 156
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0876be30_976b69aa",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "rule of three: maybe just \"reverse engineering/security/firmware (you pick one :P), bringing LineageOS to your device, and lots of other topics\"",
+      "range": {
+        "startLine": 44,
+        "startChar": 49,
+        "endLine": 45,
+        "endChar": 38
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "18dcd43e_6aeadb38",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "so that they can",
+      "range": {
+        "startLine": 47,
+        "startChar": 78,
+        "endLine": 47,
+        "endChar": 80
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dbae5583_67fc1ab2",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "just \"fear not\"",
+      "range": {
+        "startLine": 48,
+        "startChar": 60,
+        "endLine": 48,
+        "endChar": 62
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2f130563_a8d6bf52",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-06-12T09:04:43Z",
+      "side": 1,
+      "message": "\"more posts on other topics\", maybe?",
+      "range": {
+        "startLine": 51,
+        "startChar": 50,
+        "endLine": 51,
+        "endChar": 62
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
