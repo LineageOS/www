@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "1f637c0a_0bc0f079",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2018-06-12T10:04:12Z",
+      "side": 1,
+      "message": ":ffffuuuu:",
+      "parentUuid": "40a3f5d0_bdbe7de3",
+      "range": {
+        "startLine": 22,
+        "startChar": 27,
+        "endLine": 22,
+        "endChar": 60
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a2174ab3_f4b2f6bc",
         "filename": "_posts/blog/2018-06-13-Trust-me.md",
         "patchSetId": 3
@@ -82,6 +106,30 @@
       "writtenOn": "2018-06-12T09:04:43Z",
       "side": 1,
       "message": "not 100% sure about this phrase, remove \"LineageOS we\u0027ll\"?\n\nMaybe \"exciting new features for Trust.\"",
+      "range": {
+        "startLine": 29,
+        "startChar": 103,
+        "endLine": 30,
+        "endChar": 66
+      },
+      "revId": "5549e2143bf05a06186d4e48f5916aafee753aab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9c3bfe91_9120fb6e",
+        "filename": "_posts/blog/2018-06-13-Trust-me.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2018-06-12T10:04:12Z",
+      "side": 1,
+      "message": "you suggested adding \"LineageOS\" before \"we\u0027ll\" in ps1",
+      "parentUuid": "db6fa766_d3ea9800",
       "range": {
         "startLine": 29,
         "startChar": 103,
