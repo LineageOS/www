@@ -22,6 +22,29 @@
       "revId": "c82394bb3b32fe4e5e43778bdc1e8e02b6aa2d97",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "358fc395_3366371b",
+        "filename": "_posts/engineering/2018-06-18-Telephony.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2018-06-29T19:17:57Z",
+      "side": 1,
+      "message": "This is really only dangerous for us/until OEMs stop supporting the device -- the OEMs can always update their offset while providing support and updating.",
+      "range": {
+        "startLine": 46,
+        "startChar": 1557,
+        "endLine": 46,
+        "endChar": 1681
+      },
+      "revId": "c82394bb3b32fe4e5e43778bdc1e8e02b6aa2d97",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
