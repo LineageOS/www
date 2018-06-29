@@ -45,6 +45,30 @@
       "revId": "c82394bb3b32fe4e5e43778bdc1e8e02b6aa2d97",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "34b4e235_fc7d8f4e",
+        "filename": "_posts/engineering/2018-06-18-Telephony.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-06-29T19:32:06Z",
+      "side": 1,
+      "message": "That\u0027s what I meant -- should I clarify this?",
+      "parentUuid": "358fc395_3366371b",
+      "range": {
+        "startLine": 46,
+        "startChar": 1557,
+        "endLine": 46,
+        "endChar": 1681
+      },
+      "revId": "c82394bb3b32fe4e5e43778bdc1e8e02b6aa2d97",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
