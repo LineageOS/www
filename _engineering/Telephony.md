@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Android Telephony Basics
+date: 2018-06-18
 category: engineering
 excerpt: Understanding Android Telephony
 author: javelinanddart
