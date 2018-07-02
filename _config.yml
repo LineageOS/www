@@ -82,3 +82,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  engineering:
+    output: true
+    permalink: /engineering/:name/
