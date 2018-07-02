@@ -7,7 +7,7 @@ layout: null
     <title>LineageOS Engineering Blog</title>
     <description>Technical blog posts on Android internals</description>
     <link>{{ site.url }}</link>
-    {% for post in site.categories.engineering %}
+    {% for post in site.engineering %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <description> {{ post.excerpt  | xml_escape }}</description>
