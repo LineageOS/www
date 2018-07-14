@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "84f28d42_fc2e4781",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-07-14T10:49:58Z",
+      "side": 1,
+      "message": "UI",
+      "range": {
+        "startLine": 18,
+        "startChar": 50,
+        "endLine": 18,
+        "endChar": 52
+      },
+      "revId": "ba11bdb8f767865cb286739b5f191c0262a582db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5676220b_42c91826",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-07-14T10:49:58Z",
+      "side": 1,
+      "message": "P2",
+      "range": {
+        "startLine": 83,
+        "startChar": 10,
+        "endLine": 83,
+        "endChar": 12
+      },
+      "revId": "ba11bdb8f767865cb286739b5f191c0262a582db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e0b5c972_8afb9c6e",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-07-14T10:49:58Z",
+      "side": 1,
+      "message": "hiae",
+      "range": {
+        "startLine": 98,
+        "startChar": 57,
+        "endLine": 98,
+        "endChar": 61
+      },
+      "revId": "ba11bdb8f767865cb286739b5f191c0262a582db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
