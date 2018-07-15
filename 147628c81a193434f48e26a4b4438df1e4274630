@@ -2,6 +2,121 @@
   "comments": [
     {
       "key": {
+        "uuid": "870cd344_860aed0c",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "that are not written properly\nthat are not properly written",
+      "range": {
+        "startLine": 17,
+        "startChar": 147,
+        "endLine": 17,
+        "endChar": 167
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "57df2c36_95a45038",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "this",
+      "range": {
+        "startLine": 17,
+        "startChar": 122,
+        "endLine": 17,
+        "endChar": 124
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a866bf35_defefe4f",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "Maybe specify when it went? Since this is only relevant to 15.1, AFAIK?",
+      "range": {
+        "startLine": 19,
+        "startChar": 49,
+        "endLine": 19,
+        "endChar": 53
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cfc52232_092b5bc9",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "especially on support for A/B devices",
+      "range": {
+        "startLine": 21,
+        "startChar": 29,
+        "endLine": 21,
+        "endChar": 62
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "62de85cf_a4e6fdd9",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "Are we sure we want to make promises we might not keep?",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 37,
+        "endChar": 98
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "addcbf7b_ff1d867c",
         "filename": "_posts/blog/2018-07-18-Changelog-19.md",
         "patchSetId": 4
@@ -22,6 +137,144 @@
       "revId": "147628c81a193434f48e26a4b4438df1e4274630",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4c900e2e_19f69cf0",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "Maybe \"last/other\"",
+      "range": {
+        "startLine": 56,
+        "startChar": 130,
+        "endLine": 56,
+        "endChar": 140
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e60795fe_d373791a",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "s/version/update or something like that\nThis might get confusing when LineageOS 16 comes around",
+      "range": {
+        "startLine": 56,
+        "startChar": 169,
+        "endLine": 56,
+        "endChar": 176
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8f14d4c4_2ed58203",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "Sony Xperia",
+      "range": {
+        "startLine": 60,
+        "startChar": 79,
+        "endLine": 60,
+        "endChar": 85
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0d1032e4_c83f3341",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "OS",
+      "range": {
+        "startLine": 60,
+        "startChar": 233,
+        "endLine": 60,
+        "endChar": 235
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a58cc0ba_96014ea3",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "consistency. Capital or not?",
+      "range": {
+        "startLine": 62,
+        "startChar": 26,
+        "endLine": 62,
+        "endChar": 27
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1815621f_834dff43",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-07-15T13:22:24Z",
+      "side": 1,
+      "message": "incompatibility",
+      "range": {
+        "startLine": 63,
+        "startChar": 7,
+        "endLine": 63,
+        "endChar": 24
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
