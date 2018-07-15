@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6030599e_4ec2bb4c",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-07-15T19:36:06Z",
+      "side": 1,
+      "message": "klteactivexx was not moved from 14.1",
+      "range": {
+        "startLine": 89,
+        "startChar": 71,
+        "endLine": 89,
+        "endChar": 83
+      },
+      "revId": "6c9661805aa76e27953be903d818825cabf78e73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
