@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "addcbf7b_ff1d867c",
+        "filename": "_posts/blog/2018-07-18-Changelog-19.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-07-15T07:45:31Z",
+      "side": 1,
+      "message": "erm no? just slot",
+      "range": {
+        "startLine": 54,
+        "startChar": 88,
+        "endLine": 54,
+        "endChar": 94
+      },
+      "revId": "147628c81a193434f48e26a4b4438df1e4274630",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
