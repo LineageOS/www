@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8c32c0fd_e23fc81d",
+        "filename": "_posts/blog/2018-08-02-Summer-Survey-2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2018-07-28T15:27:47Z",
+      "side": 1,
+      "message": "\", there it is.\" would sound better imo.",
+      "revId": "1a6fe4fed027886129d57e86563b324e053e4cde",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
