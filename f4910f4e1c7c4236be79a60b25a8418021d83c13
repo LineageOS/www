@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "57e89001_75c21289",
+        "filename": "_posts/blog/2018-08-02-Summer-Survey-2.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-08-02T10:06:26Z",
+      "side": 1,
+      "message": ",",
+      "range": {
+        "startLine": 14,
+        "startChar": 150,
+        "endLine": 14,
+        "endChar": 151
+      },
+      "revId": "f4910f4e1c7c4236be79a60b25a8418021d83c13",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "48194b3e_f451faf1",
+        "filename": "_posts/blog/2018-08-02-Summer-Survey-2.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-08-02T10:06:26Z",
+      "side": 1,
+      "message": "seeing",
+      "range": {
+        "startLine": 30,
+        "startChar": 25,
+        "endLine": 30,
+        "endChar": 28
+      },
+      "revId": "f4910f4e1c7c4236be79a60b25a8418021d83c13",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
