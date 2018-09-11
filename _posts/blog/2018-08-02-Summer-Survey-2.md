@@ -6,7 +6,7 @@ excerpt: That's... why I'm here
 author: jrizzoli
 ---
 
-![hero]({{site.baseurl}}/images/2018-08-02/hero.png){: .blog_post_image }
+![hero]({{site.baseurl}}/images/2018-08-02/hero.svg){: .blog_post_image }
 
 One year ago, we created a [survey](https://lineageos.org/Summer-Survey/) in which
 our users were able to send us feedback and suggestions. Features such as the Styles API, the new Trebuchet, and adaptive icons were developed with [your feedback](https://lineageos.org/Summer-Survey-Results/) in mind.
