@@ -6,7 +6,7 @@ excerpt: Your apps, better
 author: jrizzoli
 ---
 
-![hero sdk-structure]({{site.baseurl}}/images/2018-03-20/lineagesdk-hero.png){: .blog_post_image }
+![hero sdk-structure]({{site.baseurl}}/images/2018-03-20/lineagesdk-hero.svg){: .blog_post_image }
 
 ## Introducing the LineageSDK for developers
 
