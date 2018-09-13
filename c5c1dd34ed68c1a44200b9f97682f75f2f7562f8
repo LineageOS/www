@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "47f952ad_433fa56b",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-13T05:59:39Z",
+      "side": 1,
+      "message": "Could probs use help on paragraphs (looks blocky in preview), but I suck at that.",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 55,
+        "endChar": 53
+      },
+      "revId": "c5c1dd34ed68c1a44200b9f97682f75f2f7562f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
