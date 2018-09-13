@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1571e228_2cd6022a",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-09-13T05:03:47Z",
+      "side": 1,
+      "message": "Pre-2013",
+      "range": {
+        "startLine": 61,
+        "startChar": 4,
+        "endLine": 61,
+        "endChar": 13
+      },
+      "revId": "6bab35ec1b78c81aeb829e01a2101a9d59fccf29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e3b76dcd_b678edc2",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-09-13T05:03:47Z",
+      "side": 1,
+      "message": "2013-2015",
+      "range": {
+        "startLine": 65,
+        "startChar": 4,
+        "endLine": 65,
+        "endChar": 13
+      },
+      "revId": "6bab35ec1b78c81aeb829e01a2101a9d59fccf29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f116273b_916d95e0",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2018-09-13T05:03:47Z",
+      "side": 1,
+      "message": "2016-Present",
+      "range": {
+        "startLine": 71,
+        "startChar": 2,
+        "endLine": 71,
+        "endChar": 6
+      },
+      "revId": "6bab35ec1b78c81aeb829e01a2101a9d59fccf29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
