@@ -1,0 +1,124 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f9c4be3_f8226830",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "Being consistent with the blog posts and other engineering post, I\u0027d say remove the period",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "02d031d5_6be794b8",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "Your * needs escaping",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2ac32eea_4e74680a",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "here too",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "610a7daa_ddc5c2e2",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "here too",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "aa1b3670_2cac8ab3",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "sees (sans apostrophe)",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b7460e22_e93095c2",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "vulnerabilities",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cb5cd98d_a7eb00c7",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-13T08:40:20Z",
+      "side": 1,
+      "message": "bounty",
+      "parentUuid": "",
+      "revId": "cf8c462a61c6b78eeb59e71d80f4c2dc3d1bc57b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
