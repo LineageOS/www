@@ -1,0 +1,349 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7838f68c_162ac5e0",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "I don\u0027t think this means what you think it means?\n\"Bad in an glaringly obvious way\" is how it\u0027s interpreted on my side of the pond.",
+      "range": {
+        "startLine": 3,
+        "startChar": 38,
+        "endLine": 3,
+        "endChar": 47
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "79a46488_48e7e271",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "July 19th?",
+      "range": {
+        "startLine": 5,
+        "startChar": 23,
+        "endLine": 5,
+        "endChar": 31
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c0307ef0_47714c7c",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "Weird apostrophe",
+      "range": {
+        "startLine": 11,
+        "startChar": 23,
+        "endLine": 11,
+        "endChar": 24
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3d759a84_bb0828b0",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "Maybe combine these in one line or indent line 22 so they look like these points are related",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 222
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f1c37f3f_ec0cfd1c",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "Same here?",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 116
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7bca7548_062a1b55",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "\"Over what?\". We might want to expand on this a little more",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 70
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a65e2d35_4fc10161",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "These quotes are inconsistent with previous posts",
+      "range": {
+        "startLine": 27,
+        "startChar": 6,
+        "endLine": 27,
+        "endChar": 23
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "aa634079_24be7b9e",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "Does jelly actually support any other protocols that HTTP(S)(2)?",
+      "range": {
+        "startLine": 28,
+        "startChar": 122,
+        "endLine": 28,
+        "endChar": 129
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dc1d59cb_acdcf553",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "quotes",
+      "range": {
+        "startLine": 29,
+        "startChar": 46,
+        "endLine": 29,
+        "endChar": 59
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "413aaa3d_e6a43e8f",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "Same as quotes: these apostrophes are weird",
+      "range": {
+        "startLine": 47,
+        "startChar": 41,
+        "endLine": 47,
+        "endChar": 42
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2d23ef39_4031d22b",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "and here",
+      "range": {
+        "startLine": 47,
+        "startChar": 91,
+        "endLine": 47,
+        "endChar": 92
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ba57319_4cc75ffc",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "and here",
+      "range": {
+        "startLine": 47,
+        "startChar": 80,
+        "endLine": 47,
+        "endChar": 81
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "013a14e6_7cca8a07",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "Needs a forward slash",
+      "range": {
+        "startLine": 47,
+        "startChar": 150,
+        "endLine": 47,
+        "endChar": 151
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d060e94e_c920ed65",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "and here",
+      "range": {
+        "startLine": 49,
+        "startChar": 106,
+        "endLine": 49,
+        "endChar": 107
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7770bb30_892f4015",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-09-15T19:00:06Z",
+      "side": 1,
+      "message": "and here",
+      "range": {
+        "startLine": 49,
+        "startChar": 2,
+        "endLine": 49,
+        "endChar": 3
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
