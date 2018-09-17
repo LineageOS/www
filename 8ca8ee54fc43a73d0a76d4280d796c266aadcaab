@@ -22,6 +22,30 @@
       "revId": "8ca8ee54fc43a73d0a76d4280d796c266aadcaab",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "955a2eaf_76e80ed4",
+        "filename": "_engineering/Qualcomm-Firmware.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-17T06:35:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "42e87c5d_80e367ec",
+      "range": {
+        "startLine": 44,
+        "startChar": 62,
+        "endLine": 44,
+        "endChar": 79
+      },
+      "revId": "8ca8ee54fc43a73d0a76d4280d796c266aadcaab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
