@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "065b7747_826623ee",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-18T08:36:50Z",
+      "side": 1,
+      "message": "Excellent instead?",
+      "parentUuid": "7838f68c_162ac5e0",
+      "range": {
+        "startLine": 3,
+        "startChar": 38,
+        "endLine": 3,
+        "endChar": 47
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "79a46488_48e7e271",
         "filename": "_posts/blog/2018-09-17-Changelog-20.md",
         "patchSetId": 5
@@ -71,6 +95,30 @@
     },
     {
       "key": {
+        "uuid": "bef7571b_8be5fc3a",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-18T08:36:50Z",
+      "side": 1,
+      "message": "Think he misunderstood the \u0027 after S-ending words rule.",
+      "parentUuid": "c0307ef0_47714c7c",
+      "range": {
+        "startLine": 11,
+        "startChar": 23,
+        "endLine": 11,
+        "endChar": 24
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3d759a84_bb0828b0",
         "filename": "_posts/blog/2018-09-17-Changelog-20.md",
         "patchSetId": 5
@@ -82,6 +130,30 @@
       "writtenOn": "2018-09-15T19:00:06Z",
       "side": 1,
       "message": "Maybe combine these in one line or indent line 22 so they look like these points are related",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 222
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ac7e5ddb_b92903d4",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-18T08:36:50Z",
+      "side": 1,
+      "message": "Maybe A -, or ** instead on sub-points?",
+      "parentUuid": "3d759a84_bb0828b0",
       "range": {
         "startLine": 21,
         "startChar": 0,
@@ -128,6 +200,30 @@
       "writtenOn": "2018-09-15T19:00:06Z",
       "side": 1,
       "message": "\"Over what?\". We might want to expand on this a little more",
+      "range": {
+        "startLine": 26,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 70
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cd6e703f_899bc80d",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-18T08:36:50Z",
+      "side": 1,
+      "message": "\"Updater now supports running A/B updates in the foreground, \"prioritizing\" them\"",
+      "parentUuid": "7bca7548_062a1b55",
       "range": {
         "startLine": 26,
         "startChar": 0,
@@ -294,6 +390,30 @@
         "startChar": 150,
         "endLine": 47,
         "endChar": 151
+      },
+      "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "34e0b57f_7cad2bb4",
+        "filename": "_posts/blog/2018-09-17-Changelog-20.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-09-18T08:36:50Z",
+      "side": 1,
+      "message": "I agree they need a forward slash, but the apostrophes themselves are important to the meaning here.",
+      "parentUuid": "413aaa3d_e6a43e8f",
+      "range": {
+        "startLine": 47,
+        "startChar": 41,
+        "endLine": 47,
+        "endChar": 42
       },
       "revId": "4f5a7c6b831305a1e943d1e2975d370d6a6c508f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
