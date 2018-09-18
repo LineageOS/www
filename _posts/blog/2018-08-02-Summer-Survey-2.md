@@ -4,6 +4,7 @@ title: Summer Survey 2 - Attack of the feedbacks
 category: blog
 excerpt: That's... why I'm here
 author: jrizzoli
+image: images/2018-08-02/hero.png
 ---
 
 ![hero]({{site.baseurl}}/images/2018-08-02/hero.png){: .blog_post_image }
