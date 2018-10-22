@@ -7,6 +7,9 @@
   - name: Wiki
     text:  Our wiki is always looking for editors. If you enjoy writing clear and concise guides, tutorials, or documentation we need you!
     url: https://wiki.lineageos.org
+  - name: Translate
+    text: Help people enjoy LineageOS in their native language by localizing it. Anyone can easily contribute thanks to Crowdin.
+    url: https://crowdin.com/project/lineageos
 - name: Support
   data:
   - name: IRC

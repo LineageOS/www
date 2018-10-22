@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.post .jumbotron h1 {
+  font-size: 2.5rem;
+}
+
+.blog_post_image {
+  max-width: 100%;
+}
+
+.blog_post_image_full {
+  width: 100%;
+}
+
+.blog_post_image_content {
+  max-width: 100%;
+  padding: 50px;
+}
+
+@include media-breakpoint-down(sm) {
+  .post .jumbotron {
+    padding: 24px 0 !important;
+  }
+}

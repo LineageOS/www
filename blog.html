@@ -1,0 +1,36 @@
+---
+layout: default
+title: blog
+---
+<style>
+body {
+  background-color: #fafafa;
+}
+</style>
+
+<div class="jumbotron">
+  <div class="container">
+
+    <h1>Blog</h1>
+    <p>Changelogs and news from the team.</p>
+    <a class="btn btn-white text-primary" href="{{ site.baseurl }}/feed.xml"><i class="material-icons">rss_feed</i>RSS Feed</a>
+  </div>
+</div>
+
+<div class="container post">
+  {% for post in site.categories.blog %}
+  <div class="card">
+
+    <div class="card-body">
+      <h6>{{ post.excerpt }}</h6>
+      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+    </div>
+
+    <div class="card-button">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-link">Read More</a>
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
