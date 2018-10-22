@@ -26,11 +26,6 @@ h3 a:hover {
   border-radius: 0 !important;
 }
 
-.welcome {
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-  padding: 48px 16px 56px !important;
-}
-
 .jumbotron h1 {
   color: white;
 }
@@ -40,13 +35,46 @@ h3 a:hover {
   line-height: 1.75rem;
 }
 
+.welcome {
+  padding: 48px 16px 56px !important;
+  margin-bottom: 0 !important;
+}
+
 .welcome p {
   margin-bottom: 16px;
+}
+
+.welcome-image {
+  max-height: 372px;
+  margin: 0 auto;
 }
 
 .heading {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
 }
+
+/* Sections */
+
+section.security,
+section.tools,
+section.download {
+  padding: 6rem 1rem;
+}
+
+section.home,
+section.tweaks {
+  padding: 4rem 1rem;
+}
+
+section img {
+  max-height: 330px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: .5rem;
+}
+
+/* Navbar */
 
 .navbar {
   box-shadow: none;
@@ -57,6 +85,7 @@ h3 a:hover {
 .navbar .navbar-nav .nav-item.active .nav-link:hover,
 .navbar .navbar-nav .nav-item.active .nav-link:focus {
   background-color: rgba(0, 0, 0, 0.04);
+  font-weight: 500;
 }
 
 .navbar.scrollUp {
@@ -94,9 +123,40 @@ h3 a:hover {
   box-shadow: 0 1px 8px rgba(0,0,0,.3);
 }
 
+/* Buttons */
+
+.btn {
+  border-radius: 45px !important;
+}
+
 .btn-white {
   color: #167c80 !important;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
 }
+
+.btn-dark {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.btn-white:hover,
+.btn-dark:hover {
+  box-shadow: 0 14px 26px -12px rgba(0,0,0,.42), 0 4px 23px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+}
+
+.btn svg {
+  position: relative;
+  display: inline-block;
+  top: 0;
+  margin-top: -1em;
+  margin-bottom: -0.8em;
+  vertical-align: middle;
+  fill: #167c80;
+  height: 1.15rem;
+  width: auto;
+  padding: .1rem;
+}
+
+/* Cards */
 
 .card {
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
@@ -131,6 +191,14 @@ h3 a:hover {
   margin-bottom: 0;
 }
 
+/* Footer */
+
+.footer {
+  background-color: #eee;
+  padding: 16px 0;
+  margin-top: 40px;
+}
+
 .footer-icons {
   padding-top: 14px;
   padding-bottom: 14px;
@@ -149,12 +217,6 @@ h3 a:hover {
   color: #167c80 !important;
 }
 
-.footer {
-  background-color: #eee;
-  padding: 16px 0;
-  margin-top: 40px;
-}
-
 .footer-logo {
   fill: #6c757d;
   margin: 8px 0 4px;
@@ -167,8 +229,45 @@ h3 a:hover {
   font-size: 0.875rem;
 }
 
+/* Posts */
+
+.blog_post_image {
+  max-width: 100%;
+}
+
+.blog_post_image_full {
+  width: 100%;
+}
+
+.blog_post_image_content {
+    max-width: 100%;
+    padding: 50px;
+}
+
 .post .jumbotron h1 {
   font-size: 2.5rem;
+}
+
+/* Misc */
+
+.text-primary {
+  color: #167c80 !important;
+}
+
+a.text-primary:focus, a.text-primary:hover {
+  color: #167c80 !important;
+}
+
+.bg-primary {
+  background-color: #167c80 !important;
+  color: white;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .no-script {
@@ -178,9 +277,70 @@ h3 a:hover {
   padding: 8px 0;
 }
 
+.no-padding-bottom-desktop {
+  padding-bottom: 0px !important;
+  padding-top: 2.5rem !important;
+}
+
+.feature-inline-image svg {
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    height: 4rem;
+    width: auto;
+}
+
+.rotate-on-scroll {
+    position: fixed;
+}
+
 .no-script a {
   color: white;
   text-decoration: underline;
+}
+
+.section-background-image {
+  background-image: linear-gradient(
+      rgba(20, 20, 20, 0.5),
+      rgba(20, 20, 20, 0.5)),
+      url(../img/default_wallpaper.jpg);
+}
+
+.text-start-align {
+    text-align: start !important;
+}
+
+.align-items-bottom {
+  align-items: flex-end;
+}
+
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
+img#rotate-on-scroll {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -120px;
+  overflow: hidden;
+  z-index: -10;
+  max-height: none;
+  height: 600px;
+  max-width: none;
+  width: auto;
+}
+
+@media (max-width: 990px) {
+  img#rotate-on-scroll {
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    transform: none !important;
+    max-height: 300px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -194,17 +354,9 @@ h3 a:hover {
   .post .jumbotron {
     padding: 24px 0 !important;
   }
-}
 
-.blog_post_image {
-  max-width: 100%;
-}
+  .no-padding-bottom-desktop {
+      padding-bottom: 0px;
+  }
 
-.blog_post_image_full {
-  width: 100%;
-}
-
-.blog_post_image_content {
-    max-width: 100%;
-    padding: 50px;
 }
