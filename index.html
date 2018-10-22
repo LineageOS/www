@@ -1,36 +1,169 @@
 ---
 layout: default
+scrolljs: true
 ---
-<style>
-body {
-  background-color: #fafafa;
-}
-</style>
 
 <div class="jumbotron welcome">
   <div class="container">
+    <div class="row justify-content-between align-items-bottom">
+      <div class="col-lg-5 text-center text-lg-left pb-10">
 
-    <h1>{{ site.description }}</h1>
-    <p>LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.</p>
-    <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
+        <h1>{{ site.description }}</h1>
+        <p>A free and open-source operating system for handheld devices, based on the Android mobile platform.</p>
+        <a class="btn btn-primary text-primary" href="https://download.lineageos.org/">
+          {% include svg/download.svg %} Download</a>
+        <a class="btn btn-link text-white" href="{{ site.baseurl }}/blog">Blog</a>
 
+      </div>
+      <img alt="Home" src="assets/img/peek_device.png" class="welcome-image">
+    </div>
   </div>
 </div>
 
-<div class="container post">
-  {% for post in site.categories.blog %}
-  <div class="card">
+<section class="blog bg-primary-lighter">
+  <div class="container">
+    <div class="post text-lg-left">
+      <div>
+        <h2>Latest news</h2>
 
-    <div class="card-body">
-      <h6>{{ post.excerpt }}</h6>
-      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+        {% for post in site.categories.blog limit:1 %}
+        <h3><a class="fg-primary-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+        <h6>{{ post.excerpt }}</h6>
+        <p>{% include svg/clock.svg %} {{ post.date | date: '%B %d, %Y' }}{% if post.author %} {% include svg/author.svg %} {{ post.author }}{% endif %}</p>
+        {% endfor %}
+      </div>
     </div>
-
-    <div class="card-button">
-      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-link">Read More</a>
-    </div>
-
   </div>
-  {% endfor %}
-</div>
+</section>
+
+<section class="tweaks">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div id="tweaks" class="col-lg-4">
+        <img alt="styles" src="assets/img/styles.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-7 text-center text-lg-left">
+        <h2>Individuality</h2>
+        <p class="feature">
+            Customization is paramount to productivity.
+            <br>
+            That’s why Lineage promises to push for user personalization and preference.
+            <br>
+            <br>
+            Everyone is unique and so it should be your device.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="security bg-dark">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-7 order-lg-last">
+        <img alt="security" src="assets/img/security.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-4 text-center text-lg-left text-white">
+        <h2>Security</h2>
+        <p class="feature">
+          Your data, your rules. With powerful tools such as Privacy Guard,
+          you are in control of what your apps can do whenever you want.<br><br>
+        </p>
+        <div class="feature-inline-image">
+          {% include svg/trust.svg %}
+        </div>
+        <p>
+          Trust will help you understand the security of your device
+          and warn you about possible treats.
+        </p>
+        <br>
+        <p class="feature">
+          We take security very seriously: that’s why we deliver security
+          updates every month to all our supported devices.<br>
+          And to make your device more secure, lock everything behind an enhanced
+          lock screen.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="longevity">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-6">
+        <img alt="longevity" src="assets/img/tweaks.png" class="img-fluid text-center" id="rotate-on-scroll">
+      </div>
+
+      <div class="col-lg-5 text-center text-lg-left">
+        <h2>Longevity</h2>
+        <p class="feature">
+          LineageOS extends the functionality and lifespan of mobile devices from
+          more than 20 different manufacters thanks to our open source community
+          of contributors from all around the world.<br><br>
+
+          Want to contribute? <a href="{{ site.baseurl }}/community">See how you can make LineageOS better</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="tools bg-dark section-background-image parallax">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-7 order-lg-last">
+        <div class="img-fluid text-center">
+          {% include svg/apps.svg %}
+        </div>
+      </div>
+
+      <div class="col-lg-4 text-center text-lg-left text-white">
+        <h2>Power to you</h2>
+        <p class="feature">
+          Our open-source apps are here to help you get through the day.
+          <br><br>
+          Want to do more with your handheld device?
+          <br>
+          Power users will enjoy Unix command-line utilities.
+          <br>
+          Android developers will turn any device into the perfect device for
+          apps development thanks to enhanced tools and
+          <a href="http://wiki.lineageos.org/sdk">exclusive APIs</a>.
+          <br>
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="download bg-primary" style="margin-bottom: -3rem;">
+  <div class="container">
+    <div class="text-center">
+      <div class="logo">
+        {% include svg/lineage_logo.svg %}
+      </div>
+      <h2>Ready? Get LineageOS now!</h2>
+      <p class="feature">
+        LineageOS, an open source Android distribution, is available for several devices,
+        <br>
+        with more being continuosly added thanks to the biggest, yet ever growing,
+        android open source community.
+        <br>
+        Join us and breath new life in your device, be it old or new.
+      </p>
+      <a class="btn btn-primary" href="https://download.lineageos.org/">
+        {% include svg/download.svg %} Download
+      </a>
+    </div>
+  </div>
+</section>
