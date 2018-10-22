@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.jumbotron {
+  background-color: $brand-primary;
+  color: white;
+  padding: 2.125rem 0 !important;
+  margin-bottom: 2rem;
+  border-radius: 0 !important;
+
+  p {
+    font-size: 1.125rem !important;
+    line-height: 1.75rem;
+  }
+}
+
+.welcome {
+  padding: 2.5rem 1rem 0 !important;
+  margin-bottom: 0 !important;
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  img {
+    max-height: 245px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+}

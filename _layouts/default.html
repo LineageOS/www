@@ -8,10 +8,8 @@
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/material-kit.min.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lineage.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/material-kit.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" href="{{ site.baseurl }}/images/logo.png">
@@ -19,18 +17,14 @@
   </head>
 
   <body id="page-top">
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white">
+    <nav class="navbar fixed-top navbar-expand-lg bg-white">
       <div class="container">
         <div class="navbar-translate">
           <a class="navbar-brand" href="{{ site.baseurl }}/">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="11.98 11.81 168.02 16.19">
-              <g id="logo_-_strip" data-name="logo - strip">
-                <path d="M61.13,27A1.1,1.1,0,0,1,60,25.83V13h2.79V24.62H69V27Zm16.24,0V13h2.81V27ZM99.1,13h2.56V26.2a.74.74,0,0,1-.4.65,1.9,1.9,0,0,1-1,.24,2.4,2.4,0,0,1-1-.18,1.86,1.86,0,0,1-.67-.61L92.39,17.6V27H89.8V14.07a.94.94,0,0,1,.41-.84A1.91,1.91,0,0,1,91.28,13a2.15,2.15,0,0,1,1.14.23,3.55,3.55,0,0,1,.85.94l5.83,8.16Zm21.43,2.36h-6.42v3.3h5.78v2.36h-5.78v3.53h6.24V27h-9.05V14.17a1,1,0,0,1,.35-.82,1.22,1.22,0,0,1,.84-.31h8ZM138.23,27l-1.17-3.45H132L130.79,27h-2.91l4.72-12.9a2.17,2.17,0,0,1,3.8,0L141.13,27Zm-5.46-5.81h3.49L134.5,16Zm22.23,6a6.62,6.62,0,0,1-5-1.91,7.16,7.16,0,0,1-1.83-5.17,7.27,7.27,0,0,1,2-5.34,6.93,6.93,0,0,1,5.17-2,6.86,6.86,0,0,1,3.6.9A5.38,5.38,0,0,1,161,16l-2.24,1.19a3.64,3.64,0,0,0-3.57-2,3.92,3.92,0,0,0-3.08,1.3A5.15,5.15,0,0,0,151,20a5.2,5.2,0,0,0,1.07,3.48A3.67,3.67,0,0,0,155,24.76a4,4,0,0,0,2.76-.95,3.16,3.16,0,0,0,1.12-2.39h-3.53v-2.2h6.3v1.54a6.11,6.11,0,0,1-1.87,4.63A6.67,6.67,0,0,1,155,27.18Zm25-11.79h-6.42v3.3h5.78v2.36h-5.78v3.53h6.24V27h-9.05V14.17a1,1,0,0,1,.35-.82A1.22,1.22,0,0,1,172,13h8Z"/>
-                <path d="M48,20a4,4,0,0,0-3,1.33l-.23-.09A29.62,29.62,0,0,0,40,19.81h0a8,8,0,0,0-16,0l-.22,0a29.53,29.53,0,0,0-4.6,1.39l-.23.09a4,4,0,1,0,.93,1.78h0a27.62,27.62,0,0,1,4.29-1.29,8,8,0,0,0,15.57,0,27.55,27.55,0,0,1,4.29,1.28h0A4,4,0,1,0,48,20ZM16,26a2,2,0,1,1,2-2A2,2,0,0,1,16,26Zm16,0a6,6,0,1,1,6-6A6,6,0,0,1,32,26Zm16,0a2,2,0,1,1,2-2A2,2,0,0,1,48,26ZM35,20a3,3,0,1,1-3-3A3,3,0,0,1,35,20Z"/>
-              </g>
-            </svg>
+            {% include svg/lineage.svg %}
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
             <span class="navbar-toggler-icon"></span>
             <span class="navbar-toggler-icon"></span>
             <span class="navbar-toggler-icon"></span>
@@ -39,9 +33,9 @@
         <div id="navbarNav" class="collapse navbar-collapse">
           <ul class="nav navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/">Blog</a></li>
+              <a class="nav-link" href="{{ site.baseurl }}/blog/">Blog</a></li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/engineering">Engineering</a></li>
+              <a class="nav-link" href="{{ site.baseurl }}/engineering/">Engineering</a></li>
             <li class="nav-item">
               <a class="nav-link" href="{{ site.baseurl }}/about/">About</a></li>
             <li class="nav-item">
@@ -49,9 +43,9 @@
             <li class="nav-item">
               <a class="nav-link" href="{{ site.baseurl }}/legal/">Legal</a></li>
             <li class="nav-item">
-              <a class="nav-link" href="http://status.lineageos.org"><i class="material-icons">&#xE89E;</i> Status</a></li>
+              <a class="nav-link" href="http://status.lineageos.org">{% include svg/open_in_new.svg %} Status</a></li>
             <li class="nav-item">
-              <a class="nav-link" href="http://wiki.lineageos.org"><i class="material-icons">&#xE89E;</i> Wiki</a></li>
+              <a class="nav-link" href="http://wiki.lineageos.org">{% include svg/open_in_new.svg %} Wiki</a></li>
           </ul>
         </div>
       </div>
@@ -74,10 +68,8 @@
     <footer class="footer">
       <div class="container">
         <div class="row">
-          <div class="col-md">
-            <svg class="footer-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24">
-              <path d="M40,12a4,4,0,0,0-3,1.33l-.23-.09A29.62,29.62,0,0,0,32,11.81h0a8,8,0,0,0-16,0l-.22,0a29.53,29.53,0,0,0-4.6,1.39l-.23.09a4,4,0,1,0,.93,1.78h0a27.62,27.62,0,0,1,4.29-1.29,8,8,0,0,0,15.57,0,27.55,27.55,0,0,1,4.29,1.28h0A4,4,0,1,0,40,12ZM8,18a2,2,0,1,1,2-2A2,2,0,0,1,8,18Zm16,0a6,6,0,1,1,6-6A6,6,0,0,1,24,18Zm16,0a2,2,0,1,1,2-2A2,2,0,0,1,40,18ZM27,12a3,3,0,1,1-3-3A3,3,0,0,1,27,12Z"/>
-            </svg>
+          <div class="col-md footer-logo">
+            {% include svg/lineage_logo.svg %}
             <p class="footer-text">
               <b>&copy; 2016 - {{ site.time | date: '%Y' }} The LineageOS Project </b><br />
               PayPal: <a target="_blank" href="https://paypal.me/LineageOS">paypal.me/LineageOS</a> <br />
@@ -94,10 +86,28 @@
     </footer>
 
     {% include analytics.html %}
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/popper.js/dist/umd/popper.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/bootstrap-material-design.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/material-kit.js?v=2.0.2"></script>
+    <script src="{{ site.baseurl }}/assets/js/material-kit.js"></script>
+    {% if page.scrolljs %}
+    <script>
+      var rotation = 0;
+      var scrollLoc = $(document).scrollTop();
+
+      $(window).on("scroll", function() {
+          var newLoc = $(document).scrollTop();
+          var diff = (scrollLoc - newLoc) / 3;
+          rotation += diff, scrollLoc = newLoc;
+          var rotationStr = "rotate(" + rotation + "deg)";
+
+          $("#rotate-on-scroll").css({
+              "-webkit-transform": rotationStr,
+              "-moz-transform": rotationStr,
+              "transform": rotationStr
+          });
+      });
+    </script>
+    {% endif %}
 
   </body>
 </html>
