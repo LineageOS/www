@@ -1,0 +1,83 @@
+@charset "UTF-8";
+section.tools,
+section.security,
+section.longevity,
+section.download {
+  padding: 6rem 1rem;
+}
+
+section.blog {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+section.home,
+section.tweaks {
+  padding: 4rem 1rem;
+}
+
+section img {
+  max-height: 330px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: .5rem;
+}
+
+.section-background-image {
+  background-image: linear-gradient(
+      rgba(20, 20, 20, 0.5),
+      rgba(20, 20, 20, 0.5)),
+      url(../img/default_wallpaper.jpg);
+}
+
+section.download .logo svg {
+  fill: white;
+  max-height: 100px;
+  height: auto;
+  width: auto;
+  margin: 0 3rem;
+}
+
+img#rotate-on-scroll {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -120px;
+  overflow: hidden;
+  z-index: -10;
+  max-height: none;
+  height: 600px;
+  max-width: none;
+  width: auto;
+}
+
+@include media-breakpoint-down(md) {
+  img#rotate-on-scroll {
+    position: relative;
+    bottom: 0;
+    transform: none !important;
+    max-height: 300px;
+  }
+}
+/*
+@media screen and (max-width: 450px) {
+    section.blog {
+        padding-bottom: 2rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: .5rem
+    }
+}*/
+
+@media screen and (max-width: 320px) {
+    img#rotate-on-scroll {
+      position: relative;
+      bottom: 0;
+      transform: none !important;
+      max-height: 280px;
+      max-width: 280px;
+    }
+
+
+}

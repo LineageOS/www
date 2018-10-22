@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.post {
+
+  .jumbotron h1 {
+  font-size: 2.5rem;
+  }
+
+  svg {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 1.375rem;
+    margin: 0.125rem;
+    fill: $grey-800;
+    height: 1.15rem;
+    width: auto;
+  }
+  
+}
+
+.blog_post_image {
+  max-width: 100%;
+}
+
+.blog_post_image_full {
+  width: 100%;
+}
+
+.blog_post_image_content {
+  max-width: 100%;
+  padding: 50px;
+}
+
+
+@include media-breakpoint-down(sm) {
+  .post .jumbotron {
+    padding: 24px 0 !important;
+  }
+}

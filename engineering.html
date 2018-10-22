@@ -7,12 +7,12 @@ body {
 }
 </style>
 
-<div class="jumbotron welcome">
+<div class="jumbotron">
   <div class="container">
 
-    <h1>LineageOS Engineering Blog</h1>
+    <h1>Engineering Blog</h1>
     <p>Technical blog posts on Android internals.</p>
-    <a class="btn btn-white" href="{{ site.baseurl }}/feed-engineering.xml"><i class="material-icons">rss_feed</i>RSS Feed</a>
+    <a class="btn btn-white text-primary" href="{{ site.baseurl }}/feed-engineering.xml">{% include svg/rss_feed.svg %} RSS Feed</a>
   </div>
 </div>
 
@@ -23,7 +23,7 @@ body {
     <div class="card-body">
       <h6>{{ post.excerpt }}</h6>
       <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+      <p class="card-text">{% include svg/clock.svg %} {{ post.date | date: '%B %d, %Y' }}{% if post.author %} {% include svg/author.svg %} {{ post.author }}{% endif %}</p>
     </div>
 
     <div class="card-button">
