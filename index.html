@@ -1,36 +1,117 @@
 ---
 layout: default
 ---
-<style>
-body {
-  background-color: #fafafa;
-}
-</style>
 
 <div class="jumbotron welcome">
   <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-5 text-center text-lg-left">
 
-    <h1>{{ site.description }}</h1>
-    <p>LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.</p>
-    <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
+        <h1>{{ site.description }}</h1>
+        <p>LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.</p>
+        <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
+        <a class="btn btn-dark" href="{{ site.baseurl }}/blog"><i class="material-icons">insert_comment</i> Blog</a>
 
+      </div>
+      <div class="col-lg-6">
+        <img alt="Image placeholder" src="assets/img/Home.png" class="welcome-image d-none d-lg-block h-auto">
+      </div>
+
+    </div>
   </div>
 </div>
 
-<div class="container post">
-  {% for post in site.categories.blog %}
-  <div class="card">
+<section class="tweaks">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
 
-    <div class="card-body">
-      <h6>{{ post.excerpt }}</h6>
-      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+      <div id="tweaks" class="col-lg-4">
+        <img alt="Image placeholder" src="assets/img/Tweaks.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-7 text-center text-lg-left">
+        <h2>Tweaks</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+          sed diam voluptua. At vero eos et accusam et
+        </p>
+      </div>
+
     </div>
-
-    <div class="card-button">
-      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-link">Read More</a>
-    </div>
-
   </div>
-  {% endfor %}
-</div>
+</section>
+
+<section class="security bg-dark">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-7 order-lg-last">
+        <img alt="Image placeholder" src="assets/img/Security.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-4 text-center text-lg-left text-white">
+        <h2>Security</h2>
+        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+          sed diam voluptua. At vero eos et accusam et
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="tweaks">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-4">
+        <img alt="Image placeholder" src="assets/img/Style.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-7 text-center text-lg-left">
+        <h2>Style</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+          sed diam voluptua. At vero eos et accusam et
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="tools bg-dark">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-7 order-lg-last">
+        <img alt="Image placeholder" src="assets/img/Tools.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-4 text-center text-lg-left text-white">
+        <h2>Tools</h2>
+        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+          sed diam voluptua. At vero eos et accusam et
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="download bg-primary" style="margin-bottom: -40px;">
+  <div class="container">
+    <div class="text-center">
+      <h2>Why are you still waiting? Download LineageOS now!</h2>
+      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+        nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+        sed diam voluptua. At vero eos et accusam et
+      </p>
+      <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
+    </div>
+  </div>
+</section>
