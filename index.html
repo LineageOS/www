@@ -1,36 +1,144 @@
 ---
 layout: default
 ---
-<style>
-body {
-  background-color: #fafafa;
-}
-</style>
 
-<div class="jumbotron welcome">
+<div class="jumbotron welcome no-padding-bottom-desktop">
   <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-5 text-center text-lg-left pb-4">
 
-    <h1>{{ site.description }}</h1>
-    <p>LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.</p>
-    <a class="btn btn-white" href="https://download.lineageos.org/"><i class="material-icons">&#xE2C4;</i> Downloads</a>
+        <h1>{{ site.description }}</h1>
+        <p>LineageOS is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.</p>
+        <a class="btn btn-white text-primary" href="https://download.lineageos.org/"><img src="assets/img/download.svg" /> Download</a>
+        <a class="btn btn-link" href="{{ site.baseurl }}/blog">Blog</a>
 
+      </div>
+      <div class="col-lg-6 ">
+        <img alt="Home" src="assets/img/peek_device.png" class="welcome-image d-none d-lg-block h-auto parallax">
+      </div>
+
+    </div>
   </div>
 </div>
 
-<div class="container post">
-  {% for post in site.categories.blog %}
-  <div class="card">
+<section class="tweaks">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
 
-    <div class="card-body">
-      <h6>{{ post.excerpt }}</h6>
-      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+      <div id="tweaks" class="col-lg-4">
+        <img alt="styles" src="assets/img/styles.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-7 text-center text-lg-left">
+        <h2>Individuality</h2>
+        <p>
+            Customization is paramount to productivity.
+            <br>
+            That’s why Lineage promises to push for user personalization and preference.
+            <br>
+            <br>
+            Everyone is unique and so it should be your device.
+        </p>
+      </div>
+
     </div>
-
-    <div class="card-button">
-      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-link">Read More</a>
-    </div>
-
   </div>
-  {% endfor %}
-</div>
+</section>
+
+<section class="security bg-dark">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-7 order-lg-last">
+        <img alt="security" src="assets/img/security.png" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-4 text-center text-lg-left text-white">
+        <h2>Security</h2>
+        <p>
+            Your data, your rules. With powerful tools such as Privacy Guard,
+            you are in control of what your apps can do whenever you want.
+            <br>
+            <br>
+
+            <p class="text-start-align">
+                <img alt="trust" src="assets/img/trust.svg" class="feature-inline-image"/>
+
+                Trust will help you understand the security of your device
+                and warn you about possible treats.
+            </p>
+
+            <br>
+
+            We take security very seriously: that’s why we deliver security
+            updates every month to all our supported devices. <br>
+            And to be more safe, lock everything behind an enhanced
+            lock screen.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="tweaks">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-4">
+        <img alt="longevity" src="assets/img/tweaks.png" class="img-fluid text-center h-auto" id="rotate-on-scroll">
+      </div>
+
+      <div class="col-lg-7 text-center text-lg-left">
+        <h2>Longevity</h2>
+        <p>
+            LineageOS extends the functionality and lifespan of mobile devices from
+            more than 20 different manufacters thanks to our open source community
+            of contributors from all around the world.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="tools bg-dark section-background-image parallax">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+
+      <div class="col-lg-7 order-lg-last">
+        <img alt="apps" src="assets/img/apps.svg" class="img-fluid text-center h-auto">
+      </div>
+
+      <div class="col-lg-4 text-center text-lg-left text-white">
+        <h2>Power to you</h2>
+        <p>
+            Our open-source apps are here to help you get through the day.
+            <br>
+            Want to do more with your handeld device?
+            <br>
+            Power users will enjoy Unix command-line utilities and
+            android developers will turn any device into the perfect device for
+            apps development thanks to enhanced tools and exclusive APIs.
+            <br>
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="download bg-primary" style="margin-bottom: -40px;">
+  <div class="container">
+    <div class="text-center">
+      <h2>Why are you still waiting? Download LineageOS now!</h2>
+      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+        nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+        sed diam voluptua. At vero eos et accusam et
+      </p>
+      <a class="btn btn-white text-primary" href="https://download.lineageos.org/"><img src="assets/img/download.svg" /> Download</a>
+    </div>
+  </div>
+  
+  <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/lineage.js"></script-->
+</section>
