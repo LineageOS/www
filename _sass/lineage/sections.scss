@@ -1,0 +1,50 @@
+section.security,
+section.tools,
+section.download {
+  padding: 6rem 1rem;
+}
+
+section.home,
+section.tweaks {
+  padding: 4rem 1rem;
+}
+
+section img {
+  max-height: 330px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: .5rem;
+}
+
+.section-background-image {
+  background-image: linear-gradient(
+      rgba(20, 20, 20, 0.5),
+      rgba(20, 20, 20, 0.5)),
+      url(../img/default_wallpaper.jpg);
+}
+
+img#rotate-on-scroll {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -120px;
+  overflow: hidden;
+  z-index: -10;
+  max-height: none;
+  height: 600px;
+  max-width: none;
+  width: auto;
+}
+
+@media (max-width: 990px) {
+  img#rotate-on-scroll {
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    transform: none !important;
+    max-height: 300px;
+  }
+}

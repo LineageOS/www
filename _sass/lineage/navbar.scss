@@ -1,0 +1,47 @@
+.navbar {
+  box-shadow: none;
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus {
+  background-color: rgba(0, 0, 0, 0.04);
+  font-weight: 500;
+}
+
+.navbar.scrollUp {
+  -webkit-transform: translateY(-70px);
+          transform: translateY(-70px);
+  box-shadow: none !important;
+}
+
+.navbar-shadow {
+  box-shadow: 0 1px 8px rgba(0,0,0,.3)
+}
+
+.navbar-brand {
+  padding: 14px 15px 6px !important;
+
+  svg {
+    height: 20px;
+    fill: $brand-primary;
+  }
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link:not(.btn) .material-icons {
+  top: 5px !important;
+}
+
+.navbar-toggler-icon {
+  background-color: $brand-primary !important;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent !important;
+}
+
+.nav-open .navbar-collapse {
+  box-shadow: 0 1px 8px rgba(0,0,0,.3);
+}
