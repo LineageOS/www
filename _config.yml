@@ -9,6 +9,8 @@ name: LineageOS
 description: LineageOS Android Distribution
 
 repository: LineageOS/www
+
+github: [metadata]
 #
 # Flags below are optional
 #
