@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.text-center {
+  text-align: center;
+}
+
+@include media-breakpoint-up(lg) {
+  .text-lg-left {
+    text-align: left;
+  }
+}
+
+.bg-primary {
+  background-color: $brand-primary !important;
+  color: white;
+}
+
+.bg-primary-lighter {
+    background-color: #E0F6F7 !important;
+    color: black;
+}
+
+.bg-dark {
+  background-color: #343a40;
+  color: white;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.align-items-bottom {
+  align-items: flex-end;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  clip-path: inset(50%);
+  border: 0;
+}

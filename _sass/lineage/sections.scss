@@ -1,0 +1,79 @@
+@charset "UTF-8";
+section.tools,
+section.security,
+section.longevity,
+section.download {
+  padding: 6rem 1rem;
+}
+
+section.blog {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+
+h3 {
+      margin-top: 0;
+    }
+
+}
+
+section.home,
+section.tweaks {
+  padding: 4rem 1rem;
+}
+
+section img {
+  max-height: 330px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: .5rem;
+}
+
+.section-background-image {
+  background-image: linear-gradient(
+      rgba(20, 20, 20, 0.5),
+      rgba(20, 20, 20, 0.5)),
+      url(../img/default_wallpaper.jpg);
+}
+
+section.download .logo svg {
+  fill: white;
+  max-height: 100px;
+  height: auto;
+  width: auto;
+  margin: 0 3rem;
+}
+
+img#rotate-on-scroll {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -120px;
+  overflow: hidden;
+  z-index: -10;
+  max-height: none;
+  height: 600px;
+  max-width: none;
+  width: auto;
+}
+
+@include media-breakpoint-down(md) {
+
+  img#rotate-on-scroll {
+    position: relative;
+    bottom: 0;
+    transform: none !important;
+    max-height: 300px;
+  }
+
+}
+
+@include media-breakpoint-down(xs) {
+
+  .section-background-image {
+    background-image: linear-gradient(
+        rgba(20, 20, 20, 0.5),
+        rgba(20, 20, 20, 0.5)),
+        url(../img/default_wallpaper-xs.jpg);
+  }
+}
