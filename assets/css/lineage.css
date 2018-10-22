@@ -27,8 +27,9 @@ h3 a:hover {
 }
 
 .welcome {
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  /*box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);*/
   padding: 48px 16px 56px !important;
+  margin-bottom: 0 !important;
 }
 
 .jumbotron h1 {
@@ -47,6 +48,32 @@ h3 a:hover {
 .heading {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
 }
+.welcome-image {
+  max-height: 372px;
+  margin: 0 auto;
+}
+
+section.security,
+section.tools,
+section.download {
+  padding: 6rem 1rem;
+}
+
+section.home,
+section.tweaks {
+  padding: 4rem 1rem;
+}
+section img {
+  max-height: 360px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-primary {
+  background-color: #167c80 !important;
+  color: white;
+}
 
 .navbar {
   box-shadow: none;
@@ -57,6 +84,7 @@ h3 a:hover {
 .navbar .navbar-nav .nav-item.active .nav-link:hover,
 .navbar .navbar-nav .nav-item.active .nav-link:focus {
   background-color: rgba(0, 0, 0, 0.04);
+  font-weight: 500;
 }
 
 .navbar.scrollUp {
@@ -94,8 +122,22 @@ h3 a:hover {
   box-shadow: 0 1px 8px rgba(0,0,0,.3);
 }
 
+.btn {
+  border-radius: 45px !important;
+}
+
 .btn-white {
   color: #167c80 !important;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.btn-dark {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.btn-white:hover,
+.btn-dark:hover {
+  box-shadow: 0 14px 26px -12px rgba(0,0,0,.42), 0 4px 23px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
 }
 
 .card {
@@ -207,4 +249,7 @@ h3 a:hover {
 .blog_post_image_content {
     max-width: 100%;
     padding: 50px;
+}
+section img {
+  max-height: 288px;
 }
