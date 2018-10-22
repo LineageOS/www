@@ -1,0 +1,31 @@
+@charset "UTF-8";
+// Typography
+//
+// Font, line-height, and color for body text, headings, and more.
+
+// https://www.google.com/design/spec/style/typography.html#typography-styles
+// http://www.getmdl.io/styles/index.html
+
+$font-family-sans-serif: 'Roboto', 'Helvetica', 'Arial', sans-serif !default;
+
+$font-size-h1:                 3.3125rem;
+$font-size-h2:                 2.25rem !default;
+$font-size-h3:                 1.5625rem;
+$font-size-h4:                 1.125rem !default;
+$font-size-h5:                 1.0625rem !default;
+$font-size-h6:                 0.75rem !default;
+$font-paragraph:               1rem !default;
+$font-size-navbar:             1rem !default;
+$font-size-small:              12px !default;
+
+$display1-size: 7rem !default;
+$display2-size: 3.5rem !default;
+$display3-size: 2.8125rem !default;
+$display4-size: 2.125rem !default;
+
+$headings-margin-bottom:     ($spacer / 2) !default;
+$headings-font-weight:         400 !default;
+
+$font-weight-light: 300 !default;
+$font-weight-default: 400 !default;
+$font-weight-bold:    500 !default;
