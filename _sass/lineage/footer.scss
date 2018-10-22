@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.footer {
+  background-color: #eee;
+  padding: 16px 0;
+  margin-top: 40px;
+
+  .footer-icons {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 32px;
+    float: right;
+    height: 100%;
+
+    a {
+      transition: .2s;
+      padding-right: 4px;
+
+      &:hover {
+        opacity: 0.5;
+        color: $brand-primary !important;
+      }
+    }
+
+  }
+
+  .footer-logo {
+    fill: #6c757d;
+    margin: 8px 0 4px;
+    height: 32px;
+  }
+
+  .footer-text {
+    color: #6c757d;
+    margin-bottom: 14px;
+    font-size: 0.875rem;
+  }
+
+}
+
+@include media-breakpoint-down(sm) {
+  .footer,
+  .footer .footer-icons {
+    text-align: center;
+    float: none
+  }
+}
