@@ -1,0 +1,51 @@
+@charset "UTF-8";
+.footer {
+  background-color: #eee;
+  padding: 1rem 0;
+  margin-top: 3rem;
+
+  .footer-icons {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 32px;
+    float: right;
+
+    a {
+      transition: .2s;
+      padding-right: 4px;
+
+      &:hover {
+        opacity: 0.5;
+        color: $brand-primary !important;
+      }
+
+      svg {
+        display: inline-block;
+        height: 1em;
+        width: 1.25em;
+      }
+    }
+
+  }
+
+  .footer-logo svg {
+    fill: $grey-600;
+    margin: 8px 0 4px;
+    height: 32px;
+  }
+
+  .footer-text {
+    color: $grey-700;
+    margin-bottom: .875rem;
+    font-size: .875rem;
+  }
+
+}
+
+@include media-breakpoint-down(sm) {
+  .footer,
+  .footer .footer-icons {
+    text-align: center;
+    float: none
+  }
+}

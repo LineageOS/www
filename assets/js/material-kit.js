@@ -41,93 +41,115 @@ $(document.links).filter(function() {
   return this.hostname != window.location.hostname;
 }).attr('target', '_blank');
 
-/*! =========================================================
- *
- * Material Kit Free - v2.0.2 (Bootstrap 4.0.0 Final Edition)
- *
- * =========================================================
- *
- * Product Page: https://www.creative-tim.com/product/material-kit-pro
- * Available with purchase of license from http://www.creative-tim.com/product/material-kit-pro
- * Copyright 2017 Creative Tim (https://www.creative-tim.com)
- * License Creative Tim (https://www.creative-tim.com/license)
- *
- * ========================================================= */
 
+/*!
+=========================================================
+* Material Kit - v2.0.4
+=========================================================
+* Product Page: https://www.creative-tim.com/product/material-kit
+* Copyright 2018 Creative Tim (http://www.creative-tim.com)
+=========================================================
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*/
 
-$(document).ready(function() {
-
-    // Init Material scripts for buttons ripples, inputs animations etc, more info on the next link https://github.com/FezVrasta/bootstrap-material-design#materialjs
-    $('body').bootstrapMaterialDesign();
-    window_width = $(window).width();
-    $navbar_collapse = $('.navbar').find('.navbar-collapse');
-
-});
+var navbar_menu_visible= 0;
 
 $(document).on('click', '.navbar-toggler', function() {
-    $toggle = $(this);
-
-    if (materialKit.misc.navbar_menu_visible == 1) {
-        $('html').removeClass('nav-open');
-        materialKit.misc.navbar_menu_visible = 0;
-        $('#bodyClick').remove();
-        setTimeout(function() {
-            $toggle.removeClass('toggled');
-        }, 550);
-
-        $('html').removeClass('nav-open-absolute');
-    } else {
-        setTimeout(function() {
-            $toggle.addClass('toggled');
-        }, 580);
-
-
-        div = '<div id="bodyClick"></div>';
-        $(div).appendTo("body").click(function() {
-            $('html').removeClass('nav-open');
-
-            if ($('nav').hasClass('navbar-absolute')) {
-                $('html').removeClass('nav-open-absolute');
-            }
-            materialKit.misc.navbar_menu_visible = 0;
-            $('#bodyClick').remove();
-            setTimeout(function() {
-                $toggle.removeClass('toggled');
-            }, 550);
-        });
-
-        if ($('nav').hasClass('navbar-absolute')) {
-            $('html').addClass('nav-open-absolute');
-        }
-
-        $('html').addClass('nav-open');
-        materialKit.misc.navbar_menu_visible = 1;
-    }
+  $toggle = $(this);
+  if (navbar_menu_visible == 1) {
+    $('html').removeClass('nav-open');
+    navbar_menu_visible = 0;
+    $('#bodyClick').remove();
+    setTimeout(function() {
+      $toggle.removeClass('toggled');
+    }, 550);
+  } else {
+    setTimeout(function() {
+      $toggle.addClass('toggled');
+    }, 580);
+    div = '<div id="bodyClick"></div>';
+    $(div).appendTo("body").click(function() {
+      $('html').removeClass('nav-open');
+      navbar_menu_visible = 0;
+      $('#bodyClick').remove();
+      setTimeout(function() {
+        $toggle.removeClass('toggled');
+      }, 550);
+    });
+    $('html').addClass('nav-open');
+    navbar_menu_visible = 1;
+  }
 });
 
-materialKit = {
-  misc: {
-    navbar_menu_visible: 0,
-    window_width: 0,
-    transparent: true,
-    colored_shadows: true,
-    fixedTop: false,
-    navbar_initialized: false,
-    isWindow: document.documentMode || /Edge/.test(navigator.userAgent)
-  },
+// Ripple.js Copyright (c) 2014 Jacob Kelley
 
-};
-
-function debounce(func, wait, immediate) {
-    var timeout;
-    return function() {
-        var context = this,
-            args = arguments;
-        clearTimeout(timeout);
-        timeout = setTimeout(function() {
-            timeout = null;
-            if (!immediate) func.apply(context, args);
-        }, wait);
-        if (immediate && !timeout) func.apply(context, args);
+;(function($, document, Math){
+    $.ripple = function(selector, options) {
+        var self = this;
+        self.selector = selector;
+        self.defaults = {
+            on: 'mousedown',
+            opacity: 0.4,
+            color: "auto",
+            multi: false,
+            duration: 0.7,
+            rate: function(pxPerSecond) {
+                return pxPerSecond;
+            },
+            easing: 'linear'
+        };
+        self.defaults = $.extend({}, self.defaults, options);
+        var Trigger = function(e) {
+            var $this = $(this);
+            var $ripple;
+            var settings;
+            $this.addClass('has-ripple');
+            settings = $.extend({}, self.defaults, $this.data());
+            if ( settings.multi || (!settings.multi && $this.find(".ripple").length === 0) ) {
+                $ripple = $("<span></span>").addClass("ripple");
+                $ripple.appendTo($this);
+                if (!$ripple.height() && !$ripple.width()) {
+                    var size = Math.max($this.outerWidth(), $this.outerHeight());
+                    $ripple.css({
+                        height: size,
+                        width: size
+                    });
+                }
+                if(settings.rate && typeof settings.rate == "function") {
+                    var rate = Math.round( $ripple.width() / settings.duration );
+                    var filteredRate = settings.rate(rate);
+                    var newDuration = ( $ripple.width() / filteredRate);
+                    if(settings.duration.toFixed(2) !== newDuration.toFixed(2)) {
+                        settings.duration = newDuration;
+                    }
+                }
+                var color = (settings.color == "auto") ? $this.css('color') : settings.color;
+                var css = {
+                    animationDuration: (settings.duration).toString() + 's',
+                    animationTimingFunction: settings.easing,
+                    background: color,
+                    opacity: settings.opacity
+                };
+                $ripple.css(css);
+            }
+            if(!settings.multi) {
+                $ripple = $this.find(".ripple");
+            }
+            $ripple.removeClass("ripple-animate");
+            var x = e.pageX - $this.offset().left - $ripple.width() / 2;
+            var y = e.pageY - $this.offset().top - $ripple.height() / 2;
+            if(settings.multi) {
+                $ripple.one('animationend webkitAnimationEnd oanimationend MSAnimationEnd', function() {
+                    $(this).remove();
+                });
+            }
+            $ripple.css({
+                top: y + 'px',
+                left: x + 'px'
+            }).addClass("ripple-animate");
+        };
+        $(document).on(self.defaults.on, self.selector, Trigger);
     };
-}
+})(jQuery, document, Math);
+
+$.ripple(".btn, .nav-item");
