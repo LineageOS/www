@@ -1,5 +1,6 @@
 ---
 layout: default
+title: blog
 ---
 <style>
 body {
@@ -10,14 +11,14 @@ body {
 <div class="jumbotron">
   <div class="container">
 
-    <h1>Engineering Blog</h1>
-    <p>Technical blog posts on Android internals.</p>
-    <a class="btn btn-white text-primary" href="{{ site.baseurl }}/feed-engineering.xml">{% include svg/rss_feed.svg %} RSS Feed</a>
+    <h1>Blog</h1>
+    <p>Changelogs and news from the team.</p>
+    <a class="btn btn-white text-primary" href="{{ site.baseurl }}/feed.xml">{% include svg/rss_feed.svg %} RSS Feed</a>
   </div>
 </div>
 
 <div class="container post">
-  {% for post in site.engineering reversed %}
+  {% for post in site.categories.blog %}
   <div class="card">
 
     <div class="card-body">
