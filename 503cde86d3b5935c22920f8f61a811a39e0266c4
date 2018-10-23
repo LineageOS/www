@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "570e93c5_df3133b6",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2018-10-23T06:52:46Z",
+      "side": 1,
+      "message": "devices (unofficial builds are probably a larger number, I lack actual stats on that at the moment)",
+      "range": {
+        "startLine": 14,
+        "startChar": 37,
+        "endLine": 14,
+        "endChar": 43
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "66ef5dc2_22a56a6f",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2018-10-23T06:52:46Z",
+      "side": 1,
+      "message": "\"which we can\u0027t do due to their closed source licenses\" may be better here?",
+      "range": {
+        "startLine": 24,
+        "startChar": 132,
+        "endLine": 24,
+        "endChar": 167
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "acdd17b8_07cf7f8e",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 5008
+      },
+      "writtenOn": "2018-10-23T06:52:46Z",
+      "side": 1,
+      "message": "partially this, and partially new user acquisition on abandoned hardware (not sure how to add that in)",
+      "range": {
+        "startLine": 62,
+        "startChar": 0,
+        "endLine": 62,
+        "endChar": 215
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
