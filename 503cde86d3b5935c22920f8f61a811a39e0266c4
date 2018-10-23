@@ -96,6 +96,121 @@
     },
     {
       "key": {
+        "uuid": "b6d2c3e1_1302105e",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-10-23T08:09:26Z",
+      "side": 1,
+      "message": "Wasn\u0027t that called \"Trust branding\" in previous blog posts?",
+      "range": {
+        "startLine": 35,
+        "startChar": 126,
+        "endLine": 35,
+        "endChar": 142
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2141576c_2daf132b",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-10-23T08:09:26Z",
+      "side": 1,
+      "message": "maybe rephrase this, JIRA isn\u0027t necessarily a social platform, and I wouldn\u0027t count IRC as one as well.",
+      "range": {
+        "startLine": 50,
+        "startChar": 79,
+        "endLine": 50,
+        "endChar": 95
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ede90396_fbc11ef9",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-10-23T08:09:26Z",
+      "side": 1,
+      "message": "\"for more technical discussions\"",
+      "range": {
+        "startLine": 50,
+        "startChar": 305,
+        "endLine": 50,
+        "endChar": 362
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "263e05c3_b0c7f452",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-10-23T08:09:26Z",
+      "side": 1,
+      "message": "Should this be capitalized? (i.e. \"JIRA\")",
+      "range": {
+        "startLine": 50,
+        "startChar": 168,
+        "endLine": 50,
+        "endChar": 172
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9c672add_15da9e44",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-10-23T08:09:26Z",
+      "side": 1,
+      "message": "\"capable of predicting\"",
+      "range": {
+        "startLine": 60,
+        "startChar": 189,
+        "endLine": 60,
+        "endChar": 199
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "acdd17b8_07cf7f8e",
         "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
         "patchSetId": 1
@@ -112,6 +227,29 @@
         "startChar": 0,
         "endLine": 62,
         "endChar": 215
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "37444c98_c552806d",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-10-23T08:09:26Z",
+      "side": 1,
+      "message": "Is that still accurate?",
+      "range": {
+        "startLine": 64,
+        "startChar": 73,
+        "endLine": 64,
+        "endChar": 122
       },
       "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
