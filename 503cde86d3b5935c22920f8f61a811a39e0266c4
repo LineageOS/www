@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "a38604f6_3a1a3641",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2018-10-23T07:07:06Z",
+      "side": 1,
+      "message": "This is just for summer survey, not real stats. We could change this to reflect stats.lineageos.org if you want",
+      "parentUuid": "570e93c5_df3133b6",
+      "range": {
+        "startLine": 14,
+        "startChar": 37,
+        "endLine": 14,
+        "endChar": 43
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "66ef5dc2_22a56a6f",
         "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2018-10-23T06:52:46Z",
       "side": 1,
       "message": "\"which we can\u0027t do due to their closed source licenses\" may be better here?",
+      "range": {
+        "startLine": 24,
+        "startChar": 132,
+        "endLine": 24,
+        "endChar": 167
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cd31f77c_55ae45cd",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2018-10-23T07:07:06Z",
+      "side": 1,
+      "message": "GPL is a thing we couldn\u0027t do either, right?",
+      "parentUuid": "66ef5dc2_22a56a6f",
       "range": {
         "startLine": 24,
         "startChar": 132,
