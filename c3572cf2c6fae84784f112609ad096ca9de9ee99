@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f116134_aec5ed0a",
+        "filename": "_sass/lineage/footer.scss",
+        "patchSetId": 23
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 17049
+      },
+      "writtenOn": "2018-10-30T18:24:58Z",
+      "side": 1,
+      "message": "text-decoration: none;",
+      "revId": "c3572cf2c6fae84784f112609ad096ca9de9ee99",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
