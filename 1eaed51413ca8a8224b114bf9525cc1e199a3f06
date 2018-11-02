@@ -1,0 +1,159 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "37d77b72_18a3f833",
+        "filename": "blog.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "Caps",
+      "range": {
+        "startLine": 3,
+        "startChar": 7,
+        "endLine": 3,
+        "endChar": 8
+      },
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2333ede5_650aad48",
+        "filename": "engineering.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "The icons here should probably be preserved as well.",
+      "range": {
+        "startLine": 26,
+        "startChar": 27,
+        "endLine": 26,
+        "endChar": 111
+      },
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ee4b7702_d44d9e48",
+        "filename": "index.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "We should probably reintroduce the icons here.",
+      "range": {
+        "startLine": 32,
+        "startChar": 11,
+        "endLine": 32,
+        "endChar": 95
+      },
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2cc23ecb_be6b66a4",
+        "filename": "index.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "Lineage or LineageOS?",
+      "range": {
+        "startLine": 52,
+        "startChar": 23,
+        "endLine": 52,
+        "endChar": 30
+      },
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8b5bfda1_6739602b",
+        "filename": "index.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "maybe \"as well\" instead of \"too\"?",
+      "range": {
+        "startLine": 55,
+        "startChar": 57,
+        "endLine": 55,
+        "endChar": 60
+      },
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c8465d90_52c61b43",
+        "filename": "index.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "Is the Trust icon ever displayed without the white backdrop? If not, we should probably add a white background in there.",
+      "range": {
+        "startLine": 78,
+        "startChar": 10,
+        "endLine": 78,
+        "endChar": 37
+      },
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "48794943_8a582c2c",
+        "filename": "index.html",
+        "patchSetId": 27
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2018-11-02T10:27:48Z",
+      "side": 1,
+      "message": "Ending dot?",
+      "revId": "1eaed51413ca8a8224b114bf9525cc1e199a3f06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
