@@ -49,6 +49,29 @@
     },
     {
       "key": {
+        "uuid": "004822da_11ad80e3",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "In this order?",
+      "range": {
+        "startLine": 22,
+        "startChar": 70,
+        "endLine": 22,
+        "endChar": 123
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "66ef5dc2_22a56a6f",
         "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
         "patchSetId": 1
@@ -96,6 +119,122 @@
     },
     {
       "key": {
+        "uuid": "fefd0edb_27461465",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "in most cases",
+      "range": {
+        "startLine": 24,
+        "startChar": 386,
+        "endLine": 24,
+        "endChar": 403
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5262699d_8c162c0a",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "useful ideas for improvements.",
+      "range": {
+        "startLine": 24,
+        "startChar": 209,
+        "endLine": 24,
+        "endChar": 240
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "10962e79_c0a37f1f",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "Nah, the way its written anything built that depends on it would have to be GPL, which is infeasible (see hero* devices being pulled).",
+      "parentUuid": "cd31f77c_55ae45cd",
+      "range": {
+        "startLine": 24,
+        "startChar": 132,
+        "endLine": 24,
+        "endChar": 167
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e510e31b_f86f27f6",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "Based on the freeform message responses at the end of the survey we noted there were two distinct categories of users:",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 61
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ad4674fa_5a504f0b",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "delete this bit: \"These results show a very diverse user-base, so we\u0027ll work our best to satisfy as many of those voices as we can.\" (or similar)",
+      "range": {
+        "startLine": 26,
+        "startChar": 19,
+        "endLine": 26,
+        "endChar": 31
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "b6d2c3e1_1302105e",
         "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
         "patchSetId": 1
@@ -112,6 +251,168 @@
         "startChar": 126,
         "endLine": 35,
         "endChar": 142
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3dc05fb0_7e26fc27",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "I think so, yeah.",
+      "parentUuid": "b6d2c3e1_1302105e",
+      "range": {
+        "startLine": 35,
+        "startChar": 126,
+        "endLine": 35,
+        "endChar": 142
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b3f1d8d_3e466533",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "reasonable",
+      "range": {
+        "startLine": 35,
+        "startChar": 52,
+        "endLine": 35,
+        "endChar": 56
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b326cacc_594fe67e",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "delete these 2 words",
+      "range": {
+        "startLine": 42,
+        "startChar": 270,
+        "endLine": 42,
+        "endChar": 278
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "72fb9261_aec60d4b",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "Android\u0027s",
+      "range": {
+        "startLine": 42,
+        "startChar": 326,
+        "endLine": 42,
+        "endChar": 333
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a2dc33d_06271b36",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "The good news is, we\u0027re already...",
+      "range": {
+        "startLine": 48,
+        "startChar": 95,
+        "endLine": 48,
+        "endChar": 100
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "333af54a_d0631d46",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "complaint",
+      "range": {
+        "startLine": 48,
+        "startChar": 133,
+        "endLine": 48,
+        "endChar": 141
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c8d8a909_c6ae4084",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "complaint",
+      "range": {
+        "startLine": 48,
+        "startChar": 12,
+        "endLine": 48,
+        "endChar": 20
       },
       "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
@@ -188,6 +489,122 @@
     },
     {
       "key": {
+        "uuid": "8226dba1_0b25eb12",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "Maybe don\u0027t call them social platforms, and instead, just some of our platforms?",
+      "parentUuid": "2141576c_2daf132b",
+      "range": {
+        "startLine": 50,
+        "startChar": 79,
+        "endLine": 50,
+        "endChar": 95
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ba44a23_df756dc9",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "doesn\u0027t",
+      "range": {
+        "startLine": 54,
+        "startChar": 151,
+        "endLine": 54,
+        "endChar": 156
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5c411415_ea55858d",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "are",
+      "range": {
+        "startLine": 56,
+        "startChar": 82,
+        "endLine": 56,
+        "endChar": 84
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "10ba8620_a17d4835",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "I\u0027m one that likes the use of the oxford comma.",
+      "range": {
+        "startLine": 56,
+        "startChar": 51,
+        "endLine": 56,
+        "endChar": 52
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab5a09d5_c04d7cca",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "this seems vague? Maybe explain what kind? per-device CVE stuff, or like platform wide Trust like stufF?",
+      "range": {
+        "startLine": 58,
+        "startChar": 83,
+        "endLine": 58,
+        "endChar": 91
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9c672add_15da9e44",
         "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
         "patchSetId": 1
@@ -199,6 +616,76 @@
       "writtenOn": "2018-10-23T08:09:26Z",
       "side": 1,
       "message": "\"capable of predicting\"",
+      "range": {
+        "startLine": 60,
+        "startChar": 189,
+        "endLine": 60,
+        "endChar": 199
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c177512e_eb7771c1",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "anything",
+      "range": {
+        "startLine": 60,
+        "startChar": 374,
+        "endLine": 60,
+        "endChar": 383
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ceecd56_4616cdd5",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "feature/peripheral",
+      "range": {
+        "startLine": 60,
+        "startChar": 337,
+        "endLine": 60,
+        "endChar": 343
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5471d0b7_c34d56bf",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "9c672add_15da9e44",
       "range": {
         "startLine": 60,
         "startChar": 189,
@@ -227,6 +714,52 @@
         "startChar": 0,
         "endLine": 62,
         "endChar": 215
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "31db6214_28233d8f",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": ". Additionally, we won\u0027t distribute old, insecure, and potentially broken builds, as we don\u0027t want users running abandonware-equivalent versions with no active updates.",
+      "range": {
+        "startLine": 62,
+        "startChar": 214,
+        "endLine": 62,
+        "endChar": 215
+      },
+      "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab8d261b_0697f278",
+        "filename": "_posts/blog/2018-10-30-Summer-Survey-2-Results.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2018-11-05T07:23:10Z",
+      "side": 1,
+      "message": "no need for quotes, they are donated space.",
+      "range": {
+        "startLine": 62,
+        "startChar": 95,
+        "endLine": 62,
+        "endChar": 104
       },
       "revId": "503cde86d3b5935c22920f8f61a811a39e0266c4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
