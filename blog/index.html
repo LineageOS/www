@@ -1,0 +1,64 @@
+---
+layout: default
+title: Blog
+---
+
+<style>body {background-color: #fafafa;}</style>
+
+<div class="jumbotron">
+  <div class="container">
+
+    <h1>Blog</h1>
+    <p>Changelogs and news from the LineageOS team.</p>
+    <a class="btn btn-primary" href="{{ site.baseurl }}/feed.xml">{% include svg/rss_feed.svg %} RSS Feed</a>
+  </div>
+</div>
+
+<div class="container post">
+  {% for post in paginator.posts %}
+  <div class="card">
+
+    <div class="card-body">
+      <h6>{{ post.excerpt }}</h6>
+      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="card-text">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} {{ post.author }}{% endif %}</p>
+    </div>
+
+    <div class="card-button">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-link text-primary">Read More</a>
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
+
+
+<div class="container">
+  <ul class="pagination">
+
+    {% if paginator.previous_page %}
+    <li class="page-item">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-link">prev</a>
+    </li>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="active page-item"><a href="javascript:void(0);" class="page-link">{{ page }}</a></li>
+    {% elsif page == 1 %}
+      <li class="page-item"><a href="/blog/" class="page-link">{{ page }}</a></li>
+    {% else %}
+    <li class="page-item">
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-link">{{ page }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <li class="page-item">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-link">next</a>
+    </li>
+    {% endif %}
+
+  </ul>
+</div>
