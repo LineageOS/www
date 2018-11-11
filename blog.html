@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blog
+title: Blog
 ---
 <style>
 body {
@@ -24,7 +24,7 @@ body {
     <div class="card-body">
       <h6>{{ post.excerpt }}</h6>
       <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} {{ post.author }}{% endif %}</p>
+      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
     </div>
 
     <div class="card-button">

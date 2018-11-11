@@ -29,7 +29,7 @@ scrolljs: true
         {% for post in site.categories.blog limit:1 %}
         <h3><a class="fg-primary-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <h6>{{ post.excerpt }}</h6>
-        <p>{{ post.date | date: '%B %d, %Y' }}{% if post.author %} {{ post.author }}{% endif %}</p>
+        <p><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
         {% endfor %}
       </div>
     </div>
@@ -159,7 +159,7 @@ scrolljs: true
         with more being continuously added thanks to the biggest, yet ever growing,
         Android open-source community.
         <br>
-        Join us and breath new life in your device, be it old or new.
+        Join us and breathe new life in your device, be it old or new.
       </p>
       <a class="btn btn-primary" href="https://download.lineageos.org/">
         {% include svg/download.svg %} Download
