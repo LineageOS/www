@@ -115,11 +115,10 @@
 }
 
 .navbar-toggler {
-  padding: $navbar-toggler-padding-y $navbar-toggler-padding-x;
-  font-size: $navbar-toggler-font-size;
+  padding: .25rem .75rem;
+  font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
-  border: $border-width solid transparent;
   cursor: pointer;
   border: 0;
   border-radius: .25rem;

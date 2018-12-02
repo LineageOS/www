@@ -2,11 +2,7 @@
 layout: default
 title: Blog
 ---
-<style>
-body {
-  background-color: #fafafa;
-}
-</style>
+<style>body {background-color: #fafafa;}</style>
 
 <div class="jumbotron">
   <div class="container">
@@ -24,7 +20,8 @@ body {
     <div class="card-body">
       <h6>{{ post.excerpt }}</h6>
       <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text"><i class="far fa-clock fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}{% if post.author %} <i class="far fa-user fa-fw" aria-hidden="true"></i> {{ post.author }}{% endif %}</p>
+      <p class="card-text">{% include svg/clock.svg %} {{ post.date | date: '%B %d, %Y' }}{% if post.author %}
+{% include svg/author.svg %} {{ post.author }}{% endif %}</p>
     </div>
 
     <div class="card-button">

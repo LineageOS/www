@@ -1,13 +1,8 @@
 @charset "UTF-8";
 
 @import "variables/colors";
-@import "variables/spacing";
 @import "variables/brand";
 @import "variables/type";
-
-// import their vars after customization for use below
-$enable-flex: true; // fully adopt flexbox layouts
-$enable-shadows: true; // enable shadows, set to false to turn off shadows
 
 // Core Bootstrap Variables
 @import "variables/bs-functions";
