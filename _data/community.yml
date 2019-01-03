@@ -20,7 +20,7 @@
     url: https://reddit.com/r/lineageos
   - name: Bug Tracker
     text: Found an issue? Report it here!
-    url: https://jira.lineageos.org
+    url: https://gitlab.com/LineageOS/issues
 
 #- name: Contact
 #  data:
