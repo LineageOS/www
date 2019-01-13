@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "71c174a1_f81308d0",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2019-01-13T15:15:05Z",
+      "side": 1,
+      "message": "\"roster\"",
+      "range": {
+        "startLine": 28,
+        "startChar": 208,
+        "endLine": 28,
+        "endChar": 215
+      },
+      "revId": "48bdd74c6169c8badb9bbbc4e9b338e663e2f1b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
