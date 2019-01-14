@@ -1,0 +1,487 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c83fe436_53916263",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "last few months",
+      "range": {
+        "startLine": 13,
+        "startChar": 30,
+        "endLine": 13,
+        "endChar": 36
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1c5eb8a0_0be17eec",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "bring our vision to this new version of android, and get it ready for you.",
+      "range": {
+        "startLine": 13,
+        "startChar": 40,
+        "endLine": 13,
+        "endChar": 70
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3caa2397_12b6bd9b",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "cleanup",
+      "range": {
+        "startLine": 14,
+        "startChar": 16,
+        "endLine": 14,
+        "endChar": 25
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "16401df3_0b757062",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "features and reliability",
+      "range": {
+        "startLine": 15,
+        "startChar": 22,
+        "endLine": 15,
+        "endChar": 43
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9b60c5be_258c0aa6",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "drop this",
+      "range": {
+        "startLine": 18,
+        "startChar": 27,
+        "endLine": 18,
+        "endChar": 31
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "058c6fe2_e4bacabe",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "Also, with",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 4
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "775173eb_a2b96c74",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "in",
+      "range": {
+        "startLine": 19,
+        "startChar": 80,
+        "endLine": 19,
+        "endChar": 83
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "79bb001a_07be61d1",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "drop this wor",
+      "range": {
+        "startLine": 19,
+        "startChar": 66,
+        "endLine": 19,
+        "endChar": 70
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f34f6463_4d9f47d3",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "right",
+      "range": {
+        "startLine": 21,
+        "startChar": 12,
+        "endLine": 21,
+        "endChar": 20
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e5f146b8_5099ed24",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "them",
+      "range": {
+        "startLine": 21,
+        "startChar": 9,
+        "endLine": 21,
+        "endChar": 12
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b16e33c9_9d96a9de",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "ability",
+      "range": {
+        "startLine": 24,
+        "startChar": 63,
+        "endLine": 24,
+        "endChar": 75
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0e7a8b11_413137c0",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "device (or at minimum, non-pluralize to \"gadget\")",
+      "range": {
+        "startLine": 24,
+        "startChar": 92,
+        "endLine": 24,
+        "endChar": 99
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6dd69c2c_20775518",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "Please note",
+      "range": {
+        "startLine": 25,
+        "startChar": 23,
+        "endLine": 25,
+        "endChar": 28
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "31022a2e_0134cdc7",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "layer at which this was implemented.",
+      "range": {
+        "startLine": 25,
+        "startChar": 101,
+        "endLine": 26,
+        "endChar": 19
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "17092d18_4f1faece",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "This page needs to be updated to reflect OpenGApps only, not MTG.",
+      "range": {
+        "startLine": 41,
+        "startChar": 45,
+        "endLine": 41,
+        "endChar": 81
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8430edc4_9b2f0a62",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "7. If your device has an A/B partition scheme (see your device\u0027s Wiki page for more info), please **reboot to recovery via your recovery\u0027s menu now** -- this may seem odd, but A/B device\u0027s require it. If not, proceed without rebooting.\n8. Install your addons of choice.",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 47,
+        "endChar": 58
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9e16717e_605253be",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "these 2 seem repetitive, I\u0027d keep keep the top one, dump the bottom.\n\nAlso, maybe keep the bullet points syntax you kept with the previously listed \"notes\"?",
+      "range": {
+        "startLine": 55,
+        "startChar": 0,
+        "endLine": 59,
+        "endChar": 33
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "abf10494_41b1de5e",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "Lineage 15.1 Changelog:",
+      "range": {
+        "startLine": 61,
+        "startChar": 3,
+        "endLine": 61,
+        "endChar": 24
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9e293456_d5330363",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "get rid of this",
+      "range": {
+        "startLine": 67,
+        "startChar": 19,
+        "endLine": 67,
+        "endChar": 47
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "79522bbf_e9a93fd2",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "by",
+      "range": {
+        "startLine": 75,
+        "startChar": 81,
+        "endLine": 75,
+        "endChar": 86
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5b3e008a_c55b173e",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T05:17:14Z",
+      "side": 1,
+      "message": "of developers have",
+      "range": {
+        "startLine": 77,
+        "startChar": 9,
+        "endLine": 77,
+        "endChar": 13
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
