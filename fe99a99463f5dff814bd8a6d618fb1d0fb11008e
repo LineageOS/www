@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "061a175e_a52fb316",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 9
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2019-01-14T04:45:03Z",
+      "side": 1,
+      "message": "maybe we should clarify variants with Pie firmware only? No need to excited L04 users unnecessarily lol.",
+      "range": {
+        "startLine": 97,
+        "startChar": 0,
+        "endLine": 98,
+        "endChar": 100
+      },
+      "revId": "fe99a99463f5dff814bd8a6d618fb1d0fb11008e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
