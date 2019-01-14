@@ -278,6 +278,29 @@
     },
     {
       "key": {
+        "uuid": "2c3cfeab_799867bb",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2019-01-14T05:30:36Z",
+      "side": 1,
+      "message": ";",
+      "range": {
+        "startLine": 24,
+        "startChar": 35,
+        "endLine": 24,
+        "endChar": 36
+      },
+      "revId": "95bceb2fecc86ceb2f39d7d37175f205bad31e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "6dd69c2c_20775518",
         "filename": "_posts/blog/2019-01-30-Changelog-22.md",
         "patchSetId": 10
