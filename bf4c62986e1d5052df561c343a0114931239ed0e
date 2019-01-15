@@ -43,6 +43,24 @@
     },
     {
       "key": {
+        "uuid": "91447a5b_ba898c4f",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2019-01-15T19:08:09Z",
+      "side": 1,
+      "message": "Actually eh, rview didn\u0027t mark the word ;-;\n\nI maybe \u0027for\u0027 before \u0027the\u0027 would fit better than \u0027these\u0027 here.",
+      "parentUuid": "4f96cea9_59e1b908",
+      "revId": "bf4c62986e1d5052df561c343a0114931239ed0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ab4c3066_c5bdff58",
         "filename": "_posts/blog/2019-01-30-Changelog-22.md",
         "patchSetId": 13
