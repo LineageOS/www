@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "87d0a068_bc542f1a",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:51:23Z",
+      "side": 1,
+      "message": "Android always capitalised",
+      "revId": "0090c806e5d4f77005e0f839ed9603a01b026279",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b0250570_e056ecbf",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:51:23Z",
+      "side": 1,
+      "message": "period/full stop, not comma to end sentence",
+      "revId": "0090c806e5d4f77005e0f839ed9603a01b026279",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "29e1c0ab_6b0712cc",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:51:23Z",
+      "side": 1,
+      "message": "Crowdin should be capitalised",
+      "revId": "0090c806e5d4f77005e0f839ed9603a01b026279",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9da4e325_da21e2a9",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 15
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:51:23Z",
+      "side": 1,
+      "message": "previous branch, all",
+      "revId": "0090c806e5d4f77005e0f839ed9603a01b026279",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
