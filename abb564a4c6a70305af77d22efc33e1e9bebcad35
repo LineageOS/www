@@ -1,0 +1,57 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "89a56bf2_bf04fd2e",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:34:50Z",
+      "side": 1,
+      "message": "in particular, both",
+      "parentUuid": "",
+      "revId": "abb564a4c6a70305af77d22efc33e1e9bebcad35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d724371a_63734c9b",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:34:50Z",
+      "side": 1,
+      "message": "in the future, more",
+      "revId": "abb564a4c6a70305af77d22efc33e1e9bebcad35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "df0b7ea0_aa336ffe",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2019-01-16T09:34:50Z",
+      "side": 1,
+      "message": "Either:\n\nnew features to Trust, beginning with\n\nnew features to Trust. We are beginning with",
+      "parentUuid": "",
+      "revId": "abb564a4c6a70305af77d22efc33e1e9bebcad35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
