@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f0b73776_efd4e548",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-01-20T23:12:54Z",
+      "side": 1,
+      "message": "derp",
+      "range": {
+        "startLine": 97,
+        "startChar": 15,
+        "endLine": 97,
+        "endChar": 24
+      },
+      "revId": "c2abe6c1cc710c9104a388535084c36f62702a29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "254485d0_a2bfc272",
+        "filename": "_posts/blog/2019-01-30-Changelog-22.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-01-20T23:12:54Z",
+      "side": 1,
+      "message": "derp",
+      "range": {
+        "startLine": 98,
+        "startChar": 16,
+        "endLine": 98,
+        "endChar": 25
+      },
+      "revId": "c2abe6c1cc710c9104a388535084c36f62702a29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
