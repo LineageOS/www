@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8a75aadd_38468bf9",
+        "filename": "_posts/blog/2019-02-15-Changelog-22.md",
+        "patchSetId": 29
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-02-20T22:37:42Z",
+      "side": 1,
+      "message": "Shipping date must be updated.",
+      "revId": "81b3d4ad3fa2e0c32567100022835f2ab68d2691",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
