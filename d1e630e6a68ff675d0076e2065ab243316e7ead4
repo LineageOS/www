@@ -137,6 +137,29 @@
       "revId": "d1e630e6a68ff675d0076e2065ab243316e7ead4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cff13a2f_7942daed",
+        "filename": "_posts/blog/2019-02-15-Changelog-22.md",
+        "patchSetId": 31
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2019-02-21T04:48:36Z",
+      "side": 1,
+      "message": "For expectation management we might want to emphasize that infra limitations do limit these multiple versions to our two shipping versions.",
+      "range": {
+        "startLine": 84,
+        "startChar": 0,
+        "endLine": 86,
+        "endChar": 0
+      },
+      "revId": "d1e630e6a68ff675d0076e2065ab243316e7ead4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
