@@ -10,7 +10,7 @@ Alright, alright, alright - it's nearly 'go time' for builds to start flowing. B
 
 First, we want to thank everyone that stepped forward to assist with the infrastructure (and offers continue to pour in). Thanks to you all, all infrastructure pieces are lighting up 'Operational' on our lovely [status page.](https://status.lineageos.org)
 
-Additionally, our [Download Portal](https://download.lineageos.org), [Install stats page](https://stats.lineageos.org) (yep, that's 50k+ unofficial installs already!) and [Wiki](http://wiki.lineageos.org) are all live. Notably, all three of these sites (and this blog) are open sourced - you can contribute to them via our Gerrit instance! Bear with us if these sites look bare at the moment, they will grow with content and design as we continue marching forward.
+Additionally, our [Download Portal](https://download.lineageos.org), [Install stats page](https://stats.lineageos.org) (yep, that's 50k+ unofficial installs already!) and [Wiki](https://wiki.lineageos.org) are all live. Notably, all three of these sites (and this blog) are open sourced - you can contribute to them via our Gerrit instance! Bear with us if these sites look bare at the moment, they will grow with content and design as we continue marching forward.
 
 On to the fun stuff - build roster, release process and other details:
 
@@ -22,7 +22,7 @@ On to the fun stuff - build roster, release process and other details:
   * Home builders that want to bake su back into the ROM can use the command 'export WITH_SU=true' prior to building.
 * Our official builds will all be signed with a private key for authentication and signature permission control
   * This will not break, prevent or stop any 'unofficial' builds.
-  * Key verification info can be found on the wiki [Verifying Build Authenticity page](http://wiki.lineageos.org/verifying-builds.html)
+  * Key verification info can be found on the wiki [Verifying Build Authenticity page](https://wiki.lineageos.org/verifying-builds.html)
 
 Regarding installation, we recommend that users wipe when switching to LineageOS, and reinstall their gapps. However, we recognize that this can be time consuming, so we are offering an EXPERIMENTAL (read as, if it fails, you'll have to wipe anyways) solution.
 

@@ -15,8 +15,8 @@ Note that the installation counter is not a 100% accurate reflection of users, b
 Regardless, we're all very proud of the reception we've received and thank you for all of your continued support.
 
 ### Major changes since 6th March
-* Contacts can now be stored locally regardless of whether a contacts provider exists ([contact-local-storage](http://review.lineageos.org/#/q/topic:contact-local-storage))
-* Custom QuickSettings tiles are back! ([tiles](http://review.lineageos.org/#/q/topic:tiles)) Initial tiles are as follows:
+* Contacts can now be stored locally regardless of whether a contacts provider exists ([contact-local-storage](https://review.lineageos.org/#/q/topic:contact-local-storage))
+* Custom QuickSettings tiles are back! ([tiles](https://review.lineageos.org/#/q/topic:tiles)) Initial tiles are as follows:
   * Caffeine
   * USB Tether
   * Sync

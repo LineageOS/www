@@ -13,7 +13,7 @@ author: harryyoud
 * Torch on long-press has been added. This feature can be found in Settings > Buttons > Long-press power button for torch ([long-press-power-torch](https://review.lineageos.org/#/q/topic:long-press-power-torch))
 * CAF Rebase - some more information is below
 * Another build slave, courtesy of [DotSrc](http://dotsrc.org/)
-* Our in-house changelog viewer has been released. It's now available on the [download page](http://download.lineageos.org) ([#160901](https://review.lineageos.org/#/c/160901/))
+* Our in-house changelog viewer has been released. It's now available on the [download page](https://download.lineageos.org) ([#160901](https://review.lineageos.org/#/c/160901/))
 
 ### CAF Rebase and February Security Patches
 When we started developing for Android 7.0 (not 7.1), we based our source code on CAF 7.0 (CAF we depend upon for almost all our Qualcomm based devices).  
