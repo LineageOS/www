@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dffb362b_8cae66a9",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2019-06-02T07:58:58Z",
+      "side": 1,
+      "message": "HWC2 ?",
+      "revId": "ffff6d3e518b3be45c4c2a9df24f0f8c15dbea9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "de61976a_6bf6e293",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2019-06-02T07:58:58Z",
+      "side": 1,
+      "message": "might also mention GPS battery save mode is now also available in settings",
+      "revId": "ffff6d3e518b3be45c4c2a9df24f0f8c15dbea9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "65c4d2dc_5aaa0e08",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2019-06-02T07:58:58Z",
+      "side": 1,
+      "message": "might be worth waiting for June as well?",
+      "revId": "ffff6d3e518b3be45c4c2a9df24f0f8c15dbea9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5aa3c71d_2834c1e3",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2019-06-02T07:58:58Z",
+      "side": 1,
+      "message": "WebView",
+      "parentUuid": "",
+      "revId": "ffff6d3e518b3be45c4c2a9df24f0f8c15dbea9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
