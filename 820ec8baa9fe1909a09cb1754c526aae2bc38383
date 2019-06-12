@@ -16,6 +16,24 @@
       "revId": "820ec8baa9fe1909a09cb1754c526aae2bc38383",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c64a20ba_9b3b07fc",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2019-06-12T14:32:05Z",
+      "side": 1,
+      "message": "Just a nit, but shouldn\u0027t 16.0 come first?",
+      "parentUuid": "548992ce_907410db",
+      "revId": "820ec8baa9fe1909a09cb1754c526aae2bc38383",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
