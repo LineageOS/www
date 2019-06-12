@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "548992ce_907410db",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2019-06-12T12:55:57Z",
+      "side": 1,
+      "message": "make it alike the other both\nOCD thanks",
+      "revId": "820ec8baa9fe1909a09cb1754c526aae2bc38383",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
