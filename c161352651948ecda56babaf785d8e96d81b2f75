@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "26cc3a9c_4b859068",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2019-06-12T12:20:27Z",
+      "side": 1,
+      "message": "It\u0027s a runtime setting for all devices with volume buttons (it doesn\u0027t matter where they are located).",
+      "revId": "c161352651948ecda56babaf785d8e96d81b2f75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
