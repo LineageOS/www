@@ -2,6 +2,52 @@
   "comments": [
     {
       "key": {
+        "uuid": "5b753073_8f9e2b0b",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2019-06-12T03:44:53Z",
+      "side": 1,
+      "message": "Users have no clue what this means. Say \"on recent devices (ex. Snapdragon 820+, Kirin 970+, etc)\"",
+      "range": {
+        "startLine": 17,
+        "startChar": 47,
+        "endLine": 17,
+        "endChar": 69
+      },
+      "revId": "a36a431e88418e4c39214b4f2b3695668c0774d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f9abbae6_233c3200",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2019-06-12T03:44:53Z",
+      "side": 1,
+      "message": "June for 16.0 as well",
+      "range": {
+        "startLine": 31,
+        "startChar": 2,
+        "endLine": 31,
+        "endChar": 70
+      },
+      "revId": "a36a431e88418e4c39214b4f2b3695668c0774d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "f922fd95_1ffba5a7",
         "filename": "_posts/blog/2019-06-15-Changelog-23.md",
         "patchSetId": 3
@@ -13,6 +59,29 @@
       "writtenOn": "2019-06-10T17:16:01Z",
       "side": 1,
       "message": "74 for both now",
+      "revId": "a36a431e88418e4c39214b4f2b3695668c0774d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "11844dc9_a64a22da",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2019-06-12T03:44:53Z",
+      "side": 1,
+      "message": "Essential PH-1 [mata] is in now too",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 23
+      },
       "revId": "a36a431e88418e4c39214b4f2b3695668c0774d1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
