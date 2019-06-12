@@ -25,6 +25,23 @@
     },
     {
       "key": {
+        "uuid": "3a7ceb45_135530cd",
+        "filename": "_posts/blog/2019-06-15-Changelog-23.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2019-06-12T05:48:12Z",
+      "side": 1,
+      "message": "Also - a new volume panel placement setting allows you to choose whether it appears on the left or the right side of your display.",
+      "revId": "a36a431e88418e4c39214b4f2b3695668c0774d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "f9abbae6_233c3200",
         "filename": "_posts/blog/2019-06-15-Changelog-23.md",
         "patchSetId": 3
