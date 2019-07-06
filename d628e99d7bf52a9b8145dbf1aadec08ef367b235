@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2a538a03_19571ac9",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T12:27:16Z",
+      "side": 1,
+      "message": "Decoder and encoder is not really a hardware. The playback device is a decoder itself (a decoding device, a device which decodes compressed stream), and a smartphone is an encoder (an encoding device, a device which encodes raw audio data into compressed stream).",
+      "revId": "d628e99d7bf52a9b8145dbf1aadec08ef367b235",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
