@@ -1,0 +1,199 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dcc5e0d6_7a686c00",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "What is SNR? Users may not know, best to expand it and include (SNR) after it.\nExample: Simple Noise Reduction (SNR)",
+      "range": {
+        "startLine": 25,
+        "startChar": 55,
+        "endLine": 25,
+        "endChar": 58
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "14c7c8b6_e19e28c1",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "Does this mean 2 to 53? If so, replace with \u00272 to 53\u0027.",
+      "range": {
+        "startLine": 26,
+        "startChar": 73,
+        "endLine": 26,
+        "endChar": 77
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fa034ca7_bd6be5b0",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "Explain to users which device has the encoder, which device has the decoder and why it is important that the encoder doesn\u0027t fully implement the full range of decoder parameters.",
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9d384de3_967d689e",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "Maybe change to \u0027Loudness and a bitpool of 2 to 53\u0027",
+      "range": {
+        "startLine": 30,
+        "startChar": 130,
+        "endLine": 30,
+        "endChar": 152
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "30059ee3_20fbe934",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "I\u0027m not familiar with audio codec theory and this sentence isn\u0027t clear to me. Since most users won\u0027t understand it either - consider adding a simple explanation to complement it.",
+      "range": {
+        "startLine": 32,
+        "startChar": 170,
+        "endLine": 32,
+        "endChar": 252
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6c7b6b99_695e67be",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "This would also benefit from a simple explanation to complement it.",
+      "range": {
+        "startLine": 34,
+        "startChar": 526,
+        "endLine": 34,
+        "endChar": 641
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "82a58998_43a3c15b",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "Probably needs to be reworded, since I\u0027m not sure that this is specifically talking about as a title. Did you mean \u0027What is the meaning of all of this?\u0027 or?",
+      "range": {
+        "startLine": 80,
+        "startChar": 3,
+        "endLine": 80,
+        "endChar": 24
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "48ad80a7_8f40b563",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "Could be changed to \u0027Serge Smirnoff, one of the authors at SoundExpert, performed a\u0027",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 49
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b66e1262_75b53281",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T09:51:23Z",
+      "side": 1,
+      "message": "Maybe add a segment which gives more information on how a user can work with the parameters and thus get the best possible audio quality or maybe better Bluetooth range?",
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
