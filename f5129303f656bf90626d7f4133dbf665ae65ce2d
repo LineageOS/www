@@ -113,6 +113,24 @@
     },
     {
       "key": {
+        "uuid": "160b68e3_aa6f8ae1",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T11:47:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa034ca7_bd6be5b0",
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9d384de3_967d689e",
         "filename": "_engineering/Bluetooth-SBC-XQ.md",
         "patchSetId": 11
@@ -195,6 +213,30 @@
       "side": 1,
       "message": "Changed to \"But exact bitpool value corresponds to exact bitrate only within the same set of other codec\u0027s parameters.\"",
       "parentUuid": "30059ee3_20fbe934",
+      "range": {
+        "startLine": 32,
+        "startChar": 170,
+        "endLine": 32,
+        "endChar": 252
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "71def601_0e967b0c",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T11:47:44Z",
+      "side": 1,
+      "message": "Still don\u0027t understand what this means. You could try to explain it to me via e-mail and I\u0027ll try to write it out myself, so that it\u0027s less technical?",
+      "parentUuid": "02a875d9_3ebd5bd7",
       "range": {
         "startLine": 32,
         "startChar": 170,
@@ -345,6 +387,30 @@
       "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1d07260f_7fa97f90",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 19552
+      },
+      "writtenOn": "2019-07-06T11:47:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6fb8dda4_012ee794",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 49
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     },
     {
       "key": {
