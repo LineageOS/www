@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "58996a81_16889878",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "dcc5e0d6_7a686c00",
+      "range": {
+        "startLine": 25,
+        "startChar": 55,
+        "endLine": 25,
+        "endChar": 58
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "14c7c8b6_e19e28c1",
         "filename": "_engineering/Bluetooth-SBC-XQ.md",
         "patchSetId": 11
@@ -45,6 +69,30 @@
       "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "320fae35_decae133",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "14c7c8b6_e19e28c1",
+      "range": {
+        "startLine": 26,
+        "startChar": 73,
+        "endLine": 26,
+        "endChar": 77
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     },
     {
       "key": {
@@ -88,6 +136,30 @@
     },
     {
       "key": {
+        "uuid": "39528daa_e0d15084",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "9d384de3_967d689e",
+      "range": {
+        "startLine": 30,
+        "startChar": 130,
+        "endLine": 30,
+        "endChar": 152
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "30059ee3_20fbe934",
         "filename": "_engineering/Bluetooth-SBC-XQ.md",
         "patchSetId": 11
@@ -108,6 +180,30 @@
       "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "02a875d9_3ebd5bd7",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "Changed to \"But exact bitpool value corresponds to exact bitrate only within the same set of other codec\u0027s parameters.\"",
+      "parentUuid": "30059ee3_20fbe934",
+      "range": {
+        "startLine": 32,
+        "startChar": 170,
+        "endLine": 32,
+        "endChar": 252
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     },
     {
       "key": {
@@ -134,6 +230,30 @@
     },
     {
       "key": {
+        "uuid": "8d565589_cbf8e425",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "Changed a little bit.",
+      "parentUuid": "6c7b6b99_695e67be",
+      "range": {
+        "startLine": 34,
+        "startChar": 526,
+        "endLine": 34,
+        "endChar": 641
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "82a58998_43a3c15b",
         "filename": "_engineering/Bluetooth-SBC-XQ.md",
         "patchSetId": 11
@@ -154,6 +274,30 @@
       "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "963b3fb4_1736c456",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "Changed to \"Does this change really have any benefits?\"",
+      "parentUuid": "82a58998_43a3c15b",
+      "range": {
+        "startLine": 80,
+        "startChar": 3,
+        "endLine": 80,
+        "endChar": 24
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     },
     {
       "key": {
@@ -180,6 +324,30 @@
     },
     {
       "key": {
+        "uuid": "6fb8dda4_012ee794",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "He\u0027s the only author on this website.",
+      "parentUuid": "48ad80a7_8f40b563",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 49
+      },
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "b66e1262_75b53281",
         "filename": "_engineering/Bluetooth-SBC-XQ.md",
         "patchSetId": 11
@@ -194,6 +362,24 @@
       "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "afba6fe7_bdd0e8ff",
+        "filename": "_engineering/Bluetooth-SBC-XQ.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 20234
+      },
+      "writtenOn": "2019-07-06T11:08:54Z",
+      "side": 1,
+      "message": "The modification does not have any configuration parameters except one property. I\u0027ve added additional \"Can we go even further?\" section, please check it too.",
+      "parentUuid": "b66e1262_75b53281",
+      "revId": "f5129303f656bf90626d7f4133dbf665ae65ce2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
