@@ -15,6 +15,9 @@
   - name: IRC
     text: If you are comfortable with IRC and would like instant help and assistance from both developers and other users alike.
     url: https://webchat.freenode.net/?channels=lineageos
+  - name: Discord
+    text: If you aren't comfortable with IRC, our IRC channels are also linked to Discord!
+    url: https://discord.gg/gD6DMtf
   - name: reddit
     text: For discussions regarding devices, features, or just general Android talk, check out our subreddit.
     url: https://reddit.com/r/lineageos
