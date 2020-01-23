@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "20b61522_ae74c03f",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-01-23T19:34:48Z",
+      "side": 1,
+      "message": "Â[mido",
+      "revId": "b477a2f2a6315d1891eb4c7deebdd560e139c8e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
