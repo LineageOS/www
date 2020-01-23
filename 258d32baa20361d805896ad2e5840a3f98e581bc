@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "20f3bb42_2e8b0574",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-23T11:34:19Z",
+      "side": 1,
+      "message": "and",
+      "range": {
+        "startLine": 80,
+        "startChar": 50,
+        "endLine": 80,
+        "endChar": 54
+      },
+      "revId": "258d32baa20361d805896ad2e5840a3f98e581bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "63f12386_cccc1ec6",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-23T11:34:19Z",
+      "side": 1,
+      "message": "We should also add something for non-device specific development (platform) \u0026 sdk (eg. the upcoming HealthStore (which shall not be mentioned as of now as its branding is still wip))",
+      "revId": "258d32baa20361d805896ad2e5840a3f98e581bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "efc68bae_044a5ec1",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-23T11:34:19Z",
+      "side": 1,
+      "message": "* WiFi display is available once again\n* You may now route the hotspot connections through the device\u0027s VPN\n* NightLight is now used instead of LiveDisplay\u0027 night mode on hwc2 device\n  * LiveDisplay retains all its other features (and night mode managements on hwc1 devices)\n* Support for on-screen fingerprint sensors has been added\n* Support for pop-up and rotating cameras has been added\n* It is now possible to compile LineageOS 16.0 on MacOS\n* July, August, September, October, November, December 2019 and January 2020 security patches have been merged\n* WebView has been updated to Chromium 79.0.3945.116",
+      "revId": "258d32baa20361d805896ad2e5840a3f98e581bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
