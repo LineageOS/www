@@ -84,6 +84,24 @@
     },
     {
       "key": {
+        "uuid": "e60d11b8_a77ef7c4",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-01-24T22:20:58Z",
+      "side": 1,
+      "message": "mentioned nothing about healthstore, but now platofmr contributors are welcomed.",
+      "parentUuid": "8fe194f2_28d966c7",
+      "revId": "258d32baa20361d805896ad2e5840a3f98e581bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "efc68bae_044a5ec1",
         "filename": "_posts/blog/2020-01-22-Changelog-24.md",
         "patchSetId": 1
