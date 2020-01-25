@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f93c98c_1d12ce26",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-25T13:16:05Z",
+      "side": 1,
+      "message": "I will provide you something next week",
+      "range": {
+        "startLine": 9,
+        "startChar": 25,
+        "endLine": 9,
+        "endChar": 51
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e16e0536_fb773908",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-25T13:16:05Z",
+      "side": 1,
+      "message": "Isn\u0027t this a repetition?",
+      "range": {
+        "startLine": 29,
+        "startChar": 125,
+        "endLine": 29,
+        "endChar": 178
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "11144d70_6b3f0557",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-25T13:16:05Z",
+      "side": 1,
+      "message": "any biometrics [not just the fingerprint]",
+      "range": {
+        "startLine": 30,
+        "startChar": 127,
+        "endLine": 30,
+        "endChar": 160
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c065bfda_5eb23e9e",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-25T13:16:05Z",
+      "side": 1,
+      "message": "Not really, there\u0027s a number of missing features: most notably auto day/night mode basing on time of the day",
+      "range": {
+        "startLine": 48,
+        "startChar": 3,
+        "endLine": 48,
+        "endChar": 35
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5b90d762_5d3b392e",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-01-25T13:16:05Z",
+      "side": 1,
+      "message": "platform and / or our apps to bring new features to everybody?",
+      "range": {
+        "startLine": 94,
+        "startChar": 77,
+        "endLine": 94,
+        "endChar": 86
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
