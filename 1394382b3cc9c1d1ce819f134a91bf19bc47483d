@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "2bbe4393_87ddc26c",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-01-25T18:59:11Z",
+      "side": 1,
+      "message": "well, there\u0027s icon shape like square, squircle, etc. and wifi icon.\n\nfixed",
+      "parentUuid": "e16e0536_fb773908",
+      "range": {
+        "startLine": 29,
+        "startChar": 125,
+        "endLine": 29,
+        "endChar": 178
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "11144d70_6b3f0557",
         "filename": "_posts/blog/2020-01-22-Changelog-24.md",
         "patchSetId": 13
@@ -68,6 +92,30 @@
       "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6f67b1d0_c4ae9115",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-01-25T18:59:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "11144d70_6b3f0557",
+      "range": {
+        "startLine": 30,
+        "startChar": 127,
+        "endLine": 30,
+        "endChar": 160
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     },
     {
       "key": {
@@ -94,6 +142,30 @@
     },
     {
       "key": {
+        "uuid": "a7ddb849_84c0c377",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-01-25T18:59:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c065bfda_5eb23e9e",
+      "range": {
+        "startLine": 48,
+        "startChar": 3,
+        "endLine": 48,
+        "endChar": 35
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5b90d762_5d3b392e",
         "filename": "_posts/blog/2020-01-22-Changelog-24.md",
         "patchSetId": 13
@@ -114,6 +186,30 @@
       "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "99b504b5_2966199f",
+        "filename": "_posts/blog/2020-01-22-Changelog-24.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-01-25T18:59:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5b90d762_5d3b392e",
+      "range": {
+        "startLine": 94,
+        "startChar": 77,
+        "endLine": 94,
+        "endChar": 86
+      },
+      "revId": "1394382b3cc9c1d1ce819f134a91bf19bc47483d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
