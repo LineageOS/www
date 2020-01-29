@@ -22,6 +22,30 @@
       "revId": "0e01f8dde705c6ffc9ea0e5c303f7746c977600d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fd5ab5a2_7114b20d",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 16
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-01-29T00:16:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "af48e3f3_8fcbb5f4",
+      "range": {
+        "startLine": 175,
+        "startChar": 96,
+        "endLine": 175,
+        "endChar": 104
+      },
+      "revId": "0e01f8dde705c6ffc9ea0e5c303f7746c977600d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
