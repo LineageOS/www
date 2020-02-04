@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e5ac32a1_49c3dcac",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2020-02-04T23:19:05Z",
+      "side": 1,
+      "message": "Feb will get in before shipping",
+      "range": {
+        "startLine": 31,
+        "startChar": 52,
+        "endLine": 31,
+        "endChar": 68
+      },
+      "revId": "38d0a1798f38676696f2b0ffc294d489b4b5f5b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e0434aa2_a1c4a41c",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2020-02-04T23:19:05Z",
+      "side": 1,
+      "message": "this will end up being _r27, at a minimum.",
+      "range": {
+        "startLine": 32,
+        "startChar": 46,
+        "endLine": 32,
+        "endChar": 64
+      },
+      "revId": "38d0a1798f38676696f2b0ffc294d489b4b5f5b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d86828e5_f41cc819",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2020-02-04T23:19:05Z",
+      "side": 1,
+      "message": "watch, but we will assuredly ship Feb before Q happens.",
+      "range": {
+        "startLine": 117,
+        "startChar": 77,
+        "endLine": 117,
+        "endChar": 93
+      },
+      "revId": "38d0a1798f38676696f2b0ffc294d489b4b5f5b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4a6df773_dc5529f9",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2020-02-04T23:19:05Z",
+      "side": 1,
+      "message": "79.0.3945.136, as of this moment.",
+      "range": {
+        "startLine": 118,
+        "startChar": 39,
+        "endLine": 118,
+        "endChar": 52
+      },
+      "revId": "38d0a1798f38676696f2b0ffc294d489b4b5f5b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
