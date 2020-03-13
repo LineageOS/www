@@ -1,0 +1,113 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fb294db0_6e36eabb",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 39
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-03-13T08:34:45Z",
+      "side": 1,
+      "message": "Find something better?",
+      "range": {
+        "startLine": 5,
+        "startChar": 9,
+        "endLine": 5,
+        "endChar": 102
+      },
+      "revId": "11fab5733353085af1f83518d663a17fd924de6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5c27be28_afa3c5f7",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 39
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-03-13T08:34:45Z",
+      "side": 1,
+      "message": "Update paths",
+      "range": {
+        "startLine": 9,
+        "startChar": 32,
+        "endLine": 9,
+        "endChar": 42
+      },
+      "revId": "11fab5733353085af1f83518d663a17fd924de6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5fcbbec0_4fdd37b9",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 39
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-03-13T08:34:45Z",
+      "side": 1,
+      "message": "More indentation is required, otherwise they appear at the same level as the first one",
+      "range": {
+        "startLine": 59,
+        "startChar": 0,
+        "endLine": 59,
+        "endChar": 145
+      },
+      "revId": "11fab5733353085af1f83518d663a17fd924de6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4541f189_6683dcb8",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 39
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-03-13T08:34:45Z",
+      "side": 1,
+      "message": "Same here",
+      "range": {
+        "startLine": 60,
+        "startChar": 0,
+        "endLine": 60,
+        "endChar": 95
+      },
+      "revId": "11fab5733353085af1f83518d663a17fd924de6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "02d02f8c_6c89db7b",
+        "filename": "_posts/blog/2020-01-27-Changelog-24.md",
+        "patchSetId": 39
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2020-03-13T08:34:45Z",
+      "side": 1,
+      "message": "Also zsh support?",
+      "revId": "11fab5733353085af1f83518d663a17fd924de6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
