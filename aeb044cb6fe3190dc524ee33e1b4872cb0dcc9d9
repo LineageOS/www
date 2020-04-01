@@ -46,6 +46,98 @@
       "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a7635501_c85944bb",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2020-04-01T12:37:07Z",
+      "side": 1,
+      "message": "A new partial screenshot UI was implemented",
+      "range": {
+        "startLine": 26,
+        "startChar": 2,
+        "endLine": 26,
+        "endChar": 49
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ef69f490_8b6b6913",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2020-04-01T12:37:07Z",
+      "side": 1,
+      "message": "AOSP\u0027s new ThemePicker app was adapted",
+      "range": {
+        "startLine": 28,
+        "startChar": 4,
+        "endLine": 28,
+        "endChar": 46
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "aefe4802_1554ca6f",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2020-04-01T12:37:07Z",
+      "side": 1,
+      "message": "Stray comma.",
+      "range": {
+        "startLine": 29,
+        "startChar": 83,
+        "endLine": 29,
+        "endChar": 84
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5afb82b3_09a1a873",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2020-04-01T12:37:07Z",
+      "side": 1,
+      "message": "Our work is currently based over",
+      "range": {
+        "startLine": 32,
+        "startChar": 4,
+        "endLine": 32,
+        "endChar": 39
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
