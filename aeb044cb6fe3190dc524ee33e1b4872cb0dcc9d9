@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dd5dcf8f_cf595be2",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2020-04-01T12:26:13Z",
+      "side": 1,
+      "message": "I have a tendency to dislike reading \"we\" this, \"we\" that. In some parts it can be avoided.",
+      "range": {
+        "startLine": 26,
+        "startChar": 2,
+        "endLine": 26,
+        "endChar": 4
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
