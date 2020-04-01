@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fb078f02_ad008e17",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 54
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 18568
+      },
+      "writtenOn": "2020-04-01T11:18:51Z",
+      "side": 1,
+      "message": "extra space",
+      "range": {
+        "startLine": 64,
+        "startChar": 76,
+        "endLine": 64,
+        "endChar": 78
+      },
+      "revId": "325e6f4e3881ffc25cf9ae2b53bba4eeaef0e31d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
