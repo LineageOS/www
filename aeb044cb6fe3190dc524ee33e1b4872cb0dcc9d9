@@ -138,6 +138,24 @@
       "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6d111024_bb39fa5d",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 16
+      },
+      "writtenOn": "2020-04-01T13:58:57Z",
+      "side": 1,
+      "message": "In that case it should be \"based on\". :) I think I prefer the current sentence structure though.",
+      "parentUuid": "",
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
