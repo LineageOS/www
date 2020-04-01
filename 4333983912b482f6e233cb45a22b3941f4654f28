@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6a17997d_9fcb3425",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 53
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 16208
+      },
+      "writtenOn": "2020-04-01T11:15:50Z",
+      "side": 1,
+      "message": "No PeterCxy anymore",
+      "revId": "4333983912b482f6e233cb45a22b3941f4654f28",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
