@@ -72,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "8f03ce99_2a5db1a4",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-04-01T19:33:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fec00d6a_90040821",
+      "range": {
+        "startLine": 26,
+        "startChar": 2,
+        "endLine": 26,
+        "endChar": 4
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ef69f490_8b6b6913",
         "filename": "_posts/blog/2020-04-01-Changelog-24.md",
         "patchSetId": 55
@@ -92,6 +116,30 @@
       "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0fbf5239_863abd15",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-04-01T19:33:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ef69f490_8b6b6913",
+      "range": {
+        "startLine": 28,
+        "startChar": 4,
+        "endLine": 28,
+        "endChar": 46
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     },
     {
       "key": {
@@ -180,6 +228,48 @@
       "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "92c7da7a_f3d12b06",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-04-01T19:33:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6d111024_bb39fa5d",
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8eb60f8c_51a19d67",
+        "filename": "_posts/blog/2020-04-01-Changelog-24.md",
+        "patchSetId": 55
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-04-01T19:33:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5afb82b3_09a1a873",
+      "range": {
+        "startLine": 32,
+        "startChar": 4,
+        "endLine": 32,
+        "endChar": 39
+      },
+      "revId": "aeb044cb6fe3190dc524ee33e1b4872cb0dcc9d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
