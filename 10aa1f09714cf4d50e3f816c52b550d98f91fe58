@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e345d59b_fac23a4e",
+        "filename": "_layouts/default.html",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2020-04-09T09:35:20Z",
+      "side": 1,
+      "message": "The url is wrong, should be https://www.reddit.com/r/LineageOS/",
+      "range": {
+        "startLine": 75,
+        "startChar": 77,
+        "endLine": 75,
+        "endChar": 105
+      },
+      "revId": "10aa1f09714cf4d50e3f816c52b550d98f91fe58",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8ee6941a_19e88b3d",
+        "filename": "_layouts/default.html",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2020-04-09T09:35:20Z",
+      "side": 1,
+      "message": "How about the much simpler \"Check out r/LineageOS\" with r/LineageOS being the link? That way no \"reddit\" vs \"subreddit\" matters. Also I think that usage is quite common",
+      "range": {
+        "startLine": 75,
+        "startChar": 38,
+        "endLine": 75,
+        "endChar": 121
+      },
+      "revId": "10aa1f09714cf4d50e3f816c52b550d98f91fe58",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
