@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a72cfaeb_f83167aa",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-10-27T18:08:10Z",
+      "side": 1,
+      "message": "SoCs",
+      "range": {
+        "startLine": 42,
+        "startChar": 441,
+        "endLine": 42,
+        "endChar": 445
+      },
+      "revId": "0d96fa995816c1f60a13716d8fd85ac5f1f6ee86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "050c8a7c_0029736b",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-10-27T18:08:10Z",
+      "side": 1,
+      "message": "would also add r_dir_file() example.",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 112,
+        "endChar": 69
+      },
+      "revId": "0d96fa995816c1f60a13716d8fd85ac5f1f6ee86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8426b1bc_cf46befb",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-10-27T18:08:10Z",
+      "side": 1,
+      "message": "I would replace \"SEPolicy\" with \"SELinux policy/rules\" everywhere.",
+      "range": {
+        "startLine": 117,
+        "startChar": 81,
+        "endLine": 117,
+        "endChar": 89
+      },
+      "revId": "0d96fa995816c1f60a13716d8fd85ac5f1f6ee86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c15b167a_f5a02dab",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-10-27T18:08:10Z",
+      "side": 1,
+      "message": "may want to list `https://github.com/OpenDarwin-CVS/SEDarwin/blob/master/sedarwin7/src/sedarwin/policycoreutils/audit2allow/audit2allow.perl` too as this is 0 dependencies perl script that will run on anything you wish rather than modern audit2allow that runs only on linux.",
+      "range": {
+        "startLine": 120,
+        "startChar": 0,
+        "endLine": 120,
+        "endChar": 150
+      },
+      "revId": "0d96fa995816c1f60a13716d8fd85ac5f1f6ee86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fbfe4150_5b8dd22d",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-10-27T18:08:10Z",
+      "side": 1,
+      "message": "[same applies in many other places]: don\u0027t start random words with uppercase character.",
+      "range": {
+        "startLine": 123,
+        "startChar": 10,
+        "endLine": 123,
+        "endChar": 20
+      },
+      "revId": "0d96fa995816c1f60a13716d8fd85ac5f1f6ee86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "98d5cbe9_e6c0d2a4",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-10-27T18:08:10Z",
+      "side": 1,
+      "message": "https",
+      "range": {
+        "startLine": 127,
+        "startChar": 19,
+        "endLine": 127,
+        "endChar": 23
+      },
+      "revId": "0d96fa995816c1f60a13716d8fd85ac5f1f6ee86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
