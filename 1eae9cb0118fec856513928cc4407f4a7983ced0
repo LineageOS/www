@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9251256e_f7639aea",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-11-01T19:42:20Z",
+      "side": 1,
+      "message": "should cover how to tear sepolicy apart and actually use it for reference - https://gist.github.com/Rashed97/72378ca3983fa8c3ab1a75f58fc8b522 ?",
+      "range": {
+        "startLine": 157,
+        "startChar": 0,
+        "endLine": 157,
+        "endChar": 696
+      },
+      "revId": "1eae9cb0118fec856513928cc4407f4a7983ced0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
