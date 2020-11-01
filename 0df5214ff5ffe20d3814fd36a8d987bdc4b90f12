@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "897305b5_e9bda38e",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "please no \u0027codes\u0027 here...",
+      "range": {
+        "startLine": 52,
+        "startChar": 38,
+        "endLine": 52,
+        "endChar": 44
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "53042ea8_f84e9f1c",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "sounds weird",
+      "range": {
+        "startLine": 66,
+        "startChar": 44,
+        "endLine": 66,
+        "endChar": 58
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5c36202c_ae0e635d",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "typo",
+      "range": {
+        "startLine": 66,
+        "startChar": 33,
+        "endLine": 66,
+        "endChar": 42
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e5417697_50d0e567",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "labels?",
+      "range": {
+        "startLine": 73,
+        "startChar": 4,
+        "endLine": 73,
+        "endChar": 9
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1631fa2f_60b1d404",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "no space?",
+      "range": {
+        "startLine": 121,
+        "startChar": 23,
+        "endLine": 121,
+        "endChar": 24
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7086f20f_63fbfabf",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "uh not sure if i\u0027d use that word here..",
+      "range": {
+        "startLine": 126,
+        "startChar": 560,
+        "endLine": 126,
+        "endChar": 569
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "55663666_957d7af2",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "strip trailing whitespaces everywhere.",
+      "range": {
+        "startLine": 137,
+        "startChar": 82,
+        "endLine": 137,
+        "endChar": 84
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d12eaa23_bd5e1f9a",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "cover.",
+      "range": {
+        "startLine": 151,
+        "startChar": 127,
+        "endLine": 151,
+        "endChar": 133
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "05755cf5_70d69896",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-01T11:00:14Z",
+      "side": 1,
+      "message": "newline?",
+      "range": {
+        "startLine": 151,
+        "startChar": 156,
+        "endLine": 151,
+        "endChar": 157
+      },
+      "revId": "0df5214ff5ffe20d3814fd36a8d987bdc4b90f12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
