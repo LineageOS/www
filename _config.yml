@@ -66,6 +66,7 @@ exclude:
   - README.md
   - CNAME
   - Dockerfile
+  - vendor/
 include:
   - _redirects
   - _headers
