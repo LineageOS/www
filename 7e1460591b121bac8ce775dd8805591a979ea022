@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7862f064_7e146720",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 19612
+      },
+      "writtenOn": "2021-02-19T03:37:18Z",
+      "side": 1,
+      "message": "Need to fix new lines in this section",
+      "range": {
+        "startLine": 162,
+        "startChar": 0,
+        "endLine": 162,
+        "endChar": 20
+      },
+      "revId": "7e1460591b121bac8ce775dd8805591a979ea022",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
