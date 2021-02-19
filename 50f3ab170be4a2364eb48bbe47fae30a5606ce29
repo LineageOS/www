@@ -1,0 +1,193 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1e3ad62a_3e49709a",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "maybe \"Permissive only mode in Android 4.3, optionally [...], and was required by Google\u0027s CTS to be Enforcing in Android 5.0 and above.\" (maybe add CTS to glossary?)",
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ee504cb0_c40edd3f",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "superfluous comma",
+      "range": {
+        "startLine": 32,
+        "startChar": 210,
+        "endLine": 32,
+        "endChar": 211
+      },
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e0a9d8e1_be40f7ff",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "How does SELinux work?",
+      "range": {
+        "startLine": 34,
+        "startChar": 7,
+        "endLine": 34,
+        "endChar": 14
+      },
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "00c67352_f663e25d",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "I dunno if we need to explain how to read kernel log... Maybe \"kernel log buffer along wth logcat on Android.\"",
+      "range": {
+        "startLine": 37,
+        "startChar": 357,
+        "endLine": 37,
+        "endChar": 432
+      },
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "64241839_04af1097",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "If we\u0027re going to provide an example, we should maybe explain how to read/interpret it?",
+      "range": {
+        "startLine": 43,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 184
+      },
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "907ca355_80455159",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "Maybe \"device\"?",
+      "range": {
+        "startLine": 45,
+        "startChar": 387,
+        "endLine": 45,
+        "endChar": 394
+      },
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a1797b97_94b62f6d",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "Maybe \"porting Android to a device.\"",
+      "range": {
+        "startLine": 45,
+        "startChar": 72,
+        "endLine": 45,
+        "endChar": 178
+      },
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bc06a0a7_a5274d81",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "I stopped reading here -- it\u0027s late, my brain is checked out",
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5b9e459c_7f122083",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2021-02-19T01:42:46Z",
+      "side": 1,
+      "message": "extra whitespace?",
+      "revId": "50f3ab170be4a2364eb48bbe47fae30a5606ce29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
