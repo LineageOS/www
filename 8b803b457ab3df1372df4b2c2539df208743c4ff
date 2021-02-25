@@ -42,6 +42,57 @@
     },
     {
       "key": {
+        "uuid": "5050b573_ab0ae2eb",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:18:43Z",
+      "side": 1,
+      "message": "implementations ?",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ffa08dac_52d39b94",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:18:43Z",
+      "side": 1,
+      "message": "led by the NSA",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5cf72bcc_ff4fc10b",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:18:43Z",
+      "side": 1,
+      "message": "I\u0027m not sure about the flow of the \"Writing SELinux policy...\" sentence.  The ways it begins, the \"from\" needs a matching \"to\".  But there isn\u0027t one (the \"to\" that\u0027s there is part of the writing rules block).  Perhaps: \"Writing SELinux policy encompasses everything from labeling relevant services/apps to writing rules that allow the aforementioned services to initiate actions or access other nodes/files, etc.\"\n\nAlso, ...\"one can force a process to be run in\"..",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "b02f947a_f6b1480b",
         "filename": "_engineering/HowTo-SELinux.md",
         "patchSetId": 30
