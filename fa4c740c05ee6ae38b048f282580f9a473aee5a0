@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "acf6f53e_f7bf71c9",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 31
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-02-25T04:47:10Z",
+      "side": 1,
+      "message": "lower case o in \u0027Our\u0027",
+      "range": {
+        "startLine": 156,
+        "startChar": 165,
+        "endLine": 156,
+        "endChar": 168
+      },
+      "revId": "fa4c740c05ee6ae38b048f282580f9a473aee5a0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
