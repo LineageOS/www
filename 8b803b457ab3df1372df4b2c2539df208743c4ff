@@ -93,6 +93,23 @@
     },
     {
       "key": {
+        "uuid": "13c67ad4_7e7c9d40",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:33:32Z",
+      "side": 1,
+      "message": "formatted as the partition requires",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "b02f947a_f6b1480b",
         "filename": "_engineering/HowTo-SELinux.md",
         "patchSetId": 30
@@ -110,6 +127,23 @@
         "endLine": 90,
         "endChar": 53
       },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f9b58eb9_8ff58bea",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:33:32Z",
+      "side": 1,
+      "message": "..unlike other statements used to grant or suppress permissions.",
       "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
@@ -156,6 +190,40 @@
         "endLine": 128,
         "endChar": 971
       },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4882b22a_1112fa91",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:33:32Z",
+      "side": 1,
+      "message": "ready -\u003e read",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c346d445_3aee8984",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:33:32Z",
+      "side": 1,
+      "message": "for the vendor image.\n\nWith all due reverence :-), I wouldn\u0027t mention Rashed here.  Just say \"The `sepolicy-decompiler.sh` tool linked below...\"",
       "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
