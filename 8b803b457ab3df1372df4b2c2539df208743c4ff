@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1b15526e_2c470250",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-02-25T02:57:58Z",
+      "side": 1,
+      "message": "typo. only one l",
+      "range": {
+        "startLine": 16,
+        "startChar": 7,
+        "endLine": 16,
+        "endChar": 22
+      },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b02f947a_f6b1480b",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-02-25T02:57:58Z",
+      "side": 1,
+      "message": "typo. missing r",
+      "range": {
+        "startLine": 90,
+        "startChar": 46,
+        "endLine": 90,
+        "endChar": 53
+      },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4235462e_16c320d6",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-02-25T02:57:58Z",
+      "side": 1,
+      "message": "should be \u0027e.g.\u0027\nand lower case a in \u0027any\u0027",
+      "range": {
+        "startLine": 128,
+        "startChar": 850,
+        "endLine": 128,
+        "endChar": 857
+      },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1fd9d36d_aa368136",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-02-25T02:57:58Z",
+      "side": 1,
+      "message": "no apostrophe in ignores. and no space in never allows.\nshould be \u0027ignores neverallows\u0027",
+      "range": {
+        "startLine": 128,
+        "startChar": 950,
+        "endLine": 128,
+        "endChar": 971
+      },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
