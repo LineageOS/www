@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "e8350357_3a966420",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:06:00Z",
+      "side": 1,
+      "message": "I think it would be better to bump this to the current date before publishing.  Presumably the date currently listed is when the first draft was started.",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "1b15526e_2c470250",
         "filename": "_engineering/HowTo-SELinux.md",
         "patchSetId": 30
@@ -88,6 +105,40 @@
         "endLine": 128,
         "endChar": 971
       },
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d530fa19_d21f27f8",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:06:00Z",
+      "side": 1,
+      "message": "Trailing whitespace on a number of lines here.",
+      "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "94164c0f_3b0c473e",
+        "filename": "_engineering/HowTo-SELinux.md",
+        "patchSetId": 30
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 3075
+      },
+      "writtenOn": "2021-02-25T03:06:00Z",
+      "side": 1,
+      "message": "Instead of switching to first person (\"I\"), perhaps something like:\nHere are links to some of the resources used for SELinux research during the development of this article.",
       "revId": "8b803b457ab3df1372df4b2c2539df208743c4ff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
