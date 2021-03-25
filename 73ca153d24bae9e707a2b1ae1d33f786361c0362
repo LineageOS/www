@@ -2,6 +2,98 @@
   "comments": [
     {
       "key": {
+        "uuid": "02a99967_9a8c63a8",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "it\u0027s",
+      "range": {
+        "startLine": 5,
+        "startChar": 21,
+        "endLine": 5,
+        "endChar": 24
+      },
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8b3385a7_84395924",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "it\u0027s",
+      "range": {
+        "startLine": 14,
+        "startChar": 5,
+        "endLine": 14,
+        "endChar": 9
+      },
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0bc7019d_1d380df9",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "different ways",
+      "range": {
+        "startLine": 17,
+        "startChar": 106,
+        "endLine": 17,
+        "endChar": 121
+      },
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "de704976_6e906fae",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "affected",
+      "range": {
+        "startLine": 17,
+        "startChar": 57,
+        "endLine": 17,
+        "endChar": 66
+      },
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "101cc863_40c0e69a",
         "filename": "_posts/blog/2021-03-24.md",
         "patchSetId": 1
@@ -13,6 +105,23 @@
       "writtenOn": "2021-03-25T09:12:12Z",
       "side": 1,
       "message": "2021",
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "795c7b95_39bfe8f3",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "Only in more recent QCOM platforms, tho.",
       "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
@@ -70,6 +179,29 @@
     },
     {
       "key": {
+        "uuid": "1c9bbbac_559c5115",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "during the initial device setup",
+      "range": {
+        "startLine": 41,
+        "startChar": 42,
+        "endLine": 41,
+        "endChar": 56
+      },
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "8f0e3618_3188eccd",
         "filename": "_posts/blog/2021-03-24.md",
         "patchSetId": 1
@@ -81,6 +213,29 @@
       "writtenOn": "2021-03-25T09:12:12Z",
       "side": 1,
       "message": "spn likely here",
+      "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0fedea34_baecdd0f",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2021-03-25T10:28:25Z",
+      "side": 1,
+      "message": "it.\n\n(note the missing . at the end)",
+      "range": {
+        "startLine": 86,
+        "startChar": 218,
+        "endLine": 86,
+        "endChar": 220
+      },
       "revId": "73ca153d24bae9e707a2b1ae1d33f786361c0362",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
