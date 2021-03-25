@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dafa73ca_c2b15377",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-25T10:49:50Z",
+      "side": 1,
+      "message": "25?",
+      "range": {
+        "startLine": 3,
+        "startChar": 17,
+        "endLine": 3,
+        "endChar": 18
+      },
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a959d1ba_448371b9",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-25T10:49:50Z",
+      "side": 1,
+      "message": "I\u0027ll do it",
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1156f849_2716cea8",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-25T10:49:50Z",
+      "side": 1,
+      "message": "Maybe we could list new features (below?)\n\n- The screen recorder feature has been (re)moved. It\u0027s now a standard android 11 feature, and you can start a screen recording from the quick tiles instead\n- The user interface has been revamped and there\u0027s also now an UI for easily viewing, managing and sharing your voice notes \n- It is now possible to choose the quality of your audio recordings to save space\n- (Don\u0027t know whether it\u0027s worth mentioning) It\u0027s now possible to pause and resume recordings",
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bfb7a9e1_4bd5ff35",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-25T10:49:50Z",
+      "side": 1,
+      "message": "Link to the wiki page (iirc we have one, don\u0027t we?)",
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8b524f9c_d2a23115",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-25T10:49:50Z",
+      "side": 1,
+      "message": "during the device setup process\n\n(people don\u0027t know what suw is)",
+      "range": {
+        "startLine": 41,
+        "startChar": 42,
+        "endLine": 41,
+        "endChar": 56
+      },
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6a5343f9_ebdaf8ed",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-25T10:49:50Z",
+      "side": 1,
+      "message": "* Our music app, Eleven now has a more up-to-date UI and integrates nicely with all the new android features for music players such as seeking from the notification\n* All our apps now have support for dark mode\n* Maybe mention the new recovery UI as well?\n* 17.1 too: the firewall can block all connections now by making apps think that the device is in airplane mode\n* 17.1 too: new volume dialog UI\n* 17.1 too: partial screenshots improvements\n* 17.1 too: trebuchet now supports icon packs\n* 17.1 too: adb root rework, now works with magisk as well",
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
