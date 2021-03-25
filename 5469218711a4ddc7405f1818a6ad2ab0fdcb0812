@@ -42,6 +42,29 @@
     },
     {
       "key": {
+        "uuid": "435ee43b_e2fb7c3a",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 18205
+      },
+      "writtenOn": "2021-03-25T13:01:35Z",
+      "side": 1,
+      "message": "AOSP wfd is no more, and on 11 even qcom wfd died for anything \u003c\u003d msm8998 (lack of working blobs), so this feels odd",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 40
+      },
+      "revId": "5469218711a4ddc7405f1818a6ad2ab0fdcb0812",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "da70706a_25e9c4cd",
         "filename": "_posts/blog/2021-03-24.md",
         "patchSetId": 2
