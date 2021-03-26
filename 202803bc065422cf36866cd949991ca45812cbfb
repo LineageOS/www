@@ -1,0 +1,182 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "56b1845e_525bbaa5",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "affected",
+      "range": {
+        "startLine": 17,
+        "startChar": 57,
+        "endLine": 17,
+        "endChar": 65
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2c37eb3a_ca86ab10",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "\"Security patches from September 2020 to March 2020 have been merged to LineageOS 15.1 through 18.1\"\nNo need to list all months",
+      "range": {
+        "startLine": 31,
+        "startChar": 2,
+        "endLine": 31,
+        "endChar": 145
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "00b6210a_890ff59f",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "Since the sentence this belongs to references all branches, I\u0027d specifically mention 18.1 here",
+      "range": {
+        "startLine": 32,
+        "startChar": 4,
+        "endLine": 32,
+        "endChar": 11
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5c05aa89_7f00350a",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "this is part of the paragraph above already, If you want to make it an own paragraph instead, move the text from above",
+      "range": {
+        "startLine": 59,
+        "startChar": 0,
+        "endLine": 59,
+        "endChar": 18
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "dc1a2411_9b0bc666",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "means",
+      "range": {
+        "startLine": 64,
+        "startChar": 5,
+        "endLine": 64,
+        "endChar": 10
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b110965b_c60e2189",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "I am not sure if this belongs inside the blog post, which is mostly targeting the broad audience of non-developers. Too much technical details",
+      "range": {
+        "startLine": 65,
+        "startChar": 0,
+        "endLine": 73,
+        "endChar": 118
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3c501c59_e119ad31",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "I\u0027d make this more specific so we don\u0027t repeat what we had in a few blog posts before.\n\nEspecially when we start a new branch, a lot of new strings get added that require translations into the various languages we support. In order to complete this task faster or at all, jump over to\n[Crowdin](http://crowdin.com/project/lineageos) and have a go!\n\nPlease, contribute to translations only if you are reasonably literate in the target language;\npoor translations waste both our time and yours.",
+      "range": {
+        "startLine": 124,
+        "startChar": 0,
+        "endLine": 132,
+        "endChar": 48
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "82ae9a3b_f1124149",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2021-03-26T12:22:02Z",
+      "side": 1,
+      "message": "I\u0027d make this  a \"All devices that are not in the lists above have been deprecated. You can try to bring any of these to our newest branch and revive them.\n\nSomething like that",
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
