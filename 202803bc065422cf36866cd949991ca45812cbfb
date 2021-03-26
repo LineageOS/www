@@ -140,6 +140,30 @@
     },
     {
       "key": {
+        "uuid": "491dc0a5_1de12245",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 18205
+      },
+      "writtenOn": "2021-03-26T12:26:40Z",
+      "side": 1,
+      "message": "Yea i realized. Maybe just keep the links to \"documentation\" for details?",
+      "parentUuid": "b110965b_c60e2189",
+      "range": {
+        "startLine": 65,
+        "startChar": 0,
+        "endLine": 73,
+        "endChar": 118
+      },
+      "revId": "202803bc065422cf36866cd949991ca45812cbfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "3c501c59_e119ad31",
         "filename": "_posts/blog/2021-03-24.md",
         "patchSetId": 8
