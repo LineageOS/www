@@ -22,6 +22,30 @@
       "revId": "1c10bda5a124f7d82a0dd2ff62bfe6b9a420b83b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a551beaa_2822e7e3",
+        "filename": "_posts/blog/2021-03-24.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 18205
+      },
+      "writtenOn": "2021-03-26T12:37:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cfd0fb06_2dc91a0b",
+      "range": {
+        "startLine": 17,
+        "startChar": 57,
+        "endLine": 17,
+        "endChar": 65
+      },
+      "revId": "1c10bda5a124f7d82a0dd2ff62bfe6b9a420b83b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
