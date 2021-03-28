@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "581cc321_8846452c",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 47
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-03-28T23:48:11Z",
+      "side": 1,
+      "message": "Installing from unofficial is already covered a couple paragraphs back. Wiping data can be stressed there. imo",
+      "range": {
+        "startLine": 103,
+        "startChar": 0,
+        "endLine": 103,
+        "endChar": 46
+      },
+      "revId": "c2e0f343cac7e54c5f9caf452982992530f13ce5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a0cdf6df_c6987a1f",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 47
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-03-28T23:48:11Z",
+      "side": 1,
+      "message": "jfltexx is missing from this 18.1 additions list",
+      "revId": "c2e0f343cac7e54c5f9caf452982992530f13ce5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
