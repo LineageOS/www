@@ -39,6 +39,23 @@
       "revId": "c2e0f343cac7e54c5f9caf452982992530f13ce5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "59f1e084_2c8b68ef",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 47
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-03-30T01:55:16Z",
+      "side": 1,
+      "message": "the 17.1 additions list is missing these:\nAmber\ncastor\ncrackling\nhlte\nhltechn\nhltekor\nhltetmo\njasmine_sprout\njason\nklte\nklteactivexx\nkltechn\nkltechnduo\nklteduos\nkltedv\nkltekdi\nkltekor\nkuntao\nlavender\ns5neolte\ntwolip\nwayne\nwt88047",
+      "revId": "c2e0f343cac7e54c5f9caf452982992530f13ce5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
