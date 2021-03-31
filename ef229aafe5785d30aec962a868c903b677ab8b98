@@ -1,0 +1,135 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4beb55fe_e6e823ea",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "I\u0027d also add a note about \"where\" it can make backups to:\n\n  * Backups created with Seedvault can be uploaded on your Nextcloud instance, an external USB drive or kept on your local storage.",
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d6593ff3_de897007",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "[this one depends on whether we can do it on time]\n* For the first time ever, we have a new boot animation for this new Lineage release. The brand identity of Lineage is going to grow and this is a first step in that direction.",
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0773eee1_f1ecf4a8",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "We\u0027ve introduced a new expandable volume dialog UI that allows you to control multiple volume streams more easily.",
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0ece1e62_cc136566",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "The partial screenshot feature has been improved with a new UI that\u0027s easier to use. On 18.1 it also integrates nicely with the new Android\u0027s \"instant screenshot\". Long press the screenshot button in the power menu and give it a try!",
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "85844099_f55207f7",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "Some sections have a newline between title and text, other don\u0027t. Pick one for consistency",
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e51a686a_c32accfc",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "Pixel 5 and devices launching with Android 11",
+      "range": {
+        "startLine": 104,
+        "startChar": 172,
+        "endLine": 104,
+        "endChar": 179
+      },
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6d588b45_a5e2da2c",
+        "filename": "_posts/blog/2021-04-01-Changelog-25.md",
+        "patchSetId": 56
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 8461
+      },
+      "writtenOn": "2021-03-31T07:05:39Z",
+      "side": 1,
+      "message": "We have lots of other thing you can contribute to: for instance our apps suite is always looking for new people to help improve them, or you can contribute to the wiki adding more useful information \u0026 documentation.",
+      "range": {
+        "startLine": 120,
+        "startChar": 86,
+        "endLine": 120,
+        "endChar": 87
+      },
+      "revId": "ef229aafe5785d30aec962a868c903b677ab8b98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
