@@ -47,7 +47,7 @@ The wiki was rated 3.77 / 5 and the download portal scored 4.17 / 5.
 
 The biggest complaint regarding the website is the lack of information about what LineageOS is. The good news is, we're already working on getting this complaint addressed.
 
-As seen last year, a large portion of respondents are not aware of some of our platforms such as the subreddit ([r/LineageOS](https://reddit.com/r/LineageOS)), [JIRA](https://jira.lineageos.org) for bug reporting and the IRC channels on Freenode (_#lineageos_ for general chat and _#lineageos-dev_ for more technical discussions).
+As seen last year, a large portion of respondents are not aware of some of our platforms such as the subreddit ([r/LineageOS](https://reddit.com/r/LineageOS)), [JIRA](https://jira.lineageos.org) for bug reporting and the IRC channels on Libera.Chat (_#lineageos_ for general chat and _#lineageos-dev_ for more technical discussions).
 
 ## Your messages
 

@@ -68,4 +68,4 @@ in a useful direction for both your app and the whole ecosystem.
 
 To get started, head over to this [wiki page](https://wiki.lineageos.org/sdk/add-to-your-app.html).
 
-If you have any questions, you can reach us on our [subreddit](https://www.reddit.com/r/LineageOS/) or join the _#lineageos-dev_ freenode IRC channel.
+If you have any questions, you can reach us on our [subreddit](https://www.reddit.com/r/LineageOS/) or join the _#lineageos-dev_ Libera.Chat IRC channel.

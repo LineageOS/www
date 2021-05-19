@@ -47,7 +47,7 @@ Changelogs were rated 4.6 / 5 as a good idea, and 4 / 5 with regards to the qual
 It looks like a large portion of the responders is not aware of our Jira, subreddit or IRC channels (47%, 42% and 47% respectively). We would like to offer some clarification as to where to find these and what they are.  
 Our subreddit ([r/LineageOS](https://www.reddit.com/r/LineageOS)) is a good place for finding support directly from other LineageOS users and sometimes team members.  
 Our [Jira](https://jira.lineageos.org) is a place for [submitting bug reports](https://wiki.lineageos.org/bugreport-howto.html).  
-Our IRC, similar to our subreddit, a place for finding support with installation, or asking Android questions, can be found at channels _#lineageos_ and _#lineageos-dev_ on Freenode (the latter being used for development related questions).
+Our IRC, similar to our subreddit, a place for finding support with installation, or asking Android questions, can be found at channels _#lineageos_ and _#lineageos-dev_ on Libera.Chat (the latter being used for development related questions).
 
 
 ### Your personal messages
