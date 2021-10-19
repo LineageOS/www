@@ -1,0 +1,30 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>LineageOS</title>
+    <subtitle>LineageOS Android Distribution - Blog</subtitle>
+    <id>{{ site.url }}/</id>
+    <author>  
+      <name>LineageOS team</name>
+    </author>
+    <link rel="self" href="{{ site.url }}/feed.atom" />
+    <logo>{{ site.url }}/assets/logo.png</logo>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    {% for post in site.categories.blog %}
+        <entry>
+            <title>{{ post.title | xml_escape }}</title>
+            <summary> {{ post.excerpt  | xml_escape }}</summary>
+            <author>
+              <name>{{ post.author | xml_escape }}</name>
+            </author>
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+            <link href="{{ post.url | prepend: site.url }}" />
+            <id>{{ post.url | prepend: site.url }}</id>
+            <content type="html">
+                {{ post.content | escape }}
+            </content>
+        </entry>
+    {% endfor %}
+</feed>
