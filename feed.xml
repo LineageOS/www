@@ -2,16 +2,22 @@
 layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>LineageOS</title>
-    <description>LineageOS Android Dstribution - Blog</description>
+    <description>LineageOS Android Distribution - Blog</description>
     <link>{{ site.url }}</link>
+    <image>
+      <url>{{ site.url }}/images/logo.png</url>
+      <title>LineageOS</title>
+      <link>{{ site.url }}</link>
+    </image>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     {% for post in site.categories.blog %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <description> {{ post.excerpt  | xml_escape }}</description>
-            <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <link>{{ post.url | prepend: site.url }}</link>
             <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
         </item>
