@@ -62,6 +62,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - Dockerfile
+include:
+  - _redirects
+  - _headers
 
 collections:
   engineering:
