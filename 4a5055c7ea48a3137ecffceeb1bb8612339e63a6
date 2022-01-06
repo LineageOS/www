@@ -16,6 +16,167 @@
       "message": "Joey - Can we get a hero image?",
       "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "33c9f2e6_414ca7ca",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "could use a better tagline excerpt, but my comedy brain is dead atm",
+      "range": {
+        "startLine": 5,
+        "startChar": 9,
+        "endLine": 5,
+        "endChar": 17
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5479c54d_c0a65c77",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "remove before ship",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 6
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "498f1ec6_9e4ac367",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "remove before shipping, 19.0 vs 19.1 when we ship",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 25
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "09d44bf4_103fd790",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "needs _lots_ of love - not sure what our new features are anyway lol",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 0
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c5ab4817_6ccb1b22",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "I added this because we were lacking new stuff lol - if we have something better throw it in.",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 127
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "44b10e3b_f1e6d4cb",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "torn, I want to mention this again for visibility, but meh? thoughts?",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 61,
+        "endChar": 73
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2345d094_d074eb00",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-01-06T21:51:20Z",
+      "side": 1,
+      "message": "this section should be noted, as it\u0027s both cool, and attracted LinuxPlumbers people into talking to luca and I (even though it didn\u0027t lead anywhere this time).\n\nThough, the section content could use some love.",
+      "range": {
+        "startLine": 63,
+        "startChar": 0,
+        "endLine": 78,
+        "endChar": 21
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
