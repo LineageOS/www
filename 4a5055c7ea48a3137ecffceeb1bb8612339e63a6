@@ -112,6 +112,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "13e3dcee_1896e0ee",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2022-01-06T22:03:33Z",
+      "side": 1,
+      "message": "are there new features? /me hides O_o",
+      "parentUuid": "09d44bf4_103fd790",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 0
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "c5ab4817_6ccb1b22",
         "filename": "_posts/blog/2022-01-31-Changelog-26.md",
         "patchSetId": 1
@@ -169,6 +193,30 @@
       "writtenOn": "2022-01-06T21:51:20Z",
       "side": 1,
       "message": "this section should be noted, as it\u0027s both cool, and attracted LinuxPlumbers people into talking to luca and I (even though it didn\u0027t lead anywhere this time).\n\nThough, the section content could use some love.",
+      "range": {
+        "startLine": 63,
+        "startChar": 0,
+        "endLine": 78,
+        "endChar": 21
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "976054f2_d6c1e630",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2022-01-06T22:03:33Z",
+      "side": 1,
+      "message": "_silence_",
+      "parentUuid": "2345d094_d074eb00",
       "range": {
         "startLine": 63,
         "startChar": 0,
