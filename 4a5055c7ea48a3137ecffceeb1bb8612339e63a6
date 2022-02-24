@@ -101,6 +101,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3eb7ef7_db482885",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-24T03:30:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d8be8406_f1899e9a",
+      "range": {
+        "startLine": 5,
+        "startChar": 9,
+        "endLine": 5,
+        "endChar": 17
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5479c54d_c0a65c77",
@@ -161,6 +185,30 @@
       "writtenOn": "2022-01-06T21:51:20Z",
       "side": 1,
       "message": "remove before shipping, 19.0 vs 19.1 when we ship",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 25
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3d71b4d_e72f5c39",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-24T03:30:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "498f1ec6_9e4ac367",
       "range": {
         "startLine": 22,
         "startChar": 0,
@@ -255,6 +303,30 @@
       "writtenOn": "2022-01-06T21:51:20Z",
       "side": 1,
       "message": "I added this because we were lacking new stuff lol - if we have something better throw it in.",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 127
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "55f36842_15baa280",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-24T03:30:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c5ab4817_6ccb1b22",
       "range": {
         "startLine": 44,
         "startChar": 0,
