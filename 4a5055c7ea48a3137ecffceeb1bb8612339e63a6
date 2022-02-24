@@ -194,6 +194,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0f2a195_bfa3471d",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-24T03:20:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "13e3dcee_1896e0ee",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 0
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "c5ab4817_6ccb1b22",
@@ -230,6 +254,30 @@
       "writtenOn": "2022-01-06T21:51:20Z",
       "side": 1,
       "message": "torn, I want to mention this again for visibility, but meh? thoughts?",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 61,
+        "endChar": 73
+      },
+      "revId": "4a5055c7ea48a3137ecffceeb1bb8612339e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6d36fc96_1cb97e52",
+        "filename": "_posts/blog/2022-01-31-Changelog-26.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-24T03:20:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "44b10e3b_f1e6d4cb",
       "range": {
         "startLine": 51,
         "startChar": 0,
