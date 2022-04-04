@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad02eb85_67d15a64",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "Dropping subversion wasn\u0027t because of quarterly AOSP releases, just because it added no user value.",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 122
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "77f6ef47_abb671e2",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "100.0.4896.58 as of the moment.",
+      "range": {
+        "startLine": 29,
+        "startChar": 39,
+        "endLine": 29,
+        "endChar": 52
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f59cf3a3_071b743e",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "Stray comma",
+      "range": {
+        "startLine": 31,
+        "startChar": 125,
+        "endLine": 31,
+        "endChar": 126
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5d3d2660_c85021d2",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "Stray comma",
+      "range": {
+        "startLine": 32,
+        "startChar": 90,
+        "endLine": 32,
+        "endChar": 91
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f5bc8972_2851cd22",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "This should fall in line after the generic build discussion. Else, people will stop here and complain we aren\u0027t giving them their GSIs.",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 23
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "841113e0_9e881594",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "Stray comma",
+      "range": {
+        "startLine": 36,
+        "startChar": 140,
+        "endLine": 36,
+        "endChar": 141
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d953397d_93f57a5a",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "Umm, the blog shouldn\u0027t be talking about stuff we don\u0027t support. If we do then we need to mutter about every forked tree that has some churn but isn\u0027t shipping. No.",
+      "range": {
+        "startLine": 61,
+        "startChar": 0,
+        "endLine": 66,
+        "endChar": 0
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1c86ad8d_e16dfcc9",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "Again, we shouldn\u0027t be talking about things that aren\u0027t ship ready. At the moment, legacy devices _cannot_.",
+      "range": {
+        "startLine": 69,
+        "startChar": 132,
+        "endLine": 69,
+        "endChar": 155
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "387131ae_efaaea16",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-04-04T23:59:55Z",
+      "side": 1,
+      "message": "I think this should be presented as a straight up build roster. \"Here are the 19 devices, Here are the 18.1 devices, if you don\u0027t see it then we\u0027re not shipping it now (for whatever reason)\". 17.1 doesn\u0027t need to get mentioned because we said above that everything stuck on 17 was nuked.\n\nPresenting this as a diff makes it hard for a normal person to follow, and saying that something was an \"Added 18.1 device\" that happened 12 months ago, but after the blog post, isn\u0027t very beneficial.",
+      "range": {
+        "startLine": 148,
+        "startChar": 0,
+        "endLine": 148,
+        "endChar": 16
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
