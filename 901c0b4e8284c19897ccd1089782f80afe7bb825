@@ -1496,6 +1496,30 @@
       },
       "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2e556a71_8ab9eae4",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T01:02:15Z",
+      "side": 1,
+      "message": "only outstanding comment left - I don\u0027t have the bandwidth to sit down and do a proper nice looking list based on currently shipping.\n\nIf someone else volunteers to do do - open to it. Makes sense.",
+      "parentUuid": "387131ae_efaaea16",
+      "range": {
+        "startLine": 148,
+        "startChar": 0,
+        "endLine": 148,
+        "endChar": 16
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
