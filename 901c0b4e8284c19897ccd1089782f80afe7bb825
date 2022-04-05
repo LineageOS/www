@@ -88,6 +88,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "74081b4f_207e4382",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "50b80cc4_c15eb44c",
+      "range": {
+        "startLine": 23,
+        "startChar": 40,
+        "endLine": 23,
+        "endChar": 52
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "06b0aa0c_2c5227ec",
@@ -101,6 +125,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "Assuming you meant \u0027android-12.1.0_r2\u0027",
+      "range": {
+        "startLine": 28,
+        "startChar": 41,
+        "endLine": 28,
+        "endChar": 58
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8795d567_8eaa25ec",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "06b0aa0c_2c5227ec",
       "range": {
         "startLine": 28,
         "startChar": 41,
@@ -275,6 +323,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "86efa69b_7af572e0",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9505db14_78a8b92a",
+      "range": {
+        "startLine": 32,
+        "startChar": 74,
+        "endLine": 32,
+        "endChar": 103
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f5bc8972_2851cd22",
@@ -438,6 +510,78 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "67e4c21e_48661129",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f7e9452f_36b82e2f",
+      "range": {
+        "startLine": 36,
+        "startChar": 19,
+        "endLine": 36,
+        "endChar": 24
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e1d741e6_cc5315cf",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cf6a0f4f_56e631ee",
+      "range": {
+        "startLine": 36,
+        "startChar": 90,
+        "endLine": 36,
+        "endChar": 172
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c80cee3_5483a616",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d3f5ad20_55300a03",
+      "range": {
+        "startLine": 36,
+        "startChar": 50,
+        "endLine": 36,
+        "endChar": 51
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9a900eb0_d873b2a8",
@@ -451,6 +595,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "nit: drop the \u0027s\u0027",
+      "range": {
+        "startLine": 46,
+        "startChar": 30,
+        "endLine": 46,
+        "endChar": 31
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f172b56a_62b2f30e",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a900eb0_d873b2a8",
       "range": {
         "startLine": 46,
         "startChar": 30,
@@ -484,6 +652,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4faed48_23b8e9d3",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9f2a1e3c_d7ff264d",
+      "range": {
+        "startLine": 57,
+        "startChar": 3,
+        "endLine": 57,
+        "endChar": 4
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e3a17bc4_e0b2830c",
@@ -497,6 +689,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "nit: should be \u0027Banana\u0027",
+      "range": {
+        "startLine": 62,
+        "startChar": 2,
+        "endLine": 62,
+        "endChar": 9
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de90fed3_bc2ec47f",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done - actually removed the section",
+      "parentUuid": "e3a17bc4_e0b2830c",
       "range": {
         "startLine": 62,
         "startChar": 2,
@@ -647,6 +863,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c80a2520_20bfdb4a",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "disagree - we \"are\" building it, gonna leave this one.",
+      "parentUuid": "e7ba5253_635f0ece",
+      "range": {
+        "startLine": 83,
+        "startChar": 30,
+        "endLine": 83,
+        "endChar": 33
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "53f3b847_63503445",
@@ -660,6 +900,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "introduced \u0027by\u0027 AOSP",
+      "range": {
+        "startLine": 99,
+        "startChar": 122,
+        "endLine": 99,
+        "endChar": 137
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b151623c_9c35b3d7",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "53f3b847_63503445",
       "range": {
         "startLine": 99,
         "startChar": 122,
@@ -693,6 +957,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f261c406_65ee244f",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b85dac39_af0841e8",
+      "range": {
+        "startLine": 102,
+        "startChar": 50,
+        "endLine": 102,
+        "endChar": 51
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "84ed3d74_0805c915",
@@ -706,6 +994,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "but \u0027are\u0027 no longer supported",
+      "range": {
+        "startLine": 111,
+        "startChar": 96,
+        "endLine": 111,
+        "endChar": 119
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc9b9e1b_31cea8a0",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "84ed3d74_0805c915",
       "range": {
         "startLine": 111,
         "startChar": 96,
@@ -762,6 +1074,54 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "779b046e_0b109fba",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "74ec9faf_f5ab8f3d",
+      "range": {
+        "startLine": 113,
+        "startChar": 128,
+        "endLine": 113,
+        "endChar": 134
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f4dd94ea_dec9b470",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4b2af3d5_3df73817",
+      "range": {
+        "startLine": 113,
+        "startChar": 152,
+        "endLine": 113,
+        "endChar": 153
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "04220ecf_d2727d48",
@@ -775,6 +1135,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "\u0027will be\u0027",
+      "range": {
+        "startLine": 114,
+        "startChar": 26,
+        "endLine": 114,
+        "endChar": 27
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "824de308_45c838ec",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "04220ecf_d2727d48",
       "range": {
         "startLine": 114,
         "startChar": 26,
@@ -808,6 +1192,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f4afec1a_96b1177c",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d696ccf2_361567f5",
+      "range": {
+        "startLine": 116,
+        "startChar": 136,
+        "endLine": 117,
+        "endChar": 13
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a7efd6ec_85da5bea",
@@ -821,6 +1229,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "@ was already used earlier on, so just add it here too",
+      "range": {
+        "startLine": 119,
+        "startChar": 74,
+        "endLine": 119,
+        "endChar": 78
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "92e2eb3d_a5b04cac",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "did the opposite and fixed the other.",
+      "parentUuid": "a7efd6ec_85da5bea",
       "range": {
         "startLine": 119,
         "startChar": 74,
@@ -854,6 +1286,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fbadb611_0f05ae9f",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ed0157b7_cc760340",
+      "range": {
+        "startLine": 127,
+        "startChar": 307,
+        "endLine": 127,
+        "endChar": 313
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2f12f33d_135b2d04",
@@ -877,6 +1333,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c128f62_2fb08c9d",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2f12f33d_135b2d04",
+      "range": {
+        "startLine": 129,
+        "startChar": 61,
+        "endLine": 129,
+        "endChar": 63
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "63a39d5a_c55a89c7",
@@ -890,6 +1370,30 @@
       "writtenOn": "2022-04-05T00:35:49Z",
       "side": 1,
       "message": "delete the hyphen",
+      "range": {
+        "startLine": 131,
+        "startChar": 59,
+        "endLine": 131,
+        "endChar": 60
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8aa61473_c7457ab5",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-05T00:48:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "63a39d5a_c55a89c7",
       "range": {
         "startLine": 131,
         "startChar": 59,
