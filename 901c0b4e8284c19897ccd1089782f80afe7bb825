@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "8013bfab_e5fb556f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 26
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "Grammar/formatting suggestions",
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ad02eb85_67d15a64",
@@ -19,6 +36,52 @@
         "startChar": 0,
         "endLine": 23,
         "endChar": 122
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "50b80cc4_c15eb44c",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "Should be \u0027maintenance\u0027",
+      "range": {
+        "startLine": 23,
+        "startChar": 40,
+        "endLine": 23,
+        "endChar": 52
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "06b0aa0c_2c5227ec",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "Assuming you meant \u0027android-12.1.0_r2\u0027",
+      "range": {
+        "startLine": 28,
+        "startChar": 41,
+        "endLine": 28,
+        "endChar": 58
       },
       "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
@@ -95,6 +158,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "9505db14_78a8b92a",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "nit: should drop the comma after \u0027cabled\u0027",
+      "range": {
+        "startLine": 32,
+        "startChar": 74,
+        "endLine": 32,
+        "endChar": 103
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "f5bc8972_2851cd22",
         "filename": "_posts/blog/2022-04-01-Changelog-26.md",
         "patchSetId": 26
@@ -141,6 +227,144 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f7e9452f_36b82e2f",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "work",
+      "range": {
+        "startLine": 36,
+        "startChar": 19,
+        "endLine": 36,
+        "endChar": 24
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d3f5ad20_55300a03",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "unnecessary comma",
+      "range": {
+        "startLine": 36,
+        "startChar": 50,
+        "endLine": 36,
+        "endChar": 51
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cf6a0f4f_56e631ee",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "How about just \u0027Android Automotive build targets!\u0027",
+      "range": {
+        "startLine": 36,
+        "startChar": 90,
+        "endLine": 36,
+        "endChar": 172
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9a900eb0_d873b2a8",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "nit: drop the \u0027s\u0027",
+      "range": {
+        "startLine": 46,
+        "startChar": 30,
+        "endLine": 46,
+        "endChar": 31
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9f2a1e3c_d7ff264d",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "lowercase the V in Nvidia",
+      "range": {
+        "startLine": 57,
+        "startChar": 3,
+        "endLine": 57,
+        "endChar": 4
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e3a17bc4_e0b2830c",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "nit: should be \u0027Banana\u0027",
+      "range": {
+        "startLine": 62,
+        "startChar": 2,
+        "endLine": 62,
+        "endChar": 9
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d953397d_93f57a5a",
         "filename": "_posts/blog/2022-04-01-Changelog-26.md",
         "patchSetId": 26
@@ -180,6 +404,328 @@
         "startChar": 132,
         "endLine": 69,
         "endChar": 155
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c71fc05c_6d775ab1",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": ",",
+      "range": {
+        "startLine": 73,
+        "startChar": 477,
+        "endLine": 73,
+        "endChar": 478
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e7ba5253_635f0ece",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "\u0027builds\u0027",
+      "range": {
+        "startLine": 83,
+        "startChar": 30,
+        "endLine": 83,
+        "endChar": 33
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "53f3b847_63503445",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "introduced \u0027by\u0027 AOSP",
+      "range": {
+        "startLine": 99,
+        "startChar": 122,
+        "endLine": 99,
+        "endChar": 137
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b85dac39_af0841e8",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "nit: delete comma",
+      "range": {
+        "startLine": 102,
+        "startChar": 50,
+        "endLine": 102,
+        "endChar": 51
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "84ed3d74_0805c915",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "but \u0027are\u0027 no longer supported",
+      "range": {
+        "startLine": 111,
+        "startChar": 96,
+        "endLine": 111,
+        "endChar": 119
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "74ec9faf_f5ab8f3d",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "replace with ;",
+      "range": {
+        "startLine": 113,
+        "startChar": 128,
+        "endLine": 113,
+        "endChar": 134
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4b2af3d5_3df73817",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "\u0027you\u0027ll be\u0027 invited",
+      "range": {
+        "startLine": 113,
+        "startChar": 152,
+        "endLine": 113,
+        "endChar": 153
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "04220ecf_d2727d48",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "\u0027will be\u0027",
+      "range": {
+        "startLine": 114,
+        "startChar": 26,
+        "endLine": 114,
+        "endChar": 27
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d696ccf2_361567f5",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "swap : with a . and capitalize \u0027for\u0027",
+      "range": {
+        "startLine": 116,
+        "startChar": 136,
+        "endLine": 117,
+        "endChar": 13
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a7efd6ec_85da5bea",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "@ was already used earlier on, so just add it here too",
+      "range": {
+        "startLine": 119,
+        "startChar": 74,
+        "endLine": 119,
+        "endChar": 78
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ed0157b7_cc760340",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "delete",
+      "range": {
+        "startLine": 127,
+        "startChar": 307,
+        "endLine": 127,
+        "endChar": 313
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2f12f33d_135b2d04",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "delete",
+      "range": {
+        "startLine": 129,
+        "startChar": 61,
+        "endLine": 129,
+        "endChar": 63
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63a39d5a_c55a89c7",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "delete the hyphen",
+      "range": {
+        "startLine": 131,
+        "startChar": 59,
+        "endLine": 131,
+        "endChar": 60
+      },
+      "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a9005fe4_10e35d4e",
+        "filename": "_posts/blog/2022-04-01-Changelog-26.md",
+        "patchSetId": 26
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 30292
+      },
+      "writtenOn": "2022-04-05T00:35:49Z",
+      "side": 1,
+      "message": "out to us on",
+      "range": {
+        "startLine": 140,
+        "startChar": 61,
+        "endLine": 140,
+        "endChar": 70
       },
       "revId": "901c0b4e8284c19897ccd1089782f80afe7bb825",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
