@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dcc06a95_a2dc36fd",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "numerous",
+      "range": {
+        "startLine": 36,
+        "startChar": 28,
+        "endLine": 36,
+        "endChar": 37
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b920e635_821cf7aa",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "too",
+      "range": {
+        "startLine": 39,
+        "startChar": 43,
+        "endLine": 39,
+        "endChar": 45
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dd3ac51e_dd3cc660",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "is no longer",
+      "range": {
+        "startLine": 39,
+        "startChar": 25,
+        "endLine": 39,
+        "endChar": 37
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b02e26ed_eb2ef509",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "theming",
+      "range": {
+        "startLine": 47,
+        "startChar": 167,
+        "endLine": 47,
+        "endChar": 175
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "66a3a4a8_653ea04a",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "F(x)tec",
+      "range": {
+        "startLine": 170,
+        "startChar": 2,
+        "endLine": 170,
+        "endChar": 9
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "12884fa7_b7af1172",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "Pro¹",
+      "range": {
+        "startLine": 170,
+        "startChar": 10,
+        "endLine": 170,
+        "endChar": 15
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "200d446b_f57ecf1c",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 336,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-17T19:17:00Z",
+      "side": 1,
+      "message": "Wileyfox",
+      "range": {
+        "startLine": 336,
+        "startChar": 2,
+        "endLine": 336,
+        "endChar": 9
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
