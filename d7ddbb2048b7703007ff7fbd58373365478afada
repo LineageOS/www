@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "55895521_f09f4aee",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T20:10:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dcc06a95_a2dc36fd",
+      "range": {
+        "startLine": 36,
+        "startChar": 28,
+        "endLine": 36,
+        "endChar": 37
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b920e635_821cf7aa",
@@ -60,6 +84,54 @@
       "writtenOn": "2022-04-17T19:17:00Z",
       "side": 1,
       "message": "is no longer",
+      "range": {
+        "startLine": 39,
+        "startChar": 25,
+        "endLine": 39,
+        "endChar": 37
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2923c83_6d8b599b",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T20:10:51Z",
+      "side": 1,
+      "message": "I actually don\u0027t think so, we are saying it\u0027s tied \"to\" the object \"build type property\" no that it is \"too\" (also).",
+      "parentUuid": "b920e635_821cf7aa",
+      "range": {
+        "startLine": 39,
+        "startChar": 43,
+        "endLine": 39,
+        "endChar": 45
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee917219_57eefd7d",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T20:10:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dd3ac51e_dd3cc660",
       "range": {
         "startLine": 39,
         "startChar": 25,
@@ -139,6 +211,54 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "18e62114_a40da29d",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T20:10:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "12884fa7_b7af1172",
+      "range": {
+        "startLine": 170,
+        "startChar": 10,
+        "endLine": 170,
+        "endChar": 15
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a507f97_d5d6e77a",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T20:10:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "66a3a4a8_653ea04a",
+      "range": {
+        "startLine": 170,
+        "startChar": 2,
+        "endLine": 170,
+        "endChar": 9
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "200d446b_f57ecf1c",
@@ -152,6 +272,30 @@
       "writtenOn": "2022-04-17T19:17:00Z",
       "side": 1,
       "message": "Wileyfox",
+      "range": {
+        "startLine": 336,
+        "startChar": 2,
+        "endLine": 336,
+        "endChar": 9
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71d6bb7f_e9c97826",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 336,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T20:10:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "200d446b_f57ecf1c",
       "range": {
         "startLine": 336,
         "startChar": 2,
