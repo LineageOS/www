@@ -142,6 +142,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4eb4b35f_36ce0169",
+        "filename": "_posts/blog/2022-04-19-Changelog-26.md",
+        "patchSetId": 35
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-18T23:54:36Z",
+      "side": 1,
+      "message": "reworded this",
+      "parentUuid": "c2923c83_6d8b599b",
+      "range": {
+        "startLine": 39,
+        "startChar": 43,
+        "endLine": 39,
+        "endChar": 45
+      },
+      "revId": "d7ddbb2048b7703007ff7fbd58373365478afada",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b02e26ed_eb2ef509",
