@@ -13,17 +13,23 @@
 }
 
 .welcome {
-  padding: 2.5rem 1rem 0 !important;
+  padding: 0 1rem 0 !important;
   margin-bottom: 0 !important;
+  background-image: url('../img/jumbotron_hero_bg.jpg');
+  background-size: cover;
+  background-position: bottom;
 
   p {
     margin-bottom: 1rem;
   }
 
   img {
-    max-height: 245px;
+    max-height: 500px;
     max-width: 100%;
     margin: 0 auto;
-  }
 
+    @media(min-width:992px) {
+      margin-right:16px;
+    }
+  }
 }

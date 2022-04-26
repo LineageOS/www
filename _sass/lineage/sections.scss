@@ -22,18 +22,18 @@ section.tweaks {
 }
 
 section img {
-  max-height: 330px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   padding-right: .5rem;
+
+  @media(max-width:992px) {
+    max-height: 330px;
+  }
 }
 
 .section-background-image {
-  background-image: linear-gradient(
-      rgba(20, 20, 20, 0.5),
-      rgba(20, 20, 20, 0.5)),
-      url(../img/default_wallpaper.jpg);
+  background-image: url(../img/power_bg.jpg);
 }
 
 section.download .logo svg {
@@ -48,13 +48,17 @@ img#rotate-on-scroll {
   position: absolute;
   right: 0;
   left: 0;
-  bottom: -120px;
+  bottom: -230px;
   overflow: hidden;
   z-index: -10;
   max-height: none;
-  height: 600px;
-  max-width: none;
-  width: auto;
+
+  @media(min-width:1200px) {
+    bottom: -230px;
+    height: 600px;
+    max-width: none;
+    width: auto;
+  }
 }
 
 @include media-breakpoint-down(md) {
@@ -66,14 +70,4 @@ img#rotate-on-scroll {
     max-height: 300px;
   }
 
-}
-
-@include media-breakpoint-down(xs) {
-
-  .section-background-image {
-    background-image: linear-gradient(
-        rgba(20, 20, 20, 0.5),
-        rgba(20, 20, 20, 0.5)),
-        url(../img/default_wallpaper-xs.jpg);
-  }
 }
