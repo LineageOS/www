@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "427e60d1_1f1acdf0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-04-26T04:51:56Z",
+      "side": 1,
+      "message": "the automotive targets need to be added to the emulator guide in the wiki.",
+      "revId": "eb547620074a4618ad1f6cd48cc88209115ffce6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
