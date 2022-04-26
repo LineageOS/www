@@ -16,6 +16,24 @@
       "message": "the automotive targets need to be added to the emulator guide in the wiki.",
       "revId": "eb547620074a4618ad1f6cd48cc88209115ffce6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb0aa846_11d563ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-04-26T12:26:07Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/lineage_wiki/+/330193 done",
+      "parentUuid": "427e60d1_1f1acdf0",
+      "revId": "eb547620074a4618ad1f6cd48cc88209115ffce6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
