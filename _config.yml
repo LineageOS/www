@@ -14,11 +14,12 @@ github: [metadata]
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:
-  facebook: lineageandroid
+  facebook:
   reddit: lineageos
   github: lineageos
   rss: true
   twitter: lineageandroid
+  mastodon: https://fosstodon.org/@LineageOS
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
