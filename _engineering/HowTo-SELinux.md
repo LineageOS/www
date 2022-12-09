@@ -71,7 +71,14 @@ You should use regex to label an initiator. For example, please see [platform/sy
 ### Labeling an initiator (Android App)
 The blueprint is: `user=user_of_app seinfo=info name=name_of_app domain=scontext_to_assign type=type_of_file`
 
-An example rule to label qtidataservices app would be something like: `user=radio seinfo=platform name=.qtidataservices domain=qtidataservices_app type=radio_data_file`
+For the examples we'll take into consideration the Android App _IWlanService.apk_ with package name _vendor.qti.iwlan_
+This application is commonly known as the _qtidataservices_ app within the QCOM stack, and that's also seen in the SELinux rules.
+
+An example rule to label qtidataservices using the fully fledged package name would be something like: `user=radio seinfo=platform name=vendor.qti.iwlan domain=qtidataservices_app type=radio_data_file`
+
+If the App has the entry `android:process="name"` in the `<application>` definition inside AndroidManifest.xml you can directly use the `name` as app_name
+
+An example rule to label qtidataservices app using the `process` tag would be something like: `user=radio seinfo=platform name=.qtidataservices domain=qtidataservices_app type=radio_data_file`
 
 All labels for applications go into a single file named *seapp_contexts* formatted as the partition requires. For example, please check [platform/system/sepolicy/private/seapp_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/private/seapp_contexts).
 
