@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2252a78_fa67219c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2022-12-09T12:07:30Z",
+      "side": 1,
+      "message": "I stumbled upon this recently, might as well fix it 😊\nThat\u0027s the gist of the change, feel free to make any change accordingly to style,grammar etc",
+      "revId": "ca3e567b9141059c704bd79a224c1117af53d1ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
