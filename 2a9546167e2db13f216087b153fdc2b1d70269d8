@@ -173,6 +173,30 @@
       },
       "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "86d1177b_f623e14d",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-12-10T13:18:57Z",
+      "side": 1,
+      "message": "https://gist.github.com/luk1337/aed06ff5d1fdcb959e89eca7ea85723e",
+      "parentUuid": "2e5f1b2e_2bcdb454",
+      "range": {
+        "startLine": 152,
+        "startChar": 0,
+        "endLine": 173,
+        "endChar": 62
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
