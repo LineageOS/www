@@ -1,0 +1,113 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f6fb5d8_a29a2d7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-10T05:26:16Z",
+      "side": 1,
+      "message": "WIP\n\nLuk: Per last years request, ran this through grammarly and MS word to catch issues lol.\n\n",
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b15d6254_4f4d35e4",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-10T05:26:16Z",
+      "side": 1,
+      "message": "Was this this cycle or last? idk tbh - if it was last - did we talk about it anywhere?",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 141
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "598b3e61_f4b019f0",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-10T05:26:16Z",
+      "side": 1,
+      "message": "althavy mentioned reverting this pre-release - if we do, just note it.",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 47,
+        "endChar": 107
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7aaa436c_d21ea508",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-10T05:26:16Z",
+      "side": 1,
+      "message": "@Seba/@Luk",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 43
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d720fd4d_5805d0ae",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-10T05:26:16Z",
+      "side": 1,
+      "message": "@Luk last time you made a magic-script to gen these - cool with running/relinking to it? I don\u0027t remember if it was posted somewhere.\n\nOr we could drop these - I don\u0027t know there\u0027s a ton of value when we could just link the Hudson change - well, except maybe SEO?",
+      "range": {
+        "startLine": 152,
+        "startChar": 0,
+        "endLine": 173,
+        "endChar": 62
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
