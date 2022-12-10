@@ -46,6 +46,30 @@
       },
       "revId": "eac439e34ba3ea55f817d1d23cce1986a446fe0e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d1750b0_6512fc86",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-12-10T19:07:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bc097966_d94c50d0",
+      "range": {
+        "startLine": 64,
+        "startChar": 0,
+        "endLine": 64,
+        "endChar": 49
+      },
+      "revId": "eac439e34ba3ea55f817d1d23cce1986a446fe0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
