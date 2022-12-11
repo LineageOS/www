@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f48cc5b0_b523b097",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-12-11T12:43:12Z",
+      "side": 1,
+      "message": "can we strip all pandemic cringe from this text pls?",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 129
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
