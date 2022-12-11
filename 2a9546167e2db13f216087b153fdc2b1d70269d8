@@ -152,6 +152,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b23bff44_a0c7549f",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-12-11T00:27:16Z",
+      "side": 1,
+      "message": "Regarding the screenshots, I just uploaded the full uncompressed file, it\u0027s 4MB so feel free to compress it somehow",
+      "parentUuid": "c6956b7f_bc59e2f0",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 43
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d720fd4d_5805d0ae",
