@@ -128,6 +128,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c6956b7f_bc59e2f0",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-12-11T00:26:13Z",
+      "side": 1,
+      "message": "Done, I don\u0027t think we can say much else",
+      "parentUuid": "7aaa436c_d21ea508",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 43
+      },
+      "revId": "2a9546167e2db13f216087b153fdc2b1d70269d8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d720fd4d_5805d0ae",
