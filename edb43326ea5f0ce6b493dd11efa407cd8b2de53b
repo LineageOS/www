@@ -22,6 +22,75 @@
       },
       "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f1257c73_e1efb1b8",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 32147
+      },
+      "writtenOn": "2022-12-12T01:44:25Z",
+      "side": 1,
+      "message": "It might be worth specifying that, even though you\u0027re dropping the subversion from branding, this release *is* still based on the latest Android 13 QPR1 release. Since it\u0027s not explicitly specified, some users might not pick up on that.",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 121
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5f65698f_8a7a0668",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 32147
+      },
+      "writtenOn": "2022-12-12T01:44:25Z",
+      "side": 1,
+      "message": "This is kind of awkwardly worded. Maybe \"We have introduced a completely redone volume panel in Android 13 and...\"",
+      "range": {
+        "startLine": 34,
+        "startChar": 2,
+        "endLine": 34,
+        "endChar": 84
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fdb8e6d2_d1abe438",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 32147
+      },
+      "writtenOn": "2022-12-12T01:44:25Z",
+      "side": 1,
+      "message": "IIRC, Google *did* say that Google TV would replace Android TV \"by 2022\"...but last I remember, this was kind of quietly pushed back? Maybe better to just leave this part out since it\u0027s an unknown.",
+      "range": {
+        "startLine": 42,
+        "startChar": 195,
+        "endLine": 42,
+        "endChar": 251
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
