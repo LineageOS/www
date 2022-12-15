@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "81ca0563_7d97e214",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-15T20:51:13Z",
+      "side": 1,
+      "message": "bout time - agree - done.",
+      "parentUuid": "f48cc5b0_b523b097",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 129
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f1257c73_e1efb1b8",
@@ -37,6 +61,30 @@
       "writtenOn": "2022-12-12T01:44:25Z",
       "side": 1,
       "message": "It might be worth specifying that, even though you\u0027re dropping the subversion from branding, this release *is* still based on the latest Android 13 QPR1 release. Since it\u0027s not explicitly specified, some users might not pick up on that.",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 121
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ae1d899f_3f6ce628",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-15T20:51:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f1257c73_e1efb1b8",
       "range": {
         "startLine": 25,
         "startChar": 0,
@@ -70,6 +118,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc4e55e8_a529c8bf",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-15T20:51:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5f65698f_8a7a0668",
+      "range": {
+        "startLine": 34,
+        "startChar": 2,
+        "endLine": 34,
+        "endChar": 84
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fdb8e6d2_d1abe438",
@@ -83,6 +155,30 @@
       "writtenOn": "2022-12-12T01:44:25Z",
       "side": 1,
       "message": "IIRC, Google *did* say that Google TV would replace Android TV \"by 2022\"...but last I remember, this was kind of quietly pushed back? Maybe better to just leave this part out since it\u0027s an unknown.",
+      "range": {
+        "startLine": 42,
+        "startChar": 195,
+        "endLine": 42,
+        "endChar": 251
+      },
+      "revId": "edb43326ea5f0ce6b493dd11efa407cd8b2de53b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "35ffa94a_08d69652",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-15T20:51:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fdb8e6d2_d1abe438",
       "range": {
         "startLine": 42,
         "startChar": 195,
