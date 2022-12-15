@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e30a5ab9_caffcef3",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2022-12-15T20:55:41Z",
+      "side": 1,
+      "message": "I think it would be better to say that the high quality recorder ( WAV format ) now supports stereo and there has been generic threading fixes :)",
+      "revId": "1998e22862870c4427ad58cf6c13b0af03d803c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
