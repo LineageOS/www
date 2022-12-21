@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2504b2db_1dc1773b",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 16
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-12-21T10:33:13Z",
+      "side": 1,
+      "message": "Won\u0027t be last October if we release this week.",
+      "revId": "0de34c30a30164a18f62e3df3cfaf2ae6bd9a1b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "94b9b8a1_fab8a3c9",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 16
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-12-21T10:33:13Z",
+      "side": 1,
+      "message": ".128 now.\n\nCould also say \"Latest stable\"",
+      "revId": "0de34c30a30164a18f62e3df3cfaf2ae6bd9a1b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
