@@ -33,6 +33,24 @@
       "message": ".128 now.\n\nCould also say \"Latest stable\"",
       "revId": "0de34c30a30164a18f62e3df3cfaf2ae6bd9a1b3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "342e070e_2f706c64",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 16
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2022-12-21T13:49:56Z",
+      "side": 1,
+      "message": "someone could misinterpret that stable webview is a \"new\" thing, I\u0027d say something like \"as usual,... across all shipping branches\"",
+      "parentUuid": "94b9b8a1_fab8a3c9",
+      "revId": "0de34c30a30164a18f62e3df3cfaf2ae6bd9a1b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
