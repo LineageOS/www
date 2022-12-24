@@ -1,4 +1,4 @@
-FROM ruby:2.4 as builder
+FROM ruby:2.6 as builder
 COPY . /src
 WORKDIR /src
 RUN gem install bundler
