@@ -16,6 +16,24 @@
       "message": "Minor nit but not exactly mainly Google Pixel devices anymore given like half are missing.",
       "revId": "611264c8a423f5478111099ae2536f6a8487cd27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf751dfa_1292f4f5",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 18
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-12-24T16:23:38Z",
+      "side": 1,
+      "message": "I removed the \", mainly Google Pixel devices\" part.",
+      "parentUuid": "2ae283f2_d1e8b7c7",
+      "revId": "611264c8a423f5478111099ae2536f6a8487cd27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
