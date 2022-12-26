@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e5ff294_3ae7bcf4",
+        "filename": "_posts/blog/2022-12-31-Changelog-27.md",
+        "patchSetId": 16
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-26T18:35:29Z",
+      "side": 1,
+      "message": "We realistically won\u0027t have all devices in roster built until new year.",
+      "parentUuid": "2504b2db_1dc1773b",
+      "revId": "0de34c30a30164a18f62e3df3cfaf2ae6bd9a1b3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "94b9b8a1_fab8a3c9",
