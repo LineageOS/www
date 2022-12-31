@@ -20,7 +20,7 @@ author: harryyoud
 ### Translation
 
 Bilingual? Trilingual? Anythinglingual?
-If you think you can help translate LineageOS to a different language, jump over to [Crowdin](http://crowdin.com/project/lineageos) and have a go!
+If you think you can help translate LineageOS to a different language, jump over to [our wiki](https://wiki.lineageos.org/how-to/translate) and have a go!
 Only do this if you are reasonably literate in the target language; poor translations waste both our and your time. 
 
 ### Signing problems
