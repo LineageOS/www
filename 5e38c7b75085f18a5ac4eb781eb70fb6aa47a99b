@@ -33,6 +33,23 @@
       "message": "A commit isn\u0027t a snapshot of the codebase, it\u0027s the atomic change to the codebase itself",
       "revId": "5e38c7b75085f18a5ac4eb781eb70fb6aa47a99b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8702aae1_723c6bf8",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-04-16T17:53:31Z",
+      "side": 1,
+      "message": "We should really expand in that tbh\nramoops config is something easy to get wrong\nShould explain how to read pmsg from pstore ( adb logcat -b all -L or -U iirc )\nAlso how the pstore may be compressed by default, and that\u0027s known to cause corruption in some cases and it\u0027s recommended to be turned off ( cmdline flag )",
+      "revId": "5e38c7b75085f18a5ac4eb781eb70fb6aa47a99b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
