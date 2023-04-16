@@ -16,6 +16,24 @@
       "message": "Requires more work on the following sections:\n- OEM Specific Debugging\n- decode_stacktrace.sh\n- OEM Specific uart implementations\n- logcat filtering (making sure it is not a copy of what is already available on aosp docs)",
       "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4c471877_f5cc2386",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-16T19:00:32Z",
+      "side": 1,
+      "message": "Parts that have yet to be added:\n- Common errors and how to solve them\n- dlopen fail / hidden dlopen fail\n- addr2line\n- pmesg and last_kmsg",
+      "parentUuid": "f7515ca3_2db68b80",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
