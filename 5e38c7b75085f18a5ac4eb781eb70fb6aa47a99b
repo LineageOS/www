@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d0dc7c3a_db0d154a",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2023-04-16T17:37:48Z",
+      "side": 1,
+      "message": "A commit isn\u0027t a snapshot of the codebase, it\u0027s the atomic change to the codebase itself",
+      "revId": "5e38c7b75085f18a5ac4eb781eb70fb6aa47a99b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
