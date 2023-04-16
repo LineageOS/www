@@ -34,6 +34,80 @@
       "parentUuid": "f7515ca3_2db68b80",
       "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1bae2ac_442273e5",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-04-16T19:30:46Z",
+      "side": 1,
+      "message": "\"A fixed-size storage area in memory.\"?",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6e0c2566_b5835f6a",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-04-16T19:30:46Z",
+      "side": 1,
+      "message": "Missing a dot at the end for consistency.",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "85aeb55f_b73e5d8d",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-04-16T19:30:46Z",
+      "side": 1,
+      "message": "This seems to be missing an \"is a\" or something like that.",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 54
+      },
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "be3d9a08_0f7ff56e",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-04-16T19:30:46Z",
+      "side": 1,
+      "message": "Do we want to put a link to the python-replacement here?\n\nhttps://github.com/bkerler/edl",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
