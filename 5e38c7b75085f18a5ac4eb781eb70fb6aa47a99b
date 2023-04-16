@@ -35,6 +35,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ebd5d9b3_69e42bd3",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-16T18:41:43Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "d0dc7c3a_db0d154a",
+      "revId": "5e38c7b75085f18a5ac4eb781eb70fb6aa47a99b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8702aae1_723c6bf8",
@@ -48,6 +66,24 @@
       "writtenOn": "2023-04-16T17:53:31Z",
       "side": 1,
       "message": "We should really expand in that tbh\nramoops config is something easy to get wrong\nShould explain how to read pmsg from pstore ( adb logcat -b all -L or -U iirc )\nAlso how the pstore may be compressed by default, and that\u0027s known to cause corruption in some cases and it\u0027s recommended to be turned off ( cmdline flag )",
+      "revId": "5e38c7b75085f18a5ac4eb781eb70fb6aa47a99b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4bc25ea0_2a6e5605",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-16T18:41:43Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "8702aae1_723c6bf8",
       "revId": "5e38c7b75085f18a5ac4eb781eb70fb6aa47a99b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
