@@ -123,3 +123,9 @@ code {
   color: #e91e63;
   word-break: break-word;
 }
+
+pre {
+  display: block;
+  font-size: $code-font-size;
+  color: $pre-color;
+}
