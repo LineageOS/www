@@ -123,3 +123,15 @@ code {
   color: #e91e63;
   word-break: break-word;
 }
+
+pre {
+  display: block;
+  font-size: 87.5%;
+  color: #212121;
+  background-color: #eee;
+}
+
+.pre-scrollable {
+  max-height: 340px;
+  overflow-y: scroll;
+}
