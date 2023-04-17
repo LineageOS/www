@@ -53,6 +53,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "470c12ab_8df63aa0",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-17T03:48:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a1bae2ac_442273e5",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6e0c2566_b5835f6a",
@@ -66,6 +84,24 @@
       "writtenOn": "2023-04-16T19:30:46Z",
       "side": 1,
       "message": "Missing a dot at the end for consistency.",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "146b8bcf_0a47bbed",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-17T03:48:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6e0c2566_b5835f6a",
       "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -93,6 +129,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b06f7197_e55efe3e",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-17T03:48:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "85aeb55f_b73e5d8d",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 54
+      },
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "be3d9a08_0f7ff56e",
@@ -106,6 +166,24 @@
       "writtenOn": "2023-04-16T19:30:46Z",
       "side": 1,
       "message": "Do we want to put a link to the python-replacement here?\n\nhttps://github.com/bkerler/edl",
+      "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "02f2a713_f8eca250",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-17T03:48:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "be3d9a08_0f7ff56e",
       "revId": "f120d3d53a77a4c58996c8d484022d1124c2779f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
