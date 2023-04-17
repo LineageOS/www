@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "11dd0b73_2ec94a1d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 15
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-04-17T08:07:59Z",
+      "side": 1,
+      "message": "I have a dilemma now, \u003cpre class\u003d\"pre-scrollable\"\u003e is nice on mobile but horrible on desktop",
+      "revId": "9fda2b75311d660692148f9009afada830cde5cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
