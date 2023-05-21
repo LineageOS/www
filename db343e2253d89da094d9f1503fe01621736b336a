@@ -1,0 +1,101 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "151edf41_e4608451",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-05-21T15:54:59Z",
+      "side": 1,
+      "message": "This looks quite weird when rendered. How about we just move the shell prompt into the same code block?\n\n```\n\u003cpre class\u003d\"pre-vertical-scroll\"\u003e\n$ adb logcat -b crash\n--------- beginning of crash\n04-14 11:22:34.256  5199  5199 E AndroidRuntime: FATAL EXCEPTION: main\n[...]\n```",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ce5fcd63_0cb93ed1",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-05-21T15:54:59Z",
+      "side": 1,
+      "message": "Same here, how about moving those into the code block as well and adding some ASCII lines to match them up with the respective part of the message?\n\n\n```\n04-14 11:22:34.256  5199  5199 E AndroidRuntime: FATAL EXCEPTION: main\n ---   ----------    --------  -  ------------    -------------------\n  |         |         |        |           |               |\n Date      Time      PID    Log Level   Log Tag         Message\n```\n \nAlso, are we sure that this is the PID that is being printed twice?",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63f12a45_92a84e0e",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-05-21T15:54:59Z",
+      "side": 1,
+      "message": "Should maybe be enclosed into inline code formatting.",
+      "range": {
+        "startLine": 75,
+        "startChar": 233,
+        "endLine": 75,
+        "endChar": 249
+      },
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dbf3165b_7b0d3ed2",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-05-21T15:54:59Z",
+      "side": 1,
+      "message": "Same here in regards to looking quite weird. Maybe it should just be a code block.\n\nSame for all the other similar occurrences of standalone commands and commands-with-output.",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9a07eedf_4e432f1e",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-05-21T15:54:59Z",
+      "side": 1,
+      "message": "Stray backslash?",
+      "range": {
+        "startLine": 82,
+        "startChar": 327,
+        "endLine": 82,
+        "endChar": 328
+      },
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
