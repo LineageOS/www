@@ -77,6 +77,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "535bb213_1f47c601",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-05-21T17:36:00Z",
+      "side": 1,
+      "message": "Tried moving it into code blocks but it looks weird since it spans the whole width of body, I guess more css edits are required",
+      "parentUuid": "dbf3165b_7b0d3ed2",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "9a07eedf_4e432f1e",
         "filename": "_engineering/HowTo-Debugging.md",
         "patchSetId": 19
