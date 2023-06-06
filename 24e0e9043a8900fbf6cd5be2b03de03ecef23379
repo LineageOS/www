@@ -1,0 +1,205 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f66914a_fec0c9f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 27
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "there\u0027s a lot more I want to cover here too, writing it up to push a PS soon.",
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6725a10d_1fc1520a",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "Additions I want to work on:\n- SuzyQ debugging (pixels)\n- UART/starting console where applicable - and maybe a super brief boot flow diagram grafted from my qcom post\n- \n\nAlso:\nI think this should be re-order in how it will be used maybe? Like, in bringup ramoops first, then dmesg, then logcat, etc.",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 12
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "88e2c339_2eaf0da1",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "won\u0027t work on enforcing - you would need adb root.\n\nAlso domes -w for live log of it is nice\n\nI think adb root and remount are good topics for this as well. And not too hard to add.",
+      "range": {
+        "startLine": 161,
+        "startChar": 0,
+        "endLine": 161,
+        "endChar": 17
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d7555bc_5c49dce6",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "maybe mention for for older devices and I _think_ still Samsung this /proc/last_kmsg",
+      "range": {
+        "startLine": 178,
+        "startChar": 0,
+        "endLine": 178,
+        "endChar": 11
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70b3e358_3467c712",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "many devices do this over type c now, including pixels",
+      "range": {
+        "startLine": 266,
+        "startChar": 43,
+        "endLine": 266,
+        "endChar": 69
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "58128db3_cbf1edf7",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "Chipset Vendor/OEM",
+      "range": {
+        "startLine": 273,
+        "startChar": 3,
+        "endLine": 273,
+        "endChar": 6
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd80cfa0_d136f45b",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 313,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "not even just legacy, newer devices have the same issue lol",
+      "range": {
+        "startLine": 313,
+        "startChar": 4,
+        "endLine": 313,
+        "endChar": 10
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "aacd8c84_afc5cb3a",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 320,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "or we copy older VNDK and patchelf it - which we should mention patchelf briefly and sed and why one would use one or the other.",
+      "range": {
+        "startLine": 320,
+        "startChar": 0,
+        "endLine": 320,
+        "endChar": 305
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1f1bfadc_f1a0c5ff",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 330,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-06T21:43:08Z",
+      "side": 1,
+      "message": "errant space",
+      "range": {
+        "startLine": 330,
+        "startChar": 93,
+        "endLine": 330,
+        "endChar": 94
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
