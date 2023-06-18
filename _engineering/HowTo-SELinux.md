@@ -7,7 +7,7 @@ excerpt: Understanding the basics of SELinux
 author: Aayush Gupta (theimpulson) & Nolen Johnson (npjohnson)
 ---
 
- ![hero]({{site.baseurl}}/images/engineering/hero-selinux.png){: .blog_post_image }
+ ![hero]({{site.baseurl}}/images/engineering/hero_selinux.jpg){: .blog_post_image }{: alt="A detailed set of glass-like facets create a the idea of a large passageway on a green background. Large lime green shapes, the Lineage logo, and the word Engineering sit on top."}
 
 ## Glossary
 * AOSP: Short for Android Open Source Project.
