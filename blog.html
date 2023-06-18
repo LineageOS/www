@@ -9,7 +9,7 @@ title: Blog
 
     <h1>Blog</h1>
     <p>Changelogs and news from the LineageOS team.</p>
-    <a class="btn btn-primary" href="{{ site.baseurl }}/feed.xml">{% include svg/rss_feed.svg %} RSS Feed</a>
+    <a class="btn btn-primary" href="{{ site.baseurl }}/feed.xml"><i class="material-icons-outlined post-icons">rss_feed</i> RSS Feed</a>
   </div>
 </div>
 
@@ -20,8 +20,8 @@ title: Blog
     <div class="card-body">
       <h6>{{ post.excerpt }}</h6>
       <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="card-text">{% include svg/clock.svg %} {{ post.date | date: '%B %d, %Y' }}{% if post.author %}
-{% include svg/author.svg %} {{ post.author }}{% endif %}</p>
+      <p class="card-text"><i class="material-icons-outlined post-icons">calendar_today</i> {{ post.date | date: '%B %d, %Y' }}
+      {% if post.author %} <i class="material-icons-outlined post-icons">person_outline</i> {{ post.author }}{% endif %}</p>
     </div>
 
     <div class="card-button">
