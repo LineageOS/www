@@ -7,7 +7,8 @@ excerpt: Understanding Android Telephony
 author: javelinanddart
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_telephony.png){: .blog_post_image }
+![hero]({{site.baseurl}}/images/engineering/hero_telephony.jpg){: .blog_post_image }{: alt="Fuchsia lines and waves interweave on a purple background as they spill out from the middle. Large red shapes, the Lineage logo, and the word Engineering sit on top."}
+
 
 
 The Android Telephony stack is complicated and contains many parts, each of which can be more or less grouped into the categories pictured below.
