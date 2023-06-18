@@ -2,6 +2,7 @@
 layout: post
 title: Android Debugging Crash Course
 date: 2023-04-17
+modified: 2023-06-18
 category: engineering
 excerpt: Understanding the different tools used during debugging
 author: Nicholas Lim (niclimcy)
