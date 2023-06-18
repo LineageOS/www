@@ -21,6 +21,7 @@ title: Blog
       <h6>{{ post.excerpt }}</h6>
       <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p class="card-text"><i class="material-icons-outlined post-icons">calendar_today</i> {{ post.date | date: '%B %d, %Y' }}
+      {% if post.modified %} <i class="material-icons-outlined post-icons">edit_calendar</i> {{ post.modified | date: '%B %d, %Y' }}{% endif %}
       {% if post.author %} <i class="material-icons-outlined post-icons">person_outline</i> {{ post.author }}{% endif %}</p>
     </div>
 
