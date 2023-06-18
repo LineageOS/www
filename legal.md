@@ -20,7 +20,7 @@ LineageOS provides an after-market operating system and applications for various
 ### INFORMATION WE HAVE
 Certain information (e.g. a device unique anonymized ID, device model, etc.) is transmitted to us solely for the purpose of measuring non-personally identifiable installation metrics. Unless otherwise stated below, this information is not used for any other purpose.
 
-1. Information we store from the device
+1. Information we store from the device, when opted-in for:
  - The unique anonymous ID of the device (this ID changes upon device factory reset)
  - The device model
  - The version(s) of our software installed on the device
