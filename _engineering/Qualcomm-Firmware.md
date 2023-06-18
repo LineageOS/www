@@ -7,7 +7,7 @@ excerpt: Covering Qualcomm bootloader’s up to the point of Android being loade
 author: Nolen Johnson (@npjohnson)
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_qualcomm_firmware.png){: .blog_post_image }
+![hero]({{site.baseurl}}/images/engineering/hero_qualcomm_firmware.jpg){: .blog_post_image }{: alt="Recolored photo of a stone stairway heading down from a left-side door. A closer stairway leads up from the center to the right. Large purple shapes, the Lineage logo, and the word Engineering sit on top."}
 
 The Qualcomm chain-of-trust is a complex, yet straightforward to understand set of processes. Many of you have likely heard the term “bootloader” but have no clue what it actually is, or does.
 

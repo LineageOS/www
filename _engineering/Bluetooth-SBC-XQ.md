@@ -7,7 +7,7 @@ excerpt: 'Deep dive into the "HD Audio: SBC" checkbox'
 author: ValdikSS
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_bluetooth_sbc_xq.png){: .blog_post_image }
+![hero]({{site.baseurl}}/images/engineering/hero_bluetooth_sbc_xq.jpg){: .blog_post_image }{: alt="On a maroon background, warm repeating line shapes emanate from the center toward the left and right, transforming from circles to rectangles as they near the image's edge. Large pink shapes, the Lineage logo, and the word Engineering sit on top."}
 
 LineageOS 15.1 and 16.0 bring a unique audio quality enhancement to the stock Bluetooth SBC audio codec. It introduces support for SBC Dual Channel mode with the eXtreme quality profile (SBC XQ), bumping this old codec's audio quality to levels on par with Qualcomm's proprietary codec - aptX HD.
 
