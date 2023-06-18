@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e408b53c_cc78faef",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-06-18T14:08:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "151edf41_e4608451",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ce5fcd63_0cb93ed1",
@@ -35,6 +53,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1083393a_b4f12e85",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-06-18T14:08:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ce5fcd63_0cb93ed1",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "63f12a45_92a84e0e",
@@ -48,6 +84,30 @@
       "writtenOn": "2023-05-21T15:54:59Z",
       "side": 1,
       "message": "Should maybe be enclosed into inline code formatting.",
+      "range": {
+        "startLine": 75,
+        "startChar": 233,
+        "endLine": 75,
+        "endChar": 249
+      },
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "871bdce5_6bc91cd5",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-06-18T14:08:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "63f12a45_92a84e0e",
       "range": {
         "startLine": 75,
         "startChar": 233,
@@ -93,6 +153,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "cec91de9_032efc07",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-06-18T14:08:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "535bb213_1f47c601",
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9a07eedf_4e432f1e",
@@ -106,6 +184,30 @@
       "writtenOn": "2023-05-21T15:54:59Z",
       "side": 1,
       "message": "Stray backslash?",
+      "range": {
+        "startLine": 82,
+        "startChar": 327,
+        "endLine": 82,
+        "endChar": 328
+      },
+      "revId": "db343e2253d89da094d9f1503fe01621736b336a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bea6666f_3f710046",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-06-18T14:08:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a07eedf_4e432f1e",
       "range": {
         "startLine": 82,
         "startChar": 327,
