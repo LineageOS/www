@@ -28,7 +28,10 @@ scrolljs: true
         {% for post in site.categories.blog limit:1 %}
         <h3><a class="fg-primary-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <h6>{{ post.excerpt }}</h6>
-        <p>{% include svg/clock.svg %} {{ post.date | date: '%B %d, %Y' }}{% if post.author %} {% include svg/author.svg %} {{ post.author }}{% endif %}</p>
+        <p>{% include svg/calendar.svg %} {{ post.date | date: '%B %d, %Y' }}
+          {% if post.modified %}{% include svg/calendar_edit.svg %} {{ post.modified | date: '%B %d, %Y' }}{% endif %}
+          {% if post.author %}{% include svg/author.svg %} {{ post.author }}{% endif %}
+        </p>
         {% endfor %}
       </div>
     </div>

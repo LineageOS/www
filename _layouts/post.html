@@ -8,6 +8,7 @@ layout: default
 
       <h1>{{ page.title }}</h1>
       <h6>Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{ page.author }} {% endif %}</h6>
+      {% if page.modified %}<h6>Last modified on {{ page.modified | date: "%B %e, %Y" }}</h6>{% endif %}
 
     </div>
   </div>
