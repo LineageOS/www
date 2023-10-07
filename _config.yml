@@ -54,6 +54,7 @@ sass:
   sourcemap: true
 # Use the following plug-ins
 gems:
+  - jekyll-redirect-from
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
