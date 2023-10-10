@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "766ffb7d_485c8c46",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 34
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-10-10T13:42:57Z",
+      "side": 1,
+      "message": "Little nitpick, there\u0027s now mem_type dt entry to specificy buffered/non buffered.\nhttps://lore.kernel.org/all/1616438537-13719-1-git-send-email-mojha@codeaurora.org/\nhttps://lore.kernel.org/all/20221222131049.286288-1-luca@osomprivacy.com/\n\nOriginal and fixup.",
+      "revId": "049d7d34a0b2180dd5f714f63b714c185319e1ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
