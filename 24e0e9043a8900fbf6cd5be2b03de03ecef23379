@@ -88,6 +88,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "97346177_3229a2d4",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-10T04:13:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "88e2c339_2eaf0da1",
+      "range": {
+        "startLine": 161,
+        "startChar": 0,
+        "endLine": 161,
+        "endChar": 17
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2d7555bc_5c49dce6",
@@ -148,6 +172,30 @@
       "writtenOn": "2023-06-06T21:43:08Z",
       "side": 1,
       "message": "many devices do this over type c now, including pixels",
+      "range": {
+        "startLine": 266,
+        "startChar": 43,
+        "endLine": 266,
+        "endChar": 69
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "73886c12_9993e10b",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-10T04:13:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "70b3e358_3467c712",
       "range": {
         "startLine": 266,
         "startChar": 43,
@@ -228,6 +276,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d62d2fd_202a4bb7",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 313,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-10T04:13:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cd80cfa0_d136f45b",
+      "range": {
+        "startLine": 313,
+        "startChar": 4,
+        "endLine": 313,
+        "endChar": 10
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "aacd8c84_afc5cb3a",
@@ -241,6 +313,30 @@
       "writtenOn": "2023-06-06T21:43:08Z",
       "side": 1,
       "message": "or we copy older VNDK and patchelf it - which we should mention patchelf briefly and sed and why one would use one or the other.",
+      "range": {
+        "startLine": 320,
+        "startChar": 0,
+        "endLine": 320,
+        "endChar": 305
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8181221_82be6c7e",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 320,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-10T04:13:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "aacd8c84_afc5cb3a",
       "range": {
         "startLine": 320,
         "startChar": 0,
