@@ -41,6 +41,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d6f02f9_c652aa94",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-10T04:09:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6725a10d_1fc1520a",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 12
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "88e2c339_2eaf0da1",
@@ -77,6 +101,30 @@
       "writtenOn": "2023-06-06T21:43:08Z",
       "side": 1,
       "message": "maybe mention for for older devices and I _think_ still Samsung this /proc/last_kmsg",
+      "range": {
+        "startLine": 178,
+        "startChar": 0,
+        "endLine": 178,
+        "endChar": 11
+      },
+      "revId": "24e0e9043a8900fbf6cd5be2b03de03ecef23379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b972fc50_fa433da3",
+        "filename": "_engineering/HowTo-Debugging.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-10T04:09:02Z",
+      "side": 1,
+      "message": "not important",
+      "parentUuid": "2d7555bc_5c49dce6",
       "range": {
         "startLine": 178,
         "startChar": 0,
