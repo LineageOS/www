@@ -16,6 +16,24 @@
       "message": "works locally",
       "revId": "be26bfc5f11917efb93e1ae47248b8b4627914d0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59acc224_e52fb19f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27741
+      },
+      "writtenOn": "2023-10-11T14:43:26Z",
+      "side": 1,
+      "message": "also ignore mr robot he is severely confused and is still using old dockerfile because no one wired up container rebuilding with new defs + tagging to the ci",
+      "parentUuid": "948a765a_44e1260a",
+      "revId": "be26bfc5f11917efb93e1ae47248b8b4627914d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
