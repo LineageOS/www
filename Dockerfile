@@ -1,7 +1,7 @@
 FROM ruby:2.6 as builder
 COPY . /src
 WORKDIR /src
-RUN gem install bundler
+RUN gem install bundler -v 2.3.26
 RUN bundle install
 RUN bundle exec jekyll build
 
