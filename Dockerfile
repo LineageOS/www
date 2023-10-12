@@ -1,9 +1,11 @@
-FROM ruby:2.6 as builder
+FROM ruby:3.2
+
 COPY . /src
+
 WORKDIR /src
+
 RUN gem install bundler
 RUN bundle install
 RUN bundle exec jekyll build
 
-FROM nginx:latest
-COPY --from=builder /src/_site/ /usr/share/nginx/html/
+CMD bundle exec jekyll serve --host 0.0.0.0 --incremental
