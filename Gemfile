@@ -1,10 +1,11 @@
 source "https://rubygems.org"
 
 
-gem "jekyll", "3.3.1"
-gem "therubyracer", "0.12.3"
+gem "jekyll", "3.9.3"
 
 
 group :jekyll_plugins do
-   gem 'github-pages', '~> 106'
+   gem 'github-pages', '~> 228'
 end
+
+gem "webrick", "~> 1.8"
