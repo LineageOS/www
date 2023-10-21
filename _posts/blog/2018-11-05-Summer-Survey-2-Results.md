@@ -11,7 +11,7 @@ This year, about 1% of our users (at the time of writing) took the survey - this
 
 ## Builds
 
-We’ve seen an increase of unofficial builds this year (19.9%), probably due to our stricter requirements for official builds defined by the [charter](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md).
+We’ve seen an increase of unofficial builds this year (19.9%), probably due to our stricter requirements for official builds defined by the [charter](https://github.com/LineageOS/charter/blob/main/device-support-requirements.md).
 
 64% of the people surveyed had at least one device running 15.1, while 40% had a 14.1 device. Phones are undoubtedly the most common form factor of Lineage devices: 96.7% of respondents have at least one phone running Lineage, while only 9.4% own a tablet with Lineage installed.
 

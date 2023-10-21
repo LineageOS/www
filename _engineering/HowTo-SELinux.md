@@ -48,7 +48,7 @@ Permissive mode is used mostly by developers during the early stages of bringing
 ## SELinux policy in a Nutshell
 SELinux policy is a set of rules (permissions) which states which initiators can perform which type of actions. If a particular action the process wants to perform is not permitted explicitly in the installed policy, SELinux will deny it. Therefore, on production devices, it's of the utmost importance to have a complete set of rules in the SELinux policy to avoid breakages/bugs due to SELinux denials. With that said, SELinux must also be as strict as possible. A good rule of thumb to remember while writing SELinux policy is: 'If it ain't broke, don't fix it'.
 
-By default, Android provides an SELinux policy for the components which are specific to the AOSP platform. You can find these stored in the [platform/system/sepolicy](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master) repository of AOSP. Downstream vendors modifying AOSP and adding additional functionality must write their own SELinux policies. For example, Qualcomm provides sepolicy for devices using it’s SoCs in the [device/qcom/sepolicy](https://source.codeaurora.org/quic/la/device/qcom/sepolicy/) repository of CAF (Code Aurora Forum). LineageOS provides sepolicy to the developers for its additions/features on AOSP in the [device/lineage/sepolicy](https://github.com/LineageOS/android_device_lineage_sepolicy) repository hosted in the LineageOS GitHub organization.
+By default, Android provides an SELinux policy for the components which are specific to the AOSP platform. You can find these stored in the [platform/system/sepolicy](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main) repository of AOSP. Downstream vendors modifying AOSP and adding additional functionality must write their own SELinux policies. For example, Qualcomm provides sepolicy for devices using it’s SoCs in the [device/qcom/sepolicy](https://source.codeaurora.org/quic/la/device/qcom/sepolicy/) repository of CAF (Code Aurora Forum). LineageOS provides sepolicy to the developers for its additions/features on AOSP in the [device/lineage/sepolicy](https://github.com/LineageOS/android_device_lineage_sepolicy) repository hosted in the LineageOS GitHub organization.
 
 All of these different SELinux policy rules are compiled together to generate device-partitions specific SELinux policy. For example, SELinux policy rules which are specific to the system partition will end up in system image, vendor partition specific rules will end up in vendor image, etc. These device-partition-specific policies are compiled together into one single SELinux policy when an Android system boots up, and this is the final policy which SELinux audits processes against.
 
@@ -66,7 +66,7 @@ The blueprint is: `/path/to/initiator u:object_r:context_name_you_want:s0`
 
 An example rule to label NFC service would be something like: `/(vendor|system/vendor)/bin/hw/android\.hardware\.nfc@1\.2-service\.sec u:object_r:hal_nfc_default_exec:s0`
 
-You should use regex to label an initiator. For example, please see [platform/system/sepolicy/private/file_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/private/file_contexts).
+You should use regex to label an initiator. For example, please see [platform/system/sepolicy/private/file_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/private/file_contexts).
 
 ### Labeling an initiator (Android App)
 The blueprint is: `user=user_of_app seinfo=info name=name_of_app domain=scontext_to_assign type=type_of_file`
@@ -80,14 +80,14 @@ If the app has the entry `android:process="name"` in the `<application>` definit
 
 An example rule to label the qtidataservices app using the `process` tag would be something like: `user=radio seinfo=platform name=.qtidataservices domain=qtidataservices_app type=radio_data_file`
 
-All labels for applications go into a single file named *seapp_contexts* formatted as the partition requires. For other examples and formatting requirements, please see [platform/system/sepolicy/private/seapp_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/private/seapp_contexts).
+All labels for applications go into a single file named *seapp_contexts* formatted as the partition requires. For other examples and formatting requirements, please see [platform/system/sepolicy/private/seapp_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/private/seapp_contexts).
 
 ### Labeling filesystems
 *genfscon* is a label type used to allocate contexts to file systems that don't support any other type of labeling statements. The blueprint is: `genfscon filesystem_name partial_path filesystem_context`
 
 An example rule to label `/proc/hwmodel` would be something like: `genfscon proc /hwmodel u:object_r:proc_fih:s0`
 
-All genfscon statements go into a single file named *genfs_contexts*. For example, please check [platform/system/sepolicy/private/genfs_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/private/genfs_contexts).
+All genfscon statements go into a single file named *genfs_contexts*. For example, please check [platform/system/sepolicy/private/genfs_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/private/genfs_contexts).
 
 ### Labeling properties
 Properties are strings that can be used to control the behavior of a specific feature, or advertise device features. These reside in `.prop` files which are parsed by `init` when the system is booting up. These properties also require a valid SELinux context regarding the initiator which will access them.
@@ -100,7 +100,7 @@ An example log for denial related to a camera property:
 
 This should be addressed by labeling this specific property as `camera_prop` as it's related to camera, e.g. `camera.tunning.live u:object_r:camera_prop:s0`
 
-All property labels go into a single file named *property_contexts*. For example, please check [platform/system/sepolicy/master/private/property_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/private/property_contexts).
+All property labels go into a single file named *property_contexts*. For example, please check [platform/system/sepolicy/main/private/property_contexts](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/private/property_contexts).
 
 Notice how labels for services, process, applications, file systems don’t end with `;` unlike other statements used to grant or suppress permissions.
 
@@ -125,7 +125,7 @@ An example in regard to this specific case:
 
 The rule to suppress this log would be: `dontaudit thermal-engine sysfs:dir read;`
 
-AOSP recommends keeping all rules (permissions, denials, log suppressions, Permissive mode) regarding a specific initiator under a separate file in the *.te* format having it's scontext as the name. For example, all rules regarding an initiator having a scontext of *hal_power_default* would be stored in a file named *hal_power_default.te*. For example, please check [platform/system/sepolicy/public/vold.te](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/public/vold.te).
+AOSP recommends keeping all rules (permissions, denials, log suppressions, Permissive mode) regarding a specific initiator under a separate file in the *.te* format having it's scontext as the name. For example, all rules regarding an initiator having a scontext of *hal_power_default* would be stored in a file named *hal_power_default.te*. For example, please check [platform/system/sepolicy/public/vold.te](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/public/vold.te).
 
 ## The concept of neverallow
 A *neverallow* is an overarching rule that is used to mark specific rules that must not be generated. The word *generated* implies that it is a compile-time action and not runtime. Hence, if you mark a specific rule as neverallow and grant permission regarding the same in another rule, the compiler will trigger an error and the compilation will fail.
@@ -134,7 +134,7 @@ An example rule: `neverallow my_gallery my_secret_passwords:{ dir file } { read 
 
 In Android, you can find neverallows inside the system/sepolicy repository linked earlier in this post. Android marks several rules as neverallow which can potentially weaken the system security. For example, every file on the system has a type called *system_data_file*, now assume that you have an initiator which wants *{ read write }* to access a specific file having *system_data_file* as type. Now, if you grant it such permission, that means you allow the initiator to read & write every file on the system (as every file in the system has the same file type). This significantly weakens security. Hence, it should be marked as a neverallow. A solution to this issue would be to label the file with a different, more specific context and then grant the initiator the required permissions. It is worth noting that if you’re on a legacy device, e.g. any QCOM chipset before msm8996 (UM-Family), that Lineage’s fork of device/qcom/sepolicy-legacy ignores neverallows, as legacy device’s proprietary binaries can’t comply with Android’s neverallows growing stricter.
 
-While by default, a lot of rules are already marked as neverallows, not all possible exceptions are covered. It depends upon the developer to carefully grant permissions keeping all possible scenarios in mind. For reference, please check [platform/system/sepolicy/public/vold.te](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/public/vold.te).
+While by default, a lot of rules are already marked as neverallows, not all possible exceptions are covered. It depends upon the developer to carefully grant permissions keeping all possible scenarios in mind. For reference, please check [platform/system/sepolicy/public/vold.te](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/public/vold.te).
 
 ## Macros
 By default, there are several macros available to use while writing the SELinux policy. These macros not only make writing SELinux policy easier but are also recommended to use for various reasons, such as granting a lot of permissions to a certain initiator, granting a specific set of permission for a specific task to an initiator, etc. They reduce the amount of code a developer has to write, group a specific set of rules for specific use cases, and make it easier for fellow developers to read, among many more benefits.
@@ -153,7 +153,7 @@ Example 2: Macros used: *r_dir_file*
 
 **With macros:** `r_dir_file(ueventd, firmware_file)`
 
-Notice how using macros shortens the amount of code and still granted the necessary permissions. You can check the available macros in [global_macros](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/public/global_macros) and [te_macros](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master/public/te_macros) present in [platform/system/sepolicy](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/master) repository of AOSP.
+Notice how using macros shortens the amount of code and still granted the necessary permissions. You can check the available macros in [global_macros](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/public/global_macros) and [te_macros](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main/public/te_macros) present in [platform/system/sepolicy](https://android.googlesource.com/platform/system/sepolicy/+/refs/heads/main) repository of AOSP.
 
 ## Where should my sepolicy go?
 Since the advent of [Project Treble](https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html), sepolicy has moved from one file in the boot image, to various files on the partition relevant to those policies. For example, in device/lineage/sepolicy, under the “common” folder, we have system, vendor, public, private, and dynamic folders.

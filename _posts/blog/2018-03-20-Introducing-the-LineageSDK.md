@@ -12,7 +12,7 @@ author: jrizzoli
 
 LineageOS is an operating system for everyone: from the average user to the advanced developer.
 While users have a giant playground in their hands with many customization options, we also want to make
-LineageOS a fun place for developers. The [standards for official builds](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md) help ensure developers that their app will not end up in a bad state because of
+LineageOS a fun place for developers. The [standards for official builds](https://github.com/LineageOS/charter/blob/main/device-support-requirements.md) help ensure developers that their app will not end up in a bad state because of
 inappropriate Android API changes or broken hardware support, but this is not enough for us; we're announcing some new APIs that will allow your
 apps to do more when they're running on a LineageOS-powered device.
 

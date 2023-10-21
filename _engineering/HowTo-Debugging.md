@@ -87,7 +87,7 @@ $ adb shell debuggerd {PID}
 Hint: Replace `{PID}` with the actual Process ID of the process you want.
 
 ### Stack
-`stack` is a Python script that represents crash dumps in a human readable format (symbolizes native crash dumps). You can find `stack` in any local sync of LineageOS repositories at [~/android/lineage/development/scripts/stack](https://android.googlesource.com/platform/development/+/refs/heads/master/scripts/stack). You can run stack on an extracted tombstone using `stack < /path/to/tombstone_0`.
+`stack` is a Python script that represents crash dumps in a human readable format (symbolizes native crash dumps). You can find `stack` in any local sync of LineageOS repositories at [~/android/lineage/development/scripts/stack](https://android.googlesource.com/platform/development/+/refs/heads/main/scripts/stack). You can run stack on an extracted tombstone using `stack < /path/to/tombstone_0`.
 
 A native crash dump will usually look like this:
 

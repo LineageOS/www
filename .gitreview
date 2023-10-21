@@ -2,4 +2,4 @@
 host=review.lineageos.org
 project=LineageOS/www
 port=29418
-defaultbranch=master
+defaultbranch=main
