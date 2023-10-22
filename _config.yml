@@ -1,5 +1,5 @@
 # Name of your site (displayed in the header)
-name: LineageOS
+title: LineageOS
 
 # Short bio or description (displayed in the header)
 description: LineageOS Android Distribution
@@ -53,7 +53,7 @@ sass:
   style: :compressed # You might prefer to minify using :compressed
   sourcemap: true
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
