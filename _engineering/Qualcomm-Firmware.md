@@ -39,7 +39,7 @@ A bootloader by definition is a program that loads an operating system, or chain
 
 Qualcomm devices all use fuse based logic to dictate permanent feature configurations/cryptographic key sets. As stated above, the physical version of which is called a QFUSE, and is stored in a region on the SoC called QFPROM in rows.
 
-If the QFUSE fuse row labeled Qualcomm Secure Boot is blown (which is such on non-Chinese/OnePlus deivces), PBL (Qualcomm's Primary Bootloader) is verified and loaded into memory from BootROM, a non-writable storgage on the SoC.
+If the QFUSE fuse row labeled Qualcomm Secure Boot is blown (which is such on non-Chinese/OnePlus devices), PBL (Qualcomm's Primary Bootloader) is verified and loaded into memory from BootROM, a non-writable storgage on the SoC.
 PBL is then executed and brings up a nominal amount of hardware, then verifies the signature of the next bootloader in the chain, loads it, then executes it.
 The next bootloader(s) in the chain are SBL\*/XBL (Qualcomm's Secondary/eXtensible Bootloader). These early bootloaders bring up core hardware like CPU cores, the MMU, etc. They are also responsible for bringing up core processes
 concurrent to Android such as the Secure World for Qualcomm ARM chipsets known as TrustZone. The last purpose of SBL\*/XBL is to verify the signature of, load, and execute aboot/ABL. Aboot is what the large majority of you refer to as “bootloader mode”, as it is
