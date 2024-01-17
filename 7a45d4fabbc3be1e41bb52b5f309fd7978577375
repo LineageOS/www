@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "55e9db31_1d28409e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-01-17T23:12:31Z",
+      "side": 1,
+      "message": "Did some grammar checks + added Aperture and Jelly changelog, I\u0027ll leave AOSP apps to others",
+      "revId": "7a45d4fabbc3be1e41bb52b5f309fd7978577375",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1d02aaf_342946df",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-01-17T23:12:31Z",
+      "side": 1,
+      "message": "We\u0027re technically close to being feature complete (works nice, just missing the pick intents handling), if Feb 1 is the target date, we should be able to sneak it in - just adding this comment to check before merging",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 58
+      },
+      "revId": "7a45d4fabbc3be1e41bb52b5f309fd7978577375",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
