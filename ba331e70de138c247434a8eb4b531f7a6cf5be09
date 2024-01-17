@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b37c42a3_2c11e3c7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-01-17T22:17:54Z",
+      "side": 1,
+      "message": "Seba can do aperture and maybe more of jelly if he remembers",
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e3527301_2ca6b3f1",
@@ -60,6 +77,30 @@
       "writtenOn": "2024-01-17T19:30:54Z",
       "side": 1,
       "message": "Seba/Michael/georg - one line about each?",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 13
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "faaee54a_10cb54c4",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-01-17T22:17:54Z",
+      "side": 1,
+      "message": "Jelly: new Material design 3 UI, per website location permission, general improvements",
+      "parentUuid": "16450b8a_da83e088",
       "range": {
         "startLine": 35,
         "startChar": 0,
