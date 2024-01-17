@@ -39,6 +39,29 @@
       },
       "revId": "7a45d4fabbc3be1e41bb52b5f309fd7978577375",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "89e651c2_ee713c40",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-01-17T23:32:57Z",
+      "side": 1,
+      "message": "You got it right here, but the lines show LinegeOS version instead. I\u0027d stick to Android version in this case.",
+      "range": {
+        "startLine": 107,
+        "startChar": 42,
+        "endLine": 107,
+        "endChar": 57
+      },
+      "revId": "7a45d4fabbc3be1e41bb52b5f309fd7978577375",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
