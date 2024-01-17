@@ -136,6 +136,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "b0068155_747678b4",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-01-17T23:14:17Z",
+      "side": 1,
+      "message": "Also for what it\u0027s worth, Aperture doesn\u0027t really need new screenshots, but we could do one screenshot for each app?",
+      "parentUuid": "b3b36faa_b7d19469",
+      "range": {
+        "startLine": 57,
+        "startChar": 0,
+        "endLine": 58,
+        "endChar": 89
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ffbd3b46_8b3fd82a",
         "filename": "_posts/blog/2024-02-01-Changelog-28.md",
         "patchSetId": 2
