@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1d62495_278c35a0",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-01-20T22:45:41Z",
+      "side": 1,
+      "message": "might be wise to say that Google is now HTTPS/encrypted by default",
+      "revId": "51a7ab686cce91e10bfa8b869155a5000ae4b036",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
