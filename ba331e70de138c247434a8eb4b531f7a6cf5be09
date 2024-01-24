@@ -228,6 +228,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2d5aa65_ee0429d7",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-24T21:27:53Z",
+      "side": 1,
+      "message": "Assumed true until opposed.",
+      "parentUuid": "3c3fe118_b0b5465b",
+      "range": {
+        "startLine": 94,
+        "startChar": 0,
+        "endLine": 95,
+        "endChar": 154
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2efc0260_d36e34ce",
