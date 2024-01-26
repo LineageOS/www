@@ -3,6 +3,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "e347a8af_db709ffd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-26T03:29:56Z",
+      "side": 1,
+      "message": "TODO\u0027s left on this post:\n\nLuk - Table generation for 18.1/20 added devices\nApps guys - Screenshots like BadDaemon\u0027s for Dialer for the apps with larger rewrites (or just saying they aren\u0027t needed for that app\nSeba - (hate saying this) Gallery App ETA lol\n\nOverall needed to ship:\n- Vold merge\n-- system/sepolicy (chain contains vold + TV ADB Wi-Fi)\n- Figure out Wi-Fi AIDL migrations - atm upgrades crash HARD if device goes from HIDL to AIDL, and newer devices (sm8150+) _need_ the AIDL to function properly\n- (Optional) 14-camera-privapp\n- (Optional) TVSettings Trust/ADB Wi-Fi",
+      "revId": "2d6246295b6b3d3e5e20cac92496b67d72fda317",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "cc225f98_963e28f0",
         "filename": "_posts/blog/2024-02-01-Changelog-28.md",
         "patchSetId": 8
