@@ -41,6 +41,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "65e2671c_6aba9d22",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-26T03:21:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e3527301_2ca6b3f1",
+      "range": {
+        "startLine": 3,
+        "startChar": 64,
+        "endLine": 3,
+        "endChar": 90
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "731ce8eb_b8ec3394",
@@ -54,6 +78,30 @@
       "writtenOn": "2024-01-17T19:30:54Z",
       "side": 1,
       "message": "probably fine, thoughts?",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 27
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9907b7e9_3431edb5",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-26T03:21:15Z",
+      "side": 1,
+      "message": "Assumed fine. We are (almost) all adults lol.",
+      "parentUuid": "731ce8eb_b8ec3394",
       "range": {
         "startLine": 5,
         "startChar": 0,
@@ -219,6 +267,30 @@
       "writtenOn": "2024-01-17T19:30:54Z",
       "side": 1,
       "message": "meh, was hoping it\u0027d be forked - we\u0027re seeing really wide adoption this point and want to keep it going.",
+      "range": {
+        "startLine": 77,
+        "startChar": 0,
+        "endLine": 77,
+        "endChar": 116
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7cff9617_8bb871f6",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-26T03:21:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ffbd3b46_8b3fd82a",
       "range": {
         "startLine": 77,
         "startChar": 0,
