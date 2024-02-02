@@ -417,6 +417,30 @@
       },
       "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "85742d1f_04296224",
+        "filename": "_posts/blog/2024-02-01-Changelog-28.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-02-02T12:03:33Z",
+      "side": 1,
+      "message": "(now `./shipper.py eacb6009d8d6b40cdb1d753b887b8e326ec51176`)",
+      "parentUuid": "9c721713_6d4ad385",
+      "range": {
+        "startLine": 166,
+        "startChar": 0,
+        "endLine": 166,
+        "endChar": 21
+      },
+      "revId": "ba331e70de138c247434a8eb4b531f7a6cf5be09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
