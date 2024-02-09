@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c1b80b3_63271097",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-09T19:23:15Z",
+      "side": 1,
+      "message": "calc image was unused, added it.\n\nAnd Oxford comma mixup",
+      "revId": "8a20ed959abc1236f05d83795f5077c7c359717c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
