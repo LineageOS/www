@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2c819c6e_d0549f46",
+        "filename": "_posts/blog/2024-02-14-Changelog-28.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-09T20:03:45Z",
+      "side": 1,
+      "message": "Gotta swap this out",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 78
+      },
+      "revId": "6fe7c44bcbabff7d15b0281ac9db97a2b1ec603c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
