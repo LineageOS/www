@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d93a3fdc_adfbe7dd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-02-14T23:31:56Z",
+      "side": 1,
+      "message": "I would place it after MSM8998, unless you\u0027re strictly ordering by kernel version",
+      "revId": "7dd2d793b59a3015824f59edf0a4b0800304b36c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
