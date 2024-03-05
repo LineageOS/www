@@ -22,6 +22,30 @@
       },
       "revId": "52afb5dd6cf976bd7eb2940bebb431630333f33e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0625084a_595b11b3",
+        "filename": "_posts/blog/2024-03-05-Sunsetting-LineageOS-18.1.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-03-05T14:54:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4e8ce1c8_a1538503",
+      "range": {
+        "startLine": 19,
+        "startChar": 48,
+        "endLine": 19,
+        "endChar": 52
+      },
+      "revId": "52afb5dd6cf976bd7eb2940bebb431630333f33e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
