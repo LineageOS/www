@@ -18,17 +18,20 @@
   - name: Discord
     text: If you aren't comfortable with IRC, our IRC channels are also linked to Discord!
     url: https://discord.gg/gD6DMtf
-  - name: Reddit
-    text: For discussions regarding devices, features, or just general Android talk, check out our subreddit.
-    url: https://reddit.com/r/lineageos
   - name: Bug Tracker
     text: Found an issue? Report it here!
     url: https://gitlab.com/LineageOS/issues
+- name: Social Media
+  data:
+  - name: Reddit
+    text: For discussions regarding devices, features, or just general Android talk, check out our subreddit.
+    url: https://reddit.com/r/lineageos
+  - name: Mastodon
+    text: Be sure to follow our Mastodon account to keeep up with important news about the project.
+    url: https://fosstodon.org/@LineageOS
 
 #- name: Contact
 #  data:
 #  - name: Developer Relations
 #    text: If you wish to contact us regarding development contributions, please do so here.
 #    url: mailto:devrel@lineageos.org
-#  - name: Social Media
-#    text: Find us on social media in the footer of this page!
