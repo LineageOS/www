@@ -46,6 +46,30 @@
       },
       "revId": "e64db851f7f3255d21ca2cf9a90ee352d5c1fdc0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3053beaf_daa9b38a",
+        "filename": "_data/community.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-07-06T08:55:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "50dcbc01_f027cdd2",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 88
+      },
+      "revId": "e64db851f7f3255d21ca2cf9a90ee352d5c1fdc0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
