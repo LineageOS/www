@@ -22,6 +22,30 @@
       },
       "revId": "e64db851f7f3255d21ca2cf9a90ee352d5c1fdc0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "50dcbc01_f027cdd2",
+        "filename": "_data/community.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-07-06T08:48:01Z",
+      "side": 1,
+      "message": "\"Be sure to follow our Mastodon account to keeep up with important news about the project.\"",
+      "parentUuid": "e68abd9b_eada3c7a",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 88
+      },
+      "revId": "e64db851f7f3255d21ca2cf9a90ee352d5c1fdc0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
