@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b66a7723_08047383",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T20:19:54Z",
+      "side": 1,
+      "message": "need two more alliterations... thoughts?",
+      "revId": "0a69973b8cf8ce7cffe09280ac2a1cf02926df1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5b2fb7aa_40edd117",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T20:19:54Z",
+      "side": 1,
+      "message": "could maybe stand more - idk what else we did",
+      "revId": "0a69973b8cf8ce7cffe09280ac2a1cf02926df1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "07db78ce_b9398469",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T20:19:54Z",
+      "side": 1,
+      "message": "@priv.luk@gmail.com - leaving to you when the time comes",
+      "revId": "0a69973b8cf8ce7cffe09280ac2a1cf02926df1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
