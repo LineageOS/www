@@ -16,6 +16,23 @@
       "message": "need two more alterations... thoughts?",
       "revId": "4382f4cfbe9aa1eeb80e861ebe70763cb5a4de0c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0954f014_d3fedce8",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T20:20:50Z",
+      "side": 1,
+      "message": "arbitrary guess, waiting on Vaz for the hero, as well as the actual date",
+      "revId": "4382f4cfbe9aa1eeb80e861ebe70763cb5a4de0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
