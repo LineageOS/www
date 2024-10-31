@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "54ba32d3_3077e42e",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ded63b57_334b9f1f",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "05835b09_8b3edc48",
@@ -31,6 +49,24 @@
       "writtenOn": "2024-10-31T21:53:02Z",
       "side": 1,
       "message": "We haven\u0027t",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6eb8f044_d0869c00",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "05835b09_8b3edc48",
       "revId": "60509409a65126ee648a6b2c94f9762af0143334",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -52,6 +88,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "119b7a0d_1526dadf",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f240bf07_fc5fca9e",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "24583a7e_619be503",
@@ -65,6 +119,24 @@
       "writtenOn": "2024-10-31T21:53:02Z",
       "side": 1,
       "message": "This has been in the changelog for 2 changelogs already",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e3e33181_ffb51955",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "24583a7e_619be503",
       "revId": "60509409a65126ee648a6b2c94f9762af0143334",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -86,6 +158,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b536f69_67e17e94",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "908f9093_07aaa302",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fe283d4d_1da28a5f",
@@ -99,6 +189,24 @@
       "writtenOn": "2024-10-31T21:53:02Z",
       "side": 1,
       "message": "We haven\u0027t done anything for 15 SUW",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21763144_e95b67c6",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fe283d4d_1da28a5f",
       "revId": "60509409a65126ee648a6b2c94f9762af0143334",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -120,6 +228,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "96abbf58_81d368e2",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "03636f70_eae3bc18",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f2ee7d4e_97ab44db",
@@ -137,6 +263,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "51f76ab8_bb030919",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f2ee7d4e_97ab44db",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "17cb8892_89c4b6b4",
@@ -150,6 +294,24 @@
       "writtenOn": "2024-10-31T21:53:02Z",
       "side": 1,
       "message": "Shims are already in the previous changelog",
+      "revId": "60509409a65126ee648a6b2c94f9762af0143334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c5565612_66e3fa85",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:58:07Z",
+      "side": 1,
+      "message": "I disagree on removing this one\nI\u0027ve talked to peeps from other roms and many still weren\u0027t aware that we had a compat repo",
+      "parentUuid": "17cb8892_89c4b6b4",
       "revId": "60509409a65126ee648a6b2c94f9762af0143334",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
