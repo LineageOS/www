@@ -33,6 +33,24 @@
       "message": "virtio runs on QEMU/crosvm and other VM softwares that uses QEMU as backend (such as UTM app on iOS/macOS), vboxware runs on VirtualBox/VMware (it\u0027s not really usable and not documented yet)",
       "revId": "5b08525c0f09d9a0da1ffb6d289ab1751f95f9a3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b22dcbc9_e6f51c41",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-31T21:40:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e50bd4ad_691eac38",
+      "revId": "5b08525c0f09d9a0da1ffb6d289ab1751f95f9a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
