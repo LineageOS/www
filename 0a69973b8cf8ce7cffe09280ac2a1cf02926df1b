@@ -86,6 +86,24 @@
       "parentUuid": "07db78ce_b9398469",
       "revId": "0a69973b8cf8ce7cffe09280ac2a1cf02926df1b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2ae609e4_aa4ac024",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-11-02T10:02:35Z",
+      "side": 1,
+      "message": "last shipped head seems to be 4ea8673751143ea1e65502534ea4003dc396b052, so ./shipper.py 4ea8673751143ea1e65502534ea4003dc396b052 would generate up to date list.",
+      "parentUuid": "25e13776_794260aa",
+      "revId": "0a69973b8cf8ce7cffe09280ac2a1cf02926df1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
