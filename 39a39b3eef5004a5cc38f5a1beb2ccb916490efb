@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1ccd4b4_39fbc26a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-11-02T09:16:34Z",
+      "side": 1,
+      "message": "Maybe we can sneak that in.",
+      "revId": "39a39b3eef5004a5cc38f5a1beb2ccb916490efb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ea6914e6_e1fc47de",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-11-02T09:16:34Z",
+      "side": 1,
+      "message": "Going forward, this aligns well with the newly introduced concept of [minor SDK releases](https://android-developers.googleblog.com/2024/10/android-sdk-release-update.html). Now, you\u0027ll be able to distinguish the minor version of Android you\u0027re installing. Assuming the 25Q4 release is Android 16 QPR2, it should correspond to LineageOS 23_.2_.",
+      "revId": "39a39b3eef5004a5cc38f5a1beb2ccb916490efb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
