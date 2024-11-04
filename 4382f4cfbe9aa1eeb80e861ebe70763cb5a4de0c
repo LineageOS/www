@@ -36,6 +36,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2bfa893b_63f30d16",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-04T19:20:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5cb8c71a_1485a278",
+      "revId": "4382f4cfbe9aa1eeb80e861ebe70763cb5a4de0c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0954f014_d3fedce8",
