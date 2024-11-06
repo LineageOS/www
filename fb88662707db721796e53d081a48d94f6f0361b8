@@ -34,6 +34,24 @@
       "parentUuid": "63184311_1d5c9966",
       "revId": "fb88662707db721796e53d081a48d94f6f0361b8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6834406d_38c2ab96",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-11-06T09:12:29Z",
+      "side": 1,
+      "message": "https://android-developers.googleblog.com/2024/10/android-sdk-release-update.html\n\ngerrit rendered it as a link in gerrit UI ...",
+      "parentUuid": "56a97914_de01ca2f",
+      "revId": "fb88662707db721796e53d081a48d94f6f0361b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
