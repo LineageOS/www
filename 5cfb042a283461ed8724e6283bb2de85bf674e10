@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b6fa6eb7_b95c0ab9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-08T20:09:04Z",
+      "side": 1,
+      "message": "inserted a new line and removed it to trigger CI",
+      "revId": "5cfb042a283461ed8724e6283bb2de85bf674e10",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
