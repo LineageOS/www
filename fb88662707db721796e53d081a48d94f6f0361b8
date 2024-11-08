@@ -52,6 +52,24 @@
       "parentUuid": "56a97914_de01ca2f",
       "revId": "fb88662707db721796e53d081a48d94f6f0361b8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5de41971_737371df",
+        "filename": "_posts/blog/2024-11-30-Changelog-29.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-08T04:04:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6834406d_38c2ab96",
+      "revId": "fb88662707db721796e53d081a48d94f6f0361b8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
