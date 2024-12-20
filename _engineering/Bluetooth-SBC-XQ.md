@@ -7,7 +7,7 @@ excerpt: 'Deep dive into the "HD Audio: SBC" checkbox'
 author: ValdikSS
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_bluetooth_sbc_xq.jpg){: .blog_post_image }{: alt="On a maroon background, warm repeating line shapes emanate from the center toward the left and right, transforming from circles to rectangles as they near the image's edge. Large pink shapes, the Lineage logo, and the word Engineering sit on top."}
+![hero]({{site.baseurl}}/images/engineering/hero_bluetooth_sbc_xq.webp){: .blog_post_image }{: alt="On a maroon background, warm repeating line shapes emanate from the center toward the left and right, transforming from circles to rectangles as they near the image's edge. Large pink shapes, the Lineage logo, and the word Engineering sit on top."}
 
 LineageOS 15.1 and 16.0 bring a unique audio quality enhancement to the stock Bluetooth SBC audio codec. It introduces support for SBC Dual Channel mode with the eXtreme quality profile (SBC XQ), bumping this old codec's audio quality to levels on par with Qualcomm's proprietary codec - aptX HD.
 
@@ -33,11 +33,11 @@ Of said parameters, the bitpool is especially important as it has a direct influ
 
 The bitrate is also significantly affected by other parameters: the type of audio channel, the number of frequency bands and the number of audio blocks. You can increase the bitrate indirectly by negotiating non-standard profiles, without changing the bitpool. It is important to note that a higher bitrate does not always lead to better audio quality. For example, changing the number of blocks in a single audio frame from 16 to 4, when using Joint Stereo with a 53 bitpool, will increase bitrate from 328 kbps to 441 kbps, but will considerably decrease the algorithmic delay, which would in turn worsen the adaptive quantization process. This change won't bring better audio quality despite the increased bitrate.
 
-![SBC bitrate formula]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_0.png){: .blog_post_image_content }
+![SBC bitrate formula]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_0.webp){: .blog_post_image_content }
 
 Fixed bitpool and bitrate values originated from the stock recommended profile for high quality audio. That recommendation should not have been the reason to set a limit on these parameters, as was done.
 
-![SBC profiles]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_2.png){: .blog_post_image_content }
+![SBC profiles]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_2.webp){: .blog_post_image_content }
 
 The A2DP specification v1.2, which was active from 2007 to 2015, requires all decoders to properly handle bitrates of up to 512 kbps:
 
@@ -54,17 +54,17 @@ I personally feel that bitpool should be an internal variable. I assume that it 
 
 The Bluetooth time division technology is designed to efficiently transmit large fixed-size packets. Data transfer occurs in slots and the largest number of slots sent in one transmission is 5. There are also transfer modes which either use 1 or 3 slots, but never 2 or 4. You can transfer up to 679 bytes in 5 slots, at a connection speed of 2 Mbps, and up to 1021 bytes at a speed of 3 Mbps. When using 3 slots, the maximum amount of data is 367 and 552 bytes, respectively.
 
-![Bluetooth transmission. Full 5 slot transmission takes 3.75 ms. Each slot takes 0.625 ms.]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_3.png){: .blog_post_image_content }
+![Bluetooth transmission. Full 5 slot transmission takes 3.75 ms. Each slot takes 0.625 ms.]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_3.webp){: .blog_post_image_content }
 
 If we want to transfer less data than 679 or 1021 bytes but more than 367 or 552 bytes, the transfer will still take 5 slots, and the transmission will take the same amount of time, which would reduce the transmission efficiency.
 
-![Bluetooth transmission. 550 bytes of data still require full 5 slot transmission and 3.75 ms.]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_4.png){: .blog_post_image_content }
+![Bluetooth transmission. 550 bytes of data still require full 5 slot transmission and 3.75 ms.]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_4.webp){: .blog_post_image_content }
 
 44100 Hz audio encoded using SBC in Dual Channel mode with bitpool = 38, 16 blocks in a frame, 8 frequency bands, produces audio frame of 164 bytes, with 452 kb/s bitrate.
 
 The audio payload should be encapsulated into L2CAP and AVDTP transmission protocols, which deduct 16 bytes of overhead from the audio payload.
 
-![Frame length formula]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_1.png){: .blog_post_image_content }
+![Frame length formula]({{site.baseurl}}/images/engineering/content_bluetooth_sbc_xq_1.webp){: .blog_post_image_content }
 
 One 5-slot audio transmission can contain up to 4 audio frames:
 

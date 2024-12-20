@@ -7,7 +7,7 @@ excerpt: Covering Qualcomm bootloader’s up to the point of Android being loade
 author: Nolen Johnson (@npjohnson)
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_qualcomm_firmware.jpg){: .blog_post_image }{: alt="Recolored photo of a stone stairway heading down from a left-side door. A closer stairway leads up from the center to the right. Large purple shapes, the Lineage logo, and the word Engineering sit on top."}
+![hero]({{site.baseurl}}/images/engineering/hero_qualcomm_firmware.webp){: .blog_post_image }{: alt="Recolored photo of a stone stairway heading down from a left-side door. A closer stairway leads up from the center to the right. Large purple shapes, the Lineage logo, and the word Engineering sit on top."}
 
 The Qualcomm chain-of-trust is a complex, yet straightforward to understand set of processes. Many of you have likely heard the term “bootloader” but have no clue what it actually is, or does.
 
@@ -62,15 +62,15 @@ Diagrams to describe the maturity process of the chain of trust follow:
 
 ### Pre-2013 Era
 
-![2013-2014 Era diagram]({{site.baseurl}}/images/engineering/content_qualcomm_firmware_0.png){: .blog_post_image_content }
+![2013-2014 Era diagram]({{site.baseurl}}/images/engineering/content_qualcomm_firmware_0.webp){: .blog_post_image_content }
 
 ### 2013-2016 Era
 
-![2015-2017 Era diagram]({{site.baseurl}}/images/engineering/content_qualcomm_firmware_1.png){: .blog_post_image_content }
+![2015-2017 Era diagram]({{site.baseurl}}/images/engineering/content_qualcomm_firmware_1.webp){: .blog_post_image_content }
 
 ### Modern (2016-2018) Era
 
-![2018 Era diagram]({{site.baseurl}}/images/engineering/content_qualcomm_firmware_2.png){: .blog_post_image_content }
+![2018 Era diagram]({{site.baseurl}}/images/engineering/content_qualcomm_firmware_2.webp){: .blog_post_image_content }
 
 As you can see, the boot chain has evolved significantly. In 2015, the possible attack area was condensed, and the Secondary Bootloader (SBL) chain was merged into one unified SBL.
 As we move further down the line we see SBL entirely replaced with Qualcomm’s new proprietary solution, the eXtensible Bootloader (XBL), which mitigated many of the security
