@@ -16,6 +16,6 @@ We would never have enough words to express how much we appreciate this communit
 So instead, we've created an infographic, that we hope you all will enjoy.
 
 
-![infographic]({{site.baseurl}}/images/2017-12-24/lineageos-1st-birthday-infographic.png){: .blog_post_image }
+![infographic]({{site.baseurl}}/images/2017-12-24/lineageos-1st-birthday-infographic.webp){: .blog_post_image }
 
 #### Thank you

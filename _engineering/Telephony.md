@@ -7,13 +7,13 @@ excerpt: Understanding Android Telephony
 author: javelinanddart
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_telephony.jpg){: .blog_post_image }{: alt="Fuchsia lines and waves interweave on a purple background as they spill out from the middle. Large red shapes, the Lineage logo, and the word Engineering sit on top."}
+![hero]({{site.baseurl}}/images/engineering/hero_telephony.webp){: .blog_post_image }{: alt="Fuchsia lines and waves interweave on a purple background as they spill out from the middle. Large red shapes, the Lineage logo, and the word Engineering sit on top."}
 
 
 
 The Android Telephony stack is complicated and contains many parts, each of which can be more or less grouped into the categories pictured below.
 
-![telephony layers]({{site.baseurl}}/images/engineering/content_telephony_0.png){: .blog_post_image_content }
+![telephony layers]({{site.baseurl}}/images/engineering/content_telephony_0.webp){: .blog_post_image_content }
 
 Everything below the HIDL Radio Interface is generally proprietary, and may or may not work out of the box on LineageOS.
 This post will be primarily focused on how the HIDL Radio Wrapper (more commonly known as “libril”) communicates with the Telephony Frameworks. The communication of the HIDL wrapper to the HIDL interface will be covered in more depth in a future post.

@@ -7,7 +7,7 @@ excerpt: Understanding the different tools used during debugging
 author: Nicholas Lim (niclimcy) & Nolen Johnson (npjohnson)
 ---
 
-![hero]({{site.baseurl}}/images/engineering/hero_debugging.jpg){: .blog_post_image }{: alt="An ocean scene with floating holes of blank space that should be filled. Large light teal shapes, the Lineage logo, and the word Engineering sit on top."}
+![hero]({{site.baseurl}}/images/engineering/hero_debugging.webp){: .blog_post_image }{: alt="An ocean scene with floating holes of blank space that should be filled. Large light teal shapes, the Lineage logo, and the word Engineering sit on top."}
 
 ## Glossary
 * ADB: Android Debug Bridge.
@@ -35,7 +35,7 @@ author: Nicholas Lim (niclimcy) & Nolen Johnson (npjohnson)
 ## What is Debugging?
 To understand Android debugging, it is important to understand the different parts of the Android system. At a high level, the Android system is made up of three main components: apps, the platform, and the kernel.
 
-![Android Stack]({{site.baseurl}}/images/engineering/content_android_stack.png){: .blog_post_image_content }
+![Android Stack]({{site.baseurl}}/images/engineering/content_android_stack.webp){: .blog_post_image_content }
 
 ## User Space Debugging
 User space debugging allows us to find and fix app and platform issues. This process can be fairly straightforward on Android if we use the right tools.
@@ -273,7 +273,7 @@ If all else fails, you can use `panic()` in portions of the kernel you wish to d
 Here are some custom debugging tools developed by OEMs we found over the years that have proved helpful.
 
 ### EDL memorydump (qcom)
-![Qualcomm CrashDump]({{site.baseurl}}/images/engineering/content_qualcomm_crashdump.png){: .blog_post_image_content }
+![Qualcomm CrashDump]({{site.baseurl}}/images/engineering/content_qualcomm_crashdump.webp){: .blog_post_image_content }
 
 Some Qualcomm devices have CrashDump enabled, which allows you to use Qualcomm's firehose tool to get a memorydump. As the firehose tool is closed source, we recommend using a rewritten open source version of the tool by Bjoern Kerler, which can be found here at [bkerler/edl](https://github.com/bkerler/edl). You can retrieve a memory dump using `edl memorydump`.
 
