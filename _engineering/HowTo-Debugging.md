@@ -246,7 +246,6 @@ Next you have to extract a call trace from dmesg of a kernel panic you are tryin
 Finally, point `decode_stacktrace.sh` to the dmesg.txt file you have created as well as the kernel you have compiled:
 
 ```
-
 $ ./scripts/decode_stacktrace.sh /path/to/vmlinux /path/to/kernel-source-dir < dmesg.txt
 ```
 
