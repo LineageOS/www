@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d06d8cc2_0027cbf0",
+        "filename": "_posts/blog/2024-12-20-Changelog-29.md",
+        "patchSetId": 23
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2024-12-26T14:26:43Z",
+      "side": 1,
+      "message": "need to rephrase for 22.1",
+      "revId": "64126147b393725c439dcc0c64e6f86b13004580",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
