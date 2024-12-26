@@ -33,6 +33,24 @@
       "message": "I just noticed this is 5.6MiB, we should probably do something about it lol\nwebp is just 500k",
       "revId": "8622681240790d3da69445ed1aebff7c98033721",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "60389a10_23e0eabc",
+        "filename": "images/2024-12-20/twelve.png",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-12-26T14:19:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e47b434a_19b1e49a",
+      "revId": "8622681240790d3da69445ed1aebff7c98033721",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
