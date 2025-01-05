@@ -23,9 +23,8 @@
   color: white;
 }
 
-.bg-primary-lighter {
+.bg-primary-latest-news {
     background-color: #E0F6F7 !important;
-    color: black;
 }
 
 .bg-dark {
@@ -65,4 +64,11 @@
   white-space: nowrap;
   clip-path: inset(50%);
   border: 0;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .bg-primary-latest-news {
+    background-color: rgb(15, 57, 59) !important;
+  }
 }
