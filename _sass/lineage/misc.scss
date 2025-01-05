@@ -89,3 +89,12 @@ a.fg-primary-dark {
   padding-bottom: 2px;
   padding-right: 3px;
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    color-scheme: dark !important;
+    color: #e8e6e3 !important;
+    background-color: #181a1b !important
+  }
+}
