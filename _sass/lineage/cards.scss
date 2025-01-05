@@ -40,3 +40,14 @@
   }
 
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .card {
+    background-color: rgb(24, 26, 27);
+    box-shadow: rgba(0, 0, 0, 0.26) 0 2px 5px 0;
+    .card-title a {
+      color: rgb(185, 179, 170) !important;
+    }
+  }
+}
