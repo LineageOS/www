@@ -189,6 +189,14 @@
 
 @include media-breakpoint-down(md) {
   .nav-open .navbar-collapse {
-    box-shadow: 0 1px 8px rgba(0,0,0,.3);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .navbar {
+    background-color: #181a1b;
+    color: #b2aca2;
   }
 }
