@@ -50,3 +50,13 @@
     float: none
   }
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .footer {
+    background-color: rgb(34, 36, 38);
+  }
+  .footer-text {
+      color: rgb(171, 163, 152) !important;
+  }
+}
