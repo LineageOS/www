@@ -1,41 +1,35 @@
-$(window).on("scroll load resize", function(){
+let lastScrollY = 0;
+const navbar = document.querySelector('.navbar');
 
-  if($(window).scrollTop() > 0) {
-    $('.navbar').addClass("navbar-shadow");
-  }
-  else {
-    $('.navbar').removeClass("navbar-shadow");
+window.addEventListener('scroll', () => {
+  const currentScrollY = window.scrollY;
+
+  if (currentScrollY > lastScrollY) {
+    navbar.classList.add('scrollUp');
+  } else {
+    navbar.classList.remove('scrollUp');
   }
 
+  lastScrollY = currentScrollY;
 });
 
-$(document).ready(function () {
 
-  var links = $('.nav-link');
-  $.each(links, function (key, va) {
-    if (va.href == document.URL) {
-      $(this).parent().addClass('active');
-    }
-  });
-
-  var c, currentScrollTop = 0,
-  navbar = $('.navbar');
-
-  $(window).scroll(function () {
-    var a = $(window).scrollTop();
-    var b = navbar.height();
-
-    currentScrollTop = a;
-
-    if (c < currentScrollTop && a > b + b && !$("html").hasClass("nav-open")) {
-      navbar.addClass("scrollUp");
-    } else if (c > currentScrollTop && !(a <= b)) {
-      navbar.removeClass("scrollUp");
-    }
-    c = currentScrollTop;
-  });
-
+const togglerButton = document.querySelector('.navbar-toggler');
+togglerButton.addEventListener('click', () => {
+  navbar.classList.toggle('nav-open');
 });
+
+function toggleNavbarShadow() {
+  if (window.scrollY > 0) {
+    document.querySelector('.navbar').classList.add('navbar-shadow');
+  } else {
+    document.querySelector('.navbar').classList.remove('navbar-shadow');
+  }
+}
+
+window.addEventListener('scroll', toggleNavbarShadow);
+window.addEventListener('load', toggleNavbarShadow);
+window.addEventListener('resize', toggleNavbarShadow);
 
 $(document.links).filter(function() {
   return this.hostname != window.location.hostname;
@@ -46,35 +40,6 @@ $(document.links).filter(function() {
  * Material Kit - Copyright (c) 2018 Creative Tim
  * Licensed under MIT (https://github.com/creativetimofficial/material-kit/blob/master/LICENSE.md)
  */
-
-var navbar_menu_visible= 0;
-
-$(document).on('click', '.navbar-toggler', function() {
-  $toggle = $(this);
-  if (navbar_menu_visible == 1) {
-    $('html').removeClass('nav-open');
-    navbar_menu_visible = 0;
-    $('#bodyClick').remove();
-    setTimeout(function() {
-      $toggle.removeClass('toggled');
-    }, 550);
-  } else {
-    setTimeout(function() {
-      $toggle.addClass('toggled');
-    }, 580);
-    div = '<div id="bodyClick"></div>';
-    $(div).appendTo("body").click(function() {
-      $('html').removeClass('nav-open');
-      navbar_menu_visible = 0;
-      $('#bodyClick').remove();
-      setTimeout(function() {
-        $toggle.removeClass('toggled');
-      }, 550);
-    });
-    $('html').addClass('nav-open');
-    navbar_menu_visible = 1;
-  }
-});
 
 /*!
  * Ripple.js Copyright (c) 2014 Jacob Kelley
