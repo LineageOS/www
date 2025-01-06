@@ -1,79 +1,51 @@
-$(window).on("scroll load resize", function(){
+const navbar = document.querySelector('.navbar');
 
-  if($(window).scrollTop() > 0) {
-    $('.navbar').addClass("navbar-shadow");
-  }
-  else {
-    $('.navbar').removeClass("navbar-shadow");
+window.addEventListener('scroll', () => {
+  let lastScrollY = 0;
+  const currentScrollY = window.scrollY;
+
+  if (currentScrollY > lastScrollY) {
+    navbar.classList.add('scrollUp');
+  } else {
+    navbar.classList.remove('scrollUp');
   }
 
+  lastScrollY = currentScrollY;
 });
 
-$(document).ready(function () {
+function toggleNavbarShadow() {
+  if (window.scrollY > 0) {
+    navbar.classList.add('navbar-shadow');
+  } else {
+    navbar.classList.remove('navbar-shadow');
+  }
+}
 
-  var links = $('.nav-link');
-  $.each(links, function (key, va) {
-    if (va.href == document.URL) {
-      $(this).parent().addClass('active');
-    }
-  });
+window.addEventListener('scroll', toggleNavbarShadow);
+window.addEventListener('load', toggleNavbarShadow);
+window.addEventListener('resize', toggleNavbarShadow);
 
-  var c, currentScrollTop = 0,
-  navbar = $('.navbar');
-
-  $(window).scroll(function () {
-    var a = $(window).scrollTop();
-    var b = navbar.height();
-
-    currentScrollTop = a;
-
-    if (c < currentScrollTop && a > b + b && !$("html").hasClass("nav-open")) {
-      navbar.addClass("scrollUp");
-    } else if (c > currentScrollTop && !(a <= b)) {
-      navbar.removeClass("scrollUp");
-    }
-    c = currentScrollTop;
-  });
-
+document.querySelectorAll('.nav-link').forEach((link) => {
+  if (link.href === document.URL) {
+    link.parentElement.classList.add('active');
+  }
 });
 
-$(document.links).filter(function() {
-  return this.hostname != window.location.hostname;
-}).attr('target', '_blank');
+document.querySelectorAll('a').forEach(function(link) {
+    if (link.hostname !== window.location.hostname) {
+        link.setAttribute('target', '_blank');
+    }
+});
 
 
 /*!
  * Material Kit - Copyright (c) 2018 Creative Tim
  * Licensed under MIT (https://github.com/creativetimofficial/material-kit/blob/master/LICENSE.md)
  */
-
-var navbar_menu_visible= 0;
-
-$(document).on('click', '.navbar-toggler', function() {
-  $toggle = $(this);
-  if (navbar_menu_visible == 1) {
-    $('html').removeClass('nav-open');
-    navbar_menu_visible = 0;
-    $('#bodyClick').remove();
-    setTimeout(function() {
-      $toggle.removeClass('toggled');
-    }, 550);
-  } else {
-    setTimeout(function() {
-      $toggle.addClass('toggled');
-    }, 580);
-    div = '<div id="bodyClick"></div>';
-    $(div).appendTo("body").click(function() {
-      $('html').removeClass('nav-open');
-      navbar_menu_visible = 0;
-      $('#bodyClick').remove();
-      setTimeout(function() {
-        $toggle.removeClass('toggled');
-      }, 550);
-    });
-    $('html').addClass('nav-open');
-    navbar_menu_visible = 1;
-  }
+const togglerButton = document.querySelector('.navbar-toggler');
+togglerButton.addEventListener('click', () => {
+  navbar.classList.toggle('nav-open');
+  togglerButton.classList.toggle('toggled');
 });
 
 /*!
@@ -81,9 +53,9 @@ $(document).on('click', '.navbar-toggler', function() {
  * Licensed under MIT (https://github.com/jakiestfu/Ripple.js/blob/develop/LICENSE)
  */
 
-;(function($, document, Math){
-    $.ripple = function(selector, options) {
-        var self = this;
+(function(document, Math) {
+    const Ripple = function(selector, options) {
+        const self = this;
         self.selector = selector;
         self.defaults = {
             on: 'mousedown',
@@ -96,58 +68,71 @@ $(document).on('click', '.navbar-toggler', function() {
             },
             easing: 'linear'
         };
-        self.defaults = $.extend({}, self.defaults, options);
-        var Trigger = function(e) {
-            var $this = $(this);
-            var $ripple;
-            var settings;
-            $this.addClass('has-ripple');
-            settings = $.extend({}, self.defaults, $this.data());
-            if ( settings.multi || (!settings.multi && $this.find(".ripple").length === 0) ) {
-                $ripple = $("<span></span>").addClass("ripple");
-                $ripple.appendTo($this);
-                if (!$ripple.height() && !$ripple.width()) {
-                    var size = Math.max($this.outerWidth(), $this.outerHeight());
-                    $ripple.css({
-                        height: size,
-                        width: size
-                    });
+        self.defaults = mergeOptions(self.defaults, options);
+        function mergeOptions(defaults, options) {
+            const result = {};
+            for (let key in defaults) {
+                result[key] = defaults[key];
+            }
+            for (let key in options) {
+                result[key] = options[key];
+            }
+            return result;
+        }
+        function Trigger(e) {
+            const element = this;
+            let ripple;
+            let settings;
+            element.classList.add('has-ripple');
+            settings = mergeOptions(self.defaults, element.dataset);
+            if (settings.multi || (!settings.multi && element.querySelectorAll(".ripple").length === 0)) {
+                ripple = document.createElement("span");
+                ripple.classList.add("ripple");
+                element.appendChild(ripple);
+                if (!ripple.offsetHeight && !ripple.offsetWidth) {
+                    const size = Math.max(element.offsetWidth, element.offsetHeight);
+                    ripple.style.height = size + 'px';
+                    ripple.style.width = size + 'px';
                 }
-                if(settings.rate && typeof settings.rate == "function") {
-                    var rate = Math.round( $ripple.width() / settings.duration );
-                    var filteredRate = settings.rate(rate);
-                    var newDuration = ( $ripple.width() / filteredRate);
-                    if(settings.duration.toFixed(2) !== newDuration.toFixed(2)) {
+                if (settings.rate && typeof settings.rate === "function") {
+                    const rate = Math.round(ripple.offsetWidth / settings.duration);
+                    const filteredRate = settings.rate(rate);
+                    const newDuration = ripple.offsetWidth / filteredRate;
+                    if (settings.duration.toFixed(2) !== newDuration.toFixed(2)) {
                         settings.duration = newDuration;
                     }
                 }
-                var color = (settings.color == "auto") ? $this.css('color') : settings.color;
-                var css = {
-                    animationDuration: (settings.duration).toString() + 's',
+                const color = (settings.color === "auto") ? getComputedStyle(element).color : settings.color;
+                const css = {
+                    animationDuration: settings.duration + 's',
                     animationTimingFunction: settings.easing,
                     background: color,
                     opacity: settings.opacity
                 };
-                $ripple.css(css);
+                for (let prop in css) {
+                    ripple.style[prop] = css[prop];
+                }
             }
-            if(!settings.multi) {
-                $ripple = $this.find(".ripple");
+            if (!settings.multi) {
+                ripple = element.querySelector(".ripple");
             }
-            $ripple.removeClass("ripple-animate");
-            var x = e.pageX - $this.offset().left - $ripple.width() / 2;
-            var y = e.pageY - $this.offset().top - $ripple.height() / 2;
-            if(settings.multi) {
-                $ripple.one('animationend webkitAnimationEnd oanimationend MSAnimationEnd', function() {
-                    $(this).remove();
+            ripple.classList.remove("ripple-animate");
+            const rect = element.getBoundingClientRect();
+            const x = e.pageX - rect.left - ripple.offsetWidth / 2;
+            const y = e.pageY - rect.top - ripple.offsetHeight / 2;
+            if (settings.multi) {
+                ripple.addEventListener('animationend', function() {
+                    ripple.remove();
                 });
             }
-            $ripple.css({
-                top: y + 'px',
-                left: x + 'px'
-            }).addClass("ripple-animate");
-        };
-        $(document).on(self.defaults.on, self.selector, Trigger);
+            ripple.style.top = y + 'px';
+            ripple.style.left = x + 'px';
+            ripple.classList.add("ripple-animate");
+        }
+        const elements = document.querySelectorAll(self.selector);
+        elements.forEach(function(element) {
+            element.addEventListener(self.defaults.on, Trigger);
+        });
     };
-})(jQuery, document, Math);
-
-$.ripple(".btn, .nav-item");
+    new Ripple(".btn, .nav-item");
+})(document, Math);
