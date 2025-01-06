@@ -88,27 +88,21 @@
       </div>
     </footer>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
     <script src="{{ site.baseurl }}/assets/js/material-kit.js"></script>
     {% if page.scrolljs %}
     <script>
-      var rotation = 0;
-      var scrollLoc = $(document).scrollTop();
+      let rotation = 0;
+      let scrollLoc = window.scrollY;
 
-      $(window).on("scroll", function() {
-          var newLoc = $(document).scrollTop();
-          var diff = (scrollLoc - newLoc) / 3;
-          rotation += diff, scrollLoc = newLoc;
-          var rotationStr = "rotate(" + rotation + "deg)";
+      window.addEventListener('scroll', function() {
+        let newLoc = window.scrollY;
+        let diff = (scrollLoc - newLoc) / 3;
+        rotation += diff;
+        scrollLoc = newLoc;
 
-          $("#rotate-on-scroll").css({
-              "-webkit-transform": rotationStr,
-              "-moz-transform": rotationStr,
-              "transform": rotationStr
-          });
+        document.getElementById("rotate-on-scroll").style.transform = `rotate(${rotation}deg)`;
       });
     </script>
     {% endif %}
-
   </body>
 </html>
