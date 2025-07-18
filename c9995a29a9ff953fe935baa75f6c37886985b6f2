@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3a4acbe_0dcc57dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33800
+      },
+      "writtenOn": "2025-07-18T20:53:30Z",
+      "side": 1,
+      "message": "Looks fine and doesn\u0027t force white background in icon.",
+      "revId": "c9995a29a9ff953fe935baa75f6c37886985b6f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
