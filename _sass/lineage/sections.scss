@@ -44,13 +44,16 @@ section.download .logo svg {
   margin: 0 3rem;
 }
 
+section.longevity {
+  clip-path: border-box;
+}
+
 img#rotate-on-scroll {
   position: absolute;
   right: 0;
   left: 0;
   bottom: -230px;
   overflow: hidden;
-  z-index: -10;
   max-height: none;
 
   @media(min-width:1200px) {
