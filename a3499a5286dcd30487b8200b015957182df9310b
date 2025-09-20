@@ -34,6 +34,108 @@
       "parentUuid": "754e352c_4411fc33",
       "revId": "a3499a5286dcd30487b8200b015957182df9310b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "76c6c23c_8ca45122",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:11:47Z",
+      "side": 1,
+      "message": "Doc wide: Needs line breaks like we usually do. I just wrote the whole thing in Typora.",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70cbfef7_e39fd43d",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:11:47Z",
+      "side": 1,
+      "message": "this whole section is okay, but if anyone has a better proposal to say what we need to, lmk",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dfcfd7b1_aeee3bb9",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:11:47Z",
+      "side": 1,
+      "message": "doom and gloom but I did my best here.",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "33daf4d4_1ff899dd",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:11:47Z",
+      "side": 1,
+      "message": "extra doom. But worth calling out, as people buy pixels for this reason.",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6f9359b8_d2617e60",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:11:47Z",
+      "side": 1,
+      "message": "pls for the love of god add some stuff to this - I just can\u0027t think of any",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0f8e3dd1_50566d2f",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:11:47Z",
+      "side": 1,
+      "message": "kinda lame maybe? But a huge effort, so worth calling out? Also tells people not to use it in submissions?",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
