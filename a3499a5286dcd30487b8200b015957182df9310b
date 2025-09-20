@@ -136,6 +136,24 @@
       "message": "kinda lame maybe? But a huge effort, so worth calling out? Also tells people not to use it in submissions?",
       "revId": "a3499a5286dcd30487b8200b015957182df9310b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7ff42034_1816c7df",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2025-09-20T08:09:44Z",
+      "side": 1,
+      "message": "It\u0027s an important step, worth mentioning",
+      "parentUuid": "0f8e3dd1_50566d2f",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
