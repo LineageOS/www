@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "754e352c_4411fc33",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:07:25Z",
+      "side": 1,
+      "message": "LineageOS 23.0 launch proposed post.\n\n@cosmin @cafe.babe - please object if you don\u0027t want a callout/thank you. Otherwise I\u0027ll assume you don\u0027t mind!\n\n@Head Developers + Jav + Mishall - feedback please!\n\nSpellcheck is done, and I did my best here, but the good news is a bit limited in conmparison to the new stuff - so PLEASE populate the bulleted list if you have any ideas!\n\nOnly made it public briefly to pickup build kite as a reviewer.",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
