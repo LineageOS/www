@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f530ec89_4d25f376",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:15:18Z",
+      "side": 1,
+      "message": "GSIs are broken. I _really_ don\u0027t think we should ship with this broken. Luca and I tried to fix it but got stuck.\n\nIf someone beats us to it - pls take a look - google migrated them to soong only, attempt to convert to soong only got stuck, and attempts to revert to the old way failed.",
+      "revId": "834ae69ceb9f655976d8eb87f371594b16c81afd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70284a56_9b253d07",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-20T07:15:18Z",
+      "side": 1,
+      "message": "need to run the script once a Hudson change it up. Just a note for launch.",
+      "revId": "834ae69ceb9f655976d8eb87f371594b16c81afd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
