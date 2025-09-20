@@ -1,6 +1,75 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "b82e1368_abac802a",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "My idea for this was Pushing through! as there were a lot of challenges.",
+      "range": {
+        "startLine": 5,
+        "startChar": 9,
+        "endLine": 5,
+        "endChar": 20
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "479564a7_c12c6212",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "Maybe \"And to answer...\" or \"And in answer...\"",
+      "range": {
+        "startLine": 30,
+        "startChar": 444,
+        "endLine": 30,
+        "endChar": 454
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0c0612c0_3f226ed3",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "```suggestion\nIt means we adapt. Instead of waiting indefinitely for QPR1’s source, we’re shipping 23.0 now on \"QPR0\", with the publicly available ASB patches applied, and we’ll only attest to a security patch level once we have access to all of its fixes. When QPR1 (and future QPRs) eventually land in AOSP, we’ll merge or rebase as appropriate.\n```",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 46,
+        "endChar": 330
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "58aa5217_5a3c109c",
@@ -66,6 +135,46 @@
       "writtenOn": "2025-09-20T09:11:33Z",
       "side": 1,
       "message": "redundant empty line",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ebbd07bd_032ac8a9",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "Extra space",
+      "range": {
+        "startLine": 92,
+        "startChar": 91,
+        "endLine": 92,
+        "endChar": 96
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2a624bed_5e9fdc6c",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "Extra Newline?",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -140,6 +249,75 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "07444e2f_48e6f5b9",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "This whole sentence isn\u0027t very clear, \"that device\"?",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 110,
+        "endChar": 144
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "abb4326a_82f73e38",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "Don\u0027t have to do this, I just found it easier to read.\n\n```suggestion\nLineageOS 23.0 will launch building for a decent selection of devices, with additional devices to come as they meet the requirements specified by the\n[Charter](https://github.com/LineageOS/charter/blob/main/device-support-requirements.md) and are made ready for builds by their maintainer.\n```",
+      "range": {
+        "startLine": 149,
+        "startChar": 0,
+        "endLine": 150,
+        "endChar": 140
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "47747ee7_a3398984",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "Maybe add links here:\n\n```suggestion\nDon\u0027t have the knowledge to maintain a device, but want to contribute to the platform? We have lots of other things you can contribute to.\nFor instance, our apps suite is always looking for new people to help [improve them](https://wiki.lineageos.org/how-to/contributing-apps/), or you can [contribute to the wiki](https://wiki.lineageos.org/contributing_wiki) by adding\nmore useful information \u0026 documentation. [Gerrit](https://wiki.lineageos.org/usinggerrit-howto.html) is always open for\n```",
+      "range": {
+        "startLine": 199,
+        "startChar": 0,
+        "endLine": 201,
+        "endChar": 40
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "eea5274c_000b67e3",
         "filename": "_posts/blog/2025-10-05-Changelog-30.md",
         "patchSetId": 4
@@ -151,6 +329,24 @@
       "writtenOn": "2025-09-20T09:11:33Z",
       "side": 1,
       "message": "what about 16?",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "80917f36_45a17c8c",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-20T21:25:07Z",
+      "side": 1,
+      "message": "```suggestion\nPlease note that Android 12 (and by proxy all later Android versions) diverged GSI and Emulator targets. Emulator targets reside in `lineage_sdk_$arch`, while GSI targets reside in `lineage_gsi_$arch`.\n```",
+      "parentUuid": "eea5274c_000b67e3",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
