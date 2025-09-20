@@ -1,0 +1,174 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58aa5217_5a3c109c",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "https://discord.com/channels/628008280605589549/1382103683743088782/1418878569064697978",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7f744fdf_a477df11",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "there\u0027s no changes compared to 22 changelog in this regard?",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "74afa58a_f15d36c3",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "redundant empty line",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bb9b44af_640c85f0",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "\"Extended QEMU based virtual machine support\"\n\nis better I think?",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2758ba86_3c6aea9d",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "same here, libvirt is a frontend that utilizes QEMU backend. btw UTM is a frontend of QEMU too",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6eeb42c6_17edf8aa",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "I\u0027d prefer making it like \"you can run it on linux pc with libvirt, or on mac with UTM\"",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2ba50f2f_1c55fdf6",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "```\nhopefullly\n        ^\n```",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "eea5274c_000b67e3",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "what about 16?",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6f9cb8a6_cf758486",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "`virtIO (QEMU/crosvm/UTM, etc.)`\n-\u003e\n`QEMU-based virtual machine softwares (libvirt, UTM, etc)`\nmaybe?\n\n1. the correct spelling is \"VirtIO\"\n2. A-Z ordering\n3. support for crosvm is actually pretty broken right now (due to lack of UEFI bootloader) and I\u0027d prefer silently removing it...\n4. libvirt is missing",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f1a8c7cb_b772629f",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-20T09:11:33Z",
+      "side": 1,
+      "message": "mention about cuttlefish too? that was added in 22.2",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
