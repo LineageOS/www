@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "3195143a_975348fb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T18:10:45Z",
+      "side": 1,
+      "message": "leaving this as an open thread",
+      "parentUuid": "288e9d7c_1341f532",
+      "revId": "834ae69ceb9f655976d8eb87f371594b16c81afd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "f530ec89_4d25f376",
         "filename": "_posts/blog/2025-10-05-Changelog-30.md",
         "patchSetId": 3
