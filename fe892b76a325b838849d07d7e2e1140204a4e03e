@@ -72,6 +72,30 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "89923536_8df1f5f6",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T01:52:12Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "0c0612c0_3f226ed3",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 46,
+        "endChar": 330
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "58aa5217_5a3c109c",
         "filename": "_posts/blog/2025-10-05-Changelog-30.md",
         "patchSetId": 4
@@ -293,6 +317,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b51e9adf_dc59164b",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T01:52:12Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "abb4326a_82f73e38",
+      "range": {
+        "startLine": 149,
+        "startChar": 0,
+        "endLine": 150,
+        "endChar": 140
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "47747ee7_a3398984",
@@ -306,6 +354,30 @@
       "writtenOn": "2025-09-20T21:25:07Z",
       "side": 1,
       "message": "Maybe add links here:\n\n```suggestion\nDon\u0027t have the knowledge to maintain a device, but want to contribute to the platform? We have lots of other things you can contribute to.\nFor instance, our apps suite is always looking for new people to help [improve them](https://wiki.lineageos.org/how-to/contributing-apps/), or you can [contribute to the wiki](https://wiki.lineageos.org/contributing_wiki) by adding\nmore useful information \u0026 documentation. [Gerrit](https://wiki.lineageos.org/usinggerrit-howto.html) is always open for\n```",
+      "range": {
+        "startLine": 199,
+        "startChar": 0,
+        "endLine": 201,
+        "endChar": 40
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6267226_78307be5",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T01:52:12Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "47747ee7_a3398984",
       "range": {
         "startLine": 199,
         "startChar": 0,
@@ -347,6 +419,24 @@
       "side": 1,
       "message": "```suggestion\nPlease note that Android 12 (and by proxy all later Android versions) diverged GSI and Emulator targets. Emulator targets reside in `lineage_sdk_$arch`, while GSI targets reside in `lineage_gsi_$arch`.\n```",
       "parentUuid": "eea5274c_000b67e3",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "483625d8_e58dda98",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T01:52:12Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "80917f36_45a17c8c",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
