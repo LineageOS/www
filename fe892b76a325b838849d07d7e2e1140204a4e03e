@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e42806a_dce8aafb",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "I think that that\u0027s good but I think we have enough doom and gloom.",
+      "parentUuid": "b82e1368_abac802a",
+      "range": {
+        "startLine": 5,
+        "startChar": 9,
+        "endLine": 5,
+        "endChar": 20
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "479564a7_c12c6212",
@@ -37,6 +61,30 @@
       "writtenOn": "2025-09-20T21:25:07Z",
       "side": 1,
       "message": "Maybe \"And to answer...\" or \"And in answer...\"",
+      "range": {
+        "startLine": 30,
+        "startChar": 444,
+        "endLine": 30,
+        "endChar": 454
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe5af366_44d8f7c6",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "479564a7_c12c6212",
       "range": {
         "startLine": 30,
         "startChar": 444,
@@ -146,6 +194,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f528514_142b0152",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d478e4fb_341d7ac6",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "74afa58a_f15d36c3",
@@ -159,6 +225,24 @@
       "writtenOn": "2025-09-20T09:11:33Z",
       "side": 1,
       "message": "redundant empty line",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5622d32a_c757d770",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "74afa58a_f15d36c3",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -186,6 +270,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d48874f1_a31137ba",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ebbd07bd_032ac8a9",
+      "range": {
+        "startLine": 92,
+        "startChar": 91,
+        "endLine": 92,
+        "endChar": 96
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2a624bed_5e9fdc6c",
@@ -199,6 +307,24 @@
       "writtenOn": "2025-09-20T21:25:07Z",
       "side": 1,
       "message": "Extra Newline?",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bc40019_1456e7d0",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2a624bed_5e9fdc6c",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -220,6 +346,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "8d9a7fd5_9bf7c4df",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bb9b44af_640c85f0",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2758ba86_3c6aea9d",
@@ -237,6 +381,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d4f39597_aa18f4a2",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2758ba86_3c6aea9d",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6eeb42c6_17edf8aa",
@@ -250,6 +412,24 @@
       "writtenOn": "2025-09-20T09:11:33Z",
       "side": 1,
       "message": "I\u0027d prefer making it like \"you can run it on linux pc with libvirt, or on mac with UTM\"",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8323575f_8a36e86d",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6eeb42c6_17edf8aa",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -290,6 +470,48 @@
         "endLine": 110,
         "endChar": 144
       },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1becc4e1_961816ff",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "07444e2f_48e6f5b9",
+      "range": {
+        "startLine": 110,
+        "startChar": 0,
+        "endLine": 110,
+        "endChar": 144
+      },
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75b7418c_dfc9cd97",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2ba50f2f_1c55fdf6",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -458,6 +680,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3c5347a3_8ec78de2",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6f9cb8a6_cf758486",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f1a8c7cb_b772629f",
@@ -471,6 +711,24 @@
       "writtenOn": "2025-09-20T09:11:33Z",
       "side": 1,
       "message": "mention about cuttlefish too? that was added in 22.2",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fcb893e9_ddace84e",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-21T02:08:36Z",
+      "side": 1,
+      "message": "will need some details on that to add... let me know",
+      "parentUuid": "f1a8c7cb_b772629f",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
