@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "437db770_929dfc1f",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "```\nand yes you read that right, June!\n```\nWhat does this mean?",
+      "range": {
+        "startLine": 17,
+        "startChar": 101,
+        "endLine": 17,
+        "endChar": 135
+      },
+      "revId": "ee0f8103b5c8ae72cc6ab3938438d6f3dd35b14d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9e703e0a_775864fc",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "\"original release\", not sure what that means? Maybe first release?",
+      "range": {
+        "startLine": 17,
+        "startChar": 149,
+        "endLine": 17,
+        "endChar": 157
+      },
+      "revId": "ee0f8103b5c8ae72cc6ab3938438d6f3dd35b14d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "920500a8_c6f96487",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "```suggestion\n- **ASB (Android Security Bulletin)** – Google’s monthly roundup of newly fixed security vulnerabilities across the Android ecosystem. Distributed as a list of patches and security branch updates for older but still supported Android versions, with the current version tagged monthly. These updates let projects like ours and OEMs stay aligned with Google’s security baseline.\n```",
+      "range": {
+        "startLine": 25,
+        "startChar": 172,
+        "endLine": 25,
+        "endChar": 181
+      },
+      "revId": "ee0f8103b5c8ae72cc6ab3938438d6f3dd35b14d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a44157fe_14cb4d3d",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "```suggestion\nYou’ll notice we are choosing to release LineageOS 23.0 — not 23.1. That’s because it’s based on Android 16’s initial release (what we’ll call QPR0), even though QPR1 has already rolled out to Pixels. The catch? Google never pushed QPR1’s source to AOSP. They’ve said it’ll come “in the coming weeks,” ([source]((https://www.androidauthority.com/android-16-qpr1-source-code-delay-3596650/))) but right now only contracted partners have access. And to answer the immediate question, the likelihood that any custom ROM will ever be a contracted Google partner is near 0.\n```",
+      "range": {
+        "startLine": 30,
+        "startChar": 444,
+        "endLine": 30,
+        "endChar": 563
+      },
+      "revId": "ee0f8103b5c8ae72cc6ab3938438d6f3dd35b14d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9265b75f_33dcd92a",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "```suggestion\nOn top of that, Google’s handling of ASBs has shifted. July was empty for the first time since the program began, August had a single patch, and September omitted patches for several listed vulnerabilities — with fixes shared privately to partners under embargo. The result is that AOSP security updates are no longer released in full on a monthly basis. Instead, only high and critical severity CVEs are published in the monthly ASBs, and even then, the underlying patches are often not made public immediately.\n\nOn a quarterly cadence, Google now issues larger security bulletins that include patches for vulnerabilities originally discovered in prior months. For the latest Android version, these quarterly bulletins coincide with QPRs (Quarterly Platform Releases), which bundles those security fixes together with feature updates, but also often are not pushed to AOSP at the time of release.\n```",
+      "range": {
+        "startLine": 32,
+        "startChar": 114,
+        "endLine": 32,
+        "endChar": 121
+      },
+      "revId": "ee0f8103b5c8ae72cc6ab3938438d6f3dd35b14d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

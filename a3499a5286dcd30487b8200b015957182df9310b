@@ -123,6 +123,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "dd93bf65_71ff3fc2",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "Maybe add:\n- Improved charging control and fast charge (v2 of those features)\n- Ringtones and alarms from plasma mobile.\n- 0xCAFEBABE\u0027s build target for converting from mk to bp (In the section mk conversion)",
+      "parentUuid": "6f9359b8_d2617e60",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "0f8e3dd1_50566d2f",
         "filename": "_posts/blog/2025-10-05-Changelog-30.md",
         "patchSetId": 2

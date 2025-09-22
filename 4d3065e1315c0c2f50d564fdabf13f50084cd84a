@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "48572a29_37e946dd",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "```suggestion\n* LineageOS is now nearly `Android.mk` free! Google [announced their move](https://source.android.com/docs/setup/build/make-to-soong) from `make` to `soong` many years ago, pushing developers to migrate from Android.mk to Android.bp, and has started blocking Android.mk in many locations of the source tree.\n```",
+      "range": {
+        "startLine": 78,
+        "startChar": 45,
+        "endLine": 78,
+        "endChar": 246
+      },
+      "revId": "4d3065e1315c0c2f50d564fdabf13f50084cd84a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e61cc23c_60d22a0a",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "\"at the wiki\" instead?",
+      "range": {
+        "startLine": 97,
+        "startChar": 27,
+        "endLine": 97,
+        "endChar": 29
+      },
+      "revId": "4d3065e1315c0c2f50d564fdabf13f50084cd84a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7deed6ce_9a06d0d2",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-22T01:08:34Z",
+      "side": 1,
+      "message": "```suggestion\nWith 23.0, developer 0xCAFEBABE has spearheaded an effort to extend compatibility for devices capable of booting the mainline Linux kernel, and we’ve made it easier for maintainers to bring their devices closer to upstream with inheritable common trees. The end result? For now, nothing, but in the future, we hopefully will be able to boot Android on _almost any_ device that is supported by the mainline Linux kernel.\n```",
+      "range": {
+        "startLine": 105,
+        "startChar": 307,
+        "endLine": 105,
+        "endChar": 335
+      },
+      "revId": "4d3065e1315c0c2f50d564fdabf13f50084cd84a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
