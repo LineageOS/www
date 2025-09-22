@@ -139,6 +139,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "47111c7f_fb0c1299",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:24:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dd93bf65_71ff3fc2",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0f8e3dd1_50566d2f",

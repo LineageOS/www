@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e6f0263_52356758",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:24:47Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "48572a29_37e946dd",
+      "range": {
+        "startLine": 78,
+        "startChar": 45,
+        "endLine": 78,
+        "endChar": 246
+      },
+      "revId": "4d3065e1315c0c2f50d564fdabf13f50084cd84a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e61cc23c_60d22a0a",
@@ -47,6 +71,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3dc72d04_13ced65c",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:24:47Z",
+      "side": 1,
+      "message": "we say \"on\" usually. \"look on this page\", \"look at this $thing\" - idk, I think it\u0027s fine as is.",
+      "parentUuid": "e61cc23c_60d22a0a",
+      "range": {
+        "startLine": 97,
+        "startChar": 27,
+        "endLine": 97,
+        "endChar": 29
+      },
+      "revId": "4d3065e1315c0c2f50d564fdabf13f50084cd84a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7deed6ce_9a06d0d2",
@@ -60,6 +108,30 @@
       "writtenOn": "2025-09-22T01:08:34Z",
       "side": 1,
       "message": "```suggestion\nWith 23.0, developer 0xCAFEBABE has spearheaded an effort to extend compatibility for devices capable of booting the mainline Linux kernel, and we’ve made it easier for maintainers to bring their devices closer to upstream with inheritable common trees. The end result? For now, nothing, but in the future, we hopefully will be able to boot Android on _almost any_ device that is supported by the mainline Linux kernel.\n```",
+      "range": {
+        "startLine": 105,
+        "startChar": 307,
+        "endLine": 105,
+        "endChar": 335
+      },
+      "revId": "4d3065e1315c0c2f50d564fdabf13f50084cd84a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ae4a7ed7_4d57c8c6",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:24:47Z",
+      "side": 1,
+      "message": "Done but slightly diff",
+      "parentUuid": "7deed6ce_9a06d0d2",
       "range": {
         "startLine": 105,
         "startChar": 307,
