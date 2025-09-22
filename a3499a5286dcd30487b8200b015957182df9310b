@@ -70,6 +70,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0281cc7_bfae93ec",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:27:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "70cbfef7_e39fd43d",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dfcfd7b1_aeee3bb9",
@@ -87,6 +105,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf9ffbaa_ef06630c",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:27:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dfcfd7b1_aeee3bb9",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "33daf4d4_1ff899dd",
@@ -100,6 +136,24 @@
       "writtenOn": "2025-09-20T07:11:47Z",
       "side": 1,
       "message": "extra doom. But worth calling out, as people buy pixels for this reason.",
+      "revId": "a3499a5286dcd30487b8200b015957182df9310b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ae00990f_17e60670",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-22T04:27:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "33daf4d4_1ff899dd",
       "revId": "a3499a5286dcd30487b8200b015957182df9310b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
