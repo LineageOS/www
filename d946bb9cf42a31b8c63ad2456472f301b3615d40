@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b09d7cde_0218c492",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 17
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-09-22T12:56:44Z",
+      "side": 1,
+      "message": "note to self: `./shipper/shipper.py ef402a0c1c9ecec9a64ddf430a33499c09ea277d`",
+      "revId": "d946bb9cf42a31b8c63ad2456472f301b3615d40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
