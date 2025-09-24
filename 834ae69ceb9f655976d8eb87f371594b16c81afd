@@ -70,6 +70,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bffd52f_d8f0ce29",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-24T16:38:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f530ec89_4d25f376",
+      "revId": "834ae69ceb9f655976d8eb87f371594b16c81afd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "70284a56_9b253d07",
