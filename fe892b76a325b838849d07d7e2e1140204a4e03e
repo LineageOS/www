@@ -731,6 +731,24 @@
       "parentUuid": "f1a8c7cb_b772629f",
       "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0adefef_bcc1ded4",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-24T17:10:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fcb893e9_ddace84e",
+      "revId": "fe892b76a325b838849d07d7e2e1140204a4e03e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
