@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3449e64d_52474c17",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 22
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2025-09-27T05:51:20Z",
+      "side": 1,
+      "message": "```suggestion\nbuild configurations, which are similar to the  `emulator` family of targets, but has extra\nemulated periphials, so as to act more like a real device! You can view a list of all the differences\n```",
+      "range": {
+        "startLine": 226,
+        "startChar": 6,
+        "endLine": 227,
+        "endChar": 101
+      },
+      "revId": "e496788f835c9a825adb2998ca2928d882c8cf47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
