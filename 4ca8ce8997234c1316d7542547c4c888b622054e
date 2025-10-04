@@ -16,6 +16,24 @@
       "message": "Should we get this going? In my oppinion we don\u0027t need to wait for all devices to be ready or else we\u0027ll never ship.",
       "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a825de70_07a48a3f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 27
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-10-04T10:10:10Z",
+      "side": 1,
+      "message": "hudson change isn\u0027t even public, so maintainers had no time to add their devices.",
+      "parentUuid": "7147f80b_0a8c390c",
+      "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
