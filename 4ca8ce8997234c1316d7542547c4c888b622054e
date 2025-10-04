@@ -34,6 +34,24 @@
       "parentUuid": "7147f80b_0a8c390c",
       "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c09796a3_dd55bd5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 27
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-04T10:12:35Z",
+      "side": 1,
+      "message": "Making it public is part of getting this going. :)",
+      "parentUuid": "a825de70_07a48a3f",
+      "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
