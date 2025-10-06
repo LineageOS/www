@@ -113,6 +113,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a538ab9_e61b264b",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-10-06T17:54:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c8805878_5743f8e2",
+      "range": {
+        "startLine": 147,
+        "startChar": 92,
+        "endLine": 148,
+        "endChar": 43
+      },
+      "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6443d112_5779ca7e",
@@ -136,6 +160,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb083e3d_68b3ff5d",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 300,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-10-06T17:54:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6443d112_5779ca7e",
+      "range": {
+        "startLine": 299,
+        "startChar": 85,
+        "endLine": 300,
+        "endChar": 22
+      },
+      "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "48a50f5e_c01a6e52",
@@ -149,6 +197,30 @@
       "writtenOn": "2025-10-04T17:24:40Z",
       "side": 1,
       "message": "remove s",
+      "range": {
+        "startLine": 403,
+        "startChar": 79,
+        "endLine": 403,
+        "endChar": 88
+      },
+      "revId": "4ca8ce8997234c1316d7542547c4c888b622054e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a431ed3_716399a1",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 403,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-10-06T17:54:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "48a50f5e_c01a6e52",
       "range": {
         "startLine": 403,
         "startChar": 79,
