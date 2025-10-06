@@ -22,6 +22,30 @@
       },
       "revId": "d616321240734f411a250af5a4a8546d1ed0e1cb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8790af74_b2ba4874",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 31
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-06T20:17:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2a9e2a6c_6c139200",
+      "range": {
+        "startLine": 53,
+        "startChar": 98,
+        "endLine": 53,
+        "endChar": 109
+      },
+      "revId": "d616321240734f411a250af5a4a8546d1ed0e1cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
