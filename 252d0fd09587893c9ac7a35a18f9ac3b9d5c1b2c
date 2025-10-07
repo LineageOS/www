@@ -52,6 +52,24 @@
       "parentUuid": "7a648c23_f5d3b542",
       "revId": "252d0fd09587893c9ac7a35a18f9ac3b9d5c1b2c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93c06511_b30f13cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 32
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-10-07T15:37:09Z",
+      "side": 1,
+      "message": "btw we need topic:sm8150-bpf-5.4 merged for some of devices on hudson change.",
+      "parentUuid": "33405766_4ea4524f",
+      "revId": "252d0fd09587893c9ac7a35a18f9ac3b9d5c1b2c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
