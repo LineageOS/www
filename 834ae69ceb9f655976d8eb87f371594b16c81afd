@@ -121,6 +121,24 @@
       "message": "need to run the script once a Hudson change it up. Just a note for launch.",
       "revId": "834ae69ceb9f655976d8eb87f371594b16c81afd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d20999f_7868ef23",
+        "filename": "_posts/blog/2025-10-05-Changelog-30.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-10-09T04:24:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "70284a56_9b253d07",
+      "revId": "834ae69ceb9f655976d8eb87f371594b16c81afd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
