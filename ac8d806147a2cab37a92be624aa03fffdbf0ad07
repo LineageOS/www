@@ -16,6 +16,24 @@
       "message": "let\u0027s wait til it\u0027s been commented out for 10 years",
       "revId": "ac8d806147a2cab37a92be624aa03fffdbf0ad07",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bfad7f8f_a0fde936",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34693
+      },
+      "writtenOn": "2025-10-10T22:05:38Z",
+      "side": 1,
+      "message": "Until January 1st",
+      "parentUuid": "303cffb9_ae59cf2e",
+      "revId": "ac8d806147a2cab37a92be624aa03fffdbf0ad07",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
