@@ -29,9 +29,3 @@
   - name: Mastodon
     text: Be sure to follow our Mastodon account to keep up with important news about the project.
     url: https://fosstodon.org/@LineageOS
-
-#- name: Contact
-#  data:
-#  - name: Developer Relations
-#    text: If you wish to contact us regarding development contributions, please do so here.
-#    url: mailto:devrel@lineageos.org
