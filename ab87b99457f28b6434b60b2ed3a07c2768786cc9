@@ -118,6 +118,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "ff871974_f1bea2c0",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-01-27T21:12:57Z",
+      "side": 1,
+      "message": "I\u0027ll try get to the other apps asap, sorry for the delay :(",
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "3e987733_02e1c7c1",
         "filename": "_posts/blog/2026-01-25-Changelog-31.md",
         "patchSetId": 1
