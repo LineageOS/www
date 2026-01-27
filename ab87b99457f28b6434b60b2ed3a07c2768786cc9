@@ -1,0 +1,188 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6da97a30_2b1f2747",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nOver the last few years, AOSP has been shifting to a quarterly release cadence, meaning that new features and bug fixes are released every three months. Google recently announced that AOSP will be shifting to a biannual release cadence, meaning that the latest fixes and features will drop every six months now.\n\nAndroid Security Bulletins will still be released, and picked to all supported LineageOS versions monthly.\n```",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 2
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d9908824_85663b74",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nWhile this change does not significantly alter our development process, it is worth noting, that from now on, LineageOS will be following this cadence, by releasing a new point release starting development every six months.\n```",
+      "range": {
+        "startLine": 19,
+        "startChar": 185,
+        "endLine": 19,
+        "endChar": 190
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ff4e3635_011d4c8c",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nIn addition, you may notice the updated UI of the Quick Settings panel, which now contains fully customizable tile, which in our opinion are much more pleasant to use! In this release, you will also find an expanded dark theme, and more powerful file utilities surrounding private spaces.\n```",
+      "range": {
+        "startLine": 25,
+        "startChar": 65,
+        "endLine": 25,
+        "endChar": 70
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cce8f5c4_24d6184a",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nThis release mainly focuses on the Material Expressive design language, and in the interest of keeping up with these guidelines, we have been working diligently at updating the default apps to Material Expressive.\n```",
+      "range": {
+        "startLine": 29,
+        "startChar": 5,
+        "endLine": 29,
+        "endChar": 7
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "eb83fb11_67f3507d",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "Not sure we should call it out if not merged.",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 232
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3e987733_02e1c7c1",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nIn the previous release changelog, we teased some development tools that were in the midst of being reviewed. These have now been merged, and developers have some new tools in their arsenal:\n```",
+      "range": {
+        "startLine": 41,
+        "startChar": 182,
+        "endLine": 41,
+        "endChar": 190
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "de4fd433_1d1db0b8",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nWe will still allow new LineageOS 21 submissions to be forked to the organization, but we will continue our policy of no longer\n```",
+      "range": {
+        "startLine": 55,
+        "startChar": 14,
+        "endLine": 55,
+        "endChar": 27
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cdebbcd6_c4761a9e",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-27T21:09:31Z",
+      "side": 1,
+      "message": "```suggestion\nmarked as ready for builds by their maintainer.\n```",
+      "range": {
+        "startLine": 61,
+        "startChar": 0,
+        "endLine": 61,
+        "endChar": 4
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
