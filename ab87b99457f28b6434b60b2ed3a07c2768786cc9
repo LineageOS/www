@@ -95,6 +95,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "338fc2ed_88ee5488",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-30T23:29:42Z",
+      "side": 1,
+      "message": "Marked as resolved.",
+      "parentUuid": "2cd1e882_edb82315",
+      "range": {
+        "startLine": 19,
+        "startChar": 185,
+        "endLine": 19,
+        "endChar": 190
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ff4e3635_011d4c8c",
