@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e0855cdf_3ccf2f83",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "6da97a30_2b1f2747",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 2
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d9908824_85663b74",
@@ -37,6 +61,30 @@
       "writtenOn": "2026-01-27T21:09:31Z",
       "side": 1,
       "message": "```suggestion\nWhile this change does not significantly alter our development process, it is worth noting, that from now on, LineageOS will be following this cadence, by releasing a new point release starting development every six months.\n```",
+      "range": {
+        "startLine": 19,
+        "startChar": 185,
+        "endLine": 19,
+        "endChar": 190
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2cd1e882_edb82315",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "I am not sure that this is much better, as we will be repeating development twice. Maybe just leave it as is?",
+      "parentUuid": "d9908824_85663b74",
       "range": {
         "startLine": 19,
         "startChar": 185,
@@ -70,6 +118,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "029e0ce1_e8027e5f",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "ff4e3635_011d4c8c",
+      "range": {
+        "startLine": 25,
+        "startChar": 65,
+        "endLine": 25,
+        "endChar": 70
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cce8f5c4_24d6184a",
@@ -83,6 +155,30 @@
       "writtenOn": "2026-01-27T21:09:31Z",
       "side": 1,
       "message": "```suggestion\nThis release mainly focuses on the Material Expressive design language, and in the interest of keeping up with these guidelines, we have been working diligently at updating the default apps to Material Expressive.\n```",
+      "range": {
+        "startLine": 29,
+        "startChar": 5,
+        "endLine": 29,
+        "endChar": 7
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca0de4f6_775ef58a",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "cce8f5c4_24d6184a",
       "range": {
         "startLine": 29,
         "startChar": 5,
@@ -156,6 +252,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b231e0f_8daa5910",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "3e987733_02e1c7c1",
+      "range": {
+        "startLine": 41,
+        "startChar": 182,
+        "endLine": 41,
+        "endChar": 190
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "de4fd433_1d1db0b8",
@@ -179,6 +299,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "903aeb2c_c8a5ccfd",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "de4fd433_1d1db0b8",
+      "range": {
+        "startLine": 55,
+        "startChar": 14,
+        "endLine": 55,
+        "endChar": 27
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cdebbcd6_c4761a9e",
@@ -192,6 +336,30 @@
       "writtenOn": "2026-01-27T21:09:31Z",
       "side": 1,
       "message": "```suggestion\nmarked as ready for builds by their maintainer.\n```",
+      "range": {
+        "startLine": 61,
+        "startChar": 0,
+        "endLine": 61,
+        "endChar": 4
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4b3cc746_0f2354fb",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-30T18:21:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "cdebbcd6_c4761a9e",
       "range": {
         "startLine": 61,
         "startChar": 0,
