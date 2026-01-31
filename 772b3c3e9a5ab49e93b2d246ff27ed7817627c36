@@ -16,6 +16,24 @@
       "message": "```suggestion\nWhile this change does not significantly alter our development process, it is worth noting that LineageOS will adopt a six-month cadence, with work on each new point release starting every six months.\n```",
       "revId": "772b3c3e9a5ab49e93b2d246ff27ed7817627c36",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee590df1_a2dd1cae",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-01-31T04:21:57Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "d68421ea_3aa001a6",
+      "revId": "772b3c3e9a5ab49e93b2d246ff27ed7817627c36",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
