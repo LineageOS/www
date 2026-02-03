@@ -253,6 +253,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7ca4d918_a5ac18a1",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-02-03T21:18:02Z",
+      "side": 1,
+      "message": "All that\u0027s left is Updater, this one will likely require some more work, especially at the UI/UX level as we\u0027re still iterating over it.\n\nThe current changeset by itself is fine, so we\u0027ll just wait for that part to stabilize before proceeding.\n\nOf course if @pjgowtham@gmail.com is up to it, sorry for the extra work :)\n\nIf at the end of the process we have something ready I\u0027d say we could still merge it for .2, it\u0027ll be a welcome change",
+      "parentUuid": "ff871974_f1bea2c0",
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3e987733_02e1c7c1",
