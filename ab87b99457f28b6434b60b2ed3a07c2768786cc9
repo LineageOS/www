@@ -271,6 +271,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "89c50590_49dbd6d4",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-03T21:21:43Z",
+      "side": 1,
+      "message": "I think we ought to call out that \"a redesign is coming\" then but no need to detail it too hard, still WIP.",
+      "parentUuid": "7ca4d918_a5ac18a1",
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3e987733_02e1c7c1",
