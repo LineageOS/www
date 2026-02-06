@@ -236,6 +236,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb1107da_e1a1b44d",
+        "filename": "_posts/blog/2026-01-25-Changelog-31.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-02-06T16:09:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "eb83fb11_67f3507d",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 232
+      },
+      "revId": "ab87b99457f28b6434b60b2ed3a07c2768786cc9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ff871974_f1bea2c0",
