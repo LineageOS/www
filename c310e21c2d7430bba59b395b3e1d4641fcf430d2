@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fa069d3e_a8f0ec3e",
+        "filename": "_posts/blog/2026-02-08-Changelog-31.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-02-07T21:45:37Z",
+      "side": 1,
+      "message": "deskclock is merged now",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 260
+      },
+      "revId": "c310e21c2d7430bba59b395b3e1d4641fcf430d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
