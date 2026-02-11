@@ -22,6 +22,30 @@
       },
       "revId": "43f18494c502aa5e61c229042137c76f6b0c0546",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4db37fa2_5b32d9ae",
+        "filename": "_posts/blog/2026-02-08-Changelog-31.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-02-11T05:37:47Z",
+      "side": 1,
+      "message": "Heh, sorry, fat fingers. Fixed",
+      "parentUuid": "ace015b0_2b380cbe",
+      "range": {
+        "startLine": 76,
+        "startChar": 92,
+        "endLine": 76,
+        "endChar": 99
+      },
+      "revId": "43f18494c502aa5e61c229042137c76f6b0c0546",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
