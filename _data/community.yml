@@ -20,7 +20,7 @@
     url: https://discord.gg/gD6DMtf
   - name: Bug Tracker
     text: Found an issue? Report it here!
-    url: https://gitlab.com/LineageOS/issues
+    url: https://github.com/LineageOS/issues/issues
 - name: Social Media
   data:
   - name: Reddit
