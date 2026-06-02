@@ -22,11 +22,6 @@ footer-links:
   twitter:
   mastodon: https://fosstodon.org/@LineageOS
 
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://lineageos.org
