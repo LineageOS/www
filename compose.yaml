@@ -1,0 +1,8 @@
+services:
+  www:
+    build: .
+    image: lineageos/www
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/src
