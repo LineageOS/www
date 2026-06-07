@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "af8f1c86_c8a8e132",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-06-07T19:00:45Z",
+      "side": 1,
+      "message": "May mention motion photos for Glimpse",
+      "revId": "35c62b0b789a84f1d12f8cdf14f938aff9c5b5d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
