@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ef62f452_fe2e0b46",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-07T19:12:42Z",
+      "side": 1,
+      "message": "tldr:\n\n23, 22, 21 receive active patches from Google that we pick every month.\n\n20, 19, 18 are all backported by us up to date through 2026-06 patches.\n\n16 is up to 2025-11 (and may see more soon!)\n\nand patches for 14, 15 are WIP, but coming soon!",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 299
+      },
+      "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "396e01ff_f79f8e96",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-07T19:12:42Z",
+      "side": 1,
+      "message": "Download Page now exposes additional information like security patch level - no more \"has the ASB been merged yet\" questions!",
+      "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7b0b3e0a_1cc57579",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-07T19:12:42Z",
+      "side": 1,
+      "message": "fill in screenshots.",
+      "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
