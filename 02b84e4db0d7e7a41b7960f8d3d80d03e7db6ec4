@@ -41,6 +41,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b119734_ba0406d2",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-06-09T03:51:46Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "ef62f452_fe2e0b46",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 299
+      },
+      "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "396e01ff_f79f8e96",
@@ -54,6 +78,24 @@
       "writtenOn": "2026-06-07T19:12:42Z",
       "side": 1,
       "message": "Download Page now exposes additional information like security patch level - no more \"has the ASB been merged yet\" questions!",
+      "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f721e9d5_457bc6ae",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-06-09T03:51:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "396e01ff_f79f8e96",
       "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
