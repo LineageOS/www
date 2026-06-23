@@ -16,6 +16,24 @@
       "message": "Plus convert to July date, once updater ships we can ship this",
       "revId": "f5c666abe207e773927fb45f266579af2abb5acb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0db67367_811d3738",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-06-23T21:48:15Z",
+      "side": 1,
+      "message": "cla change hasn\u0027t yet happened, so might want to strip it out",
+      "parentUuid": "1036b898_68af1c38",
+      "revId": "f5c666abe207e773927fb45f266579af2abb5acb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
