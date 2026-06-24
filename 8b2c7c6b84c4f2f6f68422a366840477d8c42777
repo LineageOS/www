@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1c20d59b_fa91c4f5",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-24T06:23:22Z",
+      "side": 1,
+      "message": "update to 2026-07: waiting on Vaz",
+      "revId": "8b2c7c6b84c4f2f6f68422a366840477d8c42777",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
