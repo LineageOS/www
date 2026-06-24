@@ -16,6 +16,24 @@
       "message": "this comment is there for a reason, i don\u0027t want to keep guessing what hash was used for last post.",
       "revId": "26de83b8b44d8085814094b6358f37abe659ba61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c34e8355_1f049b53",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 13
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-24T15:40:33Z",
+      "side": 1,
+      "message": "noted",
+      "parentUuid": "682f14c9_943a3845",
+      "revId": "26de83b8b44d8085814094b6358f37abe659ba61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
