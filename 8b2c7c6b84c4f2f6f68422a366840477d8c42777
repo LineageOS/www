@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6668ad26_3566496d",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-24T15:29:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e9f46123_0235a77a",
+      "range": {
+        "startLine": 19,
+        "startChar": 250,
+        "endLine": 19,
+        "endChar": 266
+      },
+      "revId": "8b2c7c6b84c4f2f6f68422a366840477d8c42777",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1c20d59b_fa91c4f5",
