@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e9f46123_0235a77a",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-06-24T14:10:16Z",
+      "side": 1,
+      "message": "and Odin?",
+      "range": {
+        "startLine": 19,
+        "startChar": 250,
+        "endLine": 19,
+        "endChar": 266
+      },
+      "revId": "8b2c7c6b84c4f2f6f68422a366840477d8c42777",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "1c20d59b_fa91c4f5",
         "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
         "patchSetId": 11
