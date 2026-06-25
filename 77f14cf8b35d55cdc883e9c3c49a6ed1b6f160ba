@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4af50bbe_1692d8db",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-25T18:56:18Z",
+      "side": 1,
+      "message": "re-ran shipper.py to account for DRG re-dying.\n\nReady for whenever we merge July ASB.",
+      "revId": "77f14cf8b35d55cdc883e9c3c49a6ed1b6f160ba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
