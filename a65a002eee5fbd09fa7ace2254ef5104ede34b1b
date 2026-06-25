@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d95cf6f8_db251549",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-06-25T22:42:56Z",
+      "side": 1,
+      "message": "Are these two paragraphs flipped? The ASB question should come right after the changes to the API right?",
+      "range": {
+        "startLine": 64,
+        "startChar": 0,
+        "endLine": 67,
+        "endChar": 158
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7cbb075d_5d336240",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-06-25T22:42:56Z",
+      "side": 1,
+      "message": "Should we link to the release notes for 17?\n```suggestion\nWe\u0027ll keep this one short - Google has [released Android 17](https://source.android.com/docs/whatsnew/android-17-release) has released to the public. Therefore, LineageOS 24 development is underway. As always, there will be no ETAs provided - but we are progressing nicely!\n```",
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
