@@ -115,6 +115,24 @@
       "message": "fill in screenshots.",
       "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "34b6d33b_b3abcd12",
+        "filename": "_posts/blog/2026-06-7-Infrastructure-Apps-Updates.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-25T18:46:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7b0b3e0a_1cc57579",
+      "revId": "02b84e4db0d7e7a41b7960f8d3d80d03e7db6ec4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
