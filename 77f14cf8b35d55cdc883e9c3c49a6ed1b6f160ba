@@ -16,6 +16,23 @@
       "message": "re-ran shipper.py to account for DRG re-dying.\n\nReady for whenever we merge July ASB.",
       "revId": "77f14cf8b35d55cdc883e9c3c49a6ed1b6f160ba",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "486008a2_6716519c",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-06-25T18:57:23Z",
+      "side": 1,
+      "message": "need to fix that.",
+      "revId": "77f14cf8b35d55cdc883e9c3c49a6ed1b6f160ba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
