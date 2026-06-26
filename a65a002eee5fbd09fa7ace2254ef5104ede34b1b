@@ -41,6 +41,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "568ffbfc_fdbf4a2f",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1c2dbd4c_95659a54",
+      "range": {
+        "startLine": 13,
+        "startChar": 280,
+        "endLine": 13,
+        "endChar": 294
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "402adb9e_779f0df4",
@@ -87,6 +111,54 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "847cdf2f_6a9de551",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "402adb9e_779f0df4",
+      "range": {
+        "startLine": 29,
+        "startChar": 16,
+        "endLine": 29,
+        "endChar": 28
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "045ccf64_91644bb4",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df12ae39_35271620",
+      "range": {
+        "startLine": 29,
+        "startChar": 37,
+        "endLine": 29,
+        "endChar": 42
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7e10e446_b91433f1",
@@ -100,6 +172,30 @@
       "writtenOn": "2026-06-26T03:38:21Z",
       "side": 1,
       "message": "typo bulletin",
+      "range": {
+        "startLine": 43,
+        "startChar": 104,
+        "endLine": 43,
+        "endChar": 113
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f40b9abf_644604cd",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7e10e446_b91433f1",
       "range": {
         "startLine": 43,
         "startChar": 104,
@@ -181,6 +277,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf6b99ae_8e498289",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Done - and yes it was https://review.lineageos.org/c/LineageOS/android_packages_apps_Updater/+/489878",
+      "parentUuid": "4c1d4838_4d35db95",
+      "range": {
+        "startLine": 64,
+        "startChar": 0,
+        "endLine": 67,
+        "endChar": 158
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7cbb075d_5d336240",
@@ -217,6 +337,48 @@
         "endLine": 71,
         "endChar": 71
       },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4e2216ce_e8c23654",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e205b439_9cb457f7",
+      "range": {
+        "startLine": 71,
+        "startChar": 59,
+        "endLine": 71,
+        "endChar": 71
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72da1ebc_e568b019",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-06-26T04:17:27Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "7cbb075d_5d336240",
       "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
