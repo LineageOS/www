@@ -1,6 +1,115 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a873232d_f7138614",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "some typos and stuff.  i can fix tomorrow when i get to my pc, if no one beats me to it.",
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1c2dbd4c_95659a54",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "typo infrastructure",
+      "range": {
+        "startLine": 13,
+        "startChar": 280,
+        "endLine": 13,
+        "endChar": 294
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "402adb9e_779f0df4",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "source of truth? missing \"of\"",
+      "range": {
+        "startLine": 29,
+        "startChar": 16,
+        "endLine": 29,
+        "endChar": 28
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "df12ae39_35271620",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "typo comes",
+      "range": {
+        "startLine": 29,
+        "startChar": 37,
+        "endLine": 29,
+        "endChar": 42
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7e10e446_b91433f1",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "typo bulletin",
+      "range": {
+        "startLine": 43,
+        "startChar": 104,
+        "endLine": 43,
+        "endChar": 113
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d95cf6f8_db251549",
@@ -50,6 +159,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "4c1d4838_4d35db95",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "yeah, should flip them.\nalso, \"We now also now\" has too many nows. need to remove 2nd one.",
+      "parentUuid": "02eafedb_d6f6a905",
+      "range": {
+        "startLine": 64,
+        "startChar": 0,
+        "endLine": 67,
+        "endChar": 158
+      },
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "7cbb075d_5d336240",
         "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
         "patchSetId": 20
@@ -61,6 +194,29 @@
       "writtenOn": "2026-06-25T22:42:56Z",
       "side": 1,
       "message": "Should we link to the release notes for 17?\n```suggestion\nWe\u0027ll keep this one short - Google has [released Android 17](https://source.android.com/docs/whatsnew/android-17-release) has released to the public. Therefore, LineageOS 24 development is underway. As always, there will be no ETAs provided - but we are progressing nicely!\n```",
+      "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e205b439_9cb457f7",
+        "filename": "_posts/blog/2026-07-07-Infrastructure-Apps-Updates.md",
+        "patchSetId": 20
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-06-26T03:38:21Z",
+      "side": 1,
+      "message": "duplicate \"has released\" needs removed.",
+      "range": {
+        "startLine": 71,
+        "startChar": 59,
+        "endLine": 71,
+        "endChar": 71
+      },
       "revId": "a65a002eee5fbd09fa7ace2254ef5104ede34b1b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
