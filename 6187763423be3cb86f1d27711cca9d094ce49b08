@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f267d093_fc92cfa1",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-07-02T12:38:40Z",
+      "side": 1,
+      "message": "I think we can drop this section title and simply merge it with \"what is dev verification\", because it\u0027s not clear if the \"you\" in this scenario includes us or the user at all as Chirayu mentioned",
+      "parentUuid": "7411a6cd_c5838941",
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "7e0081c0_002696d6",
         "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
         "patchSetId": 2
@@ -53,6 +71,29 @@
         "startChar": 34,
         "endLine": 25,
         "endChar": 53
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "07db8308_e3651d2e",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-07-02T12:38:40Z",
+      "side": 1,
+      "message": "\"What are we going to do and how will it affect you\" and maybe rework a bit the first phrase to match",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 37
       },
       "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
@@ -99,6 +140,75 @@
         "startChar": 371,
         "endLine": 30,
         "endChar": 386
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "121d8435_3d5941b4",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-07-02T12:38:40Z",
+      "side": 1,
+      "message": "does it even make sense to mention that? I\u0027d simply say it has to be configured at the OS level, and we won\u0027t do that.",
+      "range": {
+        "startLine": 30,
+        "startChar": 201,
+        "endLine": 30,
+        "endChar": 368
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4ad61955_55c77f42",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-07-02T12:38:40Z",
+      "side": 1,
+      "message": "space",
+      "range": {
+        "startLine": 32,
+        "startChar": 242,
+        "endLine": 32,
+        "endChar": 264
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "38b29b0c_ab8057aa",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-07-02T12:38:40Z",
+      "side": 1,
+      "message": "This should go before the \"What if merged into GMS\" as it gives more context to the user I think",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 29
       },
       "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
