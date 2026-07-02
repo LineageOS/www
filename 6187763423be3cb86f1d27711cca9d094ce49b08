@@ -1,0 +1,124 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "140c254d_0d5d6f42",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-07-02T07:53:45Z",
+      "side": 1,
+      "message": "Great first draft, left some comments about making it a bit easier to glance for a LineageOS audience.",
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7411a6cd_c5838941",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-07-02T07:53:45Z",
+      "side": 1,
+      "message": "For a LineageOS audience, do we want to more clearly mention that this won\u0027t affect us.",
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7e0081c0_002696d6",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-07-02T07:53:45Z",
+      "side": 1,
+      "message": "Nit: Could linkify this first mention",
+      "range": {
+        "startLine": 25,
+        "startChar": 34,
+        "endLine": 25,
+        "endChar": 53
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "75d1d62b_5e9c83d6",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-07-02T07:53:45Z",
+      "side": 1,
+      "message": "This could also use some more clarity, I feel.\n\nFrom a user perspective, gapps install might confuse them too - will this affect them? It is mentioned in another paragraph, but that\u0027s almost at the bottom",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 40
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "be7e3de0_aa2ab34f",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-07-02T07:53:45Z",
+      "side": 1,
+      "message": "Do we want to stick with just the plain terms here - that the OS needs particular settings for this, which we won\u0027t set.",
+      "range": {
+        "startLine": 30,
+        "startChar": 371,
+        "endLine": 30,
+        "endChar": 386
+      },
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2a8067c5_dff5776d",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2026-07-02T07:53:45Z",
+      "side": 1,
+      "message": "Should this be higher up?",
+      "revId": "6187763423be3cb86f1d27711cca9d094ce49b08",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
