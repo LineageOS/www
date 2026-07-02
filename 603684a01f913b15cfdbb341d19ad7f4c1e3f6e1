@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "36486bc4_76c5e9a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-02T17:37:01Z",
+      "side": 1,
+      "message": "Holding for comments, but ideally we get this out soon, people keep asking about it.\n\nCan we aim for the 5th?",
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
