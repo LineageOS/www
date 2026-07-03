@@ -41,6 +41,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "09398196_13222e7b",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a7cc89e5_a4c39800",
+      "range": {
+        "startLine": 13,
+        "startChar": 289,
+        "endLine": 13,
+        "endChar": 302
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "421fb20c_d2df1962",
@@ -64,6 +88,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc162716_a881cfa7",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "421fb20c_d2df1962",
+      "range": {
+        "startLine": 13,
+        "startChar": 411,
+        "endLine": 14,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b613a7ce_5e813f7c",
@@ -77,6 +125,24 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "affect",
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a887ef9_95a85e3e",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b613a7ce_5e813f7c",
       "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -127,6 +193,54 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ffbb1636_5ed67104",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "8d799202_b107b8f0",
+      "range": {
+        "startLine": 18,
+        "startChar": 29,
+        "endLine": 18,
+        "endChar": 38
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a901ad74_c92f17d6",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "69b59927_f0c8bd55",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 120
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ca921d78_c4851fd9",
@@ -140,6 +254,30 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "```suggestion\nWe don\u0027t actually know. What we have is Google\u0027s stated reasoning, and even if you\u0027re skeptical of the outcome, it\u0027s worth taking at face value.\n```",
+      "range": {
+        "startLine": 21,
+        "startChar": 24,
+        "endLine": 21,
+        "endChar": 143
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7785d5da_e8aaeda6",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "ca921d78_c4851fd9",
       "range": {
         "startLine": 21,
         "startChar": 24,
@@ -173,6 +311,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d40eb5af_25002881",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "56efc059_bef68e8e",
+      "range": {
+        "startLine": 23,
+        "startChar": 522,
+        "endLine": 23,
+        "endChar": 523
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "54486553_2abe0eac",
@@ -186,6 +348,30 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "Might not be necessary, but seems to flow better to me.\n```suggestion\nThat\u0027s the claim. Whether or not it\u0027s the whole story is a separate question.\n\n```",
+      "range": {
+        "startLine": 25,
+        "startChar": 18,
+        "endLine": 26,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8c99e8c9_3a363660",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "54486553_2abe0eac",
       "range": {
         "startLine": 25,
         "startChar": 18,
@@ -219,6 +405,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "180c8673_82ed7087",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "8dd84d85_cb60caa9",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 306
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "561199e9_00c7a240",
@@ -232,6 +442,30 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "I am not precisely sure what this is referring to?",
+      "range": {
+        "startLine": 29,
+        "startChar": 58,
+        "endLine": 29,
+        "endChar": 114
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a10a450_0888914d",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "561199e9_00c7a240",
       "range": {
         "startLine": 29,
         "startChar": 58,
@@ -265,6 +499,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f4c44992_39e99af8",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "74733a06_a0e50fa9",
+      "range": {
+        "startLine": 32,
+        "startChar": 309,
+        "endLine": 32,
+        "endChar": 310
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "c21c11d9_9028d628",
@@ -278,6 +536,30 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "Run-on sentence",
+      "range": {
+        "startLine": 34,
+        "startChar": 53,
+        "endLine": 35,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04229784_27ad4ace",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c21c11d9_9028d628",
       "range": {
         "startLine": 34,
         "startChar": 53,
@@ -334,6 +616,54 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "76f203ec_d92d533b",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f79b473b_943b9523",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 281
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61d7fb00_f44cccad",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "b91f16a5_fc35880e",
+      "range": {
+        "startLine": 36,
+        "startChar": 35,
+        "endLine": 36,
+        "endChar": 49
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ced0d97b_a12982a2",
@@ -347,6 +677,30 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "```suggestion\nIf you sideload [GApps packages](https://wiki.lineageos.org/glossary/#gapps), be aware that a GApps package could choose to bundle \"AndroidDeveloperVerification\" and enable it. We\u0027re not aware of any reason an aftermarket GApps package would opt into that, since doing so would restrict what its own users can sideload. If your GApps provider ever does, you can simply switch to a different package.\n```",
+      "range": {
+        "startLine": 39,
+        "startChar": 16,
+        "endLine": 39,
+        "endChar": 30
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cfee4fb1_62370035",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "ced0d97b_a12982a2",
       "range": {
         "startLine": 39,
         "startChar": 16,
@@ -380,6 +734,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a722dc1_ba6097e8",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "bbec949f_bb730835",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d44d1602_68b09dd4",
@@ -393,6 +771,30 @@
       "writtenOn": "2026-07-03T16:57:10Z",
       "side": 1,
       "message": "```suggestion\nWe have signed the [\"Keep Android Open\"](https://keepandroidopen.org) petition alongside a number of other FOSS foundations and organizations with the hope of supporting independent developers.\n```",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 172
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3eed8e42_3e7ff2d2",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-07-03T17:49:22Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "d44d1602_68b09dd4",
       "range": {
         "startLine": 45,
         "startChar": 0,
