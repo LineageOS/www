@@ -16,6 +16,391 @@
       "message": "Holding for comments, but ideally we get this out soon, people keep asking about it.\n\nCan we aim for the 5th?",
       "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a7cc89e5_a4c39800",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "device—that",
+      "range": {
+        "startLine": 13,
+        "startChar": 289,
+        "endLine": 13,
+        "endChar": 302
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "421fb20c_d2df1962",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\n[Android Developer Verification](https://developer.android.com/developer-verification) is Google\u0027s requirement, rolling out regionally starting September 2026 (global by 2027), that apps be registered to an identity-verified developer before they can be installed on a \"certified\" Android device — that is, any device shipping Google Play, Play Services, and the rest of the Google Mobile Services (GMS) suite. This applies regardless of the installation source; whether it is the Play Store, third-party stores, or direct APK sideload.\n\n```",
+      "range": {
+        "startLine": 13,
+        "startChar": 411,
+        "endLine": 14,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b613a7ce_5e813f7c",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "affect",
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8d799202_b107b8f0",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nOn certified devices, on the [stock ROM](https://wiki.lineageos.org/glossary/#stock-rom), package installation will be gated by the package \"AndroidDeveloperVerification\" with  a check against the developer\u0027s registered/verified signing identity. Google is providing an [\"advanced flow\"](https://android-developers.googleblog.com/2026/03/android-developer-verification.html) opt in for power users to install unverified-developer apps after acknowledging risk and waiting a full day. This is a one-time toggle to disable verification, not something you have to redo every time you wish to install a package.\n```",
+      "range": {
+        "startLine": 18,
+        "startChar": 29,
+        "endLine": 18,
+        "endChar": 38
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "69b59927_f0c8bd55",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nWhen the stock ROM is installed on a certified device, package installation will be gated by the package \"AndroidDeveloperVerification\", which will check against the developer\u0027s registered/verified signing identity. Google is providing an [\"advanced flow\"](https://android-developers.googleblog.com/2026/03/android-developer-verification.html) opt in for power users to install unverified-developer apps after acknowledging risk and waiting a full day. This is a one-time toggle to disable verification, not something you have to redo every time you wish to install a package.\n```",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 120
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ca921d78_c4851fd9",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nWe don\u0027t actually know. What we have is Google\u0027s stated reasoning, and even if you\u0027re skeptical of the outcome, it\u0027s worth taking at face value.\n```",
+      "range": {
+        "startLine": 21,
+        "startChar": 24,
+        "endLine": 21,
+        "endChar": 143
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "56efc059_bef68e8e",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "This comma can be removed.",
+      "range": {
+        "startLine": 23,
+        "startChar": 522,
+        "endLine": 23,
+        "endChar": 523
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "54486553_2abe0eac",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "Might not be necessary, but seems to flow better to me.\n```suggestion\nThat\u0027s the claim. Whether or not it\u0027s the whole story is a separate question.\n\n```",
+      "range": {
+        "startLine": 25,
+        "startChar": 18,
+        "endLine": 26,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8dd84d85_cb60caa9",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nCritics such as F-Droid, EFF, and [\"Keep Android Open\"](https://keepandroidopen.org) point out that this also happens to route every install path through Google-controlled infrastructure, hands Google a kill switch over any app or developer worldwide, and arrives shortly after Google\u0027s antitrust lawsuits.\n```",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 306
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "561199e9_00c7a240",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "I am not precisely sure what this is referring to?",
+      "range": {
+        "startLine": 29,
+        "startChar": 58,
+        "endLine": 29,
+        "endChar": 114
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "74733a06_a0e50fa9",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "Unbalanced parentheses.",
+      "range": {
+        "startLine": 32,
+        "startChar": 309,
+        "endLine": 32,
+        "endChar": 310
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c21c11d9_9028d628",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "Run-on sentence",
+      "range": {
+        "startLine": 34,
+        "startChar": 53,
+        "endLine": 35,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f79b473b_943b9523",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "These too paragraphs could potentially be switched, so we can show that the difference between play integrity, and developer verification. Then we can show how we will not do anything about it.",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 281
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b91f16a5_fc35880e",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nThis is a different situation from [Play Integrity](https://wiki.lineageos.org/quirks/snet/): Play Integrity\u0027s attestation logic lives inside Play Services itself, and apps call into it directly for attestation. Developer Verification, by contrast, is its own standalone app that the frameworks are pointed at as a provider.\n```",
+      "range": {
+        "startLine": 36,
+        "startChar": 35,
+        "endLine": 36,
+        "endChar": 49
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ced0d97b_a12982a2",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nIf you sideload [GApps packages](https://wiki.lineageos.org/glossary/#gapps), be aware that a GApps package could choose to bundle \"AndroidDeveloperVerification\" and enable it. We\u0027re not aware of any reason an aftermarket GApps package would opt into that, since doing so would restrict what its own users can sideload. If your GApps provider ever does, you can simply switch to a different package.\n```",
+      "range": {
+        "startLine": 39,
+        "startChar": 16,
+        "endLine": 39,
+        "endChar": 30
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bbec949f_bb730835",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nThey absolutely could. If that happens, we\u0027ll do what we already do for a number of annoying Play Services-provided [over-the-air update implementations](https://github.com/LineageOS/android_vendor_lineage/blob/lineage-23.2/prebuilt/common/etc/lineage-component-overrides.xml): disable it globally.\n\n```",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 1
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d44d1602_68b09dd4",
+        "filename": "_posts/blog/2026-07-05-Developer-Verification.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-03T16:57:10Z",
+      "side": 1,
+      "message": "```suggestion\nWe have signed the [\"Keep Android Open\"](https://keepandroidopen.org) petition alongside a number of other FOSS foundations and organizations with the hope of supporting independent developers.\n```",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 172
+      },
+      "revId": "603684a01f913b15cfdbb341d19ad7f4c1e3f6e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
