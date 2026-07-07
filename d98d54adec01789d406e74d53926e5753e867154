@@ -16,6 +16,23 @@
       "message": "2x infra typos lol",
       "revId": "d98d54adec01789d406e74d53926e5753e867154",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7c9e629b_0acae971",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 22
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-07-07T23:57:02Z",
+      "side": 1,
+      "message": "Is this to be merged today?",
+      "revId": "d98d54adec01789d406e74d53926e5753e867154",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
