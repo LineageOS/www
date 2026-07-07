@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a0e33a7_bdde2406",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2026-07-07T03:00:49Z",
+      "side": 1,
+      "message": "favicon.svg looks messed up on webkit",
+      "revId": "4387ca804c40bdbbc5c5f399ea23ce590d59572f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
