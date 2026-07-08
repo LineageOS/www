@@ -60,7 +60,7 @@ It hasn't just been background updates to the OS, default apps have received sev
 
 ![Updater App Redesign]({{site.baseurl}}/images/2026-07-07/updater-screenshots.png){: .blog_post_image_full }
 
-Last blog post we teased massive changes to our Updater app, and thanks to the amazing work of pjgowtham we are pleased to unveil it. These changes have implemented Material 3 Expressive, modernized many aspects of the underlying codebase, improved the user experience, and made the app more reliable and efficient. In addition to the above changes, we have made changes to the updater API to expose more information about each individual update, mainly which [ASBs](https://wiki.lineageos.org/glossary/#asb-android-security-bulletin) are included.
+Last blog post we teased massive changes to our Updater app, and thanks to the amazing work of developer pjgowtham and designer Vazguard, we are pleased to unveil it. These changes have implemented Material 3 Expressive, modernized many aspects of the underlying codebase, improved the user experience, and made the app more reliable and efficient. In addition to the above changes, we have made changes to the updater API to expose more information about each individual update, mainly which [ASBs](https://wiki.lineageos.org/glossary/#asb-android-security-bulletin) are included.
 
 This hopefully means no more "Is the ASB merged yet this month?" questions, as the Updater app will show you the SPL of each new update before you install it!
 
