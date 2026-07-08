@@ -60,7 +60,7 @@ It hasn't just been background updates to the OS, default apps have received sev
 
 ![Updater App Redesign]({{site.baseurl}}/images/2026-07-07/updater-screenshots.png){: .blog_post_image_full }
 
-Last blog post we teased massive changes to our Updater app, and thanks to the amazing work of pjgowtham we are pleased to unveil it. These changes have implemented Material 3 Expressive, modernized many aspects of the underlying codebase, improved the user experience, and made the app more reliable and efficient. In addition to the above changes, we have made changes to the updater API to expose more information about each individual update, mainly which [ASBs](https://wiki.lineageos.org/glossary/#asb-android-security-bulletin) are included.
+Last blog post we teased massive changes to our Updater app, and thanks to the amazing work of developer pjgowtham and designer Vazguard, we are pleased to unveil it. These changes have implemented Material 3 Expressive, modernized many aspects of the underlying codebase, improved the user experience, and made the app more reliable and efficient. In addition to the above changes, we have made changes to the updater API to expose more information about each individual update, mainly which [ASBs](https://wiki.lineageos.org/glossary/#asb-android-security-bulletin) are included.
 
 This hopefully means no more "Is the ASB merged yet this month?" questions, as the Updater app will show you the SPL of each new update before you install it!
 
@@ -76,7 +76,7 @@ Thanks to the work of a team of contributors, we are pleased to announce that we
 
 ### Build roster
 
-<!-- 59b69d57409edabed411f598e868dd35f91fa819..95381973ef79b40003db26715b667505c01d4309 -->
+<!-- 59b69d57409edabed411f598e868dd35f91fa819..b6fd1be401bd638f7883ff667dc31efcfd37290a -->
 
 #### Added 23.2 devices
 
@@ -93,13 +93,14 @@ Thanks to the work of a team of contributors, we are pleased to announce that we
 | Motorola one vision / Motorola p50 | [kane](https://wiki.lineageos.org/devices/kane) | Stricted, npjohnson, DaemonMCR | 22.2 |
 | OSOM OV1 | [pyrite](https://wiki.lineageos.org/devices/pyrite) | mikeioannina, npjohnson |  |
 | Realme GT Neo6 | [bale](https://wiki.lineageos.org/devices/bale) | MisterZtr |  |
+| Retroid Pocket 6 | [RP6](https://wiki.lineageos.org/devices/RP6) | AnierinBliss |  |
 | SHIFTphone 8 | [otter](https://wiki.lineageos.org/devices/otter) | amartinz, mikeioannina |  |
 | Samsung Galaxy A52 4G | [a52q](https://wiki.lineageos.org/devices/a52q) | Simon1511 | 22.2 |
 | Samsung Galaxy A52s 5G | [a52sxq](https://wiki.lineageos.org/devices/a52sxq) | Simon1511 | 22.2 |
 | Samsung Galaxy A72 | [a72q](https://wiki.lineageos.org/devices/a72q) | Simon1511 | 22.2 |
 | Samsung Galaxy A73 5G | [a73xq](https://wiki.lineageos.org/devices/a73xq) | Simon1511 | 22.2 |
 | Samsung Galaxy M52 5G | [m52xq](https://wiki.lineageos.org/devices/m52xq) | Simon1511 | 22.2 |
-| Samsung Galaxy S23 | [dm1q](https://wiki.lineageos.org/devices/dm1q) | DaemonMCR, josip-k |  |
+| Samsung Galaxy S23 | [dm1q](https://wiki.lineageos.org/devices/dm1q) | DaemonMCR, josip-k, krazey |  |
 | Samsung Galaxy Tab S6 Lite 2024 (Wi-Fi) | [gta4xlswifi](https://wiki.lineageos.org/devices/gta4xlswifi) | Linux4 |  |
 | Sony Xperia 1 VI | [pdx245](https://wiki.lineageos.org/devices/pdx245) | BotchedRPR |  |
 | Sony Xperia 10 VII | [pdx257](https://wiki.lineageos.org/devices/pdx257) | LuK1337, jmpfbmx |  |
@@ -126,6 +127,7 @@ Thanks to the work of a team of contributors, we are pleased to announce that we
 {: .table }
 | Device name | Wiki | Maintainers | Moved from |
 |-------------|------|-------------|------------|
+| Freebox Pop / TV | [nicepool](https://wiki.lineageos.org/devices/nicepool) | chrmhoffmann, npjohnson |  |
 | LG G5 (International) | [h850](https://wiki.lineageos.org/devices/h850) | npjohnson, Simex, basamaryan, Androbots, AShiningRay, ROMSG, Geel | 21 |
 | LG G5 (T-Mobile) | [h830](https://wiki.lineageos.org/devices/h830) | npjohnson, Simex, basamaryan, Androbots, AShiningRay, ROMSG, Geel | 21 |
 | LG G5 (US Unlocked) | [rs988](https://wiki.lineageos.org/devices/rs988) | npjohnson, Simex, basamaryan, Androbots, AShiningRay, ROMSG, Geel | 21 |
