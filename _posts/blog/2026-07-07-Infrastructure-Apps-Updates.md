@@ -18,7 +18,7 @@ One of the biggest updates so far was the rewriting of our [stats page](https://
 
 ### Web Flashing Support
 
-We are pleased to offer a set of web flash-tools, something that had been requested for many years. Now by accessing the [flasher through our download portal](https://download.lineageos.org/flash), you will be able to use your browser to flash using fastboot, adb, and Samsung's Odin protocol. Please remember though that this is not a complete flashing process, you still _must_ follow our [wiki instructions](https://wiki.lineageos.org/devices/) for your specific device.
+We are pleased to offer a set of web flash-tools, something that had been requested for many years. Now by accessing the [flasher through our download portal](https://download.lineageos.org/flash), you will be able to use your browser to flash using fastboot, adb, Samsung's Odin protocol, and Amlogic's burn mode. Please remember though that this is not a complete flashing process, you still _must_ follow our [wiki instructions](https://wiki.lineageos.org/devices/) for your specific device.
 
 These efforts are only possible due to kdrag0n's amazing work on [fastboot.js](https://github.com/kdrag0n/fastboot.js/), yume-chan's brilliant work on [ya-webadb](https://github.com/yume-chan/ya-webadb), and r3pwn's timeless work on [libmjolnir](https://github.com/r3pwn/libmjolnir) - go thank them!
 
