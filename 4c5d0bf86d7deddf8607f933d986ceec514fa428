@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "288a52f7_04c8a664",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-09-20T18:06:05Z",
+      "side": 1,
+      "message": "Could mention\nTwelve: improved load times with big media library, most played albums/genres in activity, fixed audio tracks getting stuck with offload enabled, improved jellyfin support. \nJelly: support PWA like apps via shortcut mechanism",
+      "revId": "4c5d0bf86d7deddf8607f933d986ceec514fa428",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
