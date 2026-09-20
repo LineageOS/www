@@ -58,6 +58,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "12a45332_8cf83927",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-20T17:41:14Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "d2a46312_27bfac6d",
+      "range": {
+        "startLine": 48,
+        "startChar": 10,
+        "endLine": 49,
+        "endChar": 15
+      },
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "79b02fef_d1af76bb",
@@ -71,6 +95,30 @@
       "writtenOn": "2026-09-20T17:38:16Z",
       "side": 1,
       "message": "```suggestion\n  already available on the LineageOS GitHub organization! Check the search term [\"mainline\"](https://github.com/search?q\u003dorg%3ALineageOS+mainline\u0026type\u003drepositories) on the\n  organization\u0027s search bar.\n\n```",
+      "range": {
+        "startLine": 50,
+        "startChar": 58,
+        "endLine": 52,
+        "endChar": 0
+      },
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "056e4860_6b23c4b0",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-20T17:41:14Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "79b02fef_d1af76bb",
       "range": {
         "startLine": 50,
         "startChar": 58,
@@ -144,6 +192,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "72c0b97b_8bbea467",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-20T17:41:14Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "f2e82e2a_bd0785ee",
+      "range": {
+        "startLine": 189,
+        "startChar": 83,
+        "endLine": 190,
+        "endChar": 9
+      },
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "43657c9b_726cb5d5",
@@ -157,6 +229,30 @@
       "writtenOn": "2026-09-20T17:38:16Z",
       "side": 1,
       "message": "```suggestion\nFor instance, LineageOS is the first custom Android distribution that has complete support\n```",
+      "range": {
+        "startLine": 239,
+        "startChar": 45,
+        "endLine": 239,
+        "endChar": 51
+      },
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "519e75ca_0cd5fdfb",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 239,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-20T17:41:14Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "43657c9b_726cb5d5",
       "range": {
         "startLine": 239,
         "startChar": 45,
