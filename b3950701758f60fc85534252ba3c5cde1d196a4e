@@ -83,6 +83,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "3ef995a8_fce38200",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-20T17:39:29Z",
+      "side": 1,
+      "message": "we\u0027ll potentially have 8850 soon",
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ca9d7a44_53c6de1b",
         "filename": "_posts/blog/2026-10-11-Changelog-32.md",
         "patchSetId": 2
