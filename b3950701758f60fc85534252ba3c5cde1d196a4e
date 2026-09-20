@@ -169,6 +169,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "91552cf8_fafd5d5f",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-20T17:41:29Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "ca9d7a44_53c6de1b",
+      "range": {
+        "startLine": 104,
+        "startChar": 0,
+        "endLine": 106,
+        "endChar": 51
+      },
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f2e82e2a_bd0785ee",
