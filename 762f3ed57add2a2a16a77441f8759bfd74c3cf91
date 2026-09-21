@@ -118,6 +118,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "41b7257d_7f88c554",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 168,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T16:17:45Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0aea633b_3c8e354e",
+      "range": {
+        "startLine": 166,
+        "startChar": 0,
+        "endLine": 168,
+        "endChar": 30
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0a9b2b51_699c82f2",
@@ -131,6 +155,30 @@
       "writtenOn": "2026-09-21T12:50:21Z",
       "side": 1,
       "message": "\"Migrated away\" instead?",
+      "range": {
+        "startLine": 208,
+        "startChar": 19,
+        "endLine": 208,
+        "endChar": 27
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "48b8f70a_f60d9059",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T16:17:45Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0a9b2b51_699c82f2",
       "range": {
         "startLine": 208,
         "startChar": 19,
