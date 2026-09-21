@@ -35,6 +35,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "53423332_e0c0ed6b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T04:57:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "42d994dc_5159531b",
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d2a46312_27bfac6d",
@@ -142,6 +160,24 @@
       "writtenOn": "2026-09-20T17:39:29Z",
       "side": 1,
       "message": "we\u0027ll potentially have 8850 soon",
+      "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eaf5bf79_06cea84d",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T04:57:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3ef995a8_fce38200",
       "revId": "b3950701758f60fc85534252ba3c5cde1d196a4e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },

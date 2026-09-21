@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c69d127_6d9cd5a9",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T04:57:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "034ad568_6863e6ff",
+      "revId": "2a2405378cd11f13f446d0d24884c8c8acb2e73f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "316fbe3b_73074906",
@@ -31,6 +49,24 @@
       "writtenOn": "2026-09-11T17:13:05Z",
       "side": 1,
       "message": "todo",
+      "revId": "2a2405378cd11f13f446d0d24884c8c8acb2e73f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "843e4e75_76c8ff3c",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T04:57:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "316fbe3b_73074906",
       "revId": "2a2405378cd11f13f446d0d24884c8c8acb2e73f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -52,6 +88,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca8cdea9_a94b5210",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T04:57:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ffec9514_7dfe9959",
+      "revId": "2a2405378cd11f13f446d0d24884c8c8acb2e73f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2fd9a0ab_acd59160",
@@ -65,6 +119,24 @@
       "writtenOn": "2026-09-11T17:13:05Z",
       "side": 1,
       "message": "todo",
+      "revId": "2a2405378cd11f13f446d0d24884c8c8acb2e73f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01ac5450_d474e315",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T04:57:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2fd9a0ab_acd59160",
       "revId": "2a2405378cd11f13f446d0d24884c8c8acb2e73f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
