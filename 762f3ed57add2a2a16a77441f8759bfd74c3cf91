@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6960e4f_7b30c78b",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T16:16:15Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "61ffacee_c9075263",
+      "range": {
+        "startLine": 152,
+        "startChar": 1,
+        "endLine": 153,
+        "endChar": 55
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "68b1b854_184d599d",
@@ -37,6 +61,30 @@
       "writtenOn": "2026-09-21T12:50:21Z",
       "side": 1,
       "message": "```suggestion\nCountless developers have been working hard on SoC-specific common kernels to base on that can be\n```",
+      "range": {
+        "startLine": 166,
+        "startChar": 0,
+        "endLine": 166,
+        "endChar": 37
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b74db7f_5e572a1b",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T16:16:15Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "68b1b854_184d599d",
       "range": {
         "startLine": 166,
         "startChar": 0,
@@ -106,6 +154,30 @@
       "writtenOn": "2026-09-21T12:50:21Z",
       "side": 1,
       "message": "```suggestion\nyou\u0027ve contributed a few things, email us at devrel(at)lineageos.org detailing your work, and we\u0027ll\n```",
+      "range": {
+        "startLine": 241,
+        "startChar": 33,
+        "endLine": 241,
+        "endChar": 49
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8556d1c3_b5e5e26a",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 241,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T16:16:15Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "916693c2_af4f2b3d",
       "range": {
         "startLine": 241,
         "startChar": 33,
