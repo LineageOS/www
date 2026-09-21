@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9bd61d50_3061aef1",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 10
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T05:16:53Z",
+      "side": 1,
+      "message": "waiting on Vaz",
+      "revId": "24524a296b605234f1ecd4783d901db8856d278c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
