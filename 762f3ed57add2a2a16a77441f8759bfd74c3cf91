@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "61ffacee_c9075263",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-21T12:50:21Z",
+      "side": 1,
+      "message": "```suggestion\nTo upgrade, please follow the upgrade guide for your device by navigating to it [here](https://wiki.lineageos.org/devices/)\nand then by clicking on \"Upgrade to a higher version of LineageOS\".\n```",
+      "range": {
+        "startLine": 152,
+        "startChar": 1,
+        "endLine": 153,
+        "endChar": 55
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "68b1b854_184d599d",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-21T12:50:21Z",
+      "side": 1,
+      "message": "```suggestion\nCountless developers have been working hard on SoC-specific common kernels to base on that can be\n```",
+      "range": {
+        "startLine": 166,
+        "startChar": 0,
+        "endLine": 166,
+        "endChar": 37
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0aea633b_3c8e354e",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 168,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-21T12:50:21Z",
+      "side": 1,
+      "message": "This is a bit confusing. I am not sure what it is trying to say? Maybe that we know have SoC common kernels that device specific kernels can be based off of?",
+      "range": {
+        "startLine": 166,
+        "startChar": 0,
+        "endLine": 168,
+        "endChar": 30
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0a9b2b51_699c82f2",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-21T12:50:21Z",
+      "side": 1,
+      "message": "\"Migrated away\" instead?",
+      "range": {
+        "startLine": 208,
+        "startChar": 19,
+        "endLine": 208,
+        "endChar": 27
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "916693c2_af4f2b3d",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 11
+      },
+      "lineNbr": 241,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-21T12:50:21Z",
+      "side": 1,
+      "message": "```suggestion\nyou\u0027ve contributed a few things, email us at devrel(at)lineageos.org detailing your work, and we\u0027ll\n```",
+      "range": {
+        "startLine": 241,
+        "startChar": 33,
+        "endLine": 241,
+        "endChar": 49
+      },
+      "revId": "762f3ed57add2a2a16a77441f8759bfd74c3cf91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
