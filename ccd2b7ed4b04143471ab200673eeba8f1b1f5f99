@@ -22,6 +22,30 @@
       },
       "revId": "ccd2b7ed4b04143471ab200673eeba8f1b1f5f99",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc4ce7a3_022deb9b",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 14
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-21T18:38:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0079b226_efac5ba8",
+      "range": {
+        "startLine": 35,
+        "startChar": 31,
+        "endLine": 35,
+        "endChar": 48
+      },
+      "revId": "ccd2b7ed4b04143471ab200673eeba8f1b1f5f99",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
