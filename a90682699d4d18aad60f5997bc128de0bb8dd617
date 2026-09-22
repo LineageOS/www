@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa92d5ba_0d70adc2",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-22T18:51:40Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "fa35774d_9999661d",
+      "range": {
+        "startLine": 48,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 28
+      },
+      "revId": "a90682699d4d18aad60f5997bc128de0bb8dd617",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "46a0c57b_65140c99",
@@ -37,6 +61,30 @@
       "writtenOn": "2026-09-22T18:39:17Z",
       "side": 1,
       "message": "Add: \"The quality of these targets has been improved over the time.\"",
+      "range": {
+        "startLine": 281,
+        "startChar": 0,
+        "endLine": 283,
+        "endChar": 52
+      },
+      "revId": "a90682699d4d18aad60f5997bc128de0bb8dd617",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "56630b12_242dea90",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 283,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-22T18:51:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "46a0c57b_65140c99",
       "range": {
         "startLine": 281,
         "startChar": 0,
