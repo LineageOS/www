@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5b5cb83c_53a1846d",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 18
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2026-09-22T18:59:49Z",
+      "side": 1,
+      "message": "```suggestion\n    few Qualcomm Snapdragon X Series laptops, and a Jide Remix Mini PC (2GB RAM).\n```",
+      "revId": "877aa5b463fde42f48030a74413d5dcfda548878",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "59ca0ad9_3bc949e3",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 18
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2026-09-22T18:59:49Z",
+      "side": 1,
+      "message": "```suggestion\n[the Wiki](https://wiki.lineageos.org/libvirt-qemu).\nThe quality of these targets has been improved over the time.\n```",
+      "revId": "877aa5b463fde42f48030a74413d5dcfda548878",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
