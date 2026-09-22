@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fa35774d_9999661d",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2026-09-22T18:39:17Z",
+      "side": 1,
+      "message": "```suggestion\n* Contributor 0xCAFEBABE has continued to enhance support for devices booting Android on the mainline-style\n  Linux kernel! Multiple of feature rich HALs were implemented for this usecase, with focus on flexibility and being\n  generic. This means, we\u0027re bridging the gap between mainline-style Linux kernel and Android, thus getting more\n  hardware features to function. At the meantime, Some previously used important HIDL HALs were reimplemented\n  in AIDL interface, allowing the devices to follow latest Android API levels, alongside with more compatibility fixes.\n* We\u0027ve got more devices booting Android on the mainline-style Linux kernel!\n  * Currently supported Qualcomm SoC families: `msm8916` `msm8937` `msm8953` `msm8956` `msm8998`\n    `sdm670` `sm7150` `sm8550` `sm8750`. There\u0027s also some additions that are currently in review process.\n  * `mainline/generic` device tree: Generic device tree for various ARM64 and x86_64 devices with mainline-style\n    kernel source available. In most cases, building the device tree with compatible kernel source and firmwares\n    would work. Principle is similar to Android-x86 in the past, however we have lack of installer yet.\n    As of now, it has successfully booted on many x86_64 PCs, an Apple Silicon Mac, a NVIDIA DGX Spark,\n    few Snapdragon X Series laptops, and a Jide Remix Mini PC (2GB RAM).\n  * `snowcastle` device tree: Device tree for Apple mobile devices which are supported in HoolockLinux and\n    its derivations. Currently, only the devices with internal storage support in kernel are supported.\n```",
+      "range": {
+        "startLine": 48,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 28
+      },
+      "revId": "a90682699d4d18aad60f5997bc128de0bb8dd617",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "46a0c57b_65140c99",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 17
+      },
+      "lineNbr": 283,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2026-09-22T18:39:17Z",
+      "side": 1,
+      "message": "Add: \"The quality of these targets has been improved over the time.\"",
+      "range": {
+        "startLine": 281,
+        "startChar": 0,
+        "endLine": 283,
+        "endChar": 52
+      },
+      "revId": "a90682699d4d18aad60f5997bc128de0bb8dd617",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
