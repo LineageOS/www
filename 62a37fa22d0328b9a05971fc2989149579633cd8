@@ -16,6 +16,24 @@
       "message": "```\nOne more thing... The other generic targets mentioned above requires some sort of software stack to run.\nRecently, we have introduced a pretty different\n(generic target)[https://github.com/LineageOS/android_device_mainline_generic/tree/lineage-24.0/docs],\nwhich allows to run on various bare metal hardware.\nWhile it\u0027s still in experimental state, it has successfully booted on these devices:\n- Apple Silicon Macs\n- Common x86_64 PCs\n- NVIDIA DGX Spark\n- Qualcomm Snapdragon X Series Laptops\n- Some ARM64 boxes that were discontinued by its vendor\n```",
       "revId": "62a37fa22d0328b9a05971fc2989149579633cd8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e5fdef2_eacdef55",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 27
+      },
+      "lineNbr": 270,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T05:40:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "86258271_c499a680",
+      "revId": "62a37fa22d0328b9a05971fc2989149579633cd8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
