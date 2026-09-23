@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c8c8cb7e_f77b658a",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "We could potentially remove this.",
+      "range": {
+        "startLine": 53,
+        "startChar": 2,
+        "endLine": 53,
+        "endChar": 31
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b016aada_ebcabe10",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "These two can be combined.\n```suggestion\n  * Various UI updates, mainly the animations and icons were revamped.\n```",
+      "range": {
+        "startLine": 54,
+        "startChar": 4,
+        "endLine": 55,
+        "endChar": 48
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "45ac412f_c2a7c3a9",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "```suggestion\n  * Improved load times with a large media library\n```",
+      "range": {
+        "startLine": 59,
+        "startChar": 4,
+        "endLine": 59,
+        "endChar": 46
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c5daa9f0_e4d042eb",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "Not really sure what this is referring to, maybe it could be expanded?",
+      "range": {
+        "startLine": 60,
+        "startChar": 4,
+        "endLine": 60,
+        "endChar": 41
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f70082a2_2c91c3f8",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "MD3 and animation/branding changes can be combined.",
+      "range": {
+        "startLine": 64,
+        "startChar": 4,
+        "endLine": 67,
+        "endChar": 38
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "288aeca2_5d83b9bc",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "```suggestion\n  * Complete Material Design 3 Expressive implementation along with new fluid animations and beautiful assets\n  * Onboarding flow rearchitected\n```",
+      "range": {
+        "startLine": 72,
+        "startChar": 4,
+        "endLine": 74,
+        "endChar": 41
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ca19bfbc_6b241379",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T02:01:12Z",
+      "side": 1,
+      "message": "A bit more detail could be used here.",
+      "range": {
+        "startLine": 75,
+        "startChar": 4,
+        "endLine": 75,
+        "endChar": 25
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
