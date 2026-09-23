@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7a5925d3_8d11fb34",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c8c8cb7e_f77b658a",
+      "range": {
+        "startLine": 53,
+        "startChar": 2,
+        "endLine": 53,
+        "endChar": 31
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b016aada_ebcabe10",
@@ -37,6 +61,30 @@
       "writtenOn": "2026-09-23T02:01:12Z",
       "side": 1,
       "message": "These two can be combined.\n```suggestion\n  * Various UI updates, mainly the animations and icons were revamped.\n```",
+      "range": {
+        "startLine": 54,
+        "startChar": 4,
+        "endLine": 55,
+        "endChar": 48
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e53ee1da_9f751057",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "b016aada_ebcabe10",
       "range": {
         "startLine": 54,
         "startChar": 4,
@@ -70,6 +118,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7d03a0ac_abe6094c",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "45ac412f_c2a7c3a9",
+      "range": {
+        "startLine": 59,
+        "startChar": 4,
+        "endLine": 59,
+        "endChar": 46
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "c5daa9f0_e4d042eb",
@@ -83,6 +155,30 @@
       "writtenOn": "2026-09-23T02:01:12Z",
       "side": 1,
       "message": "Not really sure what this is referring to, maybe it could be expanded?",
+      "range": {
+        "startLine": 60,
+        "startChar": 4,
+        "endLine": 60,
+        "endChar": 41
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bd931f64_2042dbf3",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c5daa9f0_e4d042eb",
       "range": {
         "startLine": 60,
         "startChar": 4,
@@ -116,6 +212,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "642daf13_f19f8b05",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f70082a2_2c91c3f8",
+      "range": {
+        "startLine": 64,
+        "startChar": 4,
+        "endLine": 67,
+        "endChar": 38
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "288aeca2_5d83b9bc",
@@ -139,6 +259,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "67171231_d2858ae4",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "288aeca2_5d83b9bc",
+      "range": {
+        "startLine": 72,
+        "startChar": 4,
+        "endLine": 74,
+        "endChar": 41
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ca19bfbc_6b241379",
@@ -152,6 +296,30 @@
       "writtenOn": "2026-09-23T02:01:12Z",
       "side": 1,
       "message": "A bit more detail could be used here.",
+      "range": {
+        "startLine": 75,
+        "startChar": 4,
+        "endLine": 75,
+        "endChar": 25
+      },
+      "revId": "0e856c3ba3e4152e0ef51abf58a7411211bd9923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "087fefc9_f2467064",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 24
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-09-23T02:06:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ca19bfbc_6b241379",
       "range": {
         "startLine": 75,
         "startChar": 4,
