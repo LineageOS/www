@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "26e188b2_72c6c57c",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "```suggestion\n* Mainly thanks to Contributor ms21969, security patches through November 2025 have been merged for the legacy branches\n```",
+      "range": {
+        "startLine": 37,
+        "startChar": 86,
+        "endLine": 37,
+        "endChar": 96
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0698be5d_aba5e82a",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "```suggestion\n  patches. The December 2025 bulletins pulled in some rather difficult to backport patches, which we were\n```",
+      "range": {
+        "startLine": 39,
+        "startChar": 39,
+        "endLine": 39,
+        "endChar": 43
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "db079abd_7b5c776d",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "```suggestion\n  Linux kernel! Multiple feature rich [HALs](https://source.android.com/docs/core/architecture/hal) were implemented for this usecase, with focus on flexibility and remaining\n```",
+      "range": {
+        "startLine": 49,
+        "startChar": 38,
+        "endLine": 49,
+        "endChar": 42
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bda30045_7757837c",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "```suggestion\n  expecations as well as slowly adding wider hardware support.\n```",
+      "range": {
+        "startLine": 51,
+        "startChar": 2,
+        "endLine": 51,
+        "endChar": 55
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7f2c830a_ea363657",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "Should we link to relevant repos here?",
+      "range": {
+        "startLine": 53,
+        "startChar": 6,
+        "endLine": 54,
+        "endChar": 48
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d5da0290_84ffccbe",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "Is this planned to be added? If so it should be \u0027we currently lack\u0027.",
+      "range": {
+        "startLine": 56,
+        "startChar": 75,
+        "endLine": 56,
+        "endChar": 82
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ac8d6213_7ec00716",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 19
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 35350
+      },
+      "writtenOn": "2026-09-23T01:28:51Z",
+      "side": 1,
+      "message": "```suggestion\n    other core repos. This CI runs things like:\n```",
+      "range": {
+        "startLine": 61,
+        "startChar": 4,
+        "endLine": 61,
+        "endChar": 47
+      },
+      "revId": "9abe760b2484eae31fb71ee1c10acf2e78ddd8b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
