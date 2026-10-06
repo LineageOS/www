@@ -38,6 +38,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "d869720c_ca2a32c3",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 36
+      },
+      "lineNbr": 321,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-10-06T15:21:42Z",
+      "side": 1,
+      "message": "I did? Summertime updates? I\u0027ll regen when we get closer, I guess",
+      "parentUuid": "42dc0fca_811e6177",
+      "revId": "415790d43eeb75f7354ca82bd950099abbdbb5c3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "04e34fe3_6566cca2",
         "filename": "_posts/blog/2026-10-11-Changelog-32.md",
         "patchSetId": 36
