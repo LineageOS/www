@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "42dc0fca_811e6177",
+        "filename": "_posts/blog/2026-10-11-Changelog-32.md",
+        "patchSetId": 36
+      },
+      "lineNbr": 321,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-10-06T11:38:36Z",
+      "side": 1,
+      "message": "the hash was wrong btw, idk why you didn\u0027t use one from the previous post.",
+      "parentUuid": "5fcd01b2_ba784d42",
+      "revId": "415790d43eeb75f7354ca82bd950099abbdbb5c3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "04e34fe3_6566cca2",
         "filename": "_posts/blog/2026-10-11-Changelog-32.md",
         "patchSetId": 36
