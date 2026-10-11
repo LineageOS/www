@@ -1,13 +1,8 @@
 source "https://rubygems.org"
 
 
-gem "jekyll", "3.9.3"
+gem "jekyll", "~> 4.4"
 
+gem "jekyll-redirect-from", "~> 0.17.0"
 
-group :jekyll_plugins do
-   gem 'github-pages', '~> 228'
-end
-
-gem "webrick", "~> 1.8"
-
-gem "csv", "~> 3.3"
+gem "jekyll-sitemap", "~> 1.4"

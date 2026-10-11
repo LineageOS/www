@@ -52,7 +52,7 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed # You might prefer to minify using :compressed
-  sourcemap: true
+  sourcemap: always
 # Use the following plug-ins
 plugins:
   - jekyll-redirect-from
