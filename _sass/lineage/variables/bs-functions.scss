@@ -1,10 +1,13 @@
 @charset "UTF-8";
+@use "sass:math";
+
 // Bootstrap functions
 //
 // Utility mixins and functions for evalutating source code across our variables, maps, and mixins.
 
 // Ascending
 // Used to evaluate Sass maps like our grid breakpoints.
+
 @mixin _assert-ascending($map, $map-name) {
   $prev-key: null;
   $prev-num: null;
@@ -55,7 +58,7 @@
   $g: green($color);
   $b: blue($color);
 
-  $yiq: (($r * 299) + ($g * 587) + ($b * 114)) / 1000;
+  $yiq: math.div(($r * 299) + ($g * 587) + ($b * 114), 1000);
 
   @if ($yiq >= $yiq-contrasted-threshold) {
     @return $yiq-text-dark;

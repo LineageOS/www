@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@use "sass:math";
+
 // Framework grid generation
 //
 // Used only by Bootstrap to generate the correct number of grid classes given
@@ -10,8 +12,8 @@
     position: relative;
     width: 100%;
     min-height: 1px; // Prevent columns from collapsing when empty
-    padding-right: ($gutter / 2);
-    padding-left: ($gutter / 2);
+    padding-right: math.div($gutter, 2);
+    padding-left: math.div($gutter, 2);
   }
 
   @each $breakpoint in map-keys($breakpoints) {
