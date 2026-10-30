@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@use "sass:color";
+@use "sass:map";
 @use "sass:math";
 
 // Variables
@@ -26,7 +28,7 @@ $gray-900: #212529 !default;
 $black:    #000 !default;
 
 $grays: () !default;
-$grays: map-merge((
+$grays: map.merge((
   "100": $gray-100,
   "200": $gray-200,
   "300": $gray-300,
@@ -50,7 +52,7 @@ $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
 $colors: () !default;
-$colors: map-merge((
+$colors: map.merge((
   "blue":       $blue,
   "indigo":     $indigo,
   "purple":     $purple,
@@ -76,7 +78,7 @@ $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
 
 $theme-colors: () !default;
-$theme-colors: map-merge((
+$theme-colors: map.merge((
   "primary":    $primary,
   "secondary":  $secondary,
   "success":    $success,
@@ -121,7 +123,7 @@ $enable-print-styles:       true !default;
 // stylelint-disable
 $spacer: 1rem !default;
 $spacers: () !default;
-$spacers: map-merge((
+$spacers: map.merge((
   0: 0,
   1: ($spacer * .25),
   2: ($spacer * .5),
@@ -132,7 +134,7 @@ $spacers: map-merge((
 
 // This variable affects the `.h-*` and `.w-*` classes.
 $sizes: () !default;
-$sizes: map-merge((
+$sizes: map.merge((
   25: 25%,
   50: 50%,
   75: 75%,
@@ -153,7 +155,7 @@ $body-color:                $gray-900 !default;
 
 $link-color:                theme-color("primary") !default;
 $link-decoration:           none !default;
-$link-hover-color:          darken($link-color, 15%) !default;
+$link-hover-color:          color.adjust($link-color, $lightness: -15%) !default;
 $link-hover-decoration:     underline !default;
 
 // Paragraphs
@@ -383,7 +385,7 @@ $input-border-radius-lg:                $border-radius-lg !default;
 $input-border-radius-sm:                $border-radius-sm !default;
 
 $input-focus-bg:                        $input-bg !default;
-$input-focus-border-color:              lighten($component-active-bg, 25%) !default;
+$input-focus-border-color:              color.adjust($component-active-bg, $lightness: 25%) !default;
 $input-focus-color:                     $input-color !default;
 $input-focus-width:                     $input-btn-focus-width !default;
 $input-focus-box-shadow:                $input-btn-focus-box-shadow !default;
@@ -439,7 +441,7 @@ $table-head-color:            $gray-700 !default;
 $table-dark-bg:               $gray-900 !default;
 $table-dark-accent-bg:        rgba($white, .05) !default;
 $table-dark-hover-bg:         rgba($white, .075) !default;
-$table-dark-border-color:     lighten($gray-900, 7.5%) !default;
+$table-dark-border-color:     color.adjust($gray-900, $lightness: 7.5%) !default;
 $table-dark-color:            $body-bg !default;
 
 // Z-index master list
@@ -535,4 +537,4 @@ $pre-scrollable-max-height:         340px !default;
 
 // Printing
 $print-page-size:                   a3 !default;
-$print-body-min-width:              map-get($grid-breakpoints, "lg") !default;
+$print-body-min-width:              map.get($grid-breakpoints, "lg") !default;

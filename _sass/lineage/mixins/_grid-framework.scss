@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@use "sass:map";
 @use "sass:math";
 
 // Framework grid generation
@@ -16,7 +17,7 @@
     padding-left: math.div($gutter, 2);
   }
 
-  @each $breakpoint in map-keys($breakpoints) {
+  @each $breakpoint in map.keys($breakpoints) {
     $infix: breakpoint-infix($breakpoint, $breakpoints);
 
     // Allow columns to stretch full width below their breakpoints

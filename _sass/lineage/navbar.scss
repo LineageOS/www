@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@use "sass:map";
+
 .navbar {
   display: flex;
   flex-wrap: wrap;
@@ -148,7 +150,7 @@
 }
 
 .navbar-expand {
-  @each $breakpoint in map-keys($grid-breakpoints) {
+  @each $breakpoint in map.keys($grid-breakpoints) {
     $next: breakpoint-next($breakpoint, $grid-breakpoints);
     $infix: breakpoint-infix($next, $grid-breakpoints);
 

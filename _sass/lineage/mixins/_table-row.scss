@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@use "sass:color";
+@use "sass:math";
 
 // Tables
 
@@ -16,7 +18,7 @@
   // Hover states for `.table-hover`
   // Note: this is not available for cells or rows within `thead` or `tfoot`.
   .table-hover {
-    $hover-background: darken($background, 5%);
+    $hover-background: color.change($background, $lightness: math.max(color.channel($background, "lightness", $space: hsl) - 5%, 0%));
 
     .table-#{$state} {
       @include hover {
