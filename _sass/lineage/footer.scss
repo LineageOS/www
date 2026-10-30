@@ -1,4 +1,8 @@
 @charset "UTF-8";
+@use "mixins/breakpoints";
+@use "variables/brand";
+@use "variables/colors";
+
 .footer {
   background-color: #eee;
   padding: 1rem 0;
@@ -17,7 +21,7 @@
 
       &:hover {
         opacity: 0.5;
-        color: $brand-primary !important;
+        color: brand.$brand-primary !important;
       }
 
       svg {
@@ -30,20 +34,20 @@
   }
 
   .footer-logo svg {
-    fill: $grey-600;
+    fill: colors.$grey-600;
     margin: 8px 0 4px;
     height: 32px;
   }
 
   .footer-text {
-    color: $grey-700;
+    color: colors.$grey-700;
     margin-bottom: .875rem;
     font-size: .875rem;
   }
 
 }
 
-@include media-breakpoint-down(sm) {
+@include breakpoints.media-breakpoint-down(sm) {
   .footer,
   .footer .footer-icons {
     text-align: center;

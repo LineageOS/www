@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@use "mixins/breakpoints";
+
 section.tools,
 section.security,
 section.longevity,
@@ -64,7 +66,7 @@ img#rotate-on-scroll {
   }
 }
 
-@include media-breakpoint-down(md) {
+@include breakpoints.media-breakpoint-down(md) {
 
   img#rotate-on-scroll {
     position: relative;

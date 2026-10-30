@@ -1,0 +1,47 @@
+@charset "UTF-8";
+@use "sass:color";
+@use "sass:map";
+@use "sass:math";
+
+@use "bs-variables";
+
+// Bootstrap color functions
+//
+// Functions that read from the color variables and maps.
+
+// Color contrast
+@function color-yiq($color) {
+  $r: color.red($color);
+  $g: color.green($color);
+  $b: color.blue($color);
+
+  $yiq: math.div(($r * 299) + ($g * 587) + ($b * 114), 1000);
+
+  @if ($yiq >= bs-variables.$yiq-contrasted-threshold) {
+    @return bs-variables.$yiq-text-dark;
+  } @else {
+    @return bs-variables.$yiq-text-light;
+  }
+}
+
+// Retrieve color Sass maps
+@function color($key: "blue") {
+  @return map.get(bs-variables.$colors, $key);
+}
+
+@function theme-color($key: "primary") {
+  @return map.get(bs-variables.$theme-colors, $key);
+}
+
+@function gray($key: "100") {
+  @return map.get(bs-variables.$grays, $key);
+}
+
+// Request a theme color level
+@function theme-color-level($color-name: "primary", $level: 0) {
+  $color: theme-color($color-name);
+  $color-base: if(sass($level > 0): #000; else: #fff);
+  $level: math.abs($level);
+
+  @return color.mix($color-base, $color, $level * bs-variables.$theme-color-interval);
+}

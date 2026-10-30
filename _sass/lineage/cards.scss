@@ -1,4 +1,9 @@
 @charset "UTF-8";
+@use "variables/brand";
+@use "variables/bs-variables";
+@use "variables/colors";
+@use "variables/type";
+
 
 .card {
   border: 0;
@@ -13,18 +18,18 @@
 
   .card-title {
     font-size: 2.125rem;
-    font-weight: $font-weight-default;
-    font-family: $font-family-sans-serif;
+    font-weight: type.$font-weight-default;
+    font-family: bs-variables.$font-family-sans-serif;
     margin-top: 0 !important;
     margin-bottom: 4px !important;
 
     a {
       transition: all 0.3s ease-out;
-      color: $black-color;
+      color: colors.$black-color;
       text-decoration: none;
 
       &:hover {
-        color: $brand-primary !important;
+        color: brand.$brand-primary !important;
       }
 
     }

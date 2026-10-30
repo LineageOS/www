@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
-@import "variables/colors";
-@import "variables/brand";
-@import "variables/type";
+@use "variables/colors";
+@use "variables/brand";
+@use "variables/type";
 
 // Core Bootstrap Variables
-@import "variables/bs-functions";
-@import "variables/bs-variables";
+@use "variables/bs-functions";
+@use "variables/bs-variables";
+@use "variables/bs-color-functions";

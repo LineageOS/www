@@ -2,12 +2,16 @@
 @use "sass:map";
 @use "sass:math";
 
+@use "../variables/bs-variables";
+@use "breakpoints";
+@use "grid";
+
 // Framework grid generation
 //
 // Used only by Bootstrap to generate the correct number of grid classes given
 // any value of `$grid-columns`.
 
-@mixin make-grid-columns($columns: $grid-columns, $gutter: $grid-gutter-width, $breakpoints: $grid-breakpoints) {
+@mixin make-grid-columns($columns: bs-variables.$grid-columns, $gutter: bs-variables.$grid-gutter-width, $breakpoints: bs-variables.$grid-breakpoints) {
   // Common properties for all breakpoints
   %grid-column {
     position: relative;
@@ -18,7 +22,7 @@
   }
 
   @each $breakpoint in map.keys($breakpoints) {
-    $infix: breakpoint-infix($breakpoint, $breakpoints);
+    $infix: breakpoints.breakpoint-infix($breakpoint, $breakpoints);
 
     // Allow columns to stretch full width below their breakpoints
     @for $i from 1 through $columns {
@@ -31,7 +35,7 @@
       @extend %grid-column;
     }
 
-    @include media-breakpoint-up($breakpoint, $breakpoints) {
+    @include breakpoints.media-breakpoint-up($breakpoint, $breakpoints) {
       // Provide basic `.col-{bp}` classes for equal-width flexbox columns
       .col#{$infix} {
         flex-basis: 0;
@@ -46,7 +50,7 @@
 
       @for $i from 1 through $columns {
         .col#{$infix}-#{$i} {
-          @include make-col($i, $columns);
+          @include grid.make-col($i, $columns);
         }
       }
 
@@ -62,7 +66,7 @@
       @for $i from 0 through ($columns - 1) {
         @if not ($infix == "" and $i == 0) { // Avoid emitting useless .offset-0
           .offset#{$infix}-#{$i} {
-            @include make-col-offset($i, $columns);
+            @include grid.make-col-offset($i, $columns);
           }
         }
       }

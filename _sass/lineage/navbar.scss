@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @use "sass:map";
 
+@use "mixins/breakpoints";
+@use "variables/brand";
+@use "variables/bs-variables";
+
 .navbar {
   display: flex;
   flex-wrap: wrap;
@@ -50,7 +54,7 @@
 
   svg {
     height: 20px;
-    fill: $brand-primary;
+    fill: brand.$brand-primary;
   }
 
 }
@@ -150,12 +154,12 @@
 }
 
 .navbar-expand {
-  @each $breakpoint in map.keys($grid-breakpoints) {
-    $next: breakpoint-next($breakpoint, $grid-breakpoints);
-    $infix: breakpoint-infix($next, $grid-breakpoints);
+  @each $breakpoint in map.keys(bs-variables.$grid-breakpoints) {
+    $next: breakpoints.breakpoint-next($breakpoint, bs-variables.$grid-breakpoints);
+    $infix: breakpoints.breakpoint-infix($next, bs-variables.$grid-breakpoints);
 
     &#{$infix} {
-      @include media-breakpoint-down($breakpoint) {
+      @include breakpoints.media-breakpoint-down($breakpoint) {
         > .container,
         > .container-fluid {
           padding-right: 0;
@@ -163,7 +167,7 @@
         }
       }
 
-      @include media-breakpoint-up($next) {
+      @include breakpoints.media-breakpoint-up($next) {
         flex-flow: row nowrap;
         justify-content: flex-start;
 
@@ -189,7 +193,7 @@
   }
 }
 
-@include media-breakpoint-down(md) {
+@include breakpoints.media-breakpoint-down(md) {
   .nav-open .navbar-collapse {
     box-shadow: 0 1px 8px rgba(0,0,0,.3);
   }

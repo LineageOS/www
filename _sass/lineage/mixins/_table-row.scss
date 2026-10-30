@@ -2,6 +2,8 @@
 @use "sass:color";
 @use "sass:math";
 
+@use "hover";
+
 // Tables
 
 @mixin table-row-variant($state, $background) {
@@ -21,7 +23,7 @@
     $hover-background: color.change($background, $lightness: math.max(color.channel($background, "lightness", $space: hsl) - 5%, 0%));
 
     .table-#{$state} {
-      @include hover {
+      @include hover.hover {
         background-color: $hover-background;
 
         > td,

@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
-@import "mixins/breakpoints";
-@import "mixins/grid-framework";
-@import "mixins/grid";
-@import "mixins/animations";
-@import "mixins/hover";
-@import "mixins/table-row";
+@use "mixins/breakpoints";
+@use "mixins/grid-framework";
+@use "mixins/grid";
+@use "mixins/animations";
+@use "mixins/hover";
+@use "mixins/table-row";

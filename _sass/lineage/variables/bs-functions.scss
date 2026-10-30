@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@use "sass:color";
 @use "sass:list";
 @use "sass:map";
 @use "sass:math";
@@ -12,7 +11,7 @@
 // Ascending
 // Used to evaluate Sass maps like our grid breakpoints.
 
-@mixin _assert-ascending($map, $map-name) {
+@mixin assert-ascending($map, $map-name) {
   $prev-key: null;
   $prev-num: null;
   @each $key, $num in $map {
@@ -30,7 +29,7 @@
 
 // Starts at zero
 // Another grid mixin that ensures the min-width of the lowest breakpoint starts at 0.
-@mixin _assert-starts-at-zero($map) {
+@mixin assert-starts-at-zero($map) {
   $values: map.values($map);
   $first-value: list.nth($values, 1);
   @if $first-value != 0 {
@@ -54,41 +53,4 @@
   }
 
   @return $string;
-}
-
-// Color contrast
-@function color-yiq($color) {
-  $r: color.red($color);
-  $g: color.green($color);
-  $b: color.blue($color);
-
-  $yiq: math.div(($r * 299) + ($g * 587) + ($b * 114), 1000);
-
-  @if ($yiq >= $yiq-contrasted-threshold) {
-    @return $yiq-text-dark;
-  } @else {
-    @return $yiq-text-light;
-  }
-}
-
-// Retrieve color Sass maps
-@function color($key: "blue") {
-  @return map.get($colors, $key);
-}
-
-@function theme-color($key: "primary") {
-  @return map.get($theme-colors, $key);
-}
-
-@function gray($key: "100") {
-  @return map.get($grays, $key);
-}
-
-// Request a theme color level
-@function theme-color-level($color-name: "primary", $level: 0) {
-  $color: theme-color($color-name);
-  $color-base: if(sass($level > 0): #000; else: #fff);
-  $level: math.abs($level);
-
-  @return color.mix($color-base, $color, $level * $theme-color-interval);
 }

@@ -1,23 +1,26 @@
 @charset "UTF-8";
 @use "sass:math";
 
+@use "../variables/bs-variables";
+@use "breakpoints";
+
 /// Grid system
 //
 // Generate semantic grid columns with these mixins.
 
 @mixin make-container() {
   width: 100%;
-  padding-right: math.div($grid-gutter-width, 2);
-  padding-left: math.div($grid-gutter-width, 2);
+  padding-right: math.div(bs-variables.$grid-gutter-width, 2);
+  padding-left: math.div(bs-variables.$grid-gutter-width, 2);
   margin-right: auto;
   margin-left: auto;
 }
 
 
 // For each breakpoint, define the maximum width of the container in a media query
-@mixin make-container-max-widths($max-widths: $container-max-widths, $breakpoints: $grid-breakpoints) {
+@mixin make-container-max-widths($max-widths: bs-variables.$container-max-widths, $breakpoints: bs-variables.$grid-breakpoints) {
   @each $breakpoint, $container-max-width in $max-widths {
-    @include media-breakpoint-up($breakpoint, $breakpoints) {
+    @include breakpoints.media-breakpoint-up($breakpoint, $breakpoints) {
       max-width: $container-max-width;
     }
   }
@@ -26,8 +29,8 @@
 @mixin make-row() {
   display: flex;
   flex-wrap: wrap;
-  margin-right: math.div($grid-gutter-width, -2);
-  margin-left: math.div($grid-gutter-width, -2);
+  margin-right: math.div(bs-variables.$grid-gutter-width, -2);
+  margin-left: math.div(bs-variables.$grid-gutter-width, -2);
 }
 
 @mixin make-col-ready() {
@@ -37,11 +40,11 @@
   // later on to override this initial width.
   width: 100%;
   min-height: 1px; // Prevent collapsing
-  padding-right: math.div($grid-gutter-width, 2);
-  padding-left: math.div($grid-gutter-width, 2);
+  padding-right: math.div(bs-variables.$grid-gutter-width, 2);
+  padding-left: math.div(bs-variables.$grid-gutter-width, 2);
 }
 
-@mixin make-col($size, $columns: $grid-columns) {
+@mixin make-col($size, $columns: bs-variables.$grid-columns) {
   flex: 0 0 math.percentage(math.div($size, $columns));
   // Add a `max-width` to ensure content within each column does not blow out
   // the width of the column. Applies to IE10+ and Firefox. Chrome and Safari
@@ -49,7 +52,7 @@
   max-width: math.percentage(math.div($size, $columns));
 }
 
-@mixin make-col-offset($size, $columns: $grid-columns) {
+@mixin make-col-offset($size, $columns: bs-variables.$grid-columns) {
   $num: math.div($size, $columns);
   margin-left: if(sass($num == 0): 0; else: math.percentage($num));
 }

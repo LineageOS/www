@@ -1,3 +1,8 @@
+@use "mixins/animations";
+@use "variables/brand";
+@use "variables/bs-variables";
+@use "variables/colors";
+
 @media all and (max-width: 991px) {
     [class*="navbar-expand-"] > .container,
     [class*="navbar-expand-"] > .container-fluid{
@@ -24,8 +29,8 @@
 
         max-height: none !important;
 
-        @include transform-translate-x(230px);
-        @include transitions (0.50s, cubic-bezier(0.685, 0.0473, 0.346, 1));
+        @include animations.transform-translate-x(230px);
+        @include animations.transitions (0.50s, cubic-bezier(0.685, 0.0473, 0.346, 1));
 
         &::after{
             top: 0;
@@ -33,7 +38,7 @@
             height: 100%;
             width: 100%;
             position: absolute;
-            background-color: $white;
+            background-color: bs-variables.$white;
             display: block;
             content: "";
             z-index: 1;
@@ -45,7 +50,7 @@
 
             .nav-item{
                 .nav-link{
-                   color: $black-color;
+                   color: colors.$black-color;
                    margin: 5px 15px;
                 }
 
@@ -71,13 +76,13 @@
         }
 
         .nav-open &{
-            @include transform-translate-x(0px);
+            @include animations.transform-translate-x(0px);
         }
     }
 
     .nav-open{
         .navbar-translate{
-            @include transform-translate-x(-230px);
+            @include animations.transform-translate-x(-230px);
         }
     }
 
@@ -90,14 +95,14 @@
             justify-content: space-between !important;
             -ms-flex-align: center;
             align-items: center;
-            @include transitions-property (transform, 0.50s, cubic-bezier(0.685, 0.0473, 0.346, 1));
+            @include animations.transitions-property (transform, 0.50s, cubic-bezier(0.685, 0.0473, 0.346, 1));
         }
     }
 
     .navbar.bg-white{
         .navbar-toggler{
             .navbar-toggler-icon{
-                background-color: $brand-primary;
+                background-color: brand.$brand-primary;
             }
         }
     }
@@ -129,36 +134,36 @@
 
 @media screen and (max-width: 991px) {
 
-    @include topbar-x-rotation();
-    @include topbar-back-rotation();
-    @include bottombar-x-rotation();
-    @include bottombar-back-rotation();
+    @include animations.topbar-x-rotation();
+    @include animations.topbar-back-rotation();
+    @include animations.bottombar-x-rotation();
+    @include animations.bottombar-back-rotation();
 
   .navbar {
     .navbar-toggler{
       .navbar-toggler-icon:nth-child(2){
         top: 0px;
-        @include bar-animation(topbar-back);
+        @include animations.bar-animation(topbar-back);
       }
       .navbar-toggler-icon:nth-child(3){
         opacity: 1;
       }
       .navbar-toggler-icon:nth-child(4){
         bottom: 0px;
-        @include bar-animation(bottombar-back);
+        @include animations.bar-animation(bottombar-back);
       }
 
       &.toggled{
         .navbar-toggler-icon:nth-child(2){
           top: 6px;
-          @include bar-animation(topbar-x);
+          @include animations.bar-animation(topbar-x);
         }
         .navbar-toggler-icon:nth-child(3){
           opacity: 0;
         }
         .navbar-toggler-icon:nth-child(4){
           bottom: 6px;
-          @include bar-animation(bottombar-x);
+          @include animations.bar-animation(bottombar-x);
         }
       }
     }

@@ -1,17 +1,20 @@
 @charset "UTF-8";
+@use "variables/bs-variables";
+@use "variables/colors";
+
 
 // Inline and block code styles
 code,
 kbd,
 pre,
 samp {
-  font-family: $font-family-monospace;
+  font-family: bs-variables.$font-family-monospace;
 }
 
 // Inline code
 code {
-  font-size: $code-font-size;
-  color: $code-color;
+  font-size: bs-variables.$code-font-size;
+  color: bs-variables.$code-color;
   word-break: break-word;
   white-space: pre-wrap;
 
@@ -24,9 +27,9 @@ code {
 // Blocks of code
 pre {
   display: block;
-  font-size: $code-font-size;
-  color: $pre-color;
-  background-color: $grey-100;
+  font-size: bs-variables.$code-font-size;
+  color: bs-variables.$pre-color;
+  background-color: colors.$grey-100;
   overflow-x: auto;
 
   // Account for some code outputs that place code tags in pre tags

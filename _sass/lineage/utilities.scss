@@ -1,4 +1,7 @@
 @charset "UTF-8";
+@use "mixins/breakpoints";
+@use "variables/brand";
+
 
 .fixed-top {
   position: fixed;
@@ -12,14 +15,14 @@
   text-align: center;
 }
 
-@include media-breakpoint-up(lg) {
+@include breakpoints.media-breakpoint-up(lg) {
   .text-lg-left {
     text-align: left;
   }
 }
 
 .bg-primary {
-  background-color: $brand-primary !important;
+  background-color: brand.$brand-primary !important;
   color: white;
 }
 

@@ -1,6 +1,8 @@
 @charset "UTF-8";
+@use "variables/brand";
+
 .jumbotron {
-  background-color: $brand-primary;
+  background-color: brand.$brand-primary;
   color: white;
   padding: 2.125rem 0 !important;
   margin-bottom: 2rem;
