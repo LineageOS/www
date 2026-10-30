@@ -87,7 +87,7 @@
 // Request a theme color level
 @function theme-color-level($color-name: "primary", $level: 0) {
   $color: theme-color($color-name);
-  $color-base: if($level > 0, #000, #fff);
+  $color-base: if(sass($level > 0): #000; else: #fff);
   $level: math.abs($level);
 
   @return color.mix($color-base, $color, $level * $theme-color-interval);
